@@ -34,6 +34,21 @@ No single competing tool covers all three channels. Square covers POS only. Shop
 
 Together, Freedom + Wayroo is the only end-to-end platform in direct selling that connects corporate back office to the field rep's mobile experience in one integrated system.
 
+**Wayroo Dropship (in development, 2026):**
+Dropship gives reps the ability to sell DSO catalog items they don't personally stock — and get paid immediately, through their own merchant account, rather than waiting up to a month for a replicated site commission check.
+
+Current state without Dropship: if a rep doesn't have an item in their personal inventory, they must direct the customer to the DSO's replicated site. The rep earns a significantly lower commission on replicated site sales than on personal inventory sales — and that commission only pays out once per month, creating a ~30-day wait. No rep has their own merchant account; all transactions on the replicated site route through a single DSO merchant account.
+
+**How Dropship changes this:**
+- Each rep gets their own ProPay merchant account — rep is the merchant, not the DSO
+- Reps are paid immediately on dropship orders (no monthly commission cycle delay)
+- Reps can track every dollar of income as it arrives (critical for accurate 1099 filing and tax management)
+- DSO no longer pays processing fees on rep-customer orders — an immediate 3% cost savings
+- DSO is no longer liable for chargebacks on rep transactions — liability shifts to the individual rep merchant
+- Keeps reps and DSOs in compliance with at least 24 states that have specific payment/income rules for independent contractors
+
+**Market position:** No other app in the direct selling industry offers this capability. This is a first-mover feature that addresses a structural gap in how commission-based rep businesses operate — not a feature increment.
+
 **Party v2 (releasing soon):** ByDesign is releasing an updated party plan feature set (Party v2) within Freedom. This is directly relevant to DSOs with party plan history — host rewards, in-home parties, consultant-led events. DSOs that have both a cash-and-carry rep model AND party plan roots (e.g., Color Street) are candidates for Wayroo now and Freedom/Party v2 later. Flag these accounts for Party v2 outreach on release.
 
 **Product type:** SaaS  
@@ -197,6 +212,11 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 | Tax paper trail gaps | Transaction records support rep 1099 issuance and sales tax jurisdiction tracking |
 | Invisible field-level customer base | Rep customer records surface to DSO CRM — corporate can market to them directly |
 | No invoice or tracking for rep customers | Every Wayroo sale auto-generates a branded invoice + shipping tracking for the customer — closes the trust gap, reduces "where's my order?" calls, creates a repeat purchase pathway. Invoicing with payment links also enables reps to send a custom invoice with an embedded payment link for remote or post-event sales — replacing informal Venmo requests with a traceable, branded transaction. |
+| Rep earns smaller commission + waits ~30 days to be paid on replicated site sales | Dropship lets the rep sell DSO catalog items they don't stock and get paid immediately through their own ProPay merchant account — closing the commission delay gap and giving reps a faster, more profitable alternative to directing customers to the replicated site |
+| DSO absorbs 3% processing fees on all rep-customer transactions through the replicated site | Dropship shifts processing fees to the individual rep merchant account — DSO saves 3% immediately on every dropship order |
+| DSO carries chargeback liability for all replicated site transactions | Dropship eliminates this liability — chargebacks sit with the individual rep merchant, not corporate |
+| Reps can't easily track income from replicated site commissions for tax purposes | Dropship creates a real-time income record per transaction — every dropship order is an auditable, immediately-visible earnings event. Directly supports 1099 accuracy and rep tax compliance |
+| Compliance exposure in 24+ states where contractor payment rules require specific income tracking | Dropship keeps reps and DSOs in compliance with at least 24 states by properly routing payments through individual rep merchant accounts with full transaction records |
 | Manual rep inventory management | Reps order wholesale bulk inventory directly from within Wayroo; inventory items appear immediately in the app on order placement; rep marks items as received as stock physically arrives; stock counts update automatically on each sale — zero manual entry at any step, higher adoption, better compliance trail |
 | Product expiration invisible to corporate | DSO can set expiration dates per SKU; Wayroo surfaces which reps hold expiring stock before customer complaints arrive |
 
@@ -213,6 +233,7 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 - **Rep sub-business infrastructure** — Wayroo gives each rep a branded storefront, POS, inventory management, and customer CRM — the tools to operate like a real entrepreneur under the DSO's umbrella. Stronger rep ownership = lower churn, higher productivity, better recruitment story. Brick B (Color Street) called the inventory management features collectively a "massive business tool" for reps.
 - **Rep-to-rep wholesale inventory transfers** — Wayroo allows inventory transfers between reps. Common use case: Rep A has inventory but can't sell it; Rep B has a buyer lined up → Rep A transfers to Rep B. This happens constantly in C&C DSOs, especially when specific SKUs run low. Wayroo formalizes what is currently an informal (untracked, untaxed) workflow — every transfer becomes a corporate-visible, auditable event.
 - **Proactive rep coaching via back-office inventory visibility** — all rep inventory sales push back to the DSO's back office. DSO field ops can see each rep's inventory level and sales velocity, identify reps with stuck inventory, and proactively reach out with coaching. Transforms field management from reactive to proactive.
+- **Dropship: immediate rep pay + zero DSO processing cost** — Dropship unlocks a third income stream for reps (catalog items they don't stock) at full commission, paid immediately. Simultaneously eliminates 3% processing fees from the DSO's cost structure and removes chargeback liability from corporate. The only feature in the industry that solves the rep-pay timing problem and the DSO-cost problem simultaneously. No competitor offers this.
 - **Dual income stream for reps** — Reps earn from personal inventory sales (Wayroo storefront) AND from commission on full catalog sales (replicated site). Two revenue paths from one platform; makes the rep's eSuite fee easy to justify
 - **eSuite pass-through removes cost objection** — DSOs already charge reps a monthly technology fee (eSuite). Wayroo's per-user cost can be bundled into the existing eSuite charge — the DSO does not absorb the fee, reps do. For large DSOs, Wayroo is cost-neutral or revenue-positive at the corporate level
 
@@ -303,6 +324,8 @@ Key competitive facts:
 **Key insight:** Rallyware and Aice are sales enablement platforms. Wayroo is a business management and transaction platform. Wayroo wins when the pain is operational (rep turnover, fragmented tools, slow activation, commission issues).
 
 **Your key differentiator:** The only platform connecting corporate back office (Freedom) to a native mobile rep experience (Wayroo) with no data gaps — plus next-day payouts, real retail transaction tracking for FTC compliance, and no third-party integration dependencies.
+
+**Dropship — first-mover, no competitor equivalent:** No other app in the direct selling industry offers rep-level dropship with individual merchant accounts. Wayroo Dropship solves: (1) the commission timing problem — reps get paid immediately instead of waiting ~30 days; (2) the DSO processing cost problem — 3% fees and chargeback liability shift away from corporate; (3) state compliance — 24+ states require the income tracking structure Dropship creates. This is not a feature gap a competitor closes in a quarter — it requires individual merchant account infrastructure, payment routing, and compliance logic that takes significant time to build.
 
 **Why better for ICP:** DSOs get a complete audit trail of real retail transactions (compliance), full rep visibility (coaching), and one vendor instead of two or three. Reps get one app that replaces everything.
 
@@ -434,6 +457,7 @@ This is the single highest-leverage marketing asset. It is not yet published any
 - Dual-sided value: every DSO contract activates hundreds to thousands of reps automatically
 - Most advanced compensation engine in the industry (Freedom)
 - Native next-day payouts (competitors lack this entirely)
+- Dropship with individual rep merchant accounts — first-mover, no competitor equivalent; solves rep pay timing, DSO processing cost, and 24-state compliance in one feature
 
 **Weaknesses:**
 - Only 1 client — no competitive references, no replicable case study
