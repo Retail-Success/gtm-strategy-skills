@@ -1,6 +1,6 @@
 # My GTM Context
 
-**Last Updated:** May 3, 2026  
+**Last Updated:** May 6, 2026  
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
@@ -91,6 +91,32 @@ Same buyer profile as ICP 1, but at organizations where a significant portion (~
 
 **Example:** Color Street (~70% cash-and-carry, 20,000–30,000 stylists, traditional party plan company with host rewards, left Exigo March 2026).
 
+**ICP 1b — Hybrid DSO Leaders** (Sub-Segment of ICP 1)  
+Same buyer profile as ICP 1, but at organizations where rep selling is split — a meaningful portion of reps carry personal inventory AND a meaningful portion sell catalog-only via the replicated site. Neither motion dominates. Roughly 20–50% of reps carry inventory.
+
+**Why this is its own segment:** Pitching this DSO requires the **full Wayroo stack** — POS + inventory + storefront + Dropship — not the C&C-only or Non-C&C-only subset. There are effectively two rep sub-personas inside one DSO with different onboarding paths. Dropship is especially compelling here because it serves both halves: inventory-carrying reps already understand individual rep merchant economics, and catalog-only reps get the immediate-pay upgrade.
+
+**Example:** Jordan Essentials (existing ByDesign client). Treat any Jordan Essentials proof points as the highest-leverage Hybrid case study material.
+
+**ICP 1c — Non-Cash-and-Carry DSO Leaders** (Sub-Segment of ICP 1)  
+Same buyer profile as ICP 1, but at organizations where the majority of reps do NOT carry personal inventory — they sell DSO catalog items via the replicated site and earn commission. Roughly 20%+ of reps still sell in-person with personal inventory, but it's not the dominant motion.
+
+**Feature appeal differs materially from C&C:**
+
+| Feature | Resonance with Non-C&C |
+|--------|------------------------|
+| Dashboard with sales reports | **High** — corporate visibility into rep performance |
+| Notifications from corporate | **High** — distribution channel that bypasses email/social |
+| Media library | **High — cross-ICP (also applies to C&C)** — corporate controls branding and marketing of products in rep hands; reps distribute on-brand assets instead of unofficial photos / renamed products |
+| Inventory management | **Weaker** — most reps don't carry stock; still serves the ~20% who do |
+| **Dropship** | **Hero feature for this segment** (see below) |
+
+**Why Dropship is the hero feature for Non-C&C:** Today, Non-C&C reps direct customers to the DSO's replicated site, earn a low commission, and wait up to ~30 days for the monthly payout. Dropship lets the rep sell that same corporate inventory, ship directly from corporate to the customer, and get paid immediately through their own ProPay merchant account. Same fulfillment — completely different rep economics. It is the structural fix to the "why bother selling on the replicated site?" problem.
+
+**Pitching implication:** Lead with **Dropship + dashboards + corporate-to-rep distribution (notifications, media library)**. Inventory features become a secondary "we also support your in-person reps" bullet, not the headline.
+
+**Qualifying question for the segment:** "What % of your reps carry personal inventory?" The answer slots them into C&C (50%+), Hybrid (~20–50%), or Non-C&C (<20%, with ~20% still selling in person).
+
 **ICP 2 — Sales Reps** (End User for Track 1 / Direct Buyer for Track 2)  
 Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/PayPal, spreadsheets, email, Canva). Measured on personal sales volume and monthly earnings.
 
@@ -119,9 +145,15 @@ Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/
 **For DSO Leaders:**
 Direct selling organizations are flying blind in their own field. Reps sign up but never activate. Companies have no real-time visibility into what reps are selling, who's struggling before they quit, or what tools reps are using in the field. The result: high rep turnover, no auditable retail transaction record (FTC compliance failure), and no ability to coach or hold the field accountable.
 
-**Regulatory Compliance Context (Critical for Positioning — Two mandates, not one):**
+**Regulatory Compliance Context (Critical for Positioning — Three mandates, not one):**
 
-**FTC Compliance:** The FTC requires DSOs to demonstrate that products are being sold to real end customers — not just bulk-loaded onto reps as a disguised income scheme. Every sale that goes through Venmo, cash, or PayPal with no customer record is an unauditable transaction and a compliance liability. This is a universal DSO problem. For cash-and-carry DSOs, the exposure is acute because the majority of rep selling activity happens outside any tracked channel. Wayroo's branded invoicing, customer record capture, and transaction audit trail directly address the FTC's retail sales documentation requirement. No competitor (Square, Venmo, PayPal) creates a customer record that DSO corporate can access or audit.
+**FTC Compliance — Argument 1: Retail sales documentation.** The FTC requires DSOs to demonstrate that products are being sold to real end customers — not just bulk-loaded onto reps as a disguised income scheme. Every sale that goes through Venmo, cash, or PayPal with no customer record is an unauditable transaction and a compliance liability. This is a universal DSO problem. For cash-and-carry DSOs, the exposure is acute because the majority of rep selling activity happens outside any tracked channel. Wayroo's branded invoicing, customer record capture, and transaction audit trail directly address the FTC's retail sales documentation requirement. No competitor (Square, Venmo, PayPal) creates a customer record that DSO corporate can access or audit.
+
+**FTC Compliance — Argument 2: Contractor-vs-employee classification.** The FTC continues to scrutinize whether DSO reps are truly independent contractors or de-facto full-time employees. The working test hinges on whether the rep: (1) has their own individual merchant account, (2) is responsible for chargebacks and returns, (3) owns the credit card transaction (the customer transacts directly with the rep, not corporate). If the answer is NO to all three — i.e., the rep just sends a completed order with customer info to corporate, and corporate processes payment under its own merchant account — the FTC can classify the rep as a full-time employee. **The DSO would then owe employee benefits, payroll taxes, and worker protections** — an existential cost exposure for any sizeable DSO.
+
+**Why this matters most for Non-C&C and Hybrid DSOs:** C&C reps already collect cash/Venmo/card payments directly and own those transactions (even when compliance is messy on the documentation side — Argument 1). Non-C&C reps typically just refer customers to the DSO's replicated site, where corporate's single merchant account processes the transaction. The rep does not own the transaction. **This is the exact fact pattern the FTC flags.** Non-C&C DSOs without Dropship are the most exposed to this specific risk.
+
+**How Wayroo Dropship + ProPay individual merchant accounts solves it:** Each rep gets their own ProPay merchant account. With Dropship enabled, the rep is the merchant — owns the transaction, owns the chargeback, owns the customer relationship. All three FTC contractor tests are satisfied simultaneously. Result: Dropship + individual ProPay merchant = the structural compliance fix for FTC contractor classification risk. No competitor offers this.
 
 **Tax Compliance:** DSO reps are typically independent contractors. Both the rep and the DSO have tax obligations tied to the rep's selling activity. The DSO must issue 1099s based on rep earnings and, in many states, track sales tax collection on retail transactions. When reps sell through Venmo or cash with no invoice, there is no paper trail for earnings reporting (rep's 1099-NEC) or sales tax jurisdiction tracking (DSO's obligation). Wayroo's transaction record — customer, amount, date, location — provides the data layer that makes both obligations fulfillable. This is not just a compliance argument; it is an audit protection argument. One IRS or state tax audit without records is an existential event for a DSO.
 
@@ -207,6 +239,7 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 | Slow time-to-first-sale | Native mobile POS + ecommerce storefront ready immediately |
 | Admin burden killing rep productivity | Invoicing, shipping, inventory managed in-app |
 | Inconsistent customer experience | Branded rep storefronts + standardized checkout |
+| Brand integrity risk — reps post unofficial photos, wrong descriptions, renamed products | Wayroo media library gives corporate control over branding and marketing assets distributed to reps; reps post approved, on-brand content instead of going off-brand. Cross-ICP value — applies to C&C, Hybrid, and Non-C&C DSOs equally |
 | No visibility into rep sales activity — coaching is reactive or absent | All rep inventory sales are pushed back to the DSO's back office in real time. DSO can see each rep's inventory levels and sales velocity, identify reps with stuck inventory, and proactively coach before the rep churns or the product expires. Coaching becomes proactive, not reactive. |
 | FTC compliance exposure | Every transaction creates an auditable customer record DSO corporate can access |
 | Tax paper trail gaps | Transaction records support rep 1099 issuance and sales tax jurisdiction tracking |
@@ -280,7 +313,7 @@ DSOs already charge reps a monthly technology access fee called an eSuite fee. T
 
 **Aice** — Growing rep-facing platform. Strong: AI tools, modern UX, social selling features, $15M raised March 2026 earmarked for AI. Weak: ecommerce requires a Shopify integration (extra cost, extra complexity, split rep experience — no native POS). Threat: if Aice locks up 3–5 mid-market DSOs in the next 6 months, it creates reference anchors. Monitor closely.
 
-**Rallyware** — Sales enablement and training platform. Strong: training/coaching workflows, social selling tools. Weak: not a commerce or transaction platform — no POS, no payouts, no inventory. Positioned around training; Wayroo positioned around selling.
+**Rallyware** — AI sales performance orchestration platform for distributed sales teams (direct selling + retail + brand reps). Founded 2012 at MIT, $22M raised 2022, 200+ enterprise customers, 15M users in 90+ countries. Direct selling logos: Mary Kay, Nu Skin, Avon, Tupperware, Hugh & Grace, Yanbal. Retail logos: Samsung, Adidas. Headline: "Peak Performance. Every Rep. Everywhere." Core products: AI Guided Selling, AI Sales Coach, AI Learning Management System, Performance Incentives, CRM & Clienteling, Communication & Field Operations, Performance Intelligence. Strong: enterprise reference wall, AI category leadership, content/thought-leadership engine, global footprint, capital. Weak: zero commerce primitives — no POS, payments, inventory, invoicing, payouts, shipping. No FTC/tax-grade transaction record (does not transact). No cash & carry support. No party plan. Enterprise-only profile (Tier 1 DSOs $1B+); does not service mid-market. **Different ICP tier and category from Wayroo — co-existence likely, displacement rare. Treat as adjacent category, not direct competitor.** A Mary Kay/Nu Skin–class DSO running Rallyware for enablement is a future Wayroo expansion target (commerce layer for cash-and-carry segments), not a displacement target. Full analysis: `outputs/02-competitor-analysis-rallyware.md`.
 
 **Party Platform Solutions** — Party plan back-office. Recently raised prices significantly. Clients actively leaving. Primary Party 2.0 acquisition target.
 
