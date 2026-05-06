@@ -1,0 +1,7 @@
+# Core skills — Sam must approve any changes to these files
+CLAUDE.md @satieh1988-07
+.claude/skills/ @satieh1988-07
+.claude/settings.json @satieh1988-07
+.claude/.claude-plugin/ @satieh1988-07
+
+# Everything else (outputs/, prospects/, my-gtm-context.md) is open
