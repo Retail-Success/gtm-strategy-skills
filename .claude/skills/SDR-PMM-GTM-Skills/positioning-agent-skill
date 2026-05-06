@@ -1,0 +1,313 @@
+---
+name: positioning-agent
+description: >
+  Use this skill whenever a user wants to determine, validate, or apply a positioning
+  strategy for their product or company. Triggers include: "help me with positioning,"
+  "what should our positioning be," "create a positioning agent," "which positioning
+  anchor should we use," "use the Estner framework," "create marketing materials from
+  our positioning," "write copy for our ICP," "build a landing page for our persona,"
+  "create ad copy for our product," "write a cold email for our buyer," "generate a
+  one-pager," or any request to produce marketing materials where the user first needs
+  to determine HOW to position their product before writing copy. Also triggers when a
+  user uploads or references a positioning framework image or document and asks to
+  apply it. Use this skill proactively — if someone asks for marketing copy without
+  clear positioning context, run the positioning diagnosis first before generating
+  assets.
+---
+
+# Positioning Agent Skill
+
+A skill for diagnosing the right positioning anchor for any product and generating
+marketing materials that follow from it — using Alexander Estner's Primary Positioning
+Anchor framework.
+
+---
+
+## What This Skill Does
+
+This skill guides Claude through a two-phase workflow:
+
+1. **Diagnose** — Identify the correct positioning anchor (Activity, Use Case, Product
+   Category, or Competitive Alternative) based on the company's market maturity, buyer
+   awareness, and competitive context.
+
+2. **Generate** — Produce marketing materials (landing pages, cold emails, ad copy,
+   LinkedIn posts, one-pagers, sales pitches) that follow the correct messaging
+   hierarchy for the chosen anchor.
+
+---
+
+## Phase 1: Positioning Diagnosis
+
+### Step 1 — Gather Context
+
+Before choosing an anchor, collect the following. Extract from the conversation if
+already present; ask only for what's missing.
+
+**Required inputs:**
+- What does the product do? (one sentence)
+- Who is the primary buyer? (role, industry, company size)
+- Who is the end user if different from buyer?
+- What is the buyer's #1 pain or frustration?
+- What outcome are they actually buying (not the feature — the result)?
+- What do they currently use instead? (the status quo / what Wayroo replaces)
+- How do they find out about solutions like this — search, referral, outreach?
+- Is there an established software category for this product on G2/Capterra?
+- Is there a dominant named competitor/leader in the space?
+
+**Optional but high-value:**
+- Voice of customer quotes (exact words buyers use to describe the problem)
+- Which feature gets the most attention in demos or first conversations?
+- What is the buying motion? (self-serve, sales-led, product-led, recommended-then-adopted)
+
+### Step 2 — Run the Estner Quick Test
+
+Ask the user this diagnostic question:
+
+> "When your buyers evaluate your product, are they:
+> A) Comparing specific vendors and searching for your software category by name?
+> B) Comparing you directly to a named market leader?
+> C) Describing a problem they want to solve, without knowing what type of software solves it?
+> D) Not aware a solution exists — still treating this as 'how things work'?"
+
+Map answers to anchors:
+- A → Product Category Positioning
+- B → Competitive Alternative Positioning
+- C → Use Case Positioning
+- D → Activity Positioning
+
+### Step 3 — Apply the Framework
+
+Use this reference table to validate and explain the chosen anchor:
+
+| Dimension | Activity | Use Case | Category | Competitive |
+|-----------|----------|----------|----------|-------------|
+| Tagline | "We help you do X" | "We help you do X without Y" | "We are a X" | "We're a [Leader]-alternative" |
+| Buyer awareness | Low | Medium | High | High |
+| Market maturity | Pre-market | Emerging | Established | Mature |
+| Status quo | Manual workflows | Broken tool stack | Direct competitors | Named leader |
+| Buying comparison | Doing nothing | Alternative workflows | Other vendors | Leader comparison |
+| Budget ownership | No clear budget | Emerging | Clear line item | Already allocated |
+| Search demand | None / very low | Problem-based | Category-based | Competitor-based |
+| G2/Capterra | Doesn't exist | Fragmented | Clearly defined | Clearly defined |
+| Messaging focus | Name the activity + expose the pain | Job-to-be-done + friction removed | Differentiation within category | "Why us vs X" |
+| Proof type | Before → After transformation | Workflow Power | Comparative Proof | Switch & Upgrade Proof |
+| GTM goal | Create awareness | Own the use case | Win comparisons | Steal demand |
+| Clarity test | "This is work we do." | "This is work we want to do better." | "This is the type of software we need." | "We currently use X." |
+
+### Step 4 — Build the Positioning Foundation
+
+Once the anchor is confirmed, establish three things before generating any copy:
+
+**1. Messaging Hierarchy**
+The order of persuasion — what leads, what expands, what closes. This is specific to
+each product and anchor. General pattern:
+- Hook: The feature/benefit that gets the meeting (typically the most tangible, immediate value)
+- Expand: The broader value once you have attention (the system / completeness / workflow)
+- Close: The proof/ROI that justifies the decision (numbers, speed, cost savings)
+
+**2. ICP Profile**
+- Buyer role, pain, outcome they're purchasing
+- How they describe the problem in their own words
+- What success looks like to them internally
+
+**3. Competitive Frame**
+- What the product replaces (may be one tool, may be a stack of tools)
+- The specific wedge (why Wayroo wins this comparison)
+- What the competitor cannot or will not build
+
+---
+
+## Phase 2: Material Generation
+
+### Tone Rules (Apply to Every Output)
+
+These rules override any user request for a different style:
+- Write for the buyer, not the user (if they are different people)
+- Every feature must connect to the buyer's primary outcome
+- No buzzwords: "streamline," "empower," "seamless," "unlock," "revolutionize,"
+  "game-changer," "cutting-edge," "best-in-class," "synergy"
+- Concrete and specific — real scenarios, real numbers, real friction points
+- Sounds like an industry insider, not a SaaS marketer
+- Placeholders only for names: `[First Name]`, `[Company Name]`
+
+### Material Playbooks
+
+#### Landing Page
+
+For paid traffic: use the tight 5-section structure. Never add FAQ, comparison tables,
+How It Works deep-dives, or persona sections to a conversion landing page.
+
+**Structure:**
+1. **Hero** — Headline (Hook message), subheadline (names the root cause), one CTA button, 2–3 stat callouts
+2. **Pain points** — Exactly 3, scannable. Format: icon + bold title + 2-sentence body
+3. **Features/Solution** — Exactly 3, following Hook → Expand → Close order. Format: checkmark + bold title + 1-sentence body
+4. **Proof** — 1 pull quote from buyer persona. Dark card or distinct background.
+5. **Form + CTA** — Fields: name, email, company, qualifying question(s), submit button
+
+**Layout rules:**
+- Two-column desktop: content left, form right and sticky
+- Single column mobile
+- Form always visible without scrolling on desktop
+- CTA label matches the demo/trial motion (e.g., "Book My Free Demo →")
+
+**Copy rules:**
+- Headline uses the Hook message — the feature/benefit that gets the meeting
+- Subheadline names the root cause of the buyer's pain, not the feature
+- Pain points address the 3 most recognized friction points in buyer's own language
+- Never lead with the Close message (payouts, pricing, savings) in the hero
+
+#### Cold Email
+
+**Structure:**
+- Subject line: references the Hook feature or pain point — never product name alone
+- Opening: problem observation in their world (not "I saw your company...")
+- Body: 2–3 sentences connecting their pain to the solution, using their language
+- Proof: one social proof line or outcome metric
+- CTA: one specific ask (20-minute call, demo, reply to this email)
+- Under 200 words total
+
+**Subject line formulas by anchor:**
+- Activity: "[Specific manual task] shouldn't take [time]. Here's what changed."
+- Use Case: "How [company type] [achieves outcome] without [friction]"
+- Category: "[Company] vs [top category tool] — worth 10 minutes?"
+- Competitive: "Why [company type] is switching from [leader]"
+
+#### LinkedIn Post
+
+**Structure:**
+- Hook line (first line must stop the scroll — bold claim or counterintuitive statement)
+- Problem paragraph (2–3 lines, buyer's perspective)
+- Insight or solution (the reframe — what changes when they use your product)
+- Proof line (stat, quote, or specific outcome)
+- CTA (soft — comment, DM, link in bio)
+- Under 250 words. Line breaks between every 1–2 sentences.
+
+#### One-Pager
+
+**Structure:**
+- Header: company name + positioning tagline
+- Problem section: 2–3 sentences, buyer's voice
+- Solution section: 3–4 bullet features following Hook → Expand → Close
+- Proof section: 1–2 quotes or stats
+- How It Works: 3-step numbered sequence (optional for complex products)
+- CTA: one action with contact info
+
+#### Sales Pitch (60-second opener)
+
+**Structure:**
+- Open with a question about their current status quo ("How are your [users] currently handling [task]?")
+- Let them answer (script a pause)
+- Name what you heard back to them ("That's exactly what we hear...")
+- Introduce the product in one sentence using the Hook message
+- Name 2 specific outcomes (Expand + Close)
+- Ask for the meeting
+
+#### Paid Ad Copy
+
+**By format:**
+
+Single image/static:
+- Headline: Hook message, 5–8 words, specific benefit
+- Primary text: pain observation → solution → 2–3 proof bullets → CTA
+- CTA button: matches demo/trial motion
+
+Video (15–30 seconds):
+- 0–3s: Show the problem (status quo visual or stat)
+- 3–8s: Name the failure mode (why status quo breaks down)
+- 8–20s: Product demo of Hook feature
+- 20–30s: CTA with outcome statement
+
+Carousel:
+- Card 1: Hook feature headline
+- Cards 2–4: One feature per card (Expand → Close order)
+- Card 5: Proof quote or CTA
+
+Retargeting:
+- Acknowledge they've seen the product before
+- Short recap of top 3 benefits
+- One social proof quote
+- Urgency or low-friction CTA
+
+---
+
+## Building the Positioning Agent as an Interactive Tool
+
+When the user asks for an interactive positioning agent (React artifact), build it with
+these four views:
+
+### View 1: Home
+- North star positioning sentence
+- Messaging hierarchy (Hook / Expand / Close) as a visual 3-column card
+- ICP + competitive context (collapsible)
+- 2×2 grid of the 4 anchors with quick summary
+
+### View 2: Framework
+- Accordion for each of the 4 anchors
+- Each accordion: full dimension table + Estner's proof formats + Wayroo fit assessment + messaging hierarchy preview for that anchor
+- "Generate materials with this anchor" button linking to View 4
+
+### View 3: Quick Test
+- Single diagnostic question (Estner's A/B/C/D format, adapted to the specific company)
+- On selection: show recommended anchor + messaging hierarchy preview + "Generate" button
+
+### View 4: Generator (AI-powered)
+- Step 1: Choose anchor (pill buttons)
+- Step 2: Choose material type (grid tiles: Homepage Hero / Cold Email / LinkedIn Post / One-Pager / Sales Pitch / Paid Ad Copy)
+- Step 3: Generate button (calls Anthropic API with full context prompt)
+- Output: monospace text display with copy button
+- Framework note below output: proof type + clarity test reminder
+
+**AI prompt construction for generator:**
+The prompt passed to the API must include:
+1. Full ICP context (buyer role, pain, outcome, buying motion, voice of customer)
+2. Competitive reality (what the product replaces, the wedge)
+3. The chosen anchor + its framework dimensions
+4. The messaging hierarchy (Hook / Expand / Close) with specific direction for this company
+5. Product facts (features only — no invented capabilities)
+6. North star positioning sentence
+7. Tone rules
+8. Instruction to follow Hook → Expand → Close in that order
+
+---
+
+## Common Mistakes to Flag
+
+If the user's current positioning shows these patterns, name them before proceeding:
+
+1. **Inventing a category that doesn't exist** — using Category positioning when G2/Capterra has no clear category for the product. Buyers can't search for something they don't know exists.
+
+2. **Competitive positioning without a wedge** — claiming to be a "[Leader]-alternative" without a specific, defensible reason why. "We're better" is not a wedge. "We do X that [Leader] will never build because their core customer doesn't need it" is a wedge.
+
+3. **Leading with the Close** — putting pricing, savings, or ROI in the headline when the buyer hasn't yet understood the problem being solved. Closes work only after the Hook has created attention.
+
+4. **Features as headlines** — naming product capabilities (tap-to-pay, API integrations) instead of buyer outcomes (your reps can sell anywhere) in hero copy.
+
+5. **Anchor drift** — using different anchors across different channels (Use Case on the website, Competitive in ads, Activity in email). Messaging must be consistent across all touchpoints.
+
+---
+
+## Deliverable Output Format Guide
+
+| Deliverable | Format | Target Length |
+|-------------|--------|---------------|
+| Landing page (paid traffic) | HTML (single file) | 5 sections |
+| Landing page (full product) | HTML (single file) | 8–10 sections |
+| Paid ad campaign | React artifact with platform tabs | Per platform: audience + creative + KPIs |
+| Email sequence | React artifact with per-email preview | 3–5 emails |
+| Campaign budget | React artifact with tier toggle | 3 tiers + ramp + ROI |
+| Positioning agent | React artifact with 4 views | Full interactive tool |
+| One-pager | Markdown or HTML | Single page |
+| Cold email | Plain text with subject + preheader | Under 200 words |
+| LinkedIn post | Plain text | Under 250 words |
+| Ad copy set | Structured text per format | Per format specs above |
+| Sales pitch | Script format with stage markers | 60–90 seconds spoken |
+
+---
+
+## Estner Framework Credit
+
+This skill is based on Alexander Estner's Primary Positioning Anchor framework.
+Original source: LinkedIn post and positioning guide at mrrunlocked.com.
+Estner's four anchors, dimension table, proof types, and clarity tests are faithfully
+reproduced here for application to real GTM work.
