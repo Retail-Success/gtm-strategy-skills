@@ -1,6 +1,6 @@
 # My GTM Context
 
-**Last Updated:** May 6, 2026  
+**Last Updated:** May 9, 2026  
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
@@ -96,7 +96,9 @@ Same buyer profile as ICP 1, but at organizations where rep selling is split —
 
 **Why this is its own segment:** Pitching this DSO requires the **full Wayroo stack** — POS + inventory + storefront + Dropship — not the C&C-only or Non-C&C-only subset. There are effectively two rep sub-personas inside one DSO with different onboarding paths. Dropship is especially compelling here because it serves both halves: inventory-carrying reps already understand individual rep merchant economics, and catalog-only reps get the immediate-pay upgrade.
 
-**Example:** Jordan Essentials (existing ByDesign client). Treat any Jordan Essentials proof points as the highest-leverage Hybrid case study material.
+**Example:** Jordan Essentials (existing ByDesign client, ~20% C&C — at the lower boundary of the structural Hybrid range). Treat any Jordan Essentials proof points as the highest-leverage Hybrid case study material.
+
+**Buying-motion intelligence (one specific Hybrid pattern observed at Jordan Essentials, May 2026):** Decline-driven Wayroo upsell — DSO has watched rep sales/engagement fall over a 6+ month window; convention or annual event functions as the announcement vehicle and deal-closing forcing function; two aligned Economic Buyers (Founder + VP Sales), no Technical Gatekeeper. Lead value props: customer auto-creation in Freedom back office (cross-account validated with Color Street), Spendback DSO cost-reduction (cross-account validated), rep performance dashboards (Wayroo widgets pulling Freedom report data — VP-Sales-tier resonance). **Do not lead with FTC/tax compliance** — Hybrid DSO buyers at minority-C&C levels do not perceive compliance as the priority pain. Full intelligence: `outputs/02-hybrid-dso-icp-intelligence.md`. Qualification intake for the 7 minority-C&C pipeline candidates (sales team identified May 7, 2026): `outputs/02-hybrid-dso-qualification-questions.md`. Wayroo upsell motion is owned by Cassie Lewis + Autumn Fowers; sales team identifies candidates from the Freedom-relationship view.
 
 **ICP 1c — Non-Cash-and-Carry DSO Leaders** (Sub-Segment of ICP 1)  
 Same buyer profile as ICP 1, but at organizations where the majority of reps do NOT carry personal inventory — they sell DSO catalog items via the replicated site and earn commission. Roughly 20%+ of reps still sell in-person with personal inventory, but it's not the dominant motion.
@@ -127,7 +129,7 @@ Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/
 
 **Job title / role:** VP of Sales, Founder, CEO (buyer) + Independent Rep (end user)  
 **Key characteristics:** Resource-constrained, growth-oriented DSO with a rep force that is under-equipped, under-activated, and churning faster than recruiting can cover  
-**Buying triggers:** Rep activation failure, high turnover, regulatory/FTC pressure, competitor platform displacing them (Party Platform Solutions, Thatcher)  
+**Buying triggers:** Rep activation failure, high turnover, regulatory/FTC pressure, competitor platform displacing them (Party Platform Solutions, Thatcher), **decline-driven existing-client Wayroo upsell** (sales/engagement decline over 6+ months — Hybrid DSO trigger, confirmed at Jordan Essentials May 2026), **convention/annual event as deal-closing forcing function** (Jordan Essentials confirmed; Color Street's Paparazzi conference operates similarly)  
 **Where they hang out:** DSA (Direct Selling Association) events, ANMP conference, MLM industry referral networks, Capterra/G2
 
 **Confirmed DSO ICP Value Preferences (from Color Street demo, May 2026):**
@@ -247,6 +249,7 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 | No invoice or tracking for rep customers | Every Wayroo sale auto-generates a branded invoice + shipping tracking for the customer — closes the trust gap, reduces "where's my order?" calls, creates a repeat purchase pathway. Invoicing with payment links also enables reps to send a custom invoice with an embedded payment link for remote or post-event sales — replacing informal Venmo requests with a traceable, branded transaction. |
 | Rep earns smaller commission + waits ~30 days to be paid on replicated site sales | Dropship lets the rep sell DSO catalog items they don't stock and get paid immediately through their own ProPay merchant account — closing the commission delay gap and giving reps a faster, more profitable alternative to directing customers to the replicated site |
 | DSO absorbs 3% processing fees on all rep-customer transactions through the replicated site | Dropship shifts processing fees to the individual rep merchant account — DSO saves 3% immediately on every dropship order |
+| DSO absorbs 2.5%+ processing fees on rep wholesale orders | Spendback enables reps to use ProPay account balance to pay for wholesale orders — DSO processing fee drops from 2.55%+ to 1%. Cross-account validated: Nancy (Jordan Essentials, May 2026) called it a "big benefit"; Edmond (Color Street, May 2026) asked about it. Paparazzi confirmed savings at scale. Distinct mechanism from Dropship — Dropship addresses retail/replicated-site processing; Spendback addresses wholesale-order processing. |
 | DSO carries chargeback liability for all replicated site transactions | Dropship eliminates this liability — chargebacks sit with the individual rep merchant, not corporate |
 | Reps can't easily track income from replicated site commissions for tax purposes | Dropship creates a real-time income record per transaction — every dropship order is an auditable, immediately-visible earnings event. Directly supports 1099 accuracy and rep tax compliance |
 | Compliance exposure in 24+ states where contractor payment rules require specific income tracking | Dropship keeps reps and DSOs in compliance with at least 24 states by properly routing payments through individual rep merchant accounts with full transaction records |
@@ -261,7 +264,8 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 - **Revenue compounding** — every improvement in activation and retention directly scales company revenue
 - **Competitive recruitment differentiator** — DSOs offering Wayroo attract reps leaving disorganized competitors
 - **Compliance shield** — FTC and tax audit trail built into every transaction; no manual reconciliation required
-- **Hidden customer base unlocked** — DSO gains direct marketing access to the customers reps have been selling to for years via cash/Venmo; enables retargeting, loyalty programs, product launch campaigns, and upsell to a previously invisible audience
+- **Hidden customer base unlocked** — DSO gains direct marketing access to the customers reps have been selling to for years via cash/Venmo; enables retargeting, loyalty programs, product launch campaigns, and upsell to a previously invisible audience. **Mechanism (cross-account validated):** when a rep creates a customer in Wayroo, the customer record auto-creates in the DSO's Freedom back office — no manual sync. Nancy (Jordan Essentials Founder, May 2026) and Edmond (Color Street, May 2026) both called this a "huge benefit" unprompted. This is a headline-level DSO value prop — elevate in all DSO-facing positioning.
+- **Spendback: structural DSO cost reduction on rep wholesale orders** — drops DSO processing fee from 2.55%+ to 1% by routing rep wholesale order payments through the rep's ProPay balance. Cross-account validated (Nancy "big benefit"; Edmond asked, ran out of time). Paparazzi confirmed savings at scale. Spendback alone can fund a Wayroo deal at large DSO wholesale-order volume. Distinct from Dropship: Spendback addresses wholesale-order processing; Dropship addresses retail/replicated-site processing.
 - **One-stop-shop for reps** — Wayroo replaces Square, Excel, Venmo, PayPal, and a separate storefront with one app, reducing rep tool fatigue and DSO support overhead simultaneously
 - **Rep sub-business infrastructure** — Wayroo gives each rep a branded storefront, POS, inventory management, and customer CRM — the tools to operate like a real entrepreneur under the DSO's umbrella. Stronger rep ownership = lower churn, higher productivity, better recruitment story. Brick B (Color Street) called the inventory management features collectively a "massive business tool" for reps.
 - **Rep-to-rep wholesale inventory transfers** — Wayroo allows inventory transfers between reps. Common use case: Rep A has inventory but can't sell it; Rep B has a buyer lined up → Rep A transfers to Rep B. This happens constantly in C&C DSOs, especially when specific SKUs run low. Wayroo formalizes what is currently an informal (untracked, untaxed) workflow — every transfer becomes a corporate-visible, auditable event.
@@ -302,6 +306,8 @@ Shopify runs a single merchant account for the DSO: the DSO absorbs all transact
 DSOs already charge reps a monthly technology access fee called an eSuite fee. This fee covers the rep's access to the DSO's tech stack. Wayroo's per-user fee ($5/user/month) can be structured as a pass-through within the DSO's existing eSuite billing — meaning the DSO collects the Wayroo fee from reps rather than absorbing it as a cost. For large DSOs (10,000–30,000 stylists), Wayroo becomes cost-neutral or revenue-positive at the rep level. This directly counters the per-user cost objection in pricing conversations: *"Your reps already pay you a monthly eSuite fee — Wayroo can simply become part of that."*
 
 **Cash & Carry Pricing Opportunity:** C&C DSOs have high in-person transaction volume — event-heavy models mean reps run many card transactions at vendor markets. This creates a real opportunity to charge both a per-user SaaS fee AND a transaction revenue share if the feature set (inventory management, "My Stash" storefront, barcode POS, Spendback, brand catalog control) is compelling enough to justify dual-track pricing. C&C DSOs may accept SaaS + transaction fees where standard DSOs are more fee-sensitive, because the feature set solves genuinely different (and higher-severity) pains. The eSuite pass-through model makes the SaaS component especially palatable. Explore dual model in next C&C discovery calls.
+
+**Hybrid DSO existing-client upsell pricing (working — May 2026):** When Wayroo is sold as an upsell to an existing Freedom client (ICP 1b), pricing structure may differ from new-logo deals. The eSuite pass-through model still applies. Decision points include: pilot cohort vs. full rollout pricing, convention-driven implementation timeline pricing, and contract structure as an add-on motion vs. a new contract. Confirmed open at Jordan Essentials (May 2026) — convention 11-week timeline implies pilot pricing for the C&C cohort first, with full rollout post-convention. Validate the pricing variant against the 7 minority-C&C pipeline candidates identified from the existing 51-account base on May 7, 2026.
 
 ---
 
@@ -505,6 +511,8 @@ This is the single highest-leverage marketing asset. It is not yet published any
 - Industry is tight-knit: one strong DSO reference creates outsized referral weight
 - AI differentiation window — if Wayroo ships rep-facing AI before Aice consolidates that position
 - DSA event presence puts Wayroo in front of 20+ DSO decision-makers simultaneously
+- **Hybrid DSO existing-client Wayroo upsell motion** — sales team identified 7 minority-C&C candidates from the 51-account Freedom client base (May 7, 2026); fast-cycle sales motion (existing relationship + Freedom integration solved + aligned-EB DMU + convention forcing functions); directly supports the +300% Wayroo cross-sell objective for 2026. Jordan Essentials is the founding data point. Qualification intake live: `outputs/02-hybrid-dso-qualification-questions.md`.
+- **Convention/event-driven sales velocity** — DSO annual events compress deal cycles by acting as publicly-staked deadlines (Jordan Essentials ~July 22, 2026; Color Street's Paparazzi conference). Surface event dates in early discovery to convert a quarterly-pace pipeline into an event-pace pipeline.
 
 **Threats:**
 - Aice gaining momentum with funding and AI positioning — needs a competitive battlecard now
@@ -522,6 +530,10 @@ This is the single highest-leverage marketing asset. It is not yet published any
 - **Value Proposition Canvas** — Confluence: [5. Value Prop Canvas](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/363200541)
 - **Competitor analysis (Fluid, deep-dive)** — `outputs/research-synthesis/competitor-analysis-fluid-2026-04-26.md`
 - **Competitive Analysis page (Aice, Rallyware)** — Confluence skeleton exists, needs populating
+- **Cash & Carry DSO ICP Intelligence (ICP 1a)** — `outputs/02-cash-carry-dso-icp-intelligence.md` — Color Street founding data point; full segment intelligence including DMU, positioning variant, and assumption map
+- **Hybrid DSO ICP Intelligence (ICP 1b — working hypothesis)** — `outputs/02-hybrid-dso-icp-intelligence.md` — Jordan Essentials founding data point; buying motion (decline-driven recovery + convention forcing function + two-EB DMU); pending validation against 7 minority-C&C pipeline candidates
+- **Hybrid DSO Qualification Questions (intake template)** — `outputs/02-hybrid-dso-qualification-questions.md` — 14-question intake for the 7 sales-team-identified Hybrid candidates; prioritization logic for next validation calls
+- **Rallyware competitor deep-dive** — `outputs/02-competitor-analysis-rallyware.md`
 - **Sales deck (ByDesign)** — 8-slide deck exists. Assessment: feature-heavy, Wayroo underrepresented ("gives your field the ability to sell anytime, anywhere" — one line), Paparazzi $31M stat missing entirely. Needs a Wayroo-specific version or a major rewrite.
 
 **Sales deck strengths to preserve:** Client logo wall (Paparazzi, Youngevity, Zilis, etc.), credibility badge row (DSA/DSN/Capterra), platform stats ($7B payouts, 36K bonus runs, 25 years).
@@ -545,7 +557,8 @@ Structured records of what was learned from prospect interactions — confirmed 
 
 | Prospect | GTM Segment | Key Intel | File |
 |----------|-------------|-----------|------|
-| Color Street | Cash & Carry DSO | Left Exigo; custom commission engine + Shopify stack; Wayroo-only deal (no Freedom pitch); "My Stash" concept validated; blocked on Shopify integration | [prospects/color-street.md](prospects/color-street.md) |
+| Color Street | Cash & Carry DSO (ICP 1a) | Left Exigo; custom commission engine + Shopify stack; Wayroo-only deal (no Freedom pitch); "My Stash" concept validated; customer auto-creation in DSO back office named unprompted; blocked on Shopify integration | [prospects/color-street.md](prospects/color-street.md) |
+| Jordan Essentials | Hybrid DSO (ICP 1b — working hypothesis) | Existing Freedom client; ~20% C&C; Wayroo upsell as recovery story for 6-month rep sales/engagement decline; convention ~July 22, 2026 forcing function (~11 weeks); Nancy (Founder) + Hope (VP Sales) both Economic Buyers; cross-account validated customer auto-creation + Spendback (DSO wholesale-fee 2.55%+ → 1%); rep performance dashboards land for VP-Sales-tier EB; **FTC/tax compliance NOT raised** — do not lead with compliance for Hybrid DSOs | [prospects/jordan-essentials.md](prospects/jordan-essentials.md) |
 
 **How skills should use this:**
 - Before any outreach or call prep, read the relevant prospect file

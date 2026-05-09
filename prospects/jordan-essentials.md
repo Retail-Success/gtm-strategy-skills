@@ -1,8 +1,8 @@
 # Prospect: Jordan Essentials
 
-**Last updated:** May 6, 2026
+**Last updated:** May 9, 2026
 **Stage:** Follow-up complete — preparing convention launch plan + pricing/timeline proposal
-**Owner:** Daniel Lang (sales) / Cassie Lewis (account) / Autumn Fowers (product/demo)
+**Owner:** Cassie Lewis (account) / Autumn Fowers (product/demo). *Note: this is a Wayroo upsell to an existing Freedom client — Daniel Lang sells Freedom and is not the deal owner here.*
 **GTM Segment:** Hybrid DSO (existing Freedom client; ~20% C&C, predominantly non-C&C; Wayroo as channel-shift + recovery play)
 **Existing ByDesign client:** Yes — Freedom (back office) — listed in current client logo wall
 
@@ -88,10 +88,10 @@
 
 | Blocker | Type | Owner | Status |
 |---------|------|-------|--------|
-| **Convention deadline — ~July 22, 2026 (~11 weeks out).** Entire announcement plan breaks if Wayroo isn't live + reps aren't trained by then | Timing | Daniel Lang + Autumn Fowers | Open — needs implementation timeline confirmed against this date |
-| **No quantified baseline on the rep sales/engagement decline.** Hope's "lower sales, lower engagement" is directional only. Without numbers, there's no measurable success criterion for the post-convention review | Commercial / Stakeholder | Sam Atieh + Daniel Lang | Open — request rep MAU, avg ticket, # active sellers/month, rep churn rate before next call |
+| **Convention deadline — ~July 22, 2026 (~11 weeks out).** Entire announcement plan breaks if Wayroo isn't live + reps aren't trained by then | Timing | Autumn Fowers + Cassie Lewis | Open — needs implementation timeline confirmed against this date |
+| **No quantified baseline on the rep sales/engagement decline.** Hope's "lower sales, lower engagement" is directional only. Without numbers, there's no measurable success criterion for the post-convention review | Commercial / Stakeholder | Cassie Lewis + Sam Atieh | Open — request rep MAU, avg ticket, # active sellers/month, rep churn rate before next call |
 | **Wayroo as channel-shift bet is unproven for non-C&C-majority DSOs.** The thesis is that POS + media library will *grow* the C&C share from ~20% to higher. If reps don't adopt or don't run more vendor events, the launch underdelivers and Nancy/Hope's announcement loses credibility | Product / Adoption | Sam Atieh + Cassie Lewis | Open — needs a rep adoption + enablement plan tied to the convention |
-| **Pricing/contract structure for an existing Freedom client adding Wayroo.** Does eSuite pass-through apply? Pilot vs. full rollout pricing for an 11-week timeline? | Commercial | Daniel Lang | Open |
+| **Pricing/contract structure for an existing Freedom client adding Wayroo.** Does eSuite pass-through apply? Pilot vs. full rollout pricing for an 11-week timeline? | Commercial | Cassie Lewis + Autumn Fowers | Open |
 
 ---
 
@@ -150,12 +150,12 @@ DMU note: Nancy + Hope are both Economic Buyers. Two-EB accounts move faster tha
 | Action | Owner | Due |
 |--------|-------|-----|
 | Confirm convention exact date and announcement-readiness criteria | Cassie Lewis → Hope | This week |
-| Request quantified rep performance baseline (MAU, avg ticket, active sellers/month, churn rate) | Daniel Lang → Hope | This week |
+| Request quantified rep performance baseline (MAU, avg ticket, active sellers/month, churn rate) | Cassie Lewis → Hope | This week |
 | Build implementation + rep-enablement timeline mapped against the ~July 22 convention | Autumn Fowers + Cassie Lewis | Within 2 weeks |
-| Draft Wayroo-upsell pricing/contract structure for existing Freedom clients (eSuite pass-through, pilot vs. full rollout) | Daniel Lang | Before next call |
+| Draft Wayroo-upsell pricing/contract structure for existing Freedom clients (eSuite pass-through, pilot vs. full rollout) | Cassie Lewis + Autumn Fowers | Before next call |
 | Send Spendback one-pager with Paparazzi cost-savings math (already owed to Color Street — write once, use both) | Sam Atieh | This week |
 | Send Nancy a "rep customer auto-creation in Freedom" feature one-pager — make this the Economic Buyer pitch asset | Sam Atieh | This week |
-| Define announcement-launch success metrics with Nancy + Hope (rep adoption %, vendor event count, sales lift target) | Daniel Lang + Sam Atieh | Before contract |
+| Define announcement-launch success metrics with Nancy + Hope (rep adoption %, vendor event count, sales lift target) | Cassie Lewis + Sam Atieh | Before contract |
 | Surface Hope's interest in AI Report builder + team-report dashboards to product team as customer signal | Sam Atieh | This month |
 
 ---

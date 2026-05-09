@@ -1,7 +1,9 @@
 # Hybrid DSO — ICP Intelligence Capture
 **Source:** Jordan Essentials Wayroo upsell follow-up call, May 6, 2026
 **Frameworks applied:** Phase 2 (Collecting Intelligence) + Phase 3 (Validating Customers) + Phase 6 (Crafting Positioning)
-**Status:** **Single data point — working hypothesis only.** Requires 2+ additional Hybrid DSO interactions before any GTM commitments. Promote to a named ICP segment only when a third Hybrid account confirms the pattern.
+**Status:** **Single confirmed data point — pattern density emerging.** As of May 7, 2026, the sales team identified 7 existing ByDesign Freedom clients with minority-C&C rep base — concrete pipeline candidates against this hypothesis. Qualification questions for the 7 are in `outputs/02-hybrid-dso-qualification-questions.md`. Promote Hybrid DSO to a named ICP segment when 2+ of those 7 confirm the full pattern (decline trigger + convention forcing function + two-EB DMU).
+
+**Ownership note:** Wayroo upsells to existing Freedom clients (Hybrid DSO motion) are owned by Cassie Lewis (account) + Autumn Fowers (product/demo). Daniel Lang sells ByDesign Freedom and may surface Hybrid candidates from his pipeline view, but does not run the Wayroo upsell motion itself.
 
 ---
 
@@ -191,13 +193,15 @@ Single-account scoring; revisit when more data exists.
 **Beachhead verdict (provisional):** If even 5–10 of the 51 Freedom clients fit the Hybrid profile (existing relationship + minority C&C + recent decline + upcoming event), this is the **highest-ROI pipeline source for 2026 H2** — lower acquisition cost than new-logo motions, faster deal cycle, simpler integration, aligned-EB DMU.
 
 ### Who to Identify Next (existing-client review)
-Action item for Daniel Lang + Cassie Lewis: review the 51 active Freedom clients against this filter:
-1. Has a minority C&C cohort (10–30% of reps)
-2. Has shown declining rep performance (sales, MAU, engagement) over the last 6–12 months
-3. Has an upcoming convention, annual event, or rep summit in the next 3–6 months
-4. Founder + VP Sales relationships are warm
+**Status as of May 7, 2026:** Sales team has identified 7 existing ByDesign Freedom clients (out of 51 active) with minority-C&C rep base. Qualification intake is captured in `outputs/02-hybrid-dso-qualification-questions.md` — sales team gathers answers; Cassie Lewis + Autumn Fowers run the Wayroo upsell motion on the qualifying subset.
 
-Each match is a Wayroo-recovery upsell candidate.
+Filter the 7 against this Hybrid pattern:
+1. Has a minority C&C cohort (10–30% of reps) — *confirmed across all 7*
+2. Has shown declining rep performance (sales, MAU, engagement) over the last 6–12 months — *pending qualification*
+3. Has an upcoming convention, annual event, or rep summit in the next 3–6 months — *pending qualification*
+4. Founder + VP Sales relationships are warm — *pending qualification*
+
+Each match is a Wayroo-recovery upsell candidate. The 1–2 highest-scoring accounts become the next Hybrid validation calls.
 
 ---
 
@@ -260,8 +264,8 @@ Working draft — single-account hypothesis. Refine after 2+ additional Hybrid c
 ## Part 7: How This Feeds Into the Full GTM Strategy
 
 ### Phase 2 Outputs to Build Now (or Soon)
-- **Existing-client review (Daniel + Cassie):** Filter 51 Freedom clients for Hybrid profile (minority C&C + recent decline + upcoming event). Output: ranked list of Wayroo-recovery upsell candidates.
-- **Hybrid DSO discovery guide:** Customized question set for existing-client upsell conversations. Lead questions: *"Where are your sales and engagement trends today?"* and *"Do you have an upcoming convention or annual event?"*
+- **Existing-client review (sales team identifies, Cassie + Autumn execute upsell):** 7 candidates already identified from the 51-account base as of May 7, 2026. Qualification intake template at `outputs/02-hybrid-dso-qualification-questions.md`. Output: ranked list of Wayroo-recovery upsell candidates.
+- **Hybrid DSO discovery guide:** Customized question set for existing-client upsell conversations — already captured in the qualification questions file. Lead questions: *"Where are your sales and engagement trends today?"* and *"Do you have an upcoming convention or annual event?"*
 
 ### Phase 3 Output to Create (When 3rd Hybrid Account Confirms)
 - `03-hybrid-dso-customer-archetype.md` — Distinct customer archetype for Hybrid DSO segment with two-EB DMU, decline-driven why-now, convention forcing function
@@ -270,11 +274,14 @@ Working draft — single-account hypothesis. Refine after 2+ additional Hybrid c
 - Update `06-positioning-*` to add a Hybrid DSO track alongside Standard DSO and C&C DSO
 - The Recovery Story pillar is the lead — it doesn't currently exist anywhere in Wayroo positioning
 
-### Sales Enablement (SDR Agent)
-- Add to Daniel's discovery question set: *"Where are your rep sales and engagement trends today?"* (decline check)
-- Add: *"When is your next convention or annual event?"* (forcing function check)
-- Add to existing-client review motion: a quarterly check across the 51 Freedom clients for decline signals — proactive Wayroo-upsell pipeline
-- Build a "Decline-Driven Existing-Client Wayroo Upsell" playbook: discovery script + positioning hook + convention-aligned implementation timeline + pilot cohort approach
+### Sales Enablement
+- **Hybrid DSO discovery questions** — reusable across roles: Cassie + Autumn for existing-client Wayroo upsells; Daniel for net-new Freedom prospects who could become future Wayroo upsells. Full intake at `outputs/02-hybrid-dso-qualification-questions.md`. Lead questions:
+  - *"Where are your rep sales and engagement trends today?"* (decline check)
+  - *"When is your next convention or annual event?"* (forcing function check)
+  - *"What percentage of your reps sell from personal inventory vs. catalog orders?"* (C&C share check)
+- **Existing-client review motion** — quarterly check across the 51 Freedom clients for decline signals as a proactive Wayroo-upsell pipeline. Sales team identifies; Cassie + Autumn run upsell motion.
+- **"Decline-Driven Existing-Client Wayroo Upsell" playbook** — discovery script + positioning hook + convention-aligned implementation timeline + pilot cohort approach. Owners: Sam Atieh (positioning + assets) + Cassie Lewis + Autumn Fowers (deal motion).
+- *Routing note:* Do not route Wayroo upsell next-steps through `sdr-agent` — that skill is scoped to Daniel's Freedom motion.
 
 ### Cross-Skill Asset Re-Use (Already Owed to Color Street, Now Doubly Required)
 - **Spendback one-pager (Sam Atieh)** — write once, use for both Color Street follow-up and Jordan Essentials Economic Buyer pitch. Include Paparazzi cost-savings math.
@@ -305,16 +312,16 @@ These are now confirmed across both the Cash & Carry segment (Color Street) and 
 
 ---
 
-## Status & Confidence (May 6, 2026)
+## Status & Confidence (May 9, 2026)
 
-- **Segment existence:** **LOW–MEDIUM** — single account; pattern is internally consistent and named explicitly by both EBs, but pattern density across the 51 Freedom clients is unverified
-- **Buying motion (recovery + channel-shift via convention):** **MEDIUM** — coherent and explicit at Jordan Essentials; needs second account to confirm
+- **Segment existence:** **MEDIUM** — single confirmed account (Jordan Essentials) plus 7 minority-C&C candidates identified from existing client base on 2026-05-07. Pattern density at the minority-C&C level is now confirmed; the full Hybrid pattern (decline + convention + two-EB DMU) is pending qualification.
+- **Buying motion (recovery + channel-shift via convention):** **MEDIUM** — coherent and explicit at Jordan Essentials; pending validation against the 7-account candidate set
 - **DMU profile (two aligned EBs, no Tech Gatekeeper):** **LOW** — single account; existing-client status may explain the absence of a Gatekeeper
 - **Cross-account validated features (customer auto-creation, Spendback):** **HIGH** — confirmed in two segments
 - **"No FTC lead" hypothesis for Hybrid DSOs:** **LOW** — single negative finding; needs explicit compliance test in next Hybrid call
 - **Channel-shift adoption thesis (POS + media library → more vendor events):** **LOW** — buyer-constructed bet; post-deal outcome is unproven
 
-**Promote to a named ICP segment when:** A third Hybrid DSO account confirms the pattern — same buying motion, same two-EB profile, same convention-driven timeline, same lead value prop.
+**Promote to a named ICP segment when:** 2+ accounts from the 7-candidate set confirm the full pattern — same buying motion (decline-driven recovery + channel-shift), same two-EB profile (Founder + VP Sales aligned), same convention-driven timeline, same lead value prop resonance (customer auto-creation + Spendback + rep performance dashboards).
 
 ---
 
