@@ -1,7 +1,8 @@
 # Cash & Carry DSO — ICP Intelligence Capture
-**Source:** Color Street + Wayroo Demo, May 1, 2026  
-**Frameworks applied:** Phase 2 (Collecting Intelligence) + Phase 3 (Validating Customers) + Phase 6 (Crafting Positioning)  
-**Status:** Single data point — validates the segment hypothesis, requires 4+ additional C&C DSO interviews before GTM commitments
+**Source:** Color Street + Wayroo — May 1, 2026 (product demo) + May 6, 2026 (technical scoping follow-up)
+**Last updated:** May 9, 2026
+**Frameworks applied:** Phase 2 (Collecting Intelligence) + Phase 3 (Validating Customers) + Phase 6 (Crafting Positioning)
+**Status:** Single account validated across two calls — segment hypothesis substantially confirmed at C-suite level; 4+ additional C&C DSO interviews still required before GTM-wide commitments. Path B integration architecture endorsed by CTO; deal moved from "blocked on Shopify integration" to "proposal preparation" post-May-6.
 
 ---
 
@@ -13,15 +14,18 @@ Color Street's buying process involves at least two distinct roles with differen
 
 | DMU Role | Person | Title / Signal | What They Care About | GTM Implication |
 |----------|--------|----------------|----------------------|-----------------|
-| **Technical Gatekeeper / Blocker** | Edmond Kim | Tech/Ops lead | Integration with Shopify stack, SSO, payment separation, no isolated apps | Must lead with integration story, not features. He will kill the deal if the stack doesn't fit. |
-| **Field Champion / Influencer** | Brick B | Distributor/Field Relations | Stylist experience, brand feel, "does this work for our ladies" | He coined "Color Street Stash" in real time — he will sell this internally if Edmond's blockers are resolved. High influence over the actual stylist base. |
-| **Internal Validator (ByDesign)** | Cassie Lewis | Sales / Account Exec | Relationship continuity, demo credibility | She IS a Color Street rep — used as live proof. Bridges the trust gap. Strategic asset to keep in every follow-up. |
-| **Solution Champion (Wayroo)** | Autumn Fowers | Product Demo Lead | Technical feasibility, Shopify API, Spendback | Carries the credibility of LuLaRoe lineage. Needs to own the Shopify integration scoping. |
+| **Technical Gatekeeper at C-suite level** | Edmond Kim | **CTO** (confirmed May 6) | Integration architecture, "two sources of truth" sync issues, SSO + profile flow-through, payment separation | Systems-of-record mental model; CTO-level architectural veto. Endorsed Path B (Wayroo ↔ commission engine) on May 6 — deal materially de-risked. Must be in every technical scoping conversation. |
+| **Economic Buyer + Field Champion (combined)** | Brian B (Brick) | **CEO** (confirmed May 6) | Stylist experience, brand feel, field activation, deal economics, MVP scope discipline | Owns budget AND coined "My Stash" unprompted. CEO-level field champion is unusual — compresses buying cycle but raises stakes per call. Reframes operational/tech questions to sales-activation framing ("I see this as a sales tool"). Volunteered the 80/20 hobbyist disclosure on May 6 — major deal-economics reshape. |
+| **Internal Validator (ByDesign)** | Cassie Lewis | Sales / Account Exec — *also a live Color Street stylist* | Relationship continuity, demo credibility, rep-perspective framing | She IS a Color Street rep — live proof on demand. Provided sales-script-quality verbal framing of pre-sell economics on May 6 (*"she's already made her money back before the items even get to her door"*). Strategic asset; keep in every follow-up. |
+| **Solution Champion (Wayroo)** | Autumn Fowers | Product Demo Lead / Wayroo sales | Technical feasibility, Path B integration, Spendback delivery, ProPay rate quote | Carries LuLaRoe lineage credibility. Owns Path B scoping and ProPay portfolio rate quote (open deliverable). |
 
-### Buying Motion Type: **Top-Down blocked by Technical Gatekeeper**
-- Brick is the internal champion but Edmond controls architecture decisions
-- Deal will not close until Edmond's Shopify integration concern is resolved
-- Strategy: Separate the champion track (Brick) from the technical track (Edmond)
+**DMU shape note:** Two-person C-suite DMU (CEO + CTO) — no third stakeholder (no VP Sales, no Field Ops Director, no CFO surfaced). The full buying committee for Color Street is two C-suite executives. **Two-track proposal architecture required** — technical track for Edmond, sales-enablement / financial-economics track for Brian.
+
+### Buying Motion Type: **Two-Person C-Suite DMU — Path B Integration Endorsed (May 6)**
+- Brian (CEO) is the internal champion AND economic buyer
+- Edmond (CTO) controls architecture decisions; "two sources of truth" sync anxiety drove his May 1 Shopify-integration insistence
+- **Path B integration architecture (Wayroo ↔ commission engine, NOT direct Shopify) endorsed by CTO on May 6** — Edmond: *"we would replicate the API and just have it directed to your endpoint, so that makes sense."* Deal moved from "blocked on Shopify integration" to "proposal preparation."
+- Strategy: Two-track proposal — technical track (Edmond) + sales-enablement / financial-economics track (Brian). Same deal, different argument lens.
 
 ### What This Means for Sales Process
 1. **Two-track follow-up:** Send Brick the vision/experience content ("My Stash" concept deck), send Edmond a technical scoping proposal (Shopify API integration plan)
@@ -186,11 +190,15 @@ Not call-specific — this is a structural product differentiator relevant to ev
 
 ### Tier 3: Unfinished Business (High Potential, Not Fully Explored)
 
-**9. Spendback**
-- Signal: Edmond asked about it, ran out of time
-- What it does: Gives stylists instant access to their wholesale purchasing credit
-- Why it matters for C&C: Cash-and-carry reps need fast capital turnover — Spendback directly solves the "money tied up in inventory" problem
-- Action: Lead agenda item in follow-up call
+**9. Spendback — UPGRADED from Tier 3 (Unfinished, May 1) → CEO-Endorsed (May 6)**
+- Signal (May 6): Brian (CEO) endorsed unprompted, did the savings math live, volunteered HyperWallet/PayQuicker analogy
+- Verbatim: *"That's great. And that's simply an integration. We just have to set it up as a payment type that they're allowed to use."* — Brian B, CEO
+- Industry analogy from Brian: *"if we had half people doing that, it's the same as we pay commissions through a payment processor, right? And they have what it's just like hyperwallet or pay quicker or any of those."* — sales-script-quality framing for any DSO CEO who already understands commission payment processors. Capture for reuse.
+- What it does: Routes rep wholesale orders ProPay-to-ProPay (off Visa/MC rails). DSO processing fee drops from ~3% (Shopify) to 1% (Wayroo Spendback). Net DSO savings: ~2 percentage points per Spendback transaction.
+- Why it matters for C&C: C&C reps build ProPay balances from retail customer sales → those balances fund their next wholesale orders → closed-loop economy. Especially valuable for DSOs whose stylists pay full retail (Color Street's flat-retail-rebate model) where margin is tight.
+- **Three-account validated:** Paparazzi (existing client, quantified savings) + Jordan Essentials (Nancy: "big benefit") + Color Street (Brian, May 6, full endorsement). Promote in `prospects/_index.md` and `my-gtm-context.md` Section 4 from headline cost-savings value prop.
+- **Path B integration dependency (open):** Spendback may not work through Shopify checkout (Shop Pay revenue protection). Path B integration (Wayroo ↔ commission engine) likely bypasses this constraint entirely — Spendback runs through commission engine, not Shopify. Confirm during Path B technical scoping.
+- **Open deliverable:** Spendback 2-slide internal-alignment artifact (Sam Atieh) — reframed from feature explainer to CFO-targeting artifact. Lead with cost-savings math + rep incentive design pattern + Path B dependency. Now blocking three deals — write once, deploy three times.
 
 **10. Rep-to-Rep Wholesale Inventory Transfers — Confirmed, Common Workflow**
 - Signal: Brick confirmed this is constant and common in C&C DSOs — **upgraded from Tier 3 to confirmed**
@@ -216,9 +224,13 @@ Before building GTM motion around this segment, these assumptions need validatio
 | 6 | "Function over fashion" (low white-label appetite) is typical for C&C DSOs | 2 | 3 | Medium | Validate in next interviews |
 | 7 | Rep-to-rep transfers are common across C&C DSOs, not just Color Street | **4** | 3 | Medium | Elevated from 2→4. Brick: confirmed as constant/common at Color Street, especially when SKUs run low. Still validate segment-wide in next 4+ interviews, but strong confidence for C&C DSOs as a category. |
 | 8 | Transaction-fee-only pricing is preferred over SaaS by C&C DSOs | 2 | 4 | **Revised** | Dual model (SaaS + transaction fee) is viable if feature set justifies it — C&C DSOs have high in-person transaction volume and unique feature needs. Explore in next discovery calls. |
+| 9 | C&C DSOs have ~80% personal-consumption hobbyists / ~20% real selling reps among "active stylists" | 2 | 5 | **High — NEW** | Brian B (Color Street CEO, May 6) volunteered unprompted: *"80% of our people are just the hobbyists that buy for themselves."* Single-account observation but reshapes deal economics fundamentally (real-seller cohort = MAU target, not nominal active reps). Probe in next 2–3 C&C DSO discovery calls before promoting to confirmed ICP attribute. |
+| 10 | Path B integration architecture (Wayroo ↔ commission engine, not direct Shopify) is the right pattern for DSOs running Shopify + custom commission stacks | 3 | 4 | **Medium-High — NEW** | Edmond Kim (Color Street CTO, May 6) endorsed: *"we would replicate the API and just have it directed to your endpoint, so that makes sense."* Single-account but architecturally reusable. Test in next C&C discovery call where prospect runs similar stack. |
+| 11 | Two-person C-suite DMU (CEO + CTO, no third stakeholder) is typical for large C&C DSOs | 2 | 3 | **Medium — NEW** | Color Street has a two-person C-suite DMU. Single-account observation. Watch for confirmation in next 1–2 large C&C deals before adopting two-track CTO/CEO proposal architecture as standard. |
+| 12 | Large DSOs admit operational debt at C-suite level (broken onboarding, weak notifications, rudimentary content distribution) when given an opening | 2 | 3 | **Medium — NEW** | Brian B disclosed three gaps in one May 6 call. CEO-level transparency = trust signal + Phase 2/3 expansion lever. Single account; needs second confirmation. Add discovery probe: *"Walk me through what happens in the first 30 days after a new stylist signs up."* |
 
-**Leap of Faith assumptions (High Impact + Low Certainty):** #3, #5, #6, #7 — the three original LOF assumptions (#1, #2, #4) are now confirmed.  
-**Revised focus:** Next 4+ interviews should concentrate on Shopify prevalence, white-label appetite, rep-to-rep transfer norms, and dual pricing tolerance.
+**Leap of Faith assumptions (High Impact + Low Certainty):** #3, #5, #6, #7, #9, #10, #11, #12 — the three original LOF assumptions (#1, #2, #4) are now confirmed.
+**Revised focus (post May 6):** Next 4+ interviews should concentrate on **Shopify prevalence + Path B applicability + hobbyist ratio + two-person C-suite DMU pattern + CEO operational debt admission pattern**, in addition to the original white-label appetite and rep-to-rep transfer assumptions.
 
 ---
 
@@ -308,6 +320,101 @@ Using the April Dunford framework adapted for this segment:
 
 ---
 
+## Part 6b: New Findings from Color Street May 6 Technical Scoping Call
+
+The May 6 follow-up surfaced eight findings that weren't in the May 1 demo capture. Each is captured here with its segment-level implication, not just its Color-Street-specific application.
+
+### 6b.1 Path B Integration Architecture (Reusable Pattern)
+
+For DSOs running Shopify + a custom commission engine, Wayroo has two integration paths:
+- **Path A:** Direct Wayroo ↔ Shopify (real-time, more complex, adds Shopify as sync dependency, triggers CTO "two sources of truth" anxiety)
+- **Path B:** Wayroo ↔ commission engine (simpler, Wayroo becomes downstream consumer of commission engine truth, no third source-of-truth surface)
+
+Edmond Kim (Color Street CTO) explicitly endorsed Path B on May 6: *"we would replicate the API and just have it directed to your endpoint, so that makes sense."* This is now a reusable architectural pattern for any C&C DSO running Shopify + custom commission stack — not a Color Street one-off. Path B also unlocks Spendback (which would otherwise face Shop Pay payment-method restrictions). **Should be formalized as a supported Wayroo integration model** rather than improvised per deal.
+
+**GTM implication:** When pitching DSOs on Shopify-based stacks, do not lead with "we'll build a Shopify integration." Lead with "we integrate at the commission engine layer — Shopify keeps doing what it does, your commission engine stays the source of truth, Wayroo plugs in cleanly downstream."
+
+### 6b.2 Seller-vs-Hobbyist Sub-Dimension (ICP Refinement)
+
+Brian B (CEO) volunteered unprompted that **~80% of Color Street's "active stylists" are personal-consumption hobbyists** who signed up for the 25% rebate on their own purchases — not selling to customers. Only ~20% (~4K of the 20K nominal active reps) are real selling stylists. The 80/20 split is a known direct-selling industry pattern, but rarely surfaced this explicitly.
+
+This is a sub-dimension that should be added to the C&C DSO ICP profile — independent of the C&C-vs-Hybrid-vs-Non-C&C dimension. Color Street is C&C (rep selling model is in-person personal inventory) AND hobbyist-heavy (most "active reps" don't actually sell). The hobbyist ratio drives:
+- Addressable Wayroo cohort sizing — real seller count, not nominal active reps, is the MAU target
+- Pricing model calibration — per-real-seller, not per-nominal-active-rep
+- Spendback adoption ceiling — only real sellers have ProPay balances to fund Spendback
+- Launch strategy — the active-seller cohort is the August reunion audience (hobbyists don't travel to corporate reunions)
+
+**Discovery question to add to standard sales motion:** *"What % of your active reps are actually selling to customers vs. just buying at the rep discount for personal use?"* Probe in next 2–3 discovery calls before promoting to confirmed ICP attribute. Aligns with the "Bill for real users, not nominal seats" pricing positioning angle (see 6b.7).
+
+### 6b.3 Three-Pillar FTC Compliance Framing
+
+The May 1 demo established the FTC retail-sales-documentation argument. May 6 added two more pillars, completing the structural compliance argument:
+
+1. **FTC retail sales documentation** (Pillar 1, May 1) — untracked Venmo/cash sales = no proof products reach end customers = liability
+2. **FTC contractor classification — three-pillar test** (Pillar 2, May 6) — rep must own (a) the merchant account, (b) the chargeback liability, and (c) the transaction. If the answer to all three is NO (which it is on Shopify with single DSO merchant), the FTC can reclassify reps as employees, triggering payroll taxes + benefits + worker protections. Wayroo + ProPay individual merchant accounts pass all three tests simultaneously.
+3. **Tax compliance** (Pillar 3) — 1099-NEC issuance + sales tax jurisdiction tracking. Wayroo + ProPay automates 1099 from credit card sales; Wayroo cash/check report fills the gap. Rep tax filing burden drops; DSO 1099 admin burden drops; sales tax records exist for audit.
+
+**The chargeback shift** (Pillar 2 mechanism) is a CEO-level argument, not just a structural feature. Brian's *"Okay, interesting"* on May 6 was the moment he absorbed the financial liability shift implication. For DSOs at scale (5K+ reps), aggregate chargebacks across the portfolio = real ongoing cost; individual ProPay merchants distribute that exposure across thousands of independent accounts.
+
+**GTM implication:** Lead with the three-pillar argument in C&C and Hybrid DSO conversations. Document the structural reasoning (not just feature-level talking points). See `project_ftc_contractor_classification.md` memory for the contractor-classification specifics.
+
+### 6b.4 Margin-Protection Bundle for Flat-Retail-Rebate DSOs
+
+Color Street's compensation model is unusual: stylists buy from corporate at full retail (no traditional wholesale tier) and earn 25% commission as a rebate. This leaves stylists margin-thin and cash-flow-tight. Four Wayroo features pair into a unified **margin-protection narrative** for any DSO with rebate-only or rebate-heavy compensation models:
+
+| Feature | Margin Protection Mechanism |
+|---------|-----------------------------|
+| Pre-sell flow (wholesale order → automatic Wayroo inventory → invoice customers before order arrives) | Cash-flow protection — rep can recoup wholesale cost before stock arrives |
+| Consultant Cost Reimbursement (sales tax pass-through) | Tax margin recovery — rep recoups sales tax already paid on retail purchase by passing it transparently to customer |
+| Spendback (ProPay → wholesale, 1% vs 3%) | Process-fee margin recovery — DSO + rep both save processing fees |
+| ShippingEasy integration | Admin-time recovery → selling-time margin |
+
+**GTM implication:** When discovering a DSO with flat-retail or heavily-rebate-driven compensation, lead with the margin-protection bundle as a unified narrative — not four separate features. Discovery question: *"How does your stylist commission model work — wholesale discount, rebate, or both?"* — answer reveals whether the bundle frame applies.
+
+### 6b.5 Three-Way Revenue Alignment of Incentives
+
+Wayroo's revenue model (transaction-fee rev-share via ProPay, with SaaS fees that phase out at processing volume thresholds) creates a structural three-way alignment of incentives:
+- **Wayroo wins** when reps transact (revenue from processing)
+- **DSO wins** when reps transact (rev-share + retention + GMV)
+- **Rep wins** when reps transact (income)
+
+Most DSO software vendors win on subscription regardless of usage — vendor and DSO/rep incentives diverge. Wayroo's commercial model and the DSO/rep operational reality optimize for the same metric: stylist transaction volume. **This is the structural reason Wayroo's product roadmap (sell-on-the-fly, pre-sell, ShippingEasy, branded invoices, Reply-to-Buy, automated 1099) is so heavily weighted toward making stylists transact more.**
+
+Brian's CEO-level absorption of this on May 6: *"the way that Weiru makes our revenue is through credit card processing, right? And which is why the app can be so cheap for corporate and for the stylists using it."*
+
+**GTM implication:** This is a CEO-level positioning frame, not a finance-team detail. Use in C-suite conversations: *"The more your reps sell, the cheaper Wayroo gets — and we make money the same way you do."* Worth elevating in `my-gtm-context.md` as a distinct positioning principle.
+
+### 6b.6 CEO-Level Operational Debt Admission Pattern (Probationary)
+
+Brian volunteered three operational gaps in one call — broken stylist onboarding (*"someone joins, they get 4 emails"*), no rank/promo notifications (*"we're so far from that"*), rudimentary content distribution (Dropbox + email + manual Facebook). At the C-suite level. Without prompting.
+
+**This is a deal-expansion signal, not a deal risk.** Each disclosed gap is a future Wayroo expansion lever. The Wayroo account-expansion story for large DSOs is multi-phase: Phase 1 commerce loop → Phase 2 field engagement infrastructure (onboarding flows, rank notifications, training/promo nudges, Media Library).
+
+**GTM implication:** Build proposals as Phase 1 + Phase 2/3 expansion narrative. Don't try to scope all gaps into the initial deal — that violates Brian's stated MVP discipline. **Discovery probe to add:** *"Walk me through what happens in the first 30 days after a new stylist signs up — do you feel that flow is working?"* If a second large DSO admits similar operational debt, this becomes a named positioning angle: *"Wayroo as sequential rep-engagement infrastructure for large DSOs."*
+
+### 6b.7 "Bill for Real Users, Not Nominal Seats" — Pricing Positioning
+
+Brian's 80/20 hobbyist disclosure (6b.2) makes per-nominal-active-rep pricing math indefensible at CFO review. **The cleanest reframe:** *"You pay $1/month for reps who actively transact in Wayroo. Nominal stylists who don't activate aren't billed."*
+
+This aligns with Wayroo's actual revenue model (transaction-fee-driven, supplementary SaaS) and creates a categorical pricing differentiator vs. Aice / Rallyware / Shopify per-seat models. **All three competitors charge subscription regardless of activity** — Wayroo's transaction-volume-driven economic model is structurally different.
+
+**GTM implication:** Surface in pricing positioning work (Phase 5). Frame as: *"Wayroo bills for real users, not nominal seats. We make money when your reps make money."* This is a trust-building positioning differentiator on top of the cost-comparison.
+
+### 6b.8 Vintage Inventory / "Barcode Unavailable" — Catalog-Rotation Deal-Unblocker
+
+Color Street's catalog rotates (vault sales, seasonal SKUs, retired SKUs). Brian's stated objection: *"we have catalogs that go away... I don't know what would happen if they scanned... we'd have to build out all the historical."*
+
+Wayroo's three-tier inventory handling addresses this completely:
+1. **Active catalog (Shopify-synced or manual export):** Rep scans barcode → Wayroo pulls description/image/price automatically
+2. **Sell-on-the-fly:** Rep scans an item not yet in inventory at point of sale; Wayroo adds + immediately decrements (because on order). Solves the "thousands of pieces, scanning one-by-one is overwhelming" problem.
+3. **"Barcode Unavailable" / "Vintage Inventory":** Generic SKUs with corporate-set price points (Premieres tenant uses this — screenshot proof point available). For inventory too old to pull from active catalog, reps assign to a generic SKU; transaction still happens, invoice generates, history is tracked.
+
+Brian's response: *"Even that would be helpful to them, right? At least they're scanning it, they have track and it's generating an invoice, they can ship it they want, you know, they have a history. Okay."*
+
+**GTM implication:** This three-tier handling is a deal-unblocker for any C&C DSO with rotating seasonal catalogs. **Premieres tenant's Barcode Unavailable screenshot is a reusable visual proof point** — should be in standard C&C sales asset library. When prospects raise the catalog rotation objection, the answer is concrete and shippable, not roadmap.
+
+---
+
 ## Part 7: How This Feeds Into the Full GTM Strategy
 
 ### Phase 2 Outputs to Build Now
@@ -354,19 +461,38 @@ Admin time reduction is a primary metric to capture alongside the $31M revenue f
 
 ---
 
-## What to Do Next (Ordered by Leverage)
+## What to Do Next (Ordered by Leverage — Updated Post May 6)
 
-1. **Technical scoping call** — Edmond + Autumn + Wayroo tech team on Shopify API integration. This is the only path to closing Color Street.
-2. **Spendback follow-up deck** — Build a 2-slide Spendback explainer for the next call. Edmond asked. Don't let it drop.
-3. **Interview 5 more C&C DSOs** — Use the interview guide above. Validate the 3 leap-of-faith assumptions before building segment-specific GTM.
-4. **"My Stash" concept deck for Brick** — Give the internal champion enablement materials. He's already selling internally — arm him.
-5. **Lead with LuLaRoe in all C&C outreach** — Add it to the prospecting opener for any DSO with ex-LuLaRoe rep populations.
+**Status updates on prior items (May 1 list):**
+- ~~Technical scoping call~~ → **DONE May 6.** Path B integration architecture endorsed by CTO. Next: scope the commission engine API surface.
+- ~~Spendback follow-up deck~~ → **REFRAMED.** Spendback is now CEO-endorsed (Brian, Color Street May 6) AND three-account validated (Paparazzi + Jordan Essentials + Color Street). The 2-slide deliverable is now a CFO-targeting internal-alignment artifact, not a feature explainer. Lead with cost-savings math + rep incentive design pattern + Path B dependency. **Currently blocking three deals — write once, deploy three times. Highest-leverage immediate deliverable in the portfolio.**
+- "My Stash" concept deck for Brick → **Still open.** Enable the internal champion role. Brian is selling Wayroo internally; arm him.
+- Lead with LuLaRoe in C&C outreach → **Standing recommendation.**
+
+**New post-May-6 priorities (ordered by leverage):**
+
+1. **Build the Spendback 2-slide CFO-targeting artifact this week** — unblocks three deals simultaneously. Reuse the HyperWallet/PayQuicker analogy as sales-script template.
+2. **Build the deal economics dashboard model** for Color Street recalibrated around the ~4K real-seller cohort (not 20K nominal active reps). Inputs: real seller count, average ticket ($50 blended estimate, to verify), Shopify processing rate (3%), Wayroo Spendback rate (1%), SaaS fee + threshold model. Output: CFO-facing Spendback savings projection + Wayroo total cost comparison. **This dashboard format becomes a reusable Wayroo proposal artifact for all DSO deals.**
+3. **ProPay portfolio rate quote turnaround for Color Street** — Edmond explicitly asked, Autumn deferred. Required before proposal can land.
+4. **Path B integration scoping call** — Wayroo tech team + Edmond + Color Street commission engine team. Confirm API surface, data contract, sync model, and Spendback delivery via Path B (not Shopify).
+5. **Build two-track Color Street proposal** — technical track for Edmond (integration + data flows + sync model + support escalation) + sales-enablement / financial-economics track for Brian (field rollout + August 7–9 reunion launch design + stylist activation metrics + financial economics).
+6. **Interview 4+ more C&C DSOs** — interview guide should now include the May 6 probationary assumptions: Path B applicability, seller-vs-hobbyist ratio, two-person C-suite DMU pattern, CEO operational debt admission pattern. Original LOF assumptions still apply (Shopify prevalence, white-label appetite, rep-to-rep transfer norms).
+7. **Paparazzi case study** — still missing as the foundational marketing asset. Color Street's 80/20 disclosure makes the Paparazzi MAU benchmark cleaner: 4K Paparazzi MAUs ≈ 4K Color Street real sellers ≈ $31M in 2025. Now is the right time to build the case study with that benchmark explicit.
+8. **Surface positioning consistency in `my-gtm-context.md`** — ERP framing (now applied) should propagate to Wayroo website copy + outputs/06-* positioning artifacts.
 
 ---
 
-*Frameworks: GTM Strategist by Maja Voje — Phase 2 (Collecting Intelligence), Phase 3 (Validating Customers), Phase 6 (Crafting Positioning)*  
-**Updated confidence levels (post-clarification, May 3, 2026):**
+*Frameworks: GTM Strategist by Maja Voje — Phase 2 (Collecting Intelligence), Phase 3 (Validating Customers), Phase 6 (Crafting Positioning)*
+
+**Updated confidence levels (post Color Street May 6 technical scoping, May 9, 2026):**
 - Segment existence: **HIGH** — FTC mandate confirms the pain is universal, not just Color Street
 - Rep adoption with mandate: **HIGH** — Paparazzi 4,000 MAU proof confirmed
+- **Spendback as DSO cost-reduction value prop: HIGH (3-account validated)** — Paparazzi quantified + Jordan Essentials Nancy "big benefit" + Color Street Brian B (CEO, May 6) endorsement
+- **Path B integration architecture (Wayroo ↔ commission engine): MEDIUM-HIGH (CTO-endorsed at one account)** — reusable pattern, needs second-account confirmation to graduate to standard
+- **Three-pillar FTC compliance argument (retail docs + contractor classification + tax): HIGH (structural, applies universally)** — chargeback liability shift validated at CEO level (Brian: "Okay, interesting")
+- **Vintage inventory / "Barcode Unavailable" deal-unblocker: HIGH (validated solution + Premieres screenshot proof point)** — reusable for catalog-rotation-heavy C&C DSOs
+- Two-person C-suite DMU pattern (CEO + CTO, no third stakeholder) for large C&C DSOs: **LOW (probationary, single account)** — watch for second-account confirmation
+- Seller-vs-hobbyist sub-dimension (~80% hobbyist / ~20% real seller): **LOW (probationary, single account)** — probe in next 2–3 discovery calls before promoting to confirmed ICP attribute
+- CEO-level operational debt admission pattern (broken onboarding + weak notifications + rudimentary content distribution): **LOW (probationary, single account)** — Phase 2 expansion signal if confirmed at second account
 - Segment-wide feature assumptions (Shopify prevalence, WL appetite, rep-to-rep transfers): **LOW** — still need 4+ interviews
-- Dual pricing model: **MEDIUM HYPOTHESIS** — explore in next discovery calls
+- Dual pricing model: **MEDIUM HYPOTHESIS** — explore in next discovery calls; "Bill for real users, not nominal seats" emerges as a related positioning differentiator
