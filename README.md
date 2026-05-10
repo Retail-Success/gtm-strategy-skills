@@ -169,6 +169,52 @@ All outputs are saved in the `outputs/` folder so later skills can reference ear
 
 ---
 
+## Sales Utility Skills + Prospect Intelligence Loop
+
+Beyond the 12-phase methodology, two utility skills run in parallel — invoked anytime your sales team is on a call or needs outreach support:
+
+| Skill | What It Does |
+|-------|-------------|
+| `sdr-agent` | Day-to-day SDR support — account research, personalized outreach, call prep, objection handling, post-call CRM notes, follow-up emails |
+| `analyzing-call-transcripts` | Post-call intelligence capture — extracts pains by persona (with verbatim quotes), feature resonance, blockers, and GTM signal mapping. Invoke after every demo or discovery call. |
+
+### How Prospect Intelligence Flows Back Into GTM
+
+Every sales call produces structured evidence that feeds back into the canonical GTM context. Four layers, each referencing the others:
+
+```
+  Call transcript / notes
+            │
+            ▼
+  prospects/[company-slug].md         ← account-level intelligence
+            │                            (pains, feature resonance,
+            │                            blockers, key quotes, DMU)
+            ▼
+  prospects/_index.md                 ← cross-account pattern table
+            │                            (signals confirmed across
+            │                            multiple accounts)
+            ▼
+  outputs/02-*-icp-intelligence.md    ← segment-level working hypotheses
+            │   +                        (DMU, positioning variant,
+            │   outputs/02-*-qualification-questions.md   assumption map)
+            │                          ← operational assets
+            ▼                            (intake templates, discovery scripts)
+  my-gtm-context.md                   ← canonical durable insights
+                                         (pain inventory, value props,
+                                         ICP definitions, SWOT, pricing)
+```
+
+**Why this layering matters:** When a feature resonates across two accounts, it gets elevated from a prospect-file note (account-level) to a key pattern in the index (cross-account) to a named value prop in `my-gtm-context.md` (canonical). From there, every downstream skill — positioning, messaging, sales deck, battlecards, outbound campaigns — picks it up automatically the next time they run.
+
+The 12-phase methodology is the **build path**. The prospect intelligence loop is how the build stays **calibrated against real customer evidence** instead of drifting into theory.
+
+**To invoke:**
+- *"Help me prep for my call with [account]"* — runs `sdr-agent`
+- *"Analyze this transcript"* (paste it) — runs `analyzing-call-transcripts`
+- *"What patterns are we seeing across our prospects?"* — reads `prospects/_index.md` directly
+
+---
+
 ## FAQ
 
 **Do I need to be technical?**

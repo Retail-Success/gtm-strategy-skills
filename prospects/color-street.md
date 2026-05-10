@@ -343,7 +343,6 @@ Brick's reaction to the combination of (1) replicated site management, (2) intui
 | Schedule Path B integration scoping call (Wayroo ↔ commission engine API surface + data contract) | Cassie Lewis → Autumn Fowers + Edmond Kim | ASAP |
 | Provide ProPay portfolio rate quote + side-by-side rate calculator vs. Shopify/Shop Pay | Wayroo + ProPay team → Autumn Fowers | Before proposal |
 | Build deal economics model with 4K real-seller cohort recalibration (SaaS pricing math + Spendback savings projection + Paparazzi MAU comparison) | Sam Atieh + Autumn Fowers | Before next conversation |
-| Spendback 2-slide internal-alignment artifact (CFO-targeting framing — cost-savings math + rep incentive design + Path B dependency) | Sam Atieh | Before next conversation |
 | Verify average retail ticket figure with Color Street finance team | Cassie Lewis or Autumn Fowers | Before proposal |
 | Send Brian a "My Stash" concept one-pager — enable internal champion role | Sam Atieh | This week |
 | Build two-track proposal: technical track (Edmond) + sales-enablement track (Brian) | Autumn Fowers + Sam Atieh | Before proposal |
