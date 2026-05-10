@@ -315,7 +315,7 @@ DSOs already charge reps a monthly technology access fee called an eSuite fee. T
 
 ### Direct Competitors
 
-**Exigo** — Largest player. Enterprise MLM back-office platform. Strong: established brand, deep comp engine. Weak: no native mobile selling app; reps are an afterthought. Market position: back-office only. Wayroo is additive to Exigo, not a rip-and-replace, which lowers DSO adoption risk.
+**Exigo** — Largest player. Enterprise MLM back-office platform. Strong: established brand, deep comp engine. Has a native mobile rep app (correction May 9, 2026 — prior version of this document incorrectly stated Exigo has no rep app). Differentiation vs. Wayroo: the **scope and tier of Exigo's rep app vs. Wayroo's ERP-tier scope (inventory + orders + payments + financial records + shipping + storefront)** — competitive research outstanding to confirm Exigo rep app feature scope, per-rep merchant account model, and POS depth. Wayroo's structural advantages likely hold (per-rep ProPay merchant accounts, native Freedom comp engine integration, three-pillar FTC compliance, LuLaRoe lineage) but the "Exigo has no rep app" claim is wrong — do not use it. Market position: back-office + lighter rep app. Wayroo is additive to Exigo for DSOs that want ERP-tier rep infrastructure on top of their existing back office.
 
 **Aice** — Growing rep-facing platform. Strong: AI tools, modern UX, social selling features, $15M raised March 2026 earmarked for AI. Weak: ecommerce requires a Shopify integration (extra cost, extra complexity, split rep experience — no native POS). Threat: if Aice locks up 3–5 mid-market DSOs in the next 6 months, it creates reference anchors. Monitor closely.
 

@@ -27,7 +27,7 @@ What does a DSO use today instead of Wayroo + Freedom? This includes direct comp
 
 | Alternative | What It Does | Why It Fails DSOs |
 |-------------|-------------|---------------------|
-| **Exigo** | Established DSO back office (largest in category) | No native mobile rep app; reps are an afterthought; legacy UI; reps build their own tooling on top |
+| **Exigo** | Established DSO back office (largest in category) — *has a native mobile rep app* | Strong back office and comp engine. Has a rep mobile app, but the **scope and tier of that rep app is the differentiation question** (likely lighter / CRM-tier vs. Wayroo's ERP-tier scope: inventory + orders + payments + financial records + shipping + storefront). **Open competitive research:** confirm Exigo rep app feature scope, per-rep merchant account model (likely absent), and POS depth. Do not claim "Exigo has no rep app" — that's incorrect. |
 | **Custom-built stack** (Color Street model) | DSO's own commission engine + Shopify front-end | Custom build is real engineering work; integration becomes "two sources of truth" sync issues; maintenance burden ongoing; reps still get no rep-side platform |
 | **Shopify** (Freedom alternative) | Ecommerce + rep storefront platform | 3% processing rate (highest in category); single DSO merchant account = full chargeback liability across every rep; built for ecommerce, not direct selling — no comp engine, no party plan, no DSO compliance tooling |
 | **Aice** | Rep-facing platform with AI tools and modern UX | Ecommerce requires a Shopify integration → inherits Shopify's 3% fee burden and single merchant model; no native POS; rep experience splits across Aice + Shopify + ProPay + comp engine |
@@ -149,14 +149,10 @@ Wayroo is **the rep business operating system** — ERP-tier scope (inventory + 
 
 ### Step 6: Relevant Trends
 
-Three trends that make this timely:
+Three trends that make this timely. **Note on trend prioritization:** The order matters. Lead with what's *felt* by the buyer daily, not just what's *true*. FTC enforcement is real but not felt urgently by most DSO leaders day-to-day; rep tool fragmentation and Shopify cost burden ARE felt.
 
-**1. FTC enforcement is active, not theoretical.**
-Two FTC mandates are currently being enforced against direct selling organizations:
-- **Retail-sales-documentation** — DSOs must demonstrate products reach real end customers, not just rep-loaded inventory. Untracked Venmo/cash sales are evidence gaps.
-- **Contractor-classification three-pillar test** — Reps must own (a) the merchant account, (b) chargeback liability, and (c) the transaction. DSOs that fail can be forced to reclassify reps as employees, triggering payroll taxes + benefits + worker protections across thousands of reps. *Existential cost exposure.*
-
-Every untracked rep transaction accumulates liability. This is not a future risk — it's active. Wayroo + ProPay is the structural compliance fix.
+**1. Rep tool fragmentation is the bottleneck for rep activation, retention, and DSO growth.**
+Every DSO is watching its reps cobble together Square + Venmo + Excel + PayPal + Shopify + separate invoicing apps. Reps drop tools. Reps lose customers. Reps quit because "it's too hard." DSOs measure rep activation, retention, and GMV but don't have a tool that addresses the root cause: fragmentation itself. Wayroo's one-app rep platform is the structural answer to a problem every DSO leader feels daily.
 
 **2. Shopify's TCO at DSO scale is becoming visible.**
 DSOs that adopted Shopify for "modern UX" are realizing:
@@ -167,13 +163,26 @@ DSOs that adopted Shopify for "modern UX" are realizing:
 
 The "Shopify looks modern" objection has a hidden cost the DSO is absorbing on every transaction. Wayroo's per-rep merchant model + Path B integration architecture is the structural alternative.
 
-**3. The rep-tool category is locking in.**
+**3. The rep-tool category is locking in (and FTC compliance is the structural pressure underneath).**
 - Aice raised $15M in March 2026 earmarked for AI features
 - Party Platform Solutions raised prices significantly
 - Thatcher is going bankrupt
 - Rallyware is consolidating enterprise-tier DSO sales enablement
+- And underneath all of it: the FTC is actively enforcing retail-sales-documentation and contractor-classification mandates — every untracked Venmo transaction accumulates liability, and the contractor-classification three-pillar test (rep owns merchant + chargeback + transaction) is an existential risk for DSOs running single-merchant models.
 
-The infrastructure choice DSOs make in 2026 will compound switching costs for years. DSOs that wait will find their rep base on a platform a competitor controls — and rep migration is harder than DSO-side migration.
+The infrastructure choice DSOs make in 2026 will compound switching costs for years AND determine whether the DSO passes structural FTC tests. DSOs that wait will find their rep base on a platform a competitor controls — and rep migration is harder than DSO-side migration.
+
+---
+
+### Lead Differentiator Hierarchy
+
+When pitching Wayroo + Freedom, lead in this order:
+
+1. **POS + ProPay rep transaction infrastructure** — the rep experience layer (bluetooth scanning, sell-on-the-fly, vintage inventory, three rep selling channels in one app, branded invoices, shipping). This is what's *felt* by reps daily and what CEOs reframe as "a sales tool."
+2. **Native back office ↔ rep app integration** — the architectural advantage (Freedom comp engine + Wayroo rep app + ProPay merchant, all native, no Shopify dependency, no third-party stitching). This is the CTO buying argument.
+3. **Three-pillar FTC compliance** — retail sales docs + contractor classification + tax. Strong supporting structural argument that elevates deal urgency in the late stage, but NOT the headline. Use as a close move, not an opener.
+
+This hierarchy reflects what landed across two prospect calls (Color Street May 1 + May 6, Jordan Essentials May 6). Brian B's CEO reframe ("I see this as a sales tool") is the strongest signal of how to position. Compliance language is a supporting argument, not the lead trend.
 
 ---
 
@@ -189,7 +198,7 @@ The infrastructure choice DSOs make in 2026 will compound switching costs for ye
 >
 > **Which means** your reps stop losing time and money on fragmented tools, your DSO stops absorbing 3% on every rep transaction, your customer base stops being invisible to corporate marketing, and you pass FTC contractor classification structurally — *without ripping and replacing your back office*.
 >
-> **This matters now because** the FTC is actively enforcing retail-sales-documentation and contractor-classification mandates (every untracked Venmo transaction is accumulating liability), because Shopify's TCO at DSO scale is becoming visible (3% × millions of transactions + single-merchant liability has unbounded cost), and because the rep-tool category is locking in around AI-positioned competitors — the infrastructure choice DSOs make in 2026 will compound switching costs for years.
+> **This matters now because** rep tool fragmentation is the bottleneck for rep activation, retention, and DSO growth that every DSO leader feels daily; because Shopify's TCO at DSO scale is becoming visible (3% × millions of transactions + single-merchant liability has unbounded cost); because the rep-tool category is locking in around AI-positioned competitors — the infrastructure choice DSOs make in 2026 will compound switching costs for years; and because the FTC is actively enforcing retail-sales-documentation and contractor-classification mandates underneath all of it (every untracked Venmo transaction accumulating liability, contractor-reclassification an existential cost exposure for DSOs running single-merchant models).
 
 ---
 
