@@ -2,6 +2,9 @@
   "permissions": {
     "additionalDirectories": [
       "c:\\Users\\sami.atieh\\Documents\\GitHub\\Claude---GTM\\gtm-strategist-skills\\.claude\\skills"
+    ],
+    "allow": [
+      "mcp__claude_ai_Atlassian__createJiraIssue"
     ]
   }
 }
