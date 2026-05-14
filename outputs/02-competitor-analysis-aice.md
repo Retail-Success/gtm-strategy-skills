@@ -26,7 +26,7 @@ The competitive risk that *does* exist is narrower than the surface implies — 
 | Website | [aice.cc](https://aice.cc) | [wayroo.com](https://wayroo.com) |
 | Headline | "The app for turning your side gigs into your main gig." | "One Platform That Connects Corporate Strategy to Field Action" (current — flagged for rewrite) |
 | Founder | Brian Juhl (visible CEO, public Instagram presence) | ByDesign Technologies leadership |
-| Funding | $15M raised March 2026, earmarked for AI | Bootstrapped / no disclosed raise |
+| Funding | Privately held; no verified funding disclosure | Bootstrapped / no disclosed raise |
 | Stated proof point | "20,000 new reps in 4 months" | 4,000 MAUs (Paparazzi); $31M rep sales 2025; 60%+ YoY growth |
 | Pricing model | Rep-paid PLG: $9.99 / $19.99 / $49.99 per month, self-serve | DSO-paid enterprise: $50K–$300K avg deal, $25K avg new client MRR |
 | Sales motion | Bottom-up, free trial, founder-led social marketing | Top-down enterprise, Daniel Lang–led, 4+ month cycles |
@@ -92,9 +92,9 @@ This expands the threat *and* the opportunity. The threat: Aice can grow its rep
 | Genealogy / org tree | ✅ Freedom | ❌ | Wayroo + Freedom moat |
 | Bonus runs / payout processing | ✅ Freedom ($7B+ processed) | ❌ | Wayroo + Freedom moat |
 
-**Conclusion — overlap is thinner than the prior table in `my-gtm-context.md` §6 implies.** The only real overlap surface is "contact management" (Wayroo's rep customer records vs. Aice's CRM/contacts) and "payment forms" (Wayroo's invoicing + payment links vs. Aice's Smart Forms with Shopify-routed payments). On every commerce primitive that matters — POS, inventory, payouts, FTC compliance, merchant accounts — Aice is silent. On every content/funnel/community primitive — funnels, video, scheduling, forms, Spaces — Wayroo is silent.
+**Conclusion — there is no commerce overlap.** On every commerce primitive that matters — POS, inventory, payments, payouts, invoicing, shipping, merchant accounts, FTC/tax transaction record, compensation engine — Aice is silent. On every content/funnel/community primitive — funnels, video, scheduling, forms, Spaces, community — Wayroo is silent. The two narrow surface points that look like overlap on a feature spec are different objects in practice: Aice's CRM holds *prospects and leads*; Wayroo's customer records hold *paying transacting customers*. Aice's Smart Forms *capture leads* (and can route a payment via Shopify); Wayroo's invoicing *creates a payable transaction* with a customer record, audit trail, and rep payout. Different objects, different acts, different systems of record.
 
-**The two products serve adjacent but non-competing surfaces of the rep's workflow.** This is the technical foundation of the integration thesis.
+**The two products serve adjacent, non-competing surfaces of the rep's workflow.** This is the technical foundation of the integration thesis.
 
 ---
 
@@ -124,7 +124,7 @@ The threat that does exist: **rep tool fatigue.** A rep already paying $19.99/mo
 1. **Sharp, ownable category.** "Side gig to main gig" is a clean, motivating frame for the creator-style rep. Wayroo does not have language this crisp yet.
 2. **Founder-led brand.** Brian Juhl is the public face — Instagram presence, personality-driven marketing. This earns trust in the rep market in a way enterprise SaaS struggles to.
 3. **PLG velocity.** "20,000 new reps in 4 months" — if accurate, that's a faster rep-acquisition pace than any DSO-led rollout could match. Reps adopt Aice voluntarily; they have to be mandated into Wayroo.
-4. **Funded for AI.** $15M raised March 2026 specifically for AI. Aice's "AI Assistant" is already in the Pro tier; expect more.
+4. **AI surface is shipping.** AI Assistant is live in the Pro tier today; "AI for content" is part of the active positioning. Wayroo has nothing equivalent in market.
 5. **Project Broadcast integration is bundled at the entry tier.** This is a strong indicator of either ownership/lineage or strategic alliance — and creates a Project Broadcast → Aice → Shopify funnel that already works without ByDesign.
 6. **Community / Spaces feature.** Real differentiation for upline-led MLM training and downline community management. Wayroo has nothing here.
 7. **Low-friction pricing.** $9.99 entry, $19.99 most popular. A rep can subscribe in two clicks. The 30-day money-back guarantee removes risk.
@@ -202,7 +202,7 @@ The integration thesis is sound: the surfaces are non-overlapping, the buyers ar
 1. **Shopify dependency leakage.** Aice routes ecommerce through Shopify. If the integration is structured naïvely, Aice → Shopify → DSO is the default flow inside ByDesign accounts, undercutting Wayroo's "no Shopify dependency, lower processing fees, no DSO chargeback liability" positioning. The integration must explicitly route ecommerce conversions through Wayroo, not Shopify, when both products are present.
 2. **Rep tool fatigue and budget capture.** A rep already paying $19.99/mo for Aice may resist adopting Wayroo if the experience feels redundant. Adoption messaging must clearly demarcate: Aice = how you market, attract, communicate; Wayroo = how you sell, get paid, ship, comply. If reps perceive overlap, adoption suffers and the DSO loses confidence.
 3. **Brand association.** Aice's broad "side gig" positioning brings a creator/influencer aesthetic that some Tier 1 enterprise DSOs (Mary Kay-class) may want distance from. Wayroo's brand association with Aice should be deliberate — opt-in marketing, not always-on co-branding.
-4. **Dependency on Aice's roadmap.** Aice has $15M for AI but a sparse public infrastructure (3-employee Pillars connector, founder-led marketing, 404'd /about and /features pages). If Aice pivots, raises poorly, or Brian Juhl steps back, ByDesign deals tied to the Aice integration are exposed. Mitigation: integration should be additive, not load-bearing — no Wayroo deal should require Aice to be in the stack.
+4. **Dependency on Aice's roadmap.** Aice has sparse public infrastructure (3-employee Pillars connector per DSU notes, founder-led marketing, 404'd /about and /features pages). If Aice pivots, slows, or Brian Juhl steps back, ByDesign deals tied to the Aice integration are exposed. Mitigation: integration should be additive, not load-bearing — no Wayroo deal should require Aice to be in the stack.
 5. **Cannibalization of Wayroo's contact-management and invoicing surface.** Aice's Smart Forms + payments and Contact Management features touch Wayroo's invoicing-with-payment-links and customer-record features. The integration should treat Wayroo as the system of record for paid transactions and customer commerce data, with Aice as the system of record for top-of-funnel leads.
 
 ### The three guardrails
@@ -236,7 +236,7 @@ The fastest learning available right now is *why Bravenly chose Aice over Wayroo
 
 ### C. Watch Aice's mid-market DSO motion closely
 
-If Aice closes 3–5 mid-market DSOs in the next 6 months and locks them into the Aice → Shopify pattern, those accounts become harder for Wayroo to enter later. Aice's $15M war chest funds exactly this motion. The integration agreement is partial defense; a faster Wayroo pipeline build in mid-market DSOs is the rest.
+If Aice closes 3–5 mid-market DSOs in the next 6 months and locks them into the Aice → Shopify pattern, those accounts become harder for Wayroo to enter later. The integration agreement is partial defense; a faster Wayroo pipeline build in mid-market DSOs is the rest.
 
 ### D. The "AI parity on Wayroo's surface" point from the Rallyware analysis applies here too
 
@@ -252,11 +252,11 @@ Aice has demonstrated that reps will pay for software they perceive value in ($9
 
 - [ ] **Conduct the Bravenly customer interview** — proposed in the Partnership Model - AICE Confluence page; do this before signing any integration agreement. Goals: understand why Bravenly chose Aice, what pain Aice solves that Wayroo did not, and whether the loss was category fit, positioning failure, pricing, or product gap.
 - [ ] **Discovery call with Brian Juhl / Aice corporate team** — surface their integration appetite, technical scope they have in mind, and how they characterize Wayroo (competitor vs. complementary). The first 30 minutes of this call answers whether the partnership is real or theatre.
-- [ ] **Update `my-gtm-context.md` §6 Aice entry** with the corrected positioning (creator/funnel/community/CRM, not just "AI/social selling"), the rep-paid PLG model, the $15M raise, and the "thin commerce overlap, deep top-of-funnel surface" frame. (I can do this in the next turn if you want.)
+- [x] **Update `my-gtm-context.md` §6 Aice entry** with the corrected positioning (creator/funnel/community/CRM, not just "AI/social selling"), the rep-paid PLG model, and the "no commerce overlap, deep top-of-funnel surface" frame. (DONE — May 7, 2026)
 - [ ] **Draft a one-page integration term sheet** with the three guardrails as starting positions for the Aice negotiation: Wayroo as commerce route, customer records flow at conversion, lead-share + integration fee monetization model.
 - [ ] **Battlecard refresh** — when one is built, the Aice section should distinguish between "Aice is a rep tool reps already use; we integrate with it" and "Aice is a competitor we displace." Today, the team is conflating these.
 - [ ] **Phase 6 positioning** — capture Aice's "turn your side gig into your main gig" framing as a rep-side language reference for the Track 2 GTM development (currently TBD).
-- [ ] **Fluid + Aice signal monitoring** — both raised $15M in March 2026. Track headcount adds, new logos, ad activity, and content cadence quarterly. Same monitoring template as Task 7 (Mood Boards).
+- [ ] **Aice signal monitoring** — track headcount adds, new DSO logos, ad activity, content cadence, and any funding announcements quarterly. Same monitoring template as Task 7 (Mood Boards).
 - [ ] **Confluence Wayroo Competitive Analysis page** — promote the Aice section from "pending" to populated; this document is the source.
 
 ---
@@ -268,7 +268,7 @@ Aice has demonstrated that reps will pay for software they perceive value in ($9
 - Confluence: [Partnership Model - AICE](https://bydesign.atlassian.net/wiki/spaces/~71202056f73c34df2b465b9fdc8235b589397f/pages/346619906/Partnership+Model+-+AICE) (April 6, 2026)
 - Confluence: [Dan - Aice DSU Follow Up Meeting](https://bydesign.atlassian.net/wiki/spaces/~71202056f73c34df2b465b9fdc8235b589397f/pages/385351681/Dan+-+Aice+DSU+Follow+Up+Meeting) (April 21, 2026)
 - `my-gtm-context.md` §6 — competitive landscape baseline
-- Public funding signal: Aice $15M raised March 2026, earmarked for AI (per `my-gtm-context.md` §6)
+- (No verified funding disclosure for Aice; prior `my-gtm-context.md` §6 figure removed pending source confirmation)
 
 ---
 

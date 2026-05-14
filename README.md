@@ -215,6 +215,52 @@ The 12-phase methodology is the **build path**. The prospect intelligence loop i
 
 ---
 
+## Existing Clients with Active Motion — the `accounts/` Folder
+
+`prospects/` covers **net-new acquisition**. But existing clients can also have an active strategic motion that doesn't fit there: a Wayroo-sell into a Revolution client, a churn-risk retention play, a partnership catalyst role, an expansion into a new geography. Those live in `accounts/`.
+
+### Why the distinction matters
+
+Treating an existing client as a "prospect" misframes the work. The sales motion, available levers, stakeholder dynamics, and risks are different — these accounts already have contracts, incumbent products, account history, support relationships, and switching costs to navigate. Mixing the two folders leaks the wrong framing into how the team approaches the account.
+
+| Folder | What it holds | Typical motion |
+|---|---|---|
+| `prospects/` | Companies with no existing ByDesign commercial relationship | Cold/early-stage acquisition — sourced by `sdr-agent`, intelligence captured by `analyzing-call-transcripts` |
+| `accounts/` | Existing ByDesign clients with active Wayroo-sell, retention, expansion, or partnership-catalyst motion | Retention, expansion, repositioning, multi-product cross-sell |
+
+### When to create an `accounts/[slug].md` file
+
+Create one when an existing client has any of:
+- An active Wayroo-sell motion (we want them to adopt Wayroo)
+- Churn risk requiring a retention play
+- A partnership catalyst role (the account is the forcing function behind a vendor partnership — e.g., Bravenly ↔ Aice)
+- An expansion opportunity beyond their current product footprint (Freedom → Wayroo, Revolution → Wayroo migration, Canada/international expansion via ProPay, etc.)
+- A strategic risk (using a competitor's product alongside ours, building integrations to displace our surface area)
+
+Routine renewals with no expansion or risk **do not** need an `accounts/` file — account management lives in the CRM.
+
+### Document structure
+
+Each `accounts/[slug].md` should cover: status snapshot · relationship map (DMU + ByDesign owners) · current ByDesign footprint (paid, refused, worked around) · strategic situation · Wayroo opportunity sizing · the play (including vendor-partnership or roadmap dependencies) · 90-day plan · risks · success metrics.
+
+The template lives in [accounts/_index.md](accounts/_index.md). The first reference implementation is [accounts/bravenly.md](accounts/bravenly.md).
+
+### Diagnostic test
+
+Before placing a company file, ask: **Does ByDesign have an existing commercial relationship with them?**
+
+- **Yes** → `accounts/`
+- **No** → `prospects/`
+- **Former client, now being re-prospected** → `accounts/` with a "former client, re-engagement" status header (relationship history matters more than current contract state)
+
+### How `accounts/` interacts with `outputs/`
+
+`outputs/` files (partnership program, sales deck, outbound campaign, etc.) should **point to** the `accounts/` file rather than duplicating account-specific tactical detail. Example: the Aice partnership v01 in [outputs/12-partnership-program.md](outputs/12-partnership-program.md) names Bravenly as the catalyst account and links to [accounts/bravenly.md](accounts/bravenly.md) — the full account strategy lives there, not in the partnership program file.
+
+This keeps strategic GTM docs stable while account-specific tactics evolve at their own cadence.
+
+---
+
 ## FAQ
 
 **Do I need to be technical?**

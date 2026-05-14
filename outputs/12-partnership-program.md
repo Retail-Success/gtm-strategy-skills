@@ -297,6 +297,14 @@ This is the document Sam or Daniel sends to a candidate consultant when initiati
 | Customer overlap | Both pursuing similar mid-market DSOs as competitive prospects | Each side's customer base becomes a pipeline channel for the other |
 | Competitive differentiation matrix | Aice listed as direct competitor; Wayroo wins on cost + commerce depth | Aice removed from direct-competitor row; combined offering competes against Rallyware + Shopify + status quo |
 
+### Catalyst Account: Bravenly
+
+Bravenly is the active forcing function behind the Aice partnership and the first joint use case that determines whether the partnership produces revenue or just press. Bravenly is an existing ByDesign Revolution client (churn risk), a Wayroo prospect (we've been unable to sell), and the account where Aice has requested ByDesign API access — making it the natural pilot for the trade structure described below.
+
+**Full account strategy lives in [accounts/bravenly.md](../accounts/bravenly.md)** — including the API-access-for-Wayroo-integration trade, the five written conditions before access is granted, the 90-day plan, risks, and success metrics. The partnership program references that doc rather than duplicating it.
+
+The Bravenly trade is the **template** for Aice concessions going forward: any API access, data sharing, or product concession to Aice should be conditioned on integration + co-pitch deliverables on Aice's side, not granted unconditionally.
+
 ### Partnership Structure (Working Hypothesis — Subject to Negotiation)
 
 This is what we'd want from the partnership; final terms TBD with Aice.
@@ -348,8 +356,9 @@ This is what we'd want from the partnership; final terms TBD with Aice.
 | 1–14 | Sweep all Wayroo GTM files for Aice references; update from "competitor" to "partner" framing | Sam Atieh (use implementation list in `project_aice_partnership_pending.md`) |
 | 15–30 | Sales enablement: train Daniel Lang + Cassie Lewis + Autumn Fowers on the Aice + Wayroo joint positioning; build joint sales deck | Sam Atieh + Daniel Lang |
 | 15–45 | Technical integration: define API surface; build initial Aice ↔ Wayroo data exchange | ByDesign tech team + Aice tech counterpart |
-| 30–60 | Identify 5 joint pilot customers — DSOs where Aice is current or considering Aice + Wayroo can plug in immediately | Daniel + Cassie + Aice sales counterpart |
-| 60–90 | First joint customer goes live; capture joint case study material | Account team |
+| 0–30 | **Bravenly catalyst deal** — see [accounts/bravenly.md](../accounts/bravenly.md) for full 90-day plan, trade structure, and success metrics. Finalize API-access-for-integration-and-co-pitch trade with Aice; ByDesign + Aice joint pitch for Wayroo on the 20% C&C rep base | Sam Atieh + Daniel Lang + Aice counterpart |
+| 30–60 | Identify 4 additional joint pilot customers beyond Bravenly — DSOs where Aice is current or considering and Wayroo can plug in immediately | Daniel + Cassie + Aice sales counterpart |
+| 60–90 | Bravenly goes live as first joint customer; capture joint case study material; measure Wayroo transaction revenue lift and C&C rep share movement | Account team |
 | Ongoing | Monthly joint partnership review | Sam + Aice partnership lead |
 
 ### Decision Point When Aice Partnership Confirms
@@ -375,6 +384,9 @@ This is what we'd want from the partnership; final terms TBD with Aice.
 | Aice's existing customers feel forced into Wayroo when Shopify is what they wanted | Joint sales conversations frame Wayroo as the recommended integration, not the only option; existing Aice + Shopify customers continue uninterrupted |
 | Partnership creates internal confusion in the sales team about when to position Aice as competitor vs. partner | Clear cutover date when partnership signs; all sales materials updated within 14 days; weekly Q&A standups for first 30 days |
 | Conflict-of-interest with consultant referral program partners who have ties to other AI vendors | Consultant program conflict clauses already exclude competitors; Aice partnership doesn't change consultant program structure, only the competitive landscape it operates in |
+| Bravenly accepts Aice API access, then Aice doesn't deliver the Wayroo integration or co-pitch commitment | API access conditioned in writing on integration + co-pitch deliverables; access revocable; integration scope defined in v01 contract before access is granted |
+| Granting Aice API access accelerates Bravenly's Revolution displacement without offsetting Wayroo revenue capture | Trade is structured so Wayroo transaction revenue on Bravenly's 20% C&C base activates in the same window as the integration; Avalara + Dropship roadmap timing closes the non-C&C objection; Canada expansion via ProPay is a parallel Wayroo growth vector; Wayroo↔Revolution integration on roadmap converts Revolution displacement into Wayroo revenue over 12–24 months |
+| Other ByDesign clients see the Bravenly API-access concession and demand the same | Bravenly trade is explicitly tied to the formal Aice partnership and the integration + co-pitch deliverables; not a generic API-access policy change; communicated as a partnership pilot, not a precedent |
 
 ---
 

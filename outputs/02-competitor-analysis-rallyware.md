@@ -132,7 +132,7 @@ Rallyware does not publish pricing. Public CTA is "See Rallyware in Action" (boo
 - **Rallyware deal size:** Likely $150K–$1M+ ARR per enterprise DSO, multi-year, procurement-heavy, sales cycle 6–12+ months.
 - **Wayroo deal size:** Avg $100K (range $50K–$300K), 4+ month minimum sales cycle (per `my-gtm-context.md` §8).
 
-If Rallyware extends downward into the mid-market, expect aggressive packaging — "AI included" entry tiers designed to insert into mid-market DSO budgets that today buy Wayroo or Aice. This is the same playbook Aice ($15M raised March 2026) is running.
+If Rallyware extends downward into the mid-market, expect aggressive packaging — "AI included" entry tiers designed to insert into mid-market DSO budgets that today buy Wayroo or Aice.
 
 ---
 
@@ -244,7 +244,7 @@ This lets Wayroo enter accounts that already have Rallyware without picking a fi
 
 ### D. Defend the mid-market before Rallyware extends downward
 
-Rallyware's $22M war chest plus Aice's $15M will fund mid-market extension over the next 12–24 months. Wayroo's defense:
+Rallyware's $22M war chest, combined with growing rep-facing platforms like Aice extending from the rep tier upward, will fund mid-market extension over the next 12–24 months. Wayroo's defense:
 
 1. **Publish the Paparazzi case study now.** $31M and 60%+ growth on one DSO is the single most credible proof point in the category. Every quarter it sits unpublished, Rallyware shapes the narrative.
 2. **Lock the mid-market with a public outcome story.** A second case study (Color Street, when it closes; or an existing Bravenly/Healthy Home write-up) would compound. Rallyware has logos but lacks the rep-outcome density per logo that Wayroo can produce.
