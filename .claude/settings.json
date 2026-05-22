@@ -3,7 +3,9 @@
     "allow": [
       "mcp__claude_ai_Atlassian__createJiraIssue",
       "mcp__claude_ai_Atlassian__lookupJiraAccountId",
-      "mcp__claude_ai_Atlassian__editJiraIssue"
+      "mcp__claude_ai_Atlassian__editJiraIssue",
+      "mcp__claude_ai_Atlassian__getConfluencePageInlineComments",
+      "mcp__claude_ai_Atlassian__updateConfluencePage"
     ],
     "additionalDirectories": [
       "c:\\Users\\sami.atieh\\Documents\\GitHub\\Claude---GTM\\gtm-strategist-skills\\.claude\\skills"
