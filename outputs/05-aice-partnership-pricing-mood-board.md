@@ -8,7 +8,7 @@
 > **Dual identity.** This is a GTM Phase 5 — Setting Pricing artifact in the 12-phase strategy methodology. It serves as the pricing-primitive home for the **AiCE partnership** (feeds the WAYR-space operating docs) and a methodology artifact in its own right that future Phase-5 partnership work can reference.
 >
 > **Source:** `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`
-> **WAYR partnership docs:** [Retail Success x AiCE Partnership v4.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) · [Expansion Strategy — AiCE Channel v3.3](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) · [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681)
+> **WAYR partnership docs:** [Retail Success x AiCE Partnership v4.3](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) · [Expansion Strategy — AiCE Channel v3.3](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) · [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681)
 > **GTM parent:** [AiCE Partnership (this space)](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/450920449)
 
 **Note (2026-05-23):** Structure D was previously the Pillars 3-way bundle. That motion is retired (replaced by headless Back Office Lite delivered via Aice's dev platform — same product slot, different mechanic). Structures G and H added for Motion 8 (Developer Platform) and Motion 9 (Aice-fronted Wayroo cart for existing Aice DSOs).
