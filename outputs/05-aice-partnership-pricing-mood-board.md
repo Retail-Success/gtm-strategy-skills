@@ -1,9 +1,11 @@
 # Partnership Pricing Mood Board — AiCE Channel
 
 **Phase:** 5 (setting-pricing) — adapted for partnership commercial structuring
-**Scope:** Rev-share %, bundle pricing, 3-way splits, revenue-conditional API thresholds, cart-replacement payments rev-share
+**Scope:** Rev-share %, bundle pricing, revenue-conditional API thresholds, cart-replacement payments rev-share, headless Back Office Lite subscription, Developer Platform subscription, Aice-fronted DSO cart adoption
 **Companion:** Wayroo product pricing already established in `my-gtm-context.md` §5
-**Owner:** Sam Atieh · **Date:** 2026-05-21 · **Decision deadline:** Term sheets for Motions 1 + 2 by end of June 2026
+**Owner:** Sam Atieh · **Date:** 2026-05-22 (updated) · **Decision deadline:** Term sheets for Motions 1 + 2 by end of June 2026
+
+**Note (2026-05-22):** Structure D was previously the Pillars 3-way bundle. That motion is retired (replaced by headless Back Office Lite delivered via Aice's dev platform — same product slot, different mechanic). Structures G and H added for Motion 8 (Developer Platform) and Motion 9 (Aice-fronted Wayroo cart for existing Aice DSOs).
 
 ---
 
@@ -14,9 +16,11 @@
 | A | Referral rev-share % on Year 1 ACV | Motion 1 (AiCE → BD/Wayroo referrals) | Floor %, exclusivity premium, recurring tail |
 | B | Payments rev-share split | Motion 2 (Metrics → ProPay/Nuvei recommendation) | 2a vs. 2b split; migration kicker |
 | C | Bundle SKU price + 2-way split | Motion 3 (Wayroo + AiCE → existing BYD clients) | Bundle price; who pays for AiCE; deal-reg |
-| D | 3-way bundle split | Motion 5 (Wayroo + AiCE + Pillars lite SKU) | Lite-SKU price; 3-way split |
+| D | Headless Back Office Lite subscription (2-way) | Motion 5 (Wayroo + Aice Back Office Lite — headless via Aice dev platform) | Lite subscription price; Aice rev-share for dev-platform UI layer; lite-to-full BD upgrade path |
 | E | Revenue-conditional API fee waiver | Pillar 1 (technical integration) | Threshold $; audit cadence; paid fallback |
 | **F** | **Cart-replacement payments rev-share (Aice-fronted)** | **Motion 6 — recapture + winback** | **Aice rev-share % on payments; license discount mechanic** |
+| **G** | **Developer Platform subscription** | **Motion 8 — existing BYD clients self-serve widgets/reports via Aice dev platform** | **Monthly subscription price; per-client vs. per-seat; Aice rev-share; AI Report Builder retirement** |
+| **H** | **Aice-fronted Wayroo cart adoption (payments + license)** | **Motion 9 — Aice pitches Wayroo cart to its existing DSO clients (DSO + rep streams)** | **Aice payments rev-share %; whether 25% cap applies; combined with Motion 2 processor rev-share** |
 
 Wayroo's own product pricing (Lite/Standard/Enterprise + per-user + transaction rev-share + eSuite pass-through) is the underlying SKU economics these partnership structures sit on top of.
 
@@ -77,18 +81,29 @@ AiCE switches recommendation Metrics → ProPay/Nuvei. **2a:** new clients only.
 
 ---
 
-## Structure D — 3-Way Bundle Split (Motion 5)
+## Structure D — Headless Back Office Lite Subscription (Motion 5) **[REPLACED 2026-05-22]**
 
-"Wayroo + AiCE + Pillars" lite SKU for early-DSO startups. ~10 Pillars clients immediate TAM.
+The Pillars-3-way-bundle is retired. New Motion 5: ByDesign's genealogy + commission engines delivered **headlessly** via Aice's developer platform as a lite subscription for DSO startups. BD provides the rails; Aice provides the UI/UX.
 
-**Working assumption: lead-vendor model, Wayroo as lead.** Wayroo invoices the customer; pays AiCE and Pillars net of an orchestration margin (15–25% typical for MSP-style 3-ways).
+**What changed and why:** The headless approach removes the need for Pillars as the back-office-lite UI layer — BD becomes its own back-office-lite via the headless model + Aice dev platform. No 3-way split because Pillars is no longer in the SKU. Pillars's ~10 clients fold into Motion 1 referrals.
 
-**Don't over-engineer this.** Motion 5 is optional and small — perfect 3-way mechanics aren't worth term-sheet cycles.
+**Comparables — headless / API-first SaaS sold through partner UI:** Headless commerce SaaS (Medusa, Commerce.js, Vendure) typically prices $500–$2K/mo for the API layer with UI either built in-house or via partner. Embedded finance (Unit, Treasury Prime) uses per-account or per-transaction fees with partner-of-record margin. White-labeled SaaS sold through reseller: reseller marks up the API price 30–60%; revenue split per agreement. Closest analog is headless commerce sold through a partner UI — the Aice dev platform is the partner UI; BD's APIs are the headless layer.
 
-**Hypothesis:**
-- Lite-SKU bundle price: $3K–$4.5K/mo all-in (anchored to Wayroo's existing Lite tier $2K–$2.5K floor)
-- Split (illustrative): Wayroo 50% (orchestrator + heaviest component), AiCE 30%, Pillars 20%
-- Graduation: clients outgrowing Pillars's back-office cap upgrade to full ByDesign at full pricing — preserves long-term upside, manages cannibalization risk
+**Pricing freedom — central decisions:**
+- Lite subscription target price: anchored *below* BD Lite tier ($2K–$2.5K/mo) — wedge-priced for DSO startups. Working range: **$750–$1,500/mo all-in.**
+- Split with Aice: Aice provides the customer-facing UI/UX (real work). BD provides rails. Working split: **60–70% BD / 30–40% Aice.** BD billing entity.
+- Cannibalization mitigation: hard ceiling on lite features (rep count, advanced commission rules) forces graduation to full BD at meaningful scale.
+
+**Hypothesis range:**
+
+| Variable | Floor | Mid | Ceiling |
+|---|---|---|---|
+| Lite subscription all-in | $750/mo | $1,200/mo | $1,500/mo |
+| BD share | 70% | 65% | 60% |
+| Aice share (dev platform UI layer) | 30% | 35% | 40% |
+| Lite-to-full upgrade threshold | 25 reps | 50 reps | 100 reps |
+
+**Recommendation:** Open at $1,200/mo, 65/35 BD/Aice, upgrade trigger at 50 reps. Validate with Brian on dev platform cost-to-serve before locking.
 
 ---
 
@@ -100,7 +115,7 @@ AiCE gets Partner-tier API free as long as partnership delivers revenue. Paid Pa
 
 **Recommended structure:**
 - **Mechanic: revenue-share offset.** Net the API fee against partnership rev-share earnings. AiCE never sees a separate API invoice as long as the partnership produces; gap is invoiced only if earnings fall below the fee. Self-policing.
-- Threshold: $X annual attributed revenue across Motions 1/2/3'/9/10. Set $X at ~10–20% of Partner-tier list fee equivalent.
+- Threshold: $X annual attributed revenue across Motions 1/2/3/4/6/8/9 (any motion delivering revenue). Set $X at ~10–20% of Partner-tier list fee equivalent.
 - Audit: quarterly review, rolling 4-quarter trailing window. Paid fallback after 2 consecutive quarters below threshold.
 
 ---
@@ -176,14 +191,95 @@ ByDesign / Wayroo owns the Cart V3 integration work (Medusa base + Adyen/ProPay/
 
 ---
 
+## Structure G — Developer Platform Subscription (Motion 8) **[NEW 2026-05-22]**
+
+### Strategic context
+Aice builds a developer platform on top of BD's back-office APIs. Existing BD clients subscribe to access it and build their own widgets/reports/UI — no expensive BD custom dev. This subsumes the AI Report Builder (retired from BD's 2026 roadmap). The same platform is the UI layer for Motion 5 (Back Office Lite for startups), but Structure G is specifically for the existing 51-account BD base as a paid add-on.
+
+### Comparables — developer platform / extensibility SaaS pricing
+
+| Structure | Typical |
+|---|---|
+| **Platform-as-a-service for vertical SaaS** (Salesforce AppExchange, HubSpot Operations Hub) | $500–$2K/mo per customer + seat-based tiers |
+| **Headless commerce + extensibility (Shopify Plus apps, Contentful)** | $300–$1,500/mo per customer; usage-tiered |
+| **Enterprise low-code (Retool, Airtable Enterprise)** | $10–$50 per developer seat/mo + platform base fee |
+| **API-credit / metered model** (Twilio, Stripe) | Per-call or per-resource — less common for back-office platforms |
+
+### Pricing freedom
+- **Pricing model choice:** (a) per-client flat monthly, (b) per-developer seat, (c) tiered by widget/report count, or (d) hybrid base + per-seat. Working preference: **base + per-seat** — simple to communicate, scales with usage, avoids gaming.
+- **Aice rev-share:** Aice built the platform; BD provides the data/APIs. Aice does the heavier UI work. Working split: **50–60% Aice / 40–50% BD** (Aice share weighted higher here vs. Motion 5 because the platform IS the product).
+- **Bundling with BD subscription:** Could be a free add-on for Enterprise-tier BD clients (~$10K/mo platform tier) and paid for Lite/Standard. Validate with Morgan.
+
+### Hypothesis range
+
+| Variable | Floor | Mid | Ceiling |
+|---|---|---|---|
+| Per-client base subscription | $300/mo | $500/mo | $800/mo |
+| Per-developer seat | $25/mo | $50/mo | $100/mo |
+| Aice share | 50% | 55% | 60% |
+| BD share | 50% | 45% | 40% |
+
+**Recommendation:** Open at $500/mo base + $50/seat, 55/45 Aice/BD. Free for Enterprise-tier BD clients as a retention sweetener; paid for Lite/Standard. Validate with Morgan + Brian.
+
+### Strategic upside (non-pricing)
+- **Retires AI Report Builder from BD's 2026 roadmap** — eng capacity reallocation worth more than the subscription revenue in Year 1.
+- **First subscription-revenue line from existing BD base** without selling them new platform — pure cross-sell into installed accounts.
+
+### Open items
+- AI Report Builder retirement communication plan — which existing BD accounts were waiting on it?
+- Dev platform code ownership + termination / data portability (Legal).
+- Subscription pricing structure validation with Morgan.
+
+---
+
+## Structure H — Aice-Fronted Wayroo Cart Adoption (Motion 9) **[NEW 2026-05-22]**
+
+### Strategic context
+Aice proactively pitches the Wayroo shopping cart to its existing DSO clients — for both DSO-level (replicated site) commerce and rep-level (cash & carry) commerce. Aice acts as the channel; payments rev-share routes through Wayroo cart + ProPay/Nuvei. This stacks with Motion 2 (processor recommendation): a Motion 9 DSO will also produce Motion 2 payments rev-share.
+
+### Why this is structurally interesting
+Aice has zero distribution into the rep-cart layer at its existing DSO clients today (their reps use whatever cart the DSO provides, often Shopify or homegrown). Wayroo cart is pure additive revenue for Aice. Similar economic logic to Motion 6 (cart-replacement), but proactively pitched by Aice rather than reactive to a BYD account profile.
+
+### Comparables
+Same as Motion 6 (Structure F) — payments rev-share with partner-channel margin. Closest analog: processor-revenue-share-funded discount programs where a third party (Aice) brings the relationship and the processor pays a margin slice. The mechanic is mature; the pricing question is just the % split.
+
+### Pricing freedom
+- **Hard cap: 25% to Aice.** Same ceiling as Motion 2 and Motion 6 — applies to all AiCE payments rev-share across the partnership.
+- **DSO-level vs. rep-level split:** DSO-level (replicated site) volume is typically larger but lower margin; rep-level (C&C) is smaller volume but higher margin. Could differentiate the Aice % across the two — or simplify to a single blended %.
+- **License discount mechanic (same as Motion 6):** Aice may fund a DSO license discount out of its rev-share to ease adoption. Optional — Motion 9 likely doesn't need this since Aice is fronting the pitch to its own existing customer.
+
+### Hypothesis range
+
+| Variable | Floor | Mid | Ceiling |
+|---|---|---|---|
+| Aice share of Wayroo payments rev-share on Motion 9 volume | 10% | 18% | **25% (hard cap)** |
+| Wayroo retention | 90% | 82% | 75% |
+| License discount funded by Aice (optional) | None | None | 10% off list |
+
+**Recommendation:** Open at 15% Aice / 85% Wayroo on Motion 9 — slightly below Motion 6 because Aice is pitching to its *own existing customers* (lower friction than the 6a cart-swap mechanic). Hold 25% as ceiling only if Aice commits to a defined # of pitched DSOs in the term sheet.
+
+### Sequencing
+- Bake Motion 9 mechanic into the Motion 2 term sheet (structurally a payments rev-share extension).
+- Aice begins pitching its existing DSO client list Q3 2026 (post term-sheet).
+
+### Open items
+- Aice's existing DSO client count + transaction volume (sizing).
+- Whether DSO-level and rep-level streams get a single blended % or differentiated.
+- License discount mechanic — needed or not for Motion 9?
+
+---
+
 ## Cross-structure insights
 
 1. **Recurring beats one-time** across A, B, C — highest-LTV variants share recurring tails.
 2. **Migration kicker (2x for 12 months) is the unlock on Sub-play 2b.** Without it, AiCE CS won't do the migration work. Highest single-term LTV in the deal.
 3. **Exclusivity is worth pushing for on payments (B), not referrals (A).** Payments has higher LTV; product differentiation does the referral work for us regardless.
-4. **3-way splits should not be over-engineered.** Motion 5 is small and optional.
+4. **Headless model collapses the back-office-lite into an overnight product.** Structure D (Motion 5) no longer requires a third-party (Pillars) — BD + Aice's dev platform is enough.
 5. **Revenue-share offset** is the cleanest API-fee-waiver mechanic — self-policing, no separate invoice.
 6. **Motion 6 (cart-replacement) is structurally the strongest "why AiCE says yes" mechanic** in the entire partnership — pure additive revenue for them, with no offsetting cannibalization risk to their existing PLG.
+7. **Motion 8 (Developer Platform) retires the AI Report Builder from BD's 2026 roadmap.** Eng capacity reallocation may be worth more than the subscription revenue in Year 1.
+8. **Motion 9 (Aice-fronted DSO cart) reuses Motion 6 mechanics but at lower friction** — Aice pitches its own existing customers, no cart-swap migration required. Open at slightly lower Aice % (15%) than Motion 6 (18%).
+9. **The 25% Aice payments-rev-share hard cap applies across all payment-rev-share motions:** Motion 2, Motion 6, Motion 9. Never concede above 25% on any of them.
 
 ---
 
@@ -197,10 +293,16 @@ ByDesign / Wayroo owns the Cart V3 integration work (Medusa base + Adyen/ProPay/
 | 4 | Nuvei net margin per txn (Freedom replicated-site volume) | Morgan | Pre-June term sheet |
 | 5 | Wayroo cost-to-serve at Lite tier (Motion 5 floor) | Morgan | Pre-June term sheet |
 | 6 | AiCE corporate-paid vs. rep-paid PLG preference in Motion 3 | Brian | May 29 call |
-| 7 | Pillars revenue per client (Motion 5 sizing) | Brian (warm intro) | June |
+| 7 | ~~Pillars revenue per client~~ — **deprecated; Motion 5 no longer Pillars-based** | — | — |
 | 8 | **Bravenly commerce stack — confirm AiCE + Medusa + Metrics** | Brian / Bravenly CSM | May 29 / June |
 | 9 | **Cart V3 architecture: clean processor swap feasible on existing Medusa deployments?** | Josh | May 23 gate |
 | 10 | **Salesforce pull: BYD clients on non-Wayroo carts (6a) + ex-BYD on Shopify (6b)** | Sam | This week |
+| 11 | **(NEW) Aice's confirmed 1-2 DSOs/month close rate (Motion 1 sizing anchor)** | Brian | May 29 call |
+| 12 | **(NEW) Aice dev platform cost-to-build + ongoing maintenance (Motion 5 + 8 cost-to-serve)** | Brian | May 29 call |
+| 13 | **(NEW) Aice dev platform code ownership + termination + data portability** | Brian + Legal | Pre-June term sheet |
+| 14 | **(NEW) AI Report Builder retirement: which BD accounts were waiting on it?** | Sam (pull from SF + Product) | Pre-June term sheet |
+| 15 | **(NEW) Aice's existing DSO client count + GPV (Motion 9 sizing)** | Brian | May 29 call |
+| 16 | **(NEW) Which BD APIs the dev platform needs access to (genealogy, commissions, reporting)** | Josh + Brian | Q3 2026 |
 
 ---
 

@@ -1,18 +1,18 @@
 # Expansion Strategy — AiCE Channel
 
-**Status (2026-05-21):** v3.1 — Motion 6 (cart-replacement payments rev-share, formerly Motion 10) included. Internal motion-reference cleanup after renumbering. Companion to parent strategy v4.1. Aligned with partnership pricing mood board (Phase 5).
+**Status (2026-05-22):** v3.2 — Motion 1 expansion math sharpened with Aice's 1-2 DSOs/month close rate. Motion 5 replaced (Pillars-bundle → Wayroo + Aice Back Office Lite, headless via Aice dev platform). New Motion 8 (Developer Platform for existing BYD clients — retires AI Report Builder). New Motion 9 (Aice-pitched Wayroo cart inside existing Aice DSO clients). Companion to parent strategy v4.2.
 
-**Author:** Sam Atieh · **Date:** 2026-05-21 · **Audience:** Morgan (commercial), Gordon (marketing), Josh (eng scope), BD / sales
-**Parent doc:** Retail Success x AiCE Partnership (Integration Strategy) v4.1
+**Author:** Sam Atieh · **Date:** 2026-05-22 · **Audience:** Morgan (commercial), Gordon (marketing), Josh (eng scope), BD / sales
+**Parent doc:** Retail Success x AiCE Partnership (Integration Strategy) v4.2
 
 > **Document set — AiCE Partnership**
 >
-> * **Thesis / governance:** [Retail Success x AiCE Partnership (Integration Strategy v4.1)](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) — WAYR space
-> * **Revenue mechanics:** [Expansion Strategy — AiCE Channel v3.1](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) — WAYR space (this page)
+> * **Thesis / governance:** [Retail Success x AiCE Partnership (Integration Strategy v4.2)](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) — WAYR space
+> * **Revenue mechanics:** [Expansion Strategy — AiCE Channel v3.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) — WAYR space (this page)
 > * **Pricing primitives:** Partnership Pricing Mood Board — AiCE (Phase 5) — [GTM space](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/450920449) (publication pending)
 > * **Index:** [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681) — WAYR space
 
-**Source file (team-os GitHub workspace):** `team-os/product-development/product/strategy/expansion-strategy-aice-channel-2026-05-18.md` v3.1.
+**Source file (team-os GitHub workspace):** `team-os/product-development/product/strategy/expansion-strategy-aice-channel-2026-05-18.md` v3.2.
 
 ## Motion 1 — Referral channel (no-code, fastest)
 
@@ -20,8 +20,9 @@
 
 ### Expansion math
 
-* AiCE referrals are expected to contribute a material portion of BYD-3 in 2026; specific $ target set once term sheet rev-share % is confirmed.
-* Assume average new BD/Wayroo ACV ≈ $50–80K. A handful of referred deals materially moves the BYD-3 number.
+* **Aice closes 1-2 new DSOs per month — majority startups.** Aice has dominated the DSO startup market. Under Motion 1 those 1-2 DSOs/month become BD/Wayroo prospects via the referral path. Annualized: **12-24 referred DSOs in 2026** (conservative: 12).
+* Average new BD/Wayroo ACV ≈ $50–80K. Even at modest conversion of Aice referrals (e.g., 40-60%), a handful materially moves BYD-3.
+* Material contribution to BYD-3 ($500K new client revenue target) expected once term sheet rev-share % is signed.
 
 ## Motion 1.5 — Marketing collaboration + co-launch event
 
@@ -49,7 +50,7 @@
 ### Expansion math (illustrative — inputs unconfirmed)
 
 * Annual payments rev-share scales with migrated AiCE volume + new AiCE clients going forward. Range to be confirmed once Metrics-installed DSO count + average transaction volume are known.
-* **AiCE payments rev-share hard ceiling: 25%.** Pricing mood board hypothesis: open at 18% AiCE / 82% Wayroo; concede toward 25% only for exclusivity or aggressive 6a/6b account commitments.
+* **AiCE payments rev-share hard ceiling: 25%.** Pricing mood board hypothesis: open at 18% AiCE / 82% Wayroo; concede toward 25% only for exclusivity or aggressive 6a/6b/9 account commitments.
 
 ## Motion 3 — Wayroo + AiCE pitched to existing ByDesign clients
 
@@ -73,18 +74,33 @@
 
 This is the technical motion. Motions 1, 2, 3 don't require code; Motion 4 does. TAM is per-seller, with a multiplier path via Motion 7 (up-chain to DSO).
 
-## Motion 5 — Pillars introduction + lite back-office bundle
+## Motion 5 — Wayroo + Aice Back Office Lite (headless via Aice dev platform) **[REPLACED 2026-05-22]**
 
-**Mechanic:** AiCE introduces Wayroo to **Pillars**, a back-office-lite competitor with roughly 10 clients. Two angles:
+**Mechanic:** ByDesign offers a **lite back-office subscription** for DSO startups containing only the genealogy and commission engines, delivered **headlessly** via Aice's developer platform. Aice provides the front-end UI/UX; ByDesign provides the back-office rails. Bundled with Wayroo for rep-facing commerce.
 
-1. **Direct integration** — Wayroo integrates with Pillars. If Pillars clients adopt Wayroo, we earn payments revenue from that base.
-2. **Bundled lite offering** — "Wayroo + AiCE + Pillars" packaged as a lite back-office offering at low price point, aimed at new DSO startups that don't yet need full ByDesign back-office. This is a wedge into the very-early-stage DSO market we don't service today.
+**Why this works:** ByDesign doesn't have to build a back-office-lite UI — the headless approach + Aice dev platform creates the offering **essentially overnight**. Engineering capacity stays focused on core back-office rails, not on a new UI track.
 
-### Expansion math
+**TAM:** DSO startups too small / too cost-sensitive for full ByDesign. Includes (but isn't limited to) the ~10 Pillars clients we previously planned to reach via the Pillars-3-way-bundle (now obsolete — see "Replaces" below).
 
-* ~10 Pillars clients today. If 30–50% adopt Wayroo over 12 months, payments revenue accrues per transaction.
-* Bundled lite SKU TAM = new DSO startups we currently miss because ByDesign's full back-office is overkill / too expensive at their stage.
-* Pricing mood board hypothesis: Lite-SKU bundle $3K–$4.5K/mo all-in; 3-way split Wayroo 50% / AiCE 30% / Pillars 20%; Wayroo as lead vendor + billing entity.
+### Replaces
+
+The prior Motion 5 (Pillars introduction + 3-way "Wayroo + AiCE + Pillars" lite back-office bundle) is **retired**. The headless approach removes the need for Pillars as the back-office-lite provider — BD becomes its own back-office-lite via the headless model. Pillars's ~10 clients fold into Motion 1 as referral candidates rather than a distinct distribution motion.
+
+### Why BD says yes
+
+* Net-new product offering BD couldn't have shipped on its 2026 roadmap (no UI build required).
+* Hits a market segment (DSO startups) currently unserved by full BD.
+* Graduation path: Lite clients who outgrow the lite subscription upgrade to full ByDesign at full pricing — preserves long-term upside.
+
+### Why Aice says yes
+
+* Distribution into the DSO startup market with a real back-office under their UI layer.
+* New subscription rev-share revenue stream.
+
+### Expansion math (pricing mood board hypothesis)
+
+* Lite subscription price: TBD (anchored to a price point below current ByDesign Lite tier of $2K–$2.5K/mo to be wedge-priced for startups).
+* Rev-share split with Aice for providing the UI layer: TBD — pricing mood board working hypothesis.
 
 ## Motion 6 — Cart-replacement payments rev-share (recapture + winback)
 
@@ -140,14 +156,99 @@ This is the technical motion. Motions 1, 2, 3 don't require code; Motion 4 does.
 * 100k individual-user TAM. Conversion to Wayroo merchant + average per-seller transaction volume sizes payments revenue.
 * Up-chain conversions: of the individual users who adopt Wayroo, what % successfully push Wayroo up to their DSO? This is the multiplier on Motion 1.
 
+## Motion 8 — Developer Platform access for existing ByDesign clients **[NEW 2026-05-22]**
+
+**Mechanic:** Aice builds a **developer platform** on top of ByDesign's back-office APIs. Existing ByDesign clients subscribe (new monthly fee) to access this platform and can build their own widgets, reports, and UI elements **without commissioning ByDesign custom development**. The platform is the same surface that powers Motion 5 (Back Office Lite for startups) — sold as a paid add-on to existing BD clients.
+
+### Why this works
+
+* Cheaper than BD custom dev for the client — they self-serve their own UI/reports.
+* Faster iteration — clients control their own roadmap on top of BD's rails.
+* **Retires the AI Report Builder from BD's 2026 roadmap.** The dev platform subsumes the AI Report Builder's functionality. Eng capacity reallocated.
+
+### Why BD says yes
+
+* New monthly subscription revenue line from the existing 51-account base.
+* Eliminates expensive custom-dev burden (BD currently does most custom work in-house).
+* Removes AI Report Builder from the 2026 roadmap — eng capacity reallocated to core rails.
+
+### Why Aice says yes
+
+* New revenue stream from BD's installed base (Aice has zero distribution into existing BD clients today).
+* Aice gets a cut of the platform subscription (commercial structure TBD — pricing mood board working hypothesis).
+
+### Why BYD clients say yes
+
+* Self-service widgets and reports — no waiting on BD to scope a $50K+ custom dev project for a dashboard tweak.
+* Greater control over their own back-office UX.
+* Net cost savings versus today's custom-dev path.
+
+### Expansion math
+
+* Existing BD client base: 51 accounts.
+* If 30-50% adopt the dev platform subscription over 12 months: 15-25 paying subscriptions.
+* Per-client subscription pricing TBD — pricing mood board.
+
+### Open items
+
+* Subscription pricing structure (per-client flat fee? per developer seat? tiered by usage?).
+* Rev-share with Aice — flat platform fee, % of subscription revenue, or transaction-style.
+* AI Report Builder retirement communication plan — which existing BD accounts were waiting on it?
+* Aice developer platform code ownership + termination / data-portability terms (Legal).
+
+## Motion 9 — Aice-driven Wayroo cart adoption inside existing Aice DSO clients **[NEW 2026-05-22]**
+
+**Mechanic:** Aice **proactively pitches the Wayroo shopping cart** to its existing DSO clients — for **both** DSO-level (replicated site / corporate ecommerce) **and** rep-level (cash & carry personal inventory) commerce. Aice acts as the channel; Wayroo + ProPay/Nuvei capture payments revenue.
+
+Aice will pitch this to their existing client list (proactive Aice-side outreach, no Wayroo sales motion required at the DSO level).
+
+### Why this is distinct from Motion 4
+
+* Motion 4 targets Aice's **individual sellers / creators** (not affiliated with a DSO).
+* Motion 9 targets Aice's **existing DSO clients** — different TAM, different buyer profile.
+
+### Why this is distinct from Motion 2
+
+* Motion 2 is the payment-processor recommendation (Metrics → ProPay/Nuvei) — processor layer only.
+* Motion 9 is the **cart layer** — full Wayroo cart adoption (replicated site + rep inventory), bringing the processor along with it.
+* The two stack: Motion 9 customers also produce Motion 2 payments rev-share.
+
+### Why Aice says yes
+
+* Aice captures payments rev-share they don't have today on their existing DSO clients' transactions.
+* No incremental sales motion — Aice already has the DSO relationship; just adds a recommendation.
+
+### Why the DSO says yes
+
+* One commerce stack across DSO + reps — replicated site sales + rep C&C sales captured in the same cart.
+* No vendor swap required at the back office — Aice fronts the pitch.
+
+### Why Wayroo says yes
+
+* Captures payments revenue from Aice's existing DSO client base — accounts we have zero relationship with today.
+* Picks up DSO-level replicated-site commerce + rep-level C&C commerce in one motion.
+
+### Expansion math
+
+* Aice's existing DSO client count + average per-DSO transaction volume sizes payments revenue.
+* Each DSO that adopts produces both replicated-site (corporate) and rep-level (personal inventory) transaction streams.
+
+### Sequencing
+
+* Bake Motion 9 mechanic into the Motion 2 term sheet (structurally a payments rev-share extension).
+* Aice begins pitching its existing DSO client list in Q3 2026 (post term-sheet).
+
 ## What to do this week (W21)
 
 - [x] Save AiCE thesis PDF into `PM-OS/context-library/research/aice-thesis-2026-05.pdf` (Mon).
-- [ ] Send Brian follow-up email with questions: (a) Campfire's current payment processor, (b) size of Metrics-installed AiCE DSO base, (c) AiCE individual-seller count + commerce activity, (d) preferred rev-share structure on Motion 1, (e) joint conference / podcast slot for Motion 1.5, (f) warm intro to Pillars for Motion 5, **(g) confirm Bravenly's commerce stack (AiCE + Medusa + Metrics hypothesis), (h) reaction to Motion 6 mechanic (additive payments rev-share for AiCE in exchange for DSO license discount)**.
-- [x] Loop Morgan in on Motion 1 + 2 + 3 + **6** term-sheet drafting (one master + sub-tracks). Book 30 min this week.
+- [ ] Send Brian follow-up email with questions: (a) Campfire's current payment processor, (b) size of Metrics-installed AiCE DSO base, (c) AiCE individual-seller count + commerce activity, (d) preferred rev-share structure on Motion 1, (e) joint conference / podcast slot for Motion 1.5, **(f) commercial structure for the headless Back Office Lite (Motion 5) and Developer Platform (Motion 8) — flat % cut, per-subscription fee, tiered?**, (g) confirm Bravenly's commerce stack (AiCE + Medusa + Metrics hypothesis), (h) reaction to Motion 6 mechanic, **(i) confirm Aice's 1-2 DSOs/month close rate (Motion 1 sizing)**, **(j) Aice's existing DSO client count + transaction volume (Motion 9 sizing)**, **(k) Aice dev platform — code ownership, termination, data portability**.
+- [x] Loop Morgan in on Motion 1 + 2 + 3 + 6 + **8 + 9** term-sheet drafting (one master + sub-tracks). Book 30 min this week.
 - [x] Loop Gordon in on Motion 1.5 — marketing collab + Wayroo + AiCE co-launch event in Q3. Book 20 min this week.
-- [x] Surface Motion 4 + Motion 7 individual-seller/user onboarding requirement at the Cart V3 architecture decision gate (May 23) as a binary v1-vs-v2 scope question. **Add Motion 6 question: can Cart V3's Medusa base support a clean processor swap on existing Medusa deployments (6a feasibility)?**
+- [x] Surface Motion 4 + Motion 7 individual-seller/user onboarding requirement at the Cart V3 architecture decision gate (May 23). **Add Motion 6 question: can Cart V3's Medusa base support a clean processor swap on existing Medusa deployments (6a feasibility)?**
 - [x] Draft Motion 3 pitch deck outline — Wayroo + AiCE for existing BYD clients. Identify first 3 pilot accounts with Morgan.
 - [x] **Salesforce pull: BYD clients on non-Wayroo carts (Motion 6a candidates) + ex-BYD clients on Shopify (Motion 6b candidates).**
+- [ ] **(NEW) Retire AI Report Builder from BD 2026 roadmap.** Notify affected accounts; communicate Developer Platform (Motion 8) as the replacement path.
+- [ ] **(NEW) Scope the headless Back Office Lite (Motion 5)** — confirm which BD APIs Aice dev platform needs access to (genealogy, commissions, reporting). Josh + Sam.
+- [ ] **(NEW) Confirm Aice will proactively pitch Wayroo cart to existing Aice DSO clients (Motion 9)** — get explicit Brian commitment in May 29 call.
 
-_Generated 2026-05-18 (v1) → updated 2026-05-20 (v2) → updated 2026-05-21 (v3 — Motion 6 (cart-replacement, formerly Motion 10) added; AiCE payments rev-share hard cap at 25%; aligned with partnership pricing mood board) → updated 2026-05-21 (v3.1 — internal motion-reference cleanup after renumbering: 9→3, 3'→4, 8→5, 10→6; Metrix typo corrected to Metrics). Source: May 15 Brian/Sam meeting + AiCE thesis PDF (May 18) + W20 weekly review + May 20 parent-page inline-comment review + May 21 pricing mood board + Motion 6 surface. See parent page Retail Success x AiCE Partnership v4.1._
+_Generated 2026-05-18 (v1) → v2 (2026-05-20) → v3 (2026-05-21 — Motion 6 added) → v3.1 (2026-05-21 — renumbering cleanup, Metrix→Metrics) → **v3.2 (2026-05-22 — Motion 1 metric added (1-2 DSOs/month); Motion 5 replaced (Pillars-bundle → Wayroo + Aice Back Office Lite headless); Motion 8 added (Developer Platform, retires AI Report Builder); Motion 9 added (Aice-pitched Wayroo cart inside Aice DSOs))**. Source: May 15 Brian/Sam meeting + AiCE thesis PDF (May 18) + W20 weekly review + May 20 parent-page inline-comment review + May 21 pricing mood board + Motion 6 surface + May 22 strategic additions (headless framing, dev platform, Aice-DSO cart). See parent page Retail Success x AiCE Partnership v4.2._
