@@ -3,9 +3,15 @@
 **Phase:** 5 (setting-pricing) — adapted for partnership commercial structuring
 **Scope:** Rev-share %, bundle pricing, revenue-conditional API thresholds, cart-replacement payments rev-share, headless Back Office Lite subscription, Developer Platform subscription, Aice-fronted DSO cart adoption
 **Companion:** Wayroo product pricing already established in `my-gtm-context.md` §5
-**Owner:** Sam Atieh · **Date:** 2026-05-22 (updated) · **Decision deadline:** Term sheets for Motions 1 + 2 by end of June 2026
+**Owner:** Sam Atieh · **Date:** 2026-05-23 (updated) · **Decision deadline:** Term sheets for Motions 1 + 2 by end of June 2026
 
-**Note (2026-05-22):** Structure D was previously the Pillars 3-way bundle. That motion is retired (replaced by headless Back Office Lite delivered via Aice's dev platform — same product slot, different mechanic). Structures G and H added for Motion 8 (Developer Platform) and Motion 9 (Aice-fronted Wayroo cart for existing Aice DSOs).
+> **Dual identity.** This is a GTM Phase 5 — Setting Pricing artifact in the 12-phase strategy methodology. It serves as the pricing-primitive home for the **AiCE partnership** (feeds the WAYR-space operating docs) and a methodology artifact in its own right that future Phase-5 partnership work can reference.
+>
+> **Source:** `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`
+> **WAYR partnership docs:** [Retail Success x AiCE Partnership v4.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) · [Expansion Strategy — AiCE Channel v3.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) · [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681)
+> **GTM parent:** [AiCE Partnership (this space)](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/450920449)
+
+**Note (2026-05-23):** Structure D was previously the Pillars 3-way bundle. That motion is retired (replaced by headless Back Office Lite delivered via Aice's dev platform — same product slot, different mechanic). Structures G and H added for Motion 8 (Developer Platform) and Motion 9 (Aice-fronted Wayroo cart for existing Aice DSOs).
 
 ---
 
@@ -81,7 +87,7 @@ AiCE switches recommendation Metrics → ProPay/Nuvei. **2a:** new clients only.
 
 ---
 
-## Structure D — Headless Back Office Lite Subscription (Motion 5) **[REPLACED 2026-05-22]**
+## Structure D — Headless Back Office Lite Subscription (Motion 5) **[REPLACED 2026-05-23]**
 
 The Pillars-3-way-bundle is retired. New Motion 5: ByDesign's genealogy + commission engines delivered **headlessly** via Aice's developer platform as a lite subscription for DSO startups. BD provides the rails; Aice provides the UI/UX.
 
@@ -163,7 +169,7 @@ This is a payments-rev-share structure layered onto a cart-replacement motion, f
 
 ### Hypothesis range — payments rev-share split with AiCE on Motion 6 volume
 
-**Hard ceiling: 25% to AiCE.** This is the maximum payments rev-share Wayroo will offer on any AiCE motion. Applies across Motion 2 and Motion 6.
+**Hard ceiling: 25% to AiCE.** This is the maximum payments rev-share Wayroo will offer on any AiCE motion. Applies across Motion 2, Motion 6, and Motion 9.
 
 | Variable | Floor | Mid | Ceiling |
 |---|---|---|---|
@@ -191,7 +197,7 @@ ByDesign / Wayroo owns the Cart V3 integration work (Medusa base + Adyen/ProPay/
 
 ---
 
-## Structure G — Developer Platform Subscription (Motion 8) **[NEW 2026-05-22]**
+## Structure G — Developer Platform Subscription (Motion 8) **[NEW 2026-05-23]**
 
 ### Strategic context
 Aice builds a developer platform on top of BD's back-office APIs. Existing BD clients subscribe to access it and build their own widgets/reports/UI — no expensive BD custom dev. This subsumes the AI Report Builder (retired from BD's 2026 roadmap). The same platform is the UI layer for Motion 5 (Back Office Lite for startups), but Structure G is specifically for the existing 51-account BD base as a paid add-on.
@@ -232,7 +238,7 @@ Aice builds a developer platform on top of BD's back-office APIs. Existing BD cl
 
 ---
 
-## Structure H — Aice-Fronted Wayroo Cart Adoption (Motion 9) **[NEW 2026-05-22]**
+## Structure H — Aice-Fronted Wayroo Cart Adoption (Motion 9) **[NEW 2026-05-23]**
 
 ### Strategic context
 Aice proactively pitches the Wayroo shopping cart to its existing DSO clients — for both DSO-level (replicated site) commerce and rep-level (cash & carry) commerce. Aice acts as the channel; payments rev-share routes through Wayroo cart + ProPay/Nuvei. This stacks with Motion 2 (processor recommendation): a Motion 9 DSO will also produce Motion 2 payments rev-share.
@@ -311,4 +317,8 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 - **Task 2 — Hypothesis:** sharpen each structure's range into a recommended number with explicit assumptions
 - **Task 3 — Validation:** Brian May 29 call + Morgan modeling + Josh Cart V3 gate + SF pull
 - **Task 6 — Workshop:** lock numbers before June 15 for term-sheet drafting
+
+---
+
+_Last updated: 2026-05-23. Source: `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`._
 
