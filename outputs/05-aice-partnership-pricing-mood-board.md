@@ -8,7 +8,7 @@
 > **Dual identity.** This is a GTM Phase 5 — Setting Pricing artifact in the 12-phase strategy methodology. It serves as the pricing-primitive home for the **AiCE partnership** (feeds the WAYR-space operating docs) and a methodology artifact in its own right that future Phase-5 partnership work can reference.
 >
 > **Source:** `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`
-> **WAYR partnership docs:** [Retail Success x AiCE Partnership v4.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) · [Expansion Strategy — AiCE Channel v3.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) · [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681)
+> **WAYR partnership docs:** [Retail Success x AiCE Partnership v4.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) · [Expansion Strategy — AiCE Channel v3.3](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) · [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681)
 > **GTM parent:** [AiCE Partnership (this space)](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/450920449)
 
 **Note (2026-05-23):** Structure D was previously the Pillars 3-way bundle. That motion is retired (replaced by headless Back Office Lite delivered via Aice's dev platform — same product slot, different mechanic). Structures G and H added for Motion 8 (Developer Platform) and Motion 9 (Aice-fronted Wayroo cart for existing Aice DSOs).
@@ -21,7 +21,7 @@
 |---|---|---|---|
 | A | Referral rev-share % on Year 1 ACV | Motion 1 (AiCE → BD/Wayroo referrals) | Floor %, exclusivity premium, recurring tail |
 | B | Payments rev-share split | Motion 2 (Metrics → ProPay/Nuvei recommendation) | 2a vs. 2b split; migration kicker |
-| C | Bundle SKU price + 2-way split | Motion 3 (Wayroo + AiCE → existing BYD clients) | Bundle price; who pays for AiCE; deal-reg |
+| C | **Two pricing paths**: Option 1 bundle SKU + 2-way split; Option 2 rev-share on Aice license revenue | Motion 3 (Wayroo + AiCE → existing BYD clients) | Bundle price (Option 1); RS share of Aice license rev (Option 2); decision rule; who pays for AiCE; deal-reg |
 | D | Headless Back Office Lite subscription (2-way) | Motion 5 (Wayroo + Aice Back Office Lite — headless via Aice dev platform) | Lite subscription price; Aice rev-share for dev-platform UI layer; lite-to-full BD upgrade path |
 | E | Revenue-conditional API fee waiver | Pillar 1 (technical integration) | Threshold $; audit cadence; paid fallback |
 | **F** | **Cart-replacement payments rev-share (Aice-fronted)** | **Motion 6 — recapture + winback** | **Aice rev-share % on payments; license discount mechanic** |
@@ -70,20 +70,64 @@ AiCE switches recommendation Metrics → ProPay/Nuvei. **2a:** new clients only.
 
 ---
 
-## Structure C — Bundle SKU + 2-Way Split (Motion 3)
+## Structure C — Two Pricing Paths for Motion 3 **[REFRAMED 2026-05-23]**
 
-"Wayroo + AiCE" pitched to existing ByDesign clients. **Confirmed: Wayroo is the lead contracting entity; AiCE is the bolt-on.**
+"Wayroo + AiCE" pitched to existing ByDesign clients. **Confirmed: Wayroo is the lead contracting entity; AiCE is the bolt-on.** Per the May 23 inline-comment review, Motion 3 has two distinct pricing paths chosen per-account based on Wayroo value-prop fit. Both paths share the same deal-reg rules; they differ only in how Wayroo earns from the account.
+
+### Decision rule
+
+Lead every Motion 3 pitch with **Option 1 (bundle)**. If discovery reveals Wayroo isn't a fit — typically a Non-C&C ICP 1c BYD client whose reps don't need POS/inventory/C&C commerce — fall back to **Option 2 (rev-share on Aice license revenue)**. Don't pitch Option 2 first; it leaves money on the table for accounts that would have paid full bundle.
+
+### Option 1 — Bundle pricing (Wayroo value prop resonates)
+
+DSO pays both the Aice license fee and the Wayroo license fee as a combined bundle. Best fit for C&C / Hybrid ICP 1a/1b accounts where Wayroo's commerce stack solves a real pain.
 
 **Comparables:** Bundled list price (each vendor keeps own SKU; 10–25% bundle discount). Unified bundle (single price; 60/40 or 70/30 split). Primary + bolt-on (primary keeps base; bolt-on flows ~70–80% to the bolt-on provider). Joint subscription (50/50 or volume-weighted; requires shared billing).
 
 **Why primary + bolt-on fits:** BYD already owns the relationship, Wayroo carries the deal, AiCE provides collateral + possible rep-in-room. Cleanest from a billing and deal-reg standpoint.
 
-**Pricing freedom:** **Central open question — who pays for AiCE's component?** Today AiCE is rep-paid PLG ($9.99/$19.99/$49.99 per rep/mo). In Motion 3: (a) keep rep-paid + add eSuite pass-through, (b) DSO buys AiCE seats at negotiated corporate rate, (c) hybrid — DSO covers base tier, reps upgrade individually. Each option produces materially different deal size and adoption profile.
+**Sub-question — who pays for AiCE's component?** Today AiCE is rep-paid PLG ($9.99/$19.99/$49.99 per rep/mo). In Option 1: (a) keep rep-paid + add eSuite pass-through, (b) DSO buys AiCE seats at a negotiated corporate rate, (c) hybrid — DSO covers a base tier, reps upgrade individually. Each produces a materially different deal size and adoption profile.
 
-**Hypothesis:**
+**Hypothesis (Option 1):**
 - Bundle list = sum of components, with 10–15% discount applied **to the AiCE component only** (don't discount Wayroo's per-rep pricing — that's the new revenue we're trying to land)
 - Split: Wayroo keeps 100% of Wayroo-component revenue; AiCE keeps 80–90% of AiCE-component revenue, 10–20% to Wayroo as bundle-orchestrator fee on AiCE side
 - Deal-reg: BYD-relationship deals = BYD-led, AiCE earns AiCE-component only. AiCE-sourced deals = Motion 1 referral rev-share applies on top.
+
+### Option 2 — Rev-share on Aice license revenue (Wayroo value prop doesn't resonate)
+
+For Non-C&C BYD clients (ICP 1c) who see Aice as valuable but don't see Wayroo's commerce stack as a need. DSO pays Aice; Retail Success takes a rev-share of Aice's license revenue from that account in exchange for integration + partnership distribution. Captures value from accounts that would otherwise generate $0 of Wayroo revenue.
+
+**Comparables — partner takes a slice of partner's recurring subscription revenue:**
+
+| Structure | Typical % to the channel partner |
+|---|---|
+| **HubSpot Solutions Partner — Platinum/Diamond recurring share on referred SaaS** | 20–30% of MRR for life of subscription |
+| **Stripe Verified Partner / Atlas referral programs** | 10–25% of partner's SaaS subscription on referred accounts |
+| **Salesforce ISV Partner Tier — recurring rev-share when ISV product is co-sold** | 15–30% of recurring license revenue |
+| **MSP / VAR reseller margin on third-party SaaS** | 20–40% — but this involves the MSP doing the selling, not the SaaS vendor |
+
+**Key pattern:** When the "channel partner" (Retail Success in this case) does the *introduction + relationship + integration* but doesn't ship a co-sold product into the deal, the going rate is **15–25%** of the partner's recurring license revenue. Higher than 25% typically requires the partner to take on sales work or carry support load.
+
+**Pricing freedom (Option 2):**
+- **What % of Aice's license revenue does RS take?** Working hypothesis: **15–25%** range. RS provides the integration + the BYD account relationship; Aice does the sales/onboarding/support. Below 15% under-prices the integration; above 25% will get pushback from Aice since they're doing the operational work.
+- **Recurring vs. one-time:** Recurring (life of subscription). One-time would misalign incentives with retention.
+- **Caps and minimums:** Possible per-account cap on annual rev-share (e.g., max $X/year/account) to keep the structure simple for Aice's billing.
+
+**Hypothesis range (Option 2):**
+
+| Variable | Floor | Mid | Ceiling |
+|---|---|---|---|
+| RS share of Aice's license revenue from referred BYD-base accounts | 15% | 20% | 25% |
+| Recurrence | Year 1 only | Life of subscription | Life of subscription |
+| Annual per-account cap (optional) | None | None | $X (TBD with Morgan) |
+
+**Recommendation:** Open at **20% of Aice's license revenue, life of subscription, no cap.** Mood board working hypothesis — validate Aice's appetite with Brian on May 29.
+
+### Deal-reg (applies to both options)
+
+- BYD-relationship deals (i.e., the DSO is an existing ByDesign client) = BYD account team is lead. Under Option 1, AiCE earns AiCE-component revenue only; under Option 2, AiCE pays RS the agreed % on the license revenue.
+- AiCE-sourced deals (Motion 1) = AiCE earns the Motion 1 referral rev-share on top of whatever Option 1/2 structure governs the BD-side license.
+- A single account doesn't get both Option 1 and Option 2 — pick one at term-sheet signing.
 
 ---
 
@@ -309,6 +353,7 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 | 14 | **(NEW) AI Report Builder retirement: which BD accounts were waiting on it?** | Sam (pull from SF + Product) | Pre-June term sheet |
 | 15 | **(NEW) Aice's existing DSO client count + GPV (Motion 9 sizing)** | Brian | May 29 call |
 | 16 | **(NEW) Which BD APIs the dev platform needs access to (genealogy, commissions, reporting)** | Josh + Brian | Q3 2026 |
+| 17 | **(NEW) Aice's appetite for sharing license revenue under Motion 3 Option 2 (rev-share fallback for non-C&C BYD clients) — and what % feels reasonable** | Brian | May 29 call |
 
 ---
 

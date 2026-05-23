@@ -1,18 +1,18 @@
 # Expansion Strategy — AiCE Channel
 
-**Status (2026-05-22):** v3.2 — Motion 1 expansion math sharpened with Aice's 1-2 DSOs/month close rate. Motion 5 replaced (Pillars-bundle → Wayroo + Aice Back Office Lite, headless via Aice dev platform). New Motion 8 (Developer Platform for existing BYD clients — retires AI Report Builder). New Motion 9 (Aice-pitched Wayroo cart inside existing Aice DSO clients). Companion to parent strategy v4.2.
+**Status (2026-05-23):** v3.3 — Motion 3 pricing options added (bundle vs. rev-share, contingent on BYD client's perceived Wayroo value). Motion 1 expansion math sharpened with Aice's 1-2 DSOs/month close rate. Motion 5 replaced (Pillars-bundle → Wayroo + Aice Back Office Lite, headless via Aice dev platform). New Motion 8 (Developer Platform for existing BYD clients — retires AI Report Builder). New Motion 9 (Aice-pitched Wayroo cart inside existing Aice DSO clients). Companion to parent strategy v4.2.
 
-**Author:** Sam Atieh · **Date:** 2026-05-22 · **Audience:** Morgan (commercial), Gordon (marketing), Josh (eng scope), BD / sales
+**Author:** Sam Atieh · **Date:** 2026-05-23 · **Audience:** Morgan (commercial), Gordon (marketing), Josh (eng scope), BD / sales
 **Parent doc:** Retail Success x AiCE Partnership (Integration Strategy) v4.2
 
 > **Document set — AiCE Partnership**
 >
 > * **Thesis / governance:** [Retail Success x AiCE Partnership (Integration Strategy v4.2)](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) — WAYR space
-> * **Revenue mechanics:** [Expansion Strategy — AiCE Channel v3.2](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) — WAYR space (this page)
-> * **Pricing primitives:** Partnership Pricing Mood Board — AiCE (Phase 5) — [GTM space](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/450920449) (publication pending)
+> * **Revenue mechanics:** [Expansion Strategy — AiCE Channel v3.3](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) — WAYR space (this page)
+> * **Pricing primitives:** [Partnership Pricing Mood Board — AiCE (Phase 5)](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/451018753) — GTM space
 > * **Index:** [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681) — WAYR space
 
-**Source file (team-os GitHub workspace):** `team-os/product-development/product/strategy/expansion-strategy-aice-channel-2026-05-18.md` v3.2.
+**Source file (team-os GitHub workspace):** `team-os/product-development/product/strategy/expansion-strategy-aice-channel-2026-05-18.md` v3.3.
 
 ## Motion 1 — Referral channel (no-code, fastest)
 
@@ -64,9 +64,34 @@
 * AiCE brings rep-facing tooling we don't have, which is the gap most often cited by BYD clients evaluating standalone Wayroo.
 * Joint pitch reduces procurement friction (one conversation, one bundle).
 
+### Pricing options **[ADDED 2026-05-23]**
+
+Motion 3 has two distinct pricing paths based on whether the existing BYD client perceives Wayroo's value prop. Pick per-account based on the discovery conversation:
+
+**Option 1 — Bundle pricing (Wayroo value prop resonates):**
+* DSO pays *both* the Aice license fee *and* the Wayroo license fee as a combined bundle.
+* Best fit: existing BYD clients with Cash & Carry rep activity, vendor-event-heavy operations, or other ICP 1a/1b signals where Wayroo's commerce stack solves a real pain.
+* Maximizes per-account revenue. This is the default pitch; the rev-share option is the fallback.
+
+**Option 2 — Rev-share on Aice license revenue (Wayroo value prop doesn't resonate):**
+* For non-C&C BYD clients who see Aice as valuable but don't see Wayroo's commerce stack as a need.
+* DSO pays Aice for the Aice license; Retail Success takes a *rev-share of Aice's license revenue* from that account in exchange for the integration + partnership distribution.
+* Wayroo earns indirectly from the Aice deployment even when the DSO doesn't directly license Wayroo. Captures value from accounts that would otherwise generate $0 of Wayroo revenue.
+* Requires Aice to share license revenue on these accounts — needs to be locked in the term sheet alongside the standard payments rev-share structure.
+
+**Decision rule (working hypothesis):** Lead every Motion 3 pitch with Option 1 bundle pricing. If the discovery conversation reveals Wayroo isn't a fit (typically Non-C&C ICP 1c clients), fall back to Option 2 rev-share. Don't pitch Option 2 first — it leaves money on the table for accounts that would have paid bundle pricing.
+
 ### Expansion math
 
 * BYD-4 (Churn) and BYD-3 (new revenue) both move. Sized once the pilot pitch lands with the first 3 clients.
+* Option 1 (bundle pricing): contributes to BYD-3 via Wayroo license revenue + retention via BYD-4.
+* Option 2 (rev-share): contributes a smaller per-account number but extends Motion 3's addressable base into Non-C&C BYD accounts that wouldn't license Wayroo directly.
+
+### Open items
+
+* Aice's appetite for sharing license revenue on Option 2 accounts — needs explicit Brian commitment in May 29 call.
+* What % of Aice's license revenue does Retail Success take in Option 2? Pricing mood board working hypothesis (Structure C).
+* Deal-reg rules when the BYD relationship pre-dates Aice involvement (working assumption: BYD account team owns the relationship; Aice earns only Aice-component revenue under Option 1).
 
 ## Motion 4 — WayRoo as commerce stack for AiCE individual sellers
 
@@ -241,14 +266,14 @@ Aice will pitch this to their existing client list (proactive Aice-side outreach
 ## What to do this week (W21)
 
 - [x] Save AiCE thesis PDF into `PM-OS/context-library/research/aice-thesis-2026-05.pdf` (Mon).
-- [ ] Send Brian follow-up email with questions: (a) Campfire's current payment processor, (b) size of Metrics-installed AiCE DSO base, (c) AiCE individual-seller count + commerce activity, (d) preferred rev-share structure on Motion 1, (e) joint conference / podcast slot for Motion 1.5, **(f) commercial structure for the headless Back Office Lite (Motion 5) and Developer Platform (Motion 8) — flat % cut, per-subscription fee, tiered?**, (g) confirm Bravenly's commerce stack (AiCE + Medusa + Metrics hypothesis), (h) reaction to Motion 6 mechanic, **(i) confirm Aice's 1-2 DSOs/month close rate (Motion 1 sizing)**, **(j) Aice's existing DSO client count + transaction volume (Motion 9 sizing)**, **(k) Aice dev platform — code ownership, termination, data portability**.
+- [ ] Send Brian follow-up email with questions: (a) Campfire's current payment processor, (b) size of Metrics-installed AiCE DSO base, (c) AiCE individual-seller count + commerce activity, (d) preferred rev-share structure on Motion 1, (e) joint conference / podcast slot for Motion 1.5, **(f) commercial structure for the headless Back Office Lite (Motion 5) and Developer Platform (Motion 8) — flat % cut, per-subscription fee, tiered?**, (g) confirm Bravenly's commerce stack (AiCE + Medusa + Metrics hypothesis), (h) reaction to Motion 6 mechanic, **(i) confirm Aice's 1-2 DSOs/month close rate (Motion 1 sizing)**, **(j) Aice's existing DSO client count + transaction volume (Motion 9 sizing)**, **(k) Aice dev platform — code ownership, termination, data portability**, **(l) Aice's appetite for sharing license revenue under Motion 3 Option 2 (rev-share fallback for non-C&C BYD clients)**.
 - [x] Loop Morgan in on Motion 1 + 2 + 3 + 6 + **8 + 9** term-sheet drafting (one master + sub-tracks). Book 30 min this week.
 - [x] Loop Gordon in on Motion 1.5 — marketing collab + Wayroo + AiCE co-launch event in Q3. Book 20 min this week.
 - [x] Surface Motion 4 + Motion 7 individual-seller/user onboarding requirement at the Cart V3 architecture decision gate (May 23). **Add Motion 6 question: can Cart V3's Medusa base support a clean processor swap on existing Medusa deployments (6a feasibility)?**
-- [x] Draft Motion 3 pitch deck outline — Wayroo + AiCE for existing BYD clients. Identify first 3 pilot accounts with Morgan.
+- [x] Draft Motion 3 pitch deck outline — Wayroo + AiCE for existing BYD clients. **Include both pricing options (bundle + rev-share fallback).** Identify first 3 pilot accounts with Morgan.
 - [x] **Salesforce pull: BYD clients on non-Wayroo carts (Motion 6a candidates) + ex-BYD clients on Shopify (Motion 6b candidates).**
 - [ ] **(NEW) Retire AI Report Builder from BD 2026 roadmap.** Notify affected accounts; communicate Developer Platform (Motion 8) as the replacement path.
 - [ ] **(NEW) Scope the headless Back Office Lite (Motion 5)** — confirm which BD APIs Aice dev platform needs access to (genealogy, commissions, reporting). Josh + Sam.
 - [ ] **(NEW) Confirm Aice will proactively pitch Wayroo cart to existing Aice DSO clients (Motion 9)** — get explicit Brian commitment in May 29 call.
 
-_Generated 2026-05-18 (v1) → v2 (2026-05-20) → v3 (2026-05-21 — Motion 6 added) → v3.1 (2026-05-21 — renumbering cleanup, Metrix→Metrics) → **v3.2 (2026-05-22 — Motion 1 metric added (1-2 DSOs/month); Motion 5 replaced (Pillars-bundle → Wayroo + Aice Back Office Lite headless); Motion 8 added (Developer Platform, retires AI Report Builder); Motion 9 added (Aice-pitched Wayroo cart inside Aice DSOs))**. Source: May 15 Brian/Sam meeting + AiCE thesis PDF (May 18) + W20 weekly review + May 20 parent-page inline-comment review + May 21 pricing mood board + Motion 6 surface + May 22 strategic additions (headless framing, dev platform, Aice-DSO cart). See parent page Retail Success x AiCE Partnership v4.2._
+_Generated 2026-05-18 (v1) → v2 (2026-05-20) → v3 (2026-05-21 — Motion 6 added) → v3.1 (2026-05-21 — renumbering cleanup, Metrix→Metrics) → v3.2 (2026-05-23 — Motion 1 metric; Motion 5 replaced (Pillars-bundle → headless Back Office Lite); Motion 8 added (Developer Platform, retires AI Report Builder); Motion 9 added (Aice-pitched Wayroo cart inside Aice DSOs)) → **v3.3 (2026-05-23 — Motion 3 pricing options added per inline-comment review: Option 1 bundle pricing when Wayroo value prop resonates; Option 2 rev-share on Aice license revenue when Wayroo doesn't fit a non-C&C BYD client).** Source: May 15 Brian/Sam meeting + AiCE thesis PDF (May 18) + W20 weekly review + May 20-23 inline-comment reviews + May 21 pricing mood board + Motion 6 surface + May 23 strategic additions. See parent page Retail Success x AiCE Partnership v4.2._
