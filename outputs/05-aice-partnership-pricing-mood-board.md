@@ -1,17 +1,19 @@
 # Partnership Pricing Mood Board — AiCE Channel
 
 **Phase:** 5 (setting-pricing) — adapted for partnership commercial structuring
-**Scope:** Rev-share %, bundle pricing, revenue-conditional API thresholds, cart-replacement payments rev-share, headless Back Office Lite subscription, Developer Platform subscription, Aice-fronted DSO cart adoption
+**Scope:** Rev-share %, bundle pricing, revenue-conditional API thresholds, cart-replacement payments rev-share, headless Back Office Lite subscription, Developer Platform subscription, Aice-fronted DSO cart adoption, Back Office Lite distribution to not-BD-fit referrals (Motion 5b)
 **Companion:** Wayroo product pricing already established in `my-gtm-context.md` §5
-**Owner:** Sam Atieh · **Date:** 2026-05-23 (updated) · **Decision deadline:** Term sheets for Motions 1 + 2 by end of June 2026
+**Owner:** Sam Atieh · **Date:** 2026-05-29 (updated) · **Decision deadline:** Term sheets for Motions 1 + 2 by end of June 2026
 
 > **Dual identity.** This is a GTM Phase 5 — Setting Pricing artifact in the 12-phase strategy methodology. It serves as the pricing-primitive home for the **AiCE partnership** (feeds the WAYR-space operating docs) and a methodology artifact in its own right that future Phase-5 partnership work can reference.
 >
 > **Source:** `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`
-> **WAYR partnership docs:** [Retail Success x AiCE Partnership v4.3](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) · [Expansion Strategy — AiCE Channel v3.3](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) · [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681)
+> **WAYR partnership docs:** [Retail Success x AiCE Partnership v4.4](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/444170241) · [Expansion Strategy — AiCE Channel v3.4](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/443809798) · [AiCE Partnership landing](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/450887681)
 > **GTM parent:** [AiCE Partnership (this space)](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/450920449)
 
 **Note (2026-05-23):** Structure D was previously the Pillars 3-way bundle. That motion is retired (replaced by headless Back Office Lite delivered via Aice's dev platform — same product slot, different mechanic). Structures G and H added for Motion 8 (Developer Platform) and Motion 9 (Aice-fronted Wayroo cart for existing Aice DSOs).
+
+**Note (2026-05-29):** Motion 5b added — Back Office Lite distributed via an Aice co-pitch to Aice-referred startups that aren't a fit for full ByDesign; payments split with Aice only (Structure B economics, 25% cap); Pillars receives no fee or rev-share. The Back Office Lite provider strategy is reopened (see Structure D): headless via Aice's dev platform (current default) vs. acquire Pillars vs. build a BD-owned Back Office Lite with Aice's help. The 25% Aice payments rev-share hard cap now applies across Motions 2, 6, 9, AND 5b.
 
 ---
 
@@ -137,6 +139,8 @@ The Pillars-3-way-bundle is retired. New Motion 5: ByDesign's genealogy + commis
 
 **What changed and why:** The headless approach removes the need for Pillars as the back-office-lite UI layer — BD becomes its own back-office-lite via the headless model + Aice dev platform. No 3-way split because Pillars is no longer in the SKU. Pillars's ~10 clients fold into Motion 1 referrals.
 
+**Motion 5b distribution path + provider strategy (2026-05-29):** Motion 5b sells this same Back Office Lite product through an Aice co-pitch on not-BD-fit Motion 1 referrals. Payments split with Aice only (Structure B economics, 25% cap); Pillars receives no fee or rev-share. Separately, the provider of Back Office Lite is now an open make-vs-buy-vs-headless question: deliver headlessly via Aice's dev platform (current default), acquire Pillars (+ its ~10 clients), or build a BD-owned Back Office Lite with Aice's help.
+
 **Comparables — headless / API-first SaaS sold through partner UI:** Headless commerce SaaS (Medusa, Commerce.js, Vendure) typically prices $500–$2K/mo for the API layer with UI either built in-house or via partner. Embedded finance (Unit, Treasury Prime) uses per-account or per-transaction fees with partner-of-record margin. White-labeled SaaS sold through reseller: reseller marks up the API price 30–60%; revenue split per agreement. Closest analog is headless commerce sold through a partner UI — the Aice dev platform is the partner UI; BD's APIs are the headless layer.
 
 **Pricing freedom — central decisions:**
@@ -213,7 +217,7 @@ This is a payments-rev-share structure layered onto a cart-replacement motion, f
 
 ### Hypothesis range — payments rev-share split with AiCE on Motion 6 volume
 
-**Hard ceiling: 25% to AiCE.** This is the maximum payments rev-share Wayroo will offer on any AiCE motion. Applies across Motion 2, Motion 6, and Motion 9.
+**Hard ceiling: 25% to AiCE.** This is the maximum payments rev-share Wayroo will offer on any AiCE motion. Applies across Motion 2, Motion 6, Motion 9, and Motion 5b.
 
 | Variable | Floor | Mid | Ceiling |
 |---|---|---|---|
@@ -329,7 +333,8 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 6. **Motion 6 (cart-replacement) is structurally the strongest "why AiCE says yes" mechanic** in the entire partnership — pure additive revenue for them, with no offsetting cannibalization risk to their existing PLG.
 7. **Motion 8 (Developer Platform) retires the AI Report Builder from BD's 2026 roadmap.** Eng capacity reallocation may be worth more than the subscription revenue in Year 1.
 8. **Motion 9 (Aice-fronted DSO cart) reuses Motion 6 mechanics but at lower friction** — Aice pitches its own existing customers, no cart-swap migration required. Open at slightly lower Aice % (15%) than Motion 6 (18%).
-9. **The 25% Aice payments-rev-share hard cap applies across all payment-rev-share motions:** Motion 2, Motion 6, Motion 9. Never concede above 25% on any of them.
+9. **The 25% Aice payments-rev-share hard cap applies across all payment-rev-share motions:** Motion 2, Motion 6, Motion 9, and Motion 5b. Never concede above 25% on any of them.
+10. **Motion 5b reuses Structure B + Structure D economics** — Aice-only payments split (25% cap) + the Back Office Lite subscription. Pillars's only possible role is as an acquisition target / client source (Structure D).
 
 ---
 
@@ -343,7 +348,7 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 | 4 | Nuvei net margin per txn (Freedom replicated-site volume) | Morgan | Pre-June term sheet |
 | 5 | Wayroo cost-to-serve at Lite tier (Motion 5 floor) | Morgan | Pre-June term sheet |
 | 6 | AiCE corporate-paid vs. rep-paid PLG preference in Motion 3 | Brian | May 29 call |
-| 7 | ~~Pillars revenue per client~~ — **deprecated; Motion 5 no longer Pillars-based** | — | — |
+| 7 | Pillars acquisition cost / appetite + build-vs-buy for the Back Office Lite provider (Motion 5 / 5b) — headless vs. acquire Pillars (+ ~10 clients) vs. build BD-owned with Aice's help | Brian + Sam | May 29 / Pre-June term sheet |
 | 8 | **Bravenly commerce stack — confirm AiCE + Medusa + Metrics** | Brian / Bravenly CSM | May 29 / June |
 | 9 | **Cart V3 architecture: clean processor swap feasible on existing Medusa deployments?** | Josh | May 23 gate |
 | 10 | **Salesforce pull: BYD clients on non-Wayroo carts (6a) + ex-BYD on Shopify (6b)** | Sam | This week |
@@ -354,6 +359,7 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 | 15 | **(NEW) Aice's existing DSO client count + GPV (Motion 9 sizing)** | Brian | May 29 call |
 | 16 | **(NEW) Which BD APIs the dev platform needs access to (genealogy, commissions, reporting)** | Josh + Brian | Q3 2026 |
 | 17 | **(NEW) Aice's appetite for sharing license revenue under Motion 3 Option 2 (rev-share fallback for non-C&C BYD clients) — and what % feels reasonable** | Brian | May 29 call |
+| 18 | **(NEW) Aice's willingness to co-pitch Wayroo Back Office Lite on not-BD-fit referrals (Motion 5b) + Aice-only payments split %** | Brian | May 29 call |
 
 ---
 
@@ -365,5 +371,5 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 
 ---
 
-_Last updated: 2026-05-23. Source: `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`._
+_Last updated: 2026-05-29. Source: `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`._
 
