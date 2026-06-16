@@ -1,5 +1,7 @@
 # Aice JV — Brian × Scott/Shannon Intro Meeting: Talking Points
 
+> **⚠️ SUPERSEDED (2026-06-16).** The 6/9 meeting happened — Brian is in (yes-to-explore). This doc is kept as a record of the pitch prep. The active next step is the Morgan economics/structure working session: see [`aice-jv-followup-economics-working-session-2026-06-16.md`](aice-jv-followup-economics-working-session-2026-06-16.md).
+
 **Meeting:** Tue 6/9 — introduce Brian (Aice founder/CEO/majority shareholder) to Scott & Shannon (Retail Success / ByDesign principals); present the equity-swap Joint Venture.
 **In the room (our side):** Scott, Shannon, Morgan (financials), Sam (orchestrator).
 **Prep author:** Sam Atieh · **Date:** 2026-06-09
