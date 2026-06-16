@@ -1,7 +1,7 @@
 # Aice JV — Post-Pitch Follow-Up: Economics & Structure Working Session
 
 **Status:** Active · **Date:** 2026-06-16 · **Owner:** Sam Atieh
-**Where we are:** The 6/9 group pitch (Brian × Scott/Shannon/Morgan) landed — **Brian is in: yes-to-explore.** This doc moves the JV from "shape & trust" into "model & structure."
+**Where we are:** The 6/9 group pitch (Brian × Scott/Shannon/Morgan) landed — **Brian accepted the plan.** This doc moves the JV from "shape & trust" into "model & structure." **Gating item before the economics firm up: a Fri 6/19 meeting with Brian's partner Chad** (§A2).
 **Supersedes:** [Intro-meeting talking points (6/9)](aice-jv-intro-meeting-talking-points-2026-06-09.md) — pitch is done.
 **Source frame:** [Strategic Frame (Merge / JV, Aice as the Brand)](https://bydesign.atlassian.net/wiki/spaces/RSProduct/pages/472252417) · Epic [GTM-44](https://bydesign.atlassian.net/browse/GTM-44) · Financial model [GTM-85](https://bydesign.atlassian.net/browse/GTM-85) · Phase-5 economics [GTM-82](https://bydesign.atlassian.net/browse/GTM-82)
 
@@ -9,15 +9,20 @@
 
 ## Where the deal stands
 
-Brian engaged with the four-pillar framing and gave a yes-to-explore. The JV shape — **Aice as the surviving brand, Wayroo + ByDesign under the hood, BD majority, all revenue (incl. payments) shared** — is now the working basis, not the pitch. The job shifts from *persuading him the shape is right* to *making the numbers and structure real fast enough to keep his momentum* before a clean-exit alternative reappears.
+Brian accepted the plan. The JV shape — **Aice as the surviving brand, Wayroo + ByDesign under the hood, BD majority, all revenue (incl. payments) shared** — is now the working basis, not the pitch. The job shifts from *persuading him the shape is right* to *making the numbers and structure real* — but one gating question comes first: **his partner Chad's intent.**
 
-**Two parallel workstreams from here:**
-1. **Keep Brian warm** — a same-week recap that reaffirms the upside and names the next step (below, §A).
-2. **Build the quantified backbone** — the Morgan economics + structure working session that turns the four pillars into an equity-swap model and a governance answer (below, §B).
+**The immediate gate — Chad (Fri 6/19).** Brian has a partner, Chad, whose own goal isn't yet known: **does he want to exit at the merge, or come along into the JV?** That answer materially changes the equity-swap math and the cap-table structure (buy out Chad's stake vs. roll it into the combined entity), so we resolve it *before* Morgan firms up the split.
+
+**Workstreams from here:**
+1. **Gauge Chad's intent (Fri 6/19)** — exit vs. come-along; the gating input for structure (§A2).
+2. **Keep Brian warm** — a recap that reaffirms the upside and names the next step (§A1).
+3. **Build the quantified backbone** — the Morgan economics + structure working session that turns the four pillars into an equity-swap model and a governance answer (§B), sequenced *after* Chad's intent is known.
 
 ---
 
-## §A — Brian Follow-Up Recap (send within 48h of 6/9)
+## §A — Near-Term Touches (Brian recap + Chad meeting)
+
+### §A1 — Brian Follow-Up Recap (send within 48h of 6/9)
 
 Purpose: hold the emotional momentum from the room, restate the upside in his words, and lock the next step so the deal doesn't cool. Keep it short, warm, founder-to-founder in tone. Sam sends.
 
@@ -36,9 +41,30 @@ Purpose: hold the emotional momentum from the room, restate the upside in his wo
 
 Adjust the recap to whatever Brian actually emphasized on 6/9 before sending.
 
+### §A2 — Chad meeting (Fri 6/19) — the gating conversation
+
+Brian's partner **Chad** has his own stake and his own goal, and we don't yet know it. The single question to answer: **does Chad want to exit at the merge, or come along into the JV?** His answer reshapes the structure before Morgan can firm up the split.
+
+**Why it gates everything:**
+- **Chad exits** → his stake must be valued and bought out (cash or equity); changes the swap math and who funds the buyout.
+- **Chad comes along** → his stake rolls into the combined entity; affects the cap table, dilution, and Aice's minority %.
+- Either way, the **equity-swap ratio and governance can't be finalized** until we know which.
+
+**Objectives for the meeting:**
+1. Read Chad's intent honestly — exit vs. come-along — without forcing a premature commitment.
+2. If exit: understand his expectations (timing, valuation basis, cash vs. equity).
+3. If come-along: understand the role/involvement he wants post-merge.
+4. Confirm Brian and Chad are aligned — surface any daylight between the two founders early.
+
+**Tone:** This is discovery, not a pitch. Chad hasn't been in the room; treat it like the founder-to-founder rapport build Scott/Shannon ran with Brian. Don't pressure toward an answer — the value is an honest read.
+
+**Output:** Chad's intent + expectations, fed directly into §B (structure) and §D (open items) before the economics session.
+
 ---
 
 ## §B — Morgan Economics & Structure Working Session
+
+> **Sequence:** Run *after* the Chad meeting (§A2). His exit-vs-come-along answer is a required input to the equity-swap ratio and cap-table structure.
 
 **Goal:** Produce a defensible equity-swap range and a governance/role answer we can take back to Brian — turning the strategic frame's open questions into modeled positions.
 
@@ -85,7 +111,8 @@ The financial model can't firm up without these. Ask for them in the §A recap; 
 
 | Item | Owner | Status / Next |
 |------|-------|---------------|
-| Valuation & dilution (equity-swap ratio) | Morgan | Model in working session (§B item 2) |
+| **Chad's intent — exit vs. come-along** | Sam (+ Brian) | **Gating — resolve Fri 6/19 (§A2) before §B** |
+| Valuation & dilution (equity-swap ratio) | Morgan | Model in working session (§B item 2); depends on Chad's intent |
 | Governance / control given BD majority | Scott / Shannon | Decide in §B item 4 |
 | Brian's post-merge role | Scott / Shannon | Define concrete offer (§B item 5) |
 | Pillars acquirable, else BD-built Back Office Lite | Morgan + Sam | §B item 6 |
@@ -105,8 +132,9 @@ The financial model can't firm up without these. Ask for them in the §A recap; 
 
 ## Next Steps
 
-1. **Sam:** send the §A recap to Brian within 48h, with the §C intelligence asks attached.
-2. **Sam + Morgan:** schedule the §B working session for late next week (targets Brian's "late next week" availability for the readout after).
-3. **Morgan:** extend the GTM-85 financial model with the equity-swap ratio + combined revenue build ahead of the session.
-4. **Scott / Shannon:** come to §B ready to decide governance posture and Brian's role.
-5. **Post-session:** package the modeled swap range + role offer into a follow-up for Brian; update [GTM-44](https://bydesign.atlassian.net/browse/GTM-44) and the [Strategic Frame](https://bydesign.atlassian.net/wiki/spaces/RSProduct/pages/472252417) with the outcome.
+1. **Sam — Fri 6/19:** meet Chad (§A2); read exit vs. come-along + expectations. **Gates the structure** — do this before §B.
+2. **Sam:** send the §A1 recap to Brian within 48h, with the §C intelligence asks attached.
+3. **Sam + Morgan:** schedule the §B working session for *after* the Chad meeting; bring Chad's intent in as a modeling input.
+4. **Morgan:** extend the GTM-85 financial model with the equity-swap ratio + combined revenue build (hold the cap-table structure open pending Chad's answer).
+5. **Scott / Shannon:** come to §B ready to decide governance posture and Brian's role.
+6. **Post-session:** package the modeled swap range + role offer into a follow-up for Brian; update [GTM-44](https://bydesign.atlassian.net/browse/GTM-44) and the [Strategic Frame](https://bydesign.atlassian.net/wiki/spaces/RSProduct/pages/472252417) with the outcome.
