@@ -15,6 +15,13 @@
 
 **Note (2026-05-29):** Motion 5b added — Back Office Lite distributed via an Aice co-pitch to Aice-referred startups that aren't a fit for full ByDesign; payments split with Aice only (Structure B economics, 25% cap); Pillars receives no fee or rev-share. The Back Office Lite provider strategy is reopened (see Structure D): headless via Aice's dev platform (current default) vs. acquire Pillars vs. build a BD-owned Back Office Lite with Aice's help. The 25% Aice payments rev-share hard cap now applies across Motions 2, 6, 9, AND 5b.
 
+> **Note (2026-06-21) — JV diligence inputs (all ASSUMPTION until the GTM-85 financial model is reopened):**
+>
+> - **Pillars is the incumbent back-office provider in Aice's live referral flow.** Aice charges startup DSOs **~$2,500/mo** for its platform, then refers them to **Pillars** (live integration) at **~$2,000–2,500/mo** for back office. → **Structure D (Back Office Lite):** a **validated ~$2–2.5k/mo willingness-to-pay** for exactly the genealogy/commissions back office Lite delivers — so the current "$750–$1,500/mo wedge" likely leaves headroom, and "displace Pillars in Aice's existing flow" is the GTM. Re-decide the Lite price against this anchor; sharpens gating Q7 (headless vs. acquire Pillars + its clients mid-flow vs. build BD-owned).
+> - **Structure C (Motion 3 "who pays for AiCE"):** Aice's **~$2,500/mo DSO platform fee** is a new bundle-math input alongside the rep-paid PLG tiers.
+> - **Structure A (creator sub-track):** Aice claims **feature parity with Skool.com-class creator platforms** → supports a higher-volume / flatter-% creator referral track (TAM TBD).
+> - **Deal context (not pricing-structural):** ~100k users ~50/50 DSO vs. individual-seller-creator (active TBD); profitable by EOY at ~$100k/mo burn; equity anchor ~25–30% Aice / ~70–75% BD (Scott, floated). Verdict unchanged: proceed-with-conditions, verify-before-swap.
+
 ---
 
 ## What this covers
@@ -44,7 +51,7 @@ AiCE refers a net-new DSO or creator brand. Standard deal-reg, % of first-year A
 
 **Direct-selling context:** AiCE already plays "primary recommender" for startup brands — they have an existing number to anchor to. **Get this from Brian on May 29.**
 
-**Pricing freedom:** Recurring tail is the lever. Creator-economy sub-track may justify a flatter % (smaller ACV, higher volume).
+**Pricing freedom:** Recurring tail is the lever. Creator-economy sub-track may justify a flatter % (smaller ACV, higher volume) — **reinforced 2026-06-21:** Aice claims feature parity with Skool.com-class creator platforms, so the creator track is a real higher-volume lane (TAM TBD).
 
 **Hypothesis range:**
 - Floor: 10% Y1, no recurring, no exclusivity
@@ -88,7 +95,7 @@ DSO pays both the Aice license fee and the Wayroo license fee as a combined bund
 
 **Why primary + bolt-on fits:** BYD already owns the relationship, Wayroo carries the deal, AiCE provides collateral + possible rep-in-room. Cleanest from a billing and deal-reg standpoint.
 
-**Sub-question — who pays for AiCE's component?** Today AiCE is rep-paid PLG ($9.99/$19.99/$49.99 per rep/mo). In Option 1: (a) keep rep-paid + add eSuite pass-through, (b) DSO buys AiCE seats at a negotiated corporate rate, (c) hybrid — DSO covers a base tier, reps upgrade individually. Each produces a materially different deal size and adoption profile.
+**Sub-question — who pays for AiCE's component?** Today AiCE is rep-paid PLG ($9.99/$19.99/$49.99 per rep/mo); **and (per 2026-06-21) Aice charges startup DSOs ~$2,500/mo at the DSO/corporate level.** In Option 1: (a) keep rep-paid + add eSuite pass-through, (b) DSO buys AiCE seats at a negotiated corporate rate, (c) hybrid — DSO covers a base tier, reps upgrade individually. Each produces a materially different deal size and adoption profile; the ~$2,500/mo DSO fee is the new anchor for paths (b)/(c).
 
 **Hypothesis (Option 1):**
 - Bundle list = sum of components, with 10–15% discount applied **to the AiCE component only** (don't discount Wayroo's per-rep pricing — that's the new revenue we're trying to land)
@@ -137,6 +144,8 @@ For Non-C&C BYD clients (ICP 1c) who see Aice as valuable but don't see Wayroo's
 
 The Pillars-3-way-bundle is retired. New Motion 5: ByDesign's genealogy + commission engines delivered **headlessly** via Aice's developer platform as a lite subscription for DSO startups. BD provides the rails; Aice provides the UI/UX.
 
+> **⚠️ Pricing anchor update (2026-06-21):** Aice's startup DSOs **already pay Pillars ~$2,000–2,500/mo for back office**, on top of Aice's ~$2,500/mo platform fee — and Aice refers them there today via a live integration. That is a **validated market price for this exact slot**, so the "$750–$1,500/mo wedge" hypothesis below is likely under-priced: demonstrated WTP runs up to ~$2–2.5k/mo. Treat Back Office Lite as a **Pillars-displacement** play (take the slot in Aice's existing referral flow) and re-decide the price against the ~$2–2.5k/mo anchor. All ASSUMPTION until GTM-85.
+
 **What changed and why:** The headless approach removes the need for Pillars as the back-office-lite UI layer — BD becomes its own back-office-lite via the headless model + Aice dev platform. No 3-way split because Pillars is no longer in the SKU. Pillars's ~10 clients fold into Motion 1 referrals.
 
 **Motion 5b distribution path + provider strategy (2026-05-29):** Motion 5b sells this same Back Office Lite product through an Aice co-pitch on not-BD-fit Motion 1 referrals. Payments split with Aice only (Structure B economics, 25% cap); Pillars receives no fee or rev-share. Separately, the provider of Back Office Lite is now an open make-vs-buy-vs-headless question: deliver headlessly via Aice's dev platform (current default), acquire Pillars (+ its ~10 clients), or build a BD-owned Back Office Lite with Aice's help.
@@ -144,7 +153,7 @@ The Pillars-3-way-bundle is retired. New Motion 5: ByDesign's genealogy + commis
 **Comparables — headless / API-first SaaS sold through partner UI:** Headless commerce SaaS (Medusa, Commerce.js, Vendure) typically prices $500–$2K/mo for the API layer with UI either built in-house or via partner. Embedded finance (Unit, Treasury Prime) uses per-account or per-transaction fees with partner-of-record margin. White-labeled SaaS sold through reseller: reseller marks up the API price 30–60%; revenue split per agreement. Closest analog is headless commerce sold through a partner UI — the Aice dev platform is the partner UI; BD's APIs are the headless layer.
 
 **Pricing freedom — central decisions:**
-- Lite subscription target price: anchored *below* BD Lite tier ($2K–$2.5K/mo) — wedge-priced for DSO startups. Working range: **$750–$1,500/mo all-in.**
+- Lite subscription target price: anchored *below* BD Lite tier ($2K–$2.5K/mo) — wedge-priced for DSO startups. Working range: **$750–$1,500/mo all-in.** **(Revisit 2026-06-21: the Pillars ~$2–2.5k/mo WTP suggests room above this range.)**
 - Split with Aice: Aice provides the customer-facing UI/UX (real work). BD provides rails. Working split: **60–70% BD / 30–40% Aice.** BD billing entity.
 - Cannibalization mitigation: hard ceiling on lite features (rep count, advanced commission rules) forces graduation to full BD at meaningful scale.
 
@@ -157,7 +166,7 @@ The Pillars-3-way-bundle is retired. New Motion 5: ByDesign's genealogy + commis
 | Aice share (dev platform UI layer) | 30% | 35% | 40% |
 | Lite-to-full upgrade threshold | 25 reps | 50 reps | 100 reps |
 
-**Recommendation:** Open at $1,200/mo, 65/35 BD/Aice, upgrade trigger at 50 reps. Validate with Brian on dev platform cost-to-serve before locking.
+**Recommendation:** Open at $1,200/mo, 65/35 BD/Aice, upgrade trigger at 50 reps. Validate with Brian on dev platform cost-to-serve before locking. **(2026-06-21: pressure-test against the ~$2–2.5k/mo Pillars anchor before locking the ceiling.)**
 
 ---
 
@@ -328,7 +337,7 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 1. **Recurring beats one-time** across A, B, C — highest-LTV variants share recurring tails.
 2. **Migration kicker (2x for 12 months) is the unlock on Sub-play 2b.** Without it, AiCE CS won't do the migration work. Highest single-term LTV in the deal.
 3. **Exclusivity is worth pushing for on payments (B), not referrals (A).** Payments has higher LTV; product differentiation does the referral work for us regardless.
-4. **Headless model collapses the back-office-lite into an overnight product.** Structure D (Motion 5) no longer requires a third-party (Pillars) — BD + Aice's dev platform is enough.
+4. **Headless model collapses the back-office-lite into an overnight product.** Structure D (Motion 5) no longer requires a third-party (Pillars) — BD + Aice's dev platform is enough. **(2026-06-21: but Pillars's ~$2–2.5k/mo price in Aice's live flow is the WTP anchor to price against — see Structure D note.)**
 5. **Revenue-share offset** is the cleanest API-fee-waiver mechanic — self-policing, no separate invoice.
 6. **Motion 6 (cart-replacement) is structurally the strongest "why AiCE says yes" mechanic** in the entire partnership — pure additive revenue for them, with no offsetting cannibalization risk to their existing PLG.
 7. **Motion 8 (Developer Platform) retires the AI Report Builder from BD's 2026 roadmap.** Eng capacity reallocation may be worth more than the subscription revenue in Year 1.
@@ -348,7 +357,7 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 | 4 | Nuvei net margin per txn (Freedom replicated-site volume) | Morgan | Pre-June term sheet |
 | 5 | Wayroo cost-to-serve at Lite tier (Motion 5 floor) | Morgan | Pre-June term sheet |
 | 6 | AiCE corporate-paid vs. rep-paid PLG preference in Motion 3 | Brian | May 29 call |
-| 7 | Pillars acquisition cost / appetite + build-vs-buy for the Back Office Lite provider (Motion 5 / 5b) — headless vs. acquire Pillars (+ ~10 clients) vs. build BD-owned with Aice's help | Brian + Sam | May 29 / Pre-June term sheet |
+| 7 | Pillars acquisition cost / appetite + build-vs-buy for the Back Office Lite provider (Motion 5 / 5b) — headless vs. acquire Pillars (+ ~10 clients) vs. build BD-owned with Aice's help. **(2026-06-21: Pillars confirmed as the incumbent back-office in Aice's live referral flow at ~$2–2.5k/mo — acquiring it would capture installed clients mid-flow; weigh against headless build.)** | Brian + Sam | May 29 / Pre-June term sheet |
 | 8 | **Bravenly commerce stack — confirm AiCE + Medusa + Metrics** | Brian / Bravenly CSM | May 29 / June |
 | 9 | **Cart V3 architecture: clean processor swap feasible on existing Medusa deployments?** | Josh | May 23 gate |
 | 10 | **Salesforce pull: BYD clients on non-Wayroo carts (6a) + ex-BYD on Shopify (6b)** | Sam | This week |
@@ -360,6 +369,7 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 | 16 | **(NEW) Which BD APIs the dev platform needs access to (genealogy, commissions, reporting)** | Josh + Brian | Q3 2026 |
 | 17 | **(NEW) Aice's appetite for sharing license revenue under Motion 3 Option 2 (rev-share fallback for non-C&C BYD clients) — and what % feels reasonable** | Brian | May 29 call |
 | 18 | **(NEW) Aice's willingness to co-pitch Wayroo Back Office Lite on not-BD-fit referrals (Motion 5b) + Aice-only payments split %** | Brian | May 29 call |
+| 19 | **(NEW, 2026-06-21) Confirm Aice's ~$2,500/mo DSO platform price + Pillars ~$2–2.5k/mo back-office price + the Aice→Pillars referral terms** — sizes the Structure D price anchor and the displacement opportunity | Brian | Next Brian call |
 
 ---
 
@@ -371,5 +381,5 @@ Same as Motion 6 (Structure F) — payments rev-share with partner-channel margi
 
 ---
 
-_Last updated: 2026-05-29. Source: `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`._
+_Last updated: 2026-06-21 (was 2026-05-29). Source: `gtm-strategy-skills/outputs/05-aice-partnership-pricing-mood-board.md`._
 
