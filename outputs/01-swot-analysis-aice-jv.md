@@ -53,7 +53,7 @@
 
 ## Threats (external headwinds)
 
-1. **JV is unsigned.** Term sheets June 2026; the deal could slip or collapse — everything downstream is contingent.
+1. **JV close timing (Q4 2026).** Formation/signing is expected later this year (~Q4 at best) and is *not* considered at serious risk — but brand-dependent and contract-dependent work can't fully complete until close. Manageable: most GTM motion work can begin before signing.
 2. **A PE rollup racing to assemble the same stack** — 12–24 months behind, but potentially better-capitalized.
 3. **Exigo extending into rep-facing/payments** from its back-office position.
 4. **Payments concentration risk.** The engine is ~half the revenue — exposure to ProPay/Nuvei relationship terms, chargebacks, and payments regulation.
@@ -69,12 +69,12 @@
 **Payments-funded undercut (S3) × category creation (O2) × warm 150K-user base (O9) = land share fast, before any rollup forms.** Lead every conversation with the integrated stack + a price competitors can't match because they don't own payments. Use Aice's zero-CAC distribution (S5) to convert the warm base (O9) and the stalled CCH pipeline (O6) before the 12-month head start (S6) decays.
 
 ### Where we're most vulnerable (Weakness × Threat)
-**Integration-not-shipped (W1) × unsigned-JV (T1) × M7-unproven (W4) = the entire thesis rests on execution that hasn't happened yet.** If the JV doesn't sign, or integration slips past Q4 2026 GA, or the PLG→enterprise bridge fails to convert, the "12-month head start" evaporates and the model's compounding falls apart. The strategy is strong on *assets* and unproven on *the connective tissue between them.*
+**Integration-not-shipped (W1) × M7-unproven (W4) × integration-GA-timing (T) = the thesis is strong on *assets* and unproven on *the connective tissue between them.*** Note: JV signing (T1) is *not* the linchpin — it's expected Q4 and won't hold up GTM work. The real risks are whether the all-in-one ships on time (Q4 2026 GA) and whether the PLG→enterprise bridge actually converts. If either fails, the "12-month head start" decays and the model's compounding weakens.
 
 ### Top 3 Strategic Priorities
-1. **Sign the JV and lock the integration timeline.** Nothing else matters if the deal slips or Cart V3/SSO/embed don't hit Q4 2026 GA. De-risk the single biggest dependency first.
-2. **Prove the two highest-leverage, least-proven things:** publish the Paparazzi $31M case study (the anchor proof for both motions), and **instrument the M7 PLG→enterprise bridge from day one** so the flywheel that underwrites the exit can actually be measured.
-3. **Make the model diligence-clean.** Validate Aice blended ARPU, resolve incremental-vs-total, add a conservative downside case. The $49.5–65.5M endgame only helps if an acquirer can trust it.
+1. **Begin the no-regret GTM motions now — don't wait for the Q4 close.** Signing is expected later this year and isn't a blocker. Start in parallel: the integrated positioning/messaging, publishing the Paparazzi $31M case study, prepping the CCH conversion pipeline (10 stalled clients), and the warm-base upsell groundwork (50K BYD active reps + 100K Aice users). Sequence carefully which motions need the signed JV / GA vs. which don't.
+2. **Instrument and prove the M7 PLG→enterprise bridge from day one.** It's the flywheel that underwrites the exit and the single least-validated assumption. Baseline it now so conversion can be measured as motions go live.
+3. **De-risk integration GA timing + make the model diligence-clean.** Confirm Cart V3/SSO/embed land on schedule (the real dependency, not signing); validate Aice blended ARPU, resolve incremental-vs-total, add a conservative downside case so the $49.5–65.5M endgame survives diligence.
 
 ---
 
