@@ -19,13 +19,15 @@ This folder tracks what we've learned from prospect interactions — demo calls,
 | Company | Vertical | Rep Count | Current Stack | Stage | C&C? | Last Interaction | GTM Segment |
 |---------|----------|-----------|---------------|-------|------|-----------------|-------------|
 | [Color Street](color-street.md) | Nail/Cosmetics | 20K–30K nominal / ~4K–6K real sellers | Custom commission engine + Shopify | Technical scoping complete — Path B integration endorsed by CTO; proposal preparation | Yes (~70% of real sellers) | May 6, 2026 | Cash & Carry DSO (hobbyist-heavy: 80/20 split) |
-| [Jordan Essentials](jordan-essentials.md) | Personal care / skincare / bath & body | [TBC] | ByDesign Freedom (existing) + Square/PayPal (rep C&C cohort) | Follow-up complete — preparing convention launch plan + pricing | ~20% C&C | May 6, 2026 | Hybrid DSO (Wayroo upsell to existing Freedom client) |
+| [Jordan Essentials](jordan-essentials.md) | Personal care / skincare / bath & body | **~2,500** | ByDesign Freedom + **Wayroo (live)**; reps previously Square/Venmo/PayPal | ✅ **CLOSED-WON — LIVE.** Launched July 17–18, 2026. 700+ downloads in launch weekend (~28%). Paid start pulled forward to Sept 2026 at customer request. | ⚠️ **Under re-measurement — ~20% confirmed understated** | **July 17–18, 2026** | Hybrid DSO (Wayroo upsell to existing Freedom client) — **may reclassify toward C&C** |
 
 ---
 
-## Closed / Inactive
+## Closed-Won / Reference Accounts
 
-*(none yet)*
+| Company | Status | Why it matters to GTM |
+|---------|--------|----------------------|
+| [Jordan Essentials](jordan-essentials.md) | Live since July 17–18, 2026 | **First Wayroo upsell into an existing Freedom client to reach production.** ~11-week cycle vs. 4–6 month standard; 28% rep adoption in 48 hours; eSuite pass-through validated in production; founder voluntarily shortened the free period. This is the proof asset for the entire existing-client upsell motion (`outputs/08-gtm-motions.md` Action 1). |
 
 ---
 
@@ -49,6 +51,21 @@ This folder tracks what we've learned from prospect interactions — demo calls,
 | **ERP framing vs CRM framing (positioning consistency gap)** | Color Street (Sam correction May 9 against Autumn's "their own CRM" pitch line) | **Internal positioning consistency issue, not a customer-facing pattern.** Wayroo is structurally a small-business ERP for the rep (inventory, orders, payments, financial records, shipping, storefront) with embedded CRM-like features. Calling Wayroo "the rep's CRM" undersells scope and weakens switching-cost narrative. Sweep `my-gtm-context.md` Sections 1, 4, 11 + outputs/06-* + Wayroo website copy to apply ERP framing consistently. See `feedback_wayroo_erp_not_crm.md` memory for the full reasoning. |
 | **Vintage inventory / "Barcode Unavailable" generic SKUs as catalog-rotation deal-unblocker** | Color Street (Brian: *"Even that would be helpful to them, right?"* — direct objection-killer, May 6) + Premieres tenant (existing implementation, screenshot proof point) | **Reusable for any C&C DSO with rotating seasonal catalogs.** Three-tier inventory handling (active sync + sell-on-the-fly + vintage generic SKUs) directly removes the "we'd have to build all the historical" objection. Add to standard C&C battlecard with Premieres screenshot. |
 
+
+### Patterns added from the Jordan Essentials launch (July 17–18, 2026)
+
+| Pattern | Accounts | GTM Implication |
+|---------|----------|----------------|
+| **Wayroo-led entry, back-office-agnostic** | **Color Street (Wayroo-only, no Freedom pitch) + Jordan Essentials (Wayroo attach to existing Freedom)** | **Two-account pattern, and potentially the largest strategic finding in the library.** Both live prospect records are Wayroo-first; neither was won by selling a back-office replacement. Wayroo is confirmed able to integrate with Exigo and other back offices. If Wayroo leads, the addressable market expands from "DSOs willing to replace a back office" to "any DSO" — including Exigo's installed base — and cycle time drops from 4–6 months to ~11 weeks. **Escalate to Unified Strategy as a category-level positioning decision (see `strategic-inputs.md` §9).** |
+| **Rep tool spend ≥ $60/mo — quantified** | Jordan Essentials (Canva, ChatGPT, Square, Boards, Project Broadcast) | First hard dollar figure on rep tool spend. Wayroo arrives at $5 incremental inside a $15/mo eSuite fee. Reusable substitution argument for both rep and DSO pitches. Probe for the same figure in the next 2–3 accounts to promote to confirmed. |
+| **Rep-side positioning must lead with selling, not organizing** | Jordan Essentials (~700 reps observed live) | Every top-tier rep reaction was an *earning* tool (Tap-to-Pay, invoicing w/ payment links) or a *seeing* tool (downline reports, dashboard widgets, phone access to back-office data). Compliance, media library, and inventory-organization features did not register at rep level. |
+| **Feature persona split — DSO-high / rep-low** | Jordan Essentials (Media Library: Hope 🔴 High, reps 🔵 Low) | Buyer enthusiasm ≠ user adoption. Media Library is a DSO retention/brand-control feature, yet `strategic-inputs.md` §1 credits it against WAY-1 (Wayroo *active users*). **Target attribution appears misassigned — flag to Unified Strategy.** Audit other features for the same split. |
+| **Self-reported C&C share is unreliable** | Jordan Essentials (~20% → confirmed understated at an account where ByDesign holds back-office data) | The qualifying question *"What % of your reps carry personal inventory?"* is producing bad data — DSO leadership likely does not know. **Replace self-report with back-office-derived measurement wherever ByDesign has the data.** Directly affects the 6 remaining Hybrid candidates. |
+| **eSuite pass-through validated in production** | Jordan Essentials ($10/mo → $15/mo rep tier, Wayroo included) | Previously a theoretical pricing model. Now live: ~2,500 reps × $5 incremental ≈ $12.5K/mo to the DSO while ByDesign collects its per-user fee. Both sides net-positive. Use as a concrete pricing proof, not a hypothetical. |
+| **Contract acceleration as a willingness-to-pay signal** | Jordan Essentials (Nancy pulled paid start forward to Sept 2026, cutting short an agreed free period) | A customer voluntarily shortening their own free period is a stronger WTP signal than any survey. Watch for this pattern; it is a candidate proof point for pricing conversations. |
+| **ByDesign's own back office was part of the fragmented rep workflow** | Jordan Essentials | Reps previously logged into Freedom after each sale to manage inventory, or kept spreadsheets. Part of Wayroo's rep value is fixing a Freedom UX gap. **Internal framing only — not buyer-facing.** |
+| **Rep demand for SMS / Project Broadcast** | Jordan Essentials (several unprompted requests) | Product gap. Note the competitive intersection: Project Broadcast already integrates with AiCE (at extra cost), and AiCE's Campfire offers group push notifications. Gives the unsigned AiCE partnership its first customer-demanded use case — or stands alone as a direct integration candidate. |
+
 ---
 
-*Updated: May 9, 2026*
+*Updated: August 8, 2026*

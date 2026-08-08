@@ -1,10 +1,28 @@
 # Prospect: Jordan Essentials
 
-**Last updated:** May 9, 2026
-**Stage:** Follow-up complete — preparing convention launch plan + pricing/timeline proposal
+**Last updated:** August 8, 2026
+**Stage:** ✅ **CLOSED-WON — LIVE IN PRODUCTION.** Launched at convention July 17–18, 2026. Customer requested paid contract start be pulled forward to September 2026.
 **Owner:** Cassie Lewis (account) / Autumn Fowers (product/demo). *Note: this is a Wayroo upsell to an existing Freedom client — Daniel Lang sells Freedom and is not the deal owner here.*
-**GTM Segment:** Hybrid DSO (existing Freedom client; ~20% C&C, predominantly non-C&C; Wayroo as channel-shift + recovery play)
+**GTM Segment:** Hybrid DSO (existing Freedom client) — ⚠️ **C&C share under re-measurement; the ~20% figure is confirmed wrong (understated). May reclassify toward C&C.**
 **Existing ByDesign client:** Yes — Freedom (back office) — listed in current client logo wall
+
+> **🏆 REFERENCE ACCOUNT — first Wayroo upsell into an existing Freedom client to reach production.** This is the proof asset for the entire Hybrid DSO / existing-client upsell motion (`outputs/08-gtm-motions.md` Action 1). Treat launch metrics as protected GTM assets.
+
+---
+
+## Launch Results (July 17–18, 2026)
+
+| Metric | Value | Note |
+|---|---|---|
+| **Launch weekend downloads** | **700+** | Still growing as of Aug 8 |
+| **Active rep base** | **~2,500** | |
+| **Launch-weekend adoption rate** | **~28% in 48 hours** | Strongest rep-adoption datapoint ByDesign owns |
+| Rep-facing price | **$15/mo** (upgraded from $10/mo tier) | Wayroo + Media Library included |
+| Rep incremental cost | **$5/mo** | Against a documented **$60/mo minimum** rep tool spend |
+| Contract acceleration | Free period cut short at customer request; **paid start moved to September 2026** | Founder-initiated |
+| Deal cycle | **~11 weeks** (May 6 follow-up → July 17 launch) | vs. 4–6 month standard new-logo cycle |
+
+**Pre-launch baseline: still missing.** 700 downloads proves *adoption*, not *recovery*. The deal was sold on reversing a 6-month sales/engagement decline; without pre-launch sales figures there is no way to evidence that claim. **Reconstruct from Freedom historical reports before the comparison window widens** (owner: Cassie + Sam).
 
 ---
 
@@ -14,11 +32,11 @@
 |-----------|--------|
 | Website | [unknown — confirm] |
 | Vertical | Personal care / skincare / bath & body (DSO) |
-| Active rep count | [unknown — request from Cassie] |
+| Active rep count | **~2,500** |
 | Geography | US |
-| Company stage | Established — existing ByDesign Freedom client |
-| Cash & Carry? | ~20% of reps (minority); strategic intent to grow this share via Wayroo |
-| Selling model history | Mixed: predominantly non-C&C catalog/replicated-site selling; ~20% C&C cohort runs vendor events with Square/PayPal today |
+| Company stage | Established — existing ByDesign Freedom client, now also Wayroo |
+| Cash & Carry? | ⚠️ **Previously believed ~20%. Confirmed understated at launch — actual share unknown and materially higher.** |
+| Selling model history | Mixed. In-person/vendor-event selling is more prevalent than corporate leadership or ByDesign believed pre-launch. C&C cohort uses Square, Venmo, and PayPal. |
 
 ---
 
@@ -44,6 +62,7 @@
 | Date | Type | Attendees | Summary |
 |------|------|-----------|---------|
 | May 6, 2026 | Follow-up call | Nancy (Founder), Hope (VP Sales) — Jordan Essentials; Autumn Fowers, Cassie Lewis — ByDesign | Wayroo upsell follow-up. Strong product resonance on customer-data capture (Nancy: "huge benefit"), Spendback (Nancy: "big benefit"), and rep team performance dashboards (Hope: "important"). "Why now" surfaced clearly: 6 months of declining rep sales + engagement; convention in 11 weeks chosen as the launch moment; thesis is that POS + media library will encourage reps to run more vendor events and grow the C&C share. No competitive evaluation in progress. No FTC/compliance angle raised. |
+| **July 17–18, 2026** | **Convention launch event (in person)** | Nancy (Founder), Hope (VP Sales) — Jordan Essentials; **Sam Atieh, Cassie Lewis — ByDesign** | **Wayroo launched live to the field.** 700+ downloads over launch weekend against a ~2,500 rep base (~28%), still growing. Rep excitement described as palpable and concentrated entirely on **selling and visibility tools** — Tap-to-Pay (not yet shipped) drew the strongest reaction, followed by invoicing with payment links, downline dashboard reports, other dashboard widgets, and phone access to back-office data without a separate Freedom login. Media Library landed flat with reps (it is Hope's brand-control requirement, not a rep need). Repeated unprompted rep requests for **Project Broadcast / SMS** capability inside the app. Post-launch, **Nancy requested the paid contract start be moved up to September 2026**, cutting short the agreed free period. New ICP signal: materially more reps sell in person than the ~20% C&C estimate assumed. |
 
 ---
 
@@ -63,6 +82,19 @@
 | Reps can't generate branded invoices on PayPal/Square | 3 | [inferred] | [paraphrase] Branded invoicing listed as benefit reps "can't get from PayPal, Square" |
 | Manual rep inventory management for the ~20% C&C cohort | 3 | [inferred] | [paraphrase] Auto-push of wholesale orders into Wayroo inventory framed as a benefit (Bluetooth scanner mentioned) |
 
+### Rep-Persona Pains — NEW, captured at launch (July 17–18, 2026)
+
+The May 6 record captured pains from DSO leadership only. The convention was ByDesign's first direct contact with the end-user population at this account, and it surfaced a materially different pain set.
+
+| Pain | Severity (1–5) | Source | Signal |
+|------|---------------|--------|--------|
+| **Rep tool cost — minimum $60/mo per rep** | 5 | Reps (End User) | Named tools: Canva, ChatGPT, Square, Boards, Project Broadcast. **First hard dollar figure on rep tool spend captured at any account.** Against a $15/mo Wayroo-inclusive fee ($5 incremental over the prior $10 tier), this is a ~12:1 value framing. |
+| **In-person payment friction — Square / Venmo / PayPal patchwork** | 5 | Reps (End User) | Tap-to-Pay drew the single strongest reaction of the entire launch. **Updated from severity 3 (inferred, May 6) → 5 (observed directly, July 17).** |
+| **Post-sale inventory workflow forced reps into the Freedom back office or spreadsheets** | 5 | Reps (End User) | Reps previously had to log into ByDesign to manage inventory after each sale, or maintain spreadsheets. **Not generic "app fragmentation" — ByDesign's own back office was itself a component of the fragmented rep workflow.** Not present in the `my-gtm-context.md` pain inventory. |
+| **No downline visibility for team-leader reps** | 4 | Reps (End User) | Downline dashboard reports named in the top reaction tier. May 6 recorded dashboards as a *VP Sales* resonance only; now confirmed at rep level and specifically for downline/team data. |
+| **No rep-to-customer messaging capability** | 4 | Reps (End User) | Several unprompted requests to bring Project Broadcast (SMS) into Wayroo. |
+| **C&C cohort materially larger than corporate believed** | 4 | Observed at launch | The ~20% figure underpinning the entire Hybrid classification is confirmed understated. Magnitude unknown. |
+
 ---
 
 ## Features That Resonated
@@ -74,7 +106,7 @@
 | **Rep team performance reports / time-frame dashboards (Wayroo)** | 🔴 High | Hope explicitly liked these; named the feature directly |
 | **Wayroo widgets pulling Freedom report data into rep-facing dashboards** | 🔴 High | Hope: "important." Direct integration between Freedom reports and Wayroo's rep-facing UI. Signal also feeds the AI Report builder roadmap item (currently de-prioritized for 2026). |
 | **Mobile POS for vendor events (Bluetooth scanner)** | 🔴 High | Strategic bet — Nancy + Hope expect POS will encourage more reps to run vendor events; central to the convention announcement plan |
-| **Media library (DSO-controlled marketing/branding assets)** | 🔴 High | Paired with POS as the "this will drive vendor event growth" thesis. DSO controls marketing assets/branding (separate from inventory management, which controls product images and descriptions). |
+| **Media library (DSO-controlled marketing/branding assets)** | 🔴 High **(DSO leadership only)** | Paired with POS as the "this will drive vendor event growth" thesis. DSO controls marketing assets/branding (separate from inventory management, which controls product images and descriptions). ⚠️ **Corrected July 17–18:** this is specifically **Hope's** requirement, driven by her need to control Jordan Essentials branding — not a rep-demanded feature. Reps were visibly *less* excited by it than by any other feature shown. See persona-split note below. |
 | Branded invoices for reps (vs. PayPal/Square) | 🟡 Medium | Listed as benefit; no explicit Nancy/Hope reaction captured |
 | Real-time inventory sync (wholesale auto-push to rep Wayroo inventory) | 🟡 Medium | Listed as benefit for the ~20% C&C cohort; Bluetooth scanner mentioned |
 | Integrated shipping fulfillment | 🟡 Medium | Mentioned in benefit list |
@@ -82,16 +114,39 @@
 | Next-day funding from replicated site sales (vs. monthly cycle) | 🟡 Medium | Discussed; positive but no explicit verbal reaction captured in notes |
 | Dropship | ⚪ Neutral | Referenced as "coming soon" — future expansion lever, not a current decision driver |
 
+### Rep-Persona Feature Resonance — captured live at launch (July 17–18, 2026)
+
+**First direct observation of end-user reaction at scale (~700 reps adopting in 48 hours).** Every top-tier reaction is a *selling or visibility* tool. Nothing in the top tier is an organizing, compliance, or content tool.
+
+| Feature | Rep Enthusiasm | Signal |
+|---------|---------------|--------|
+| **Tap-to-Pay** | 🔴 **Highest of anything shown** | Strongest single reaction of the launch. ⚠️ **NOT SHIPPED** — in development, 4th in the 2026 Wayroo order per `strategic-inputs.md` §6. |
+| **Invoicing with payment links** | 🔴 High | Top reaction tier |
+| **Downline dashboard reports** | 🔴 High | Top reaction tier. Team-leader reps want visibility into their own downlines. |
+| **Other dashboard widgets** | 🔴 High | Top reaction tier |
+| **Back-office data on the phone without a separate Freedom login** | 🔴 High | Top reaction tier. Directly removes the prior workflow where reps had to log into ByDesign after each sale to manage inventory. |
+| **Media Library** | 🔵 **Low** | Visibly less excited than for any other feature. |
+| Project Broadcast / SMS messaging | 🔴 High (as an *unmet* request) | Several unprompted requests to bring SMS into the app |
+
+**⚠️ Persona split on Media Library — the most important positioning finding of the launch.**
+
+The same feature rates 🔴 High with the DSO buyer and 🔵 Low with the rep user. Hope wants it to control Jordan Essentials branding; reps have no corresponding need. This is not a contradiction to resolve — it is a real split to encode.
+
+**Consequence:** `strategic-inputs.md` §1 lists Media Library as a driver of **WAY-1 (10,000 Wayroo active users)**. A feature reps do not value will not drive rep adoption. Media Library is a **DSO retention and brand-control** feature, and its 2026 target attribution appears misassigned. Flag to Unified Strategy.
+
 ---
 
 ## Blockers
 
 | Blocker | Type | Owner | Status |
 |---------|------|-------|--------|
-| **Convention deadline — ~July 22, 2026 (~11 weeks out).** Entire announcement plan breaks if Wayroo isn't live + reps aren't trained by then | Timing | Autumn Fowers + Cassie Lewis | Open — needs implementation timeline confirmed against this date |
-| **No quantified baseline on the rep sales/engagement decline.** Hope's "lower sales, lower engagement" is directional only. Without numbers, there's no measurable success criterion for the post-convention review | Commercial / Stakeholder | Cassie Lewis + Sam Atieh | Open — request rep MAU, avg ticket, # active sellers/month, rep churn rate before next call |
-| **Wayroo as channel-shift bet is unproven for non-C&C-majority DSOs.** The thesis is that POS + media library will *grow* the C&C share from ~20% to higher. If reps don't adopt or don't run more vendor events, the launch underdelivers and Nancy/Hope's announcement loses credibility | Product / Adoption | Sam Atieh + Cassie Lewis | Open — needs a rep adoption + enablement plan tied to the convention |
-| **Pricing/contract structure for an existing Freedom client adding Wayroo.** Does eSuite pass-through apply? Pilot vs. full rollout pricing for an 11-week timeline? | Commercial | Cassie Lewis + Autumn Fowers | Open |
+| ~~**Convention deadline — ~July 22, 2026.**~~ | Timing | Autumn Fowers + Cassie Lewis | ✅ **RESOLVED** — launched on time July 17–18 |
+| ~~**Pricing/contract structure for an existing Freedom client adding Wayroo.**~~ | Commercial | Cassie Lewis + Autumn Fowers | ✅ **RESOLVED** — eSuite pass-through in production at $15/mo rep-facing (up from $10). Customer requested paid start pulled forward to Sept 2026. |
+| ~~**Wayroo as channel-shift bet is unproven.**~~ | Product / Adoption | Sam Atieh + Cassie Lewis | ✅ **LARGELY RESOLVED** — 28% rep adoption in 48 hours. Vendor-event volume lift still unmeasured. |
+| **No quantified pre-launch baseline on the sales/engagement decline.** 700 downloads proves adoption, not recovery. Without pre-launch sales figures the "Wayroo reversed the decline" claim cannot be evidenced — and that is the claim that sells the other six Hybrid candidates. | Commercial / Proof | Cassie Lewis + Sam Atieh | 🔴 **STILL OPEN — now urgent.** Reconstruct from Freedom historical reports before the comparison window widens. |
+| **Tap-to-Pay expectation gap.** The feature reps were most excited about is not shipped. ~2,500 reps now hold a convention-dated expectation. | **Product** | Sam Atieh | 🔴 **OPEN — new, highest-risk item at this account** |
+| **Project Broadcast / SMS not available in Wayroo.** Repeated unprompted rep requests. Reps are paying for it separately today as part of the $60/mo stack. | Product | Sam Atieh | 🟡 Open — integration candidate |
+| **C&C share unmeasured.** The ~20% figure is confirmed wrong; true share unknown. Drives segment classification and feature prioritization. | Segmentation | Cassie Lewis + Sam Atieh | 🟡 Open |
 
 ---
 
@@ -107,11 +162,47 @@
 
 > [paraphrase] Nancy and Hope want the upcoming convention (~July 22, 2026) to be the Wayroo announcement moment — positioned as the lever to reverse the sales/engagement decline
 
+### From the launch event (July 17–18, 2026)
+
+> [paraphrase] **Nancy (Founder) requested that the paid contract start be moved up to September 2026** — voluntarily cutting short the agreed free period after seeing the field reaction. *The strongest willingness-to-pay signal available: a customer shortening their own free trial.*
+
+> [paraphrase] Rep excitement for Wayroo was **palpable** — concentrated entirely on selling tools (Tap-to-Pay, invoicing with payment links) and visibility tools (downline reports, dashboard widgets, phone access to back-office data).
+
+> [paraphrase] **Reps spend a minimum of $60/month** on apps to run their businesses — Canva, ChatGPT, Square, Boards, Project Broadcast. Wayroo arrives inside a $15/mo fee, $5 incremental over the prior tier.
+
+> [paraphrase] Before Wayroo, reps had to **log into the ByDesign back office to manage inventory after a sale, or run a series of spreadsheets** — a fragmented workflow on top of the cost of the extra software tools.
+
 ---
 
 ## GTM Implications
 
+### ⭐ POST-LAUNCH IMPLICATIONS (July 17–18, 2026) — supersede where they conflict with the May 6 reading below
+
+**1. This account is now the proof asset for the entire existing-client upsell motion.**
+An ~11-week cycle (vs. 4–6 months standard), 28% rep adoption in 48 hours, eSuite pass-through working in production, and a founder voluntarily shortening their own free period. That combination is the case for `outputs/08-gtm-motions.md` Action 1 (Hybrid DSO decline-scan sprint) and should be the lead evidence in any Aug–Dec 2026 exec material.
+
+**2. Rep-side positioning must lead with selling, not organizing.**
+Every top-tier rep reaction was a tool that helps them *earn* (Tap-to-Pay, invoicing with payment links) or *see* (downline reports, dashboard widgets, back-office data on the phone). Compliance, media library, and inventory-organization features did not register at the rep level. Current rep-facing positioning underweights the earning frame.
+
+**3. The $60/mo rep tool spend is the strongest rep-economics argument yet captured.**
+Reps pay a minimum $60/mo across Canva, ChatGPT, Square, Boards, and Project Broadcast. Wayroo arrives for $5 incremental. This is a concrete, quotable substitution argument for both the rep pitch ("one app, less spend") and the DSO pitch ("your reps keep more of what they earn"). It also validates the *"more selling time, less admin time"* theme already cross-account confirmed at four accounts.
+
+**4. The ~20% C&C estimate was wrong — and that has implications beyond this account.**
+More reps sell in person than corporate or ByDesign believed. Since this misread happened at an **existing client where ByDesign holds back-office data**, the same estimate is likely unreliable across the six remaining Hybrid candidates where visibility is lower. The qualifying question *"What % of your reps carry personal inventory?"* is producing bad data — probably because DSO leadership genuinely does not know. **Recommend replacing self-reported estimates with a back-office-derived measurement wherever ByDesign has the data.**
+
+**5. ByDesign's own back office was part of the fragmented rep workflow.**
+Reps previously logged into Freedom after each sale to manage inventory, or kept spreadsheets. Part of Wayroo's rep-side value is fixing a Freedom UX gap. Worth stating plainly internally; not buyer-facing material.
+
+**6. Media Library is mis-attributed in the 2026 plan.** See the persona-split note in Features. It is a DSO retention/brand-control feature, not a rep-adoption driver, and `strategic-inputs.md` §1 currently credits it against WAY-1 (Wayroo active users). Flag to Unified Strategy.
+
+**7. Tap-to-Pay now carries customer-committed expectation risk at ~2,500 reps.** The most exciting feature at the launch does not exist yet. Every week of slip erodes the launch's adoption momentum at the reference account the rest of the motion depends on.
+
+---
+
 ### Which ICP/segment does this account confirm or challenge?
+
+> ⚠️ **Updated July 2026:** the ~20% C&C figure this classification rests on is confirmed understated. Segment may shift toward C&C. Re-measure before using Jordan Essentials as the canonical Hybrid example.
+
 **New segment signal: Hybrid DSO.** Jordan Essentials is neither ICP 1 (Standard DSO) nor ICP 1a (C&C DSO) cleanly. It is a third pattern: an existing Freedom client with a minority C&C cohort (~20%) that wants to use Wayroo to *grow* the C&C share — using POS + media library as the channel-shift mechanism. The buying motion is "Wayroo as recovery and channel-shift play," not "Wayroo as compliance fix" (Color Street) or "Wayroo as activation fix" (standard new-logo motion).
 
 This is the second account in the prospect intelligence library (after Color Street) — and it surfaces a different sub-segment within the same Wayroo product. Worth promoting to a named GTM segment if a third Hybrid account confirms the pattern.
@@ -147,21 +238,33 @@ DMU note: Nancy + Hope are both Economic Buyers. Two-EB accounts move faster tha
 
 ## Deal Status & Next Steps
 
+### ✅ Completed (May–July 2026)
+
+- ~~Confirm convention date and announcement-readiness criteria~~ → launched July 17–18
+- ~~Build implementation + rep-enablement timeline~~ → delivered on time
+- ~~Draft Wayroo-upsell pricing/contract structure for existing Freedom clients~~ → eSuite pass-through live at $15/mo rep-facing
+
+### 🔴 Open — post-launch
+
 | Action | Owner | Due |
 |--------|-------|-----|
-| Confirm convention exact date and announcement-readiness criteria | Cassie Lewis → Hope | This week |
-| Request quantified rep performance baseline (MAU, avg ticket, active sellers/month, churn rate) | Cassie Lewis → Hope | This week |
-| Build implementation + rep-enablement timeline mapped against the ~July 22 convention | Autumn Fowers + Cassie Lewis | Within 2 weeks |
-| Draft Wayroo-upsell pricing/contract structure for existing Freedom clients (eSuite pass-through, pilot vs. full rollout) | Cassie Lewis + Autumn Fowers | Before next call |
-| Send Spendback one-pager with Paparazzi cost-savings math (already owed to Color Street — write once, use both) | Sam Atieh | This week |
-| Send Nancy a "rep customer auto-creation in Freedom" feature one-pager — make this the Economic Buyer pitch asset | Sam Atieh | This week |
-| Define announcement-launch success metrics with Nancy + Hope (rep adoption %, vendor event count, sales lift target) | Cassie Lewis + Sam Atieh | Before contract |
-| Surface Hope's interest in AI Report builder + team-report dashboards to product team as customer signal | Sam Atieh | This month |
+| **Reconstruct the pre-launch baseline from Freedom historical reports** (rep MAU, avg ticket, active sellers/month, churn) — required to evidence the recovery claim, not just the adoption number | Cassie Lewis + Sam Atieh | **Immediately — data ages** |
+| **Process the September paid-start acceleration** — customer-initiated, do not let paperwork be the bottleneck | Cassie Lewis | ASAP |
+| **Measure the true C&C share** from back-office data rather than corporate self-report | Cassie Lewis + Sam Atieh | Within 2 weeks |
+| **Escalate Tap-to-Pay timing** — ~2,500 reps hold a convention-dated expectation; confirm ship date or plan an expectation-management comms | Sam Atieh → product | This week |
+| Track download curve past 700 and convert to a 30/60/90-day active-user and transaction-volume series | Cassie Lewis + Sam Atieh | Ongoing |
+| Draft the Jordan Essentials case study (adoption story publishable now; recovery story pending baseline) | Sam Atieh | Draft by mid-Sept |
+| Scope Project Broadcast / SMS integration against repeated rep demand | Sam Atieh → product | This month |
+| Capture Nancy + Hope reference quotes while enthusiasm is at peak | Cassie Lewis | Within 2 weeks |
+| Surface Hope's interest in AI Report builder + team-report dashboards to product as customer signal | Sam Atieh | This month |
+| Send Spendback one-pager with Paparazzi cost-savings math (also owed to Color Street — write once, use both) | Sam Atieh | Carried forward |
 
 ---
 
 ## Anti-Patterns / Disqualifiers
 
-- **Compliance-led pitch is the wrong lead** for this account. FTC/tax was not raised; do not surface it as a primary value driver in follow-up. Growth, recovery, and customer data ownership lead.
-- **Don't oversell the C&C feature set** to Nancy. Only ~20% of the rep base is C&C today. Inventory management, Bluetooth scanner, and Square-replacement messaging serve a minority of her reps. The majority resonance is on rep performance dashboards, customer data capture, and Spendback (DSO-cost angle).
-- **Convention slip is the existential risk.** If Wayroo can't be live + reps trained by the convention, the announcement loses its boost role and the deal narrative breaks. Treat the timeline as the deal's load-bearing constraint, not a soft target.
+- **Compliance-led pitch is the wrong lead** for this account. FTC/tax was not raised; do not surface it as a primary value driver. Growth, recovery, and customer data ownership lead.
+- ~~**Don't oversell the C&C feature set** to Nancy — only ~20% of the rep base is C&C.~~ ⚠️ **RETIRED July 2026.** The ~20% figure is confirmed understated, and reps reacted most strongly to in-person selling tools (Tap-to-Pay above all). The prior guidance to downplay C&C features was based on a bad denominator. **Do not carry it forward.**
+- ~~**Convention slip is the existential risk.**~~ ✅ Resolved — launched on time.
+- **Do not promise Tap-to-Pay dates that product has not committed to.** The feature drew the strongest reaction at launch and is not shipped. Over-promising here damages the reference account the whole Hybrid motion depends on.
+- **Do not publish a "Wayroo reversed the decline" claim without the reconstructed baseline.** The adoption number (700 / 28%) is real and publishable today. The recovery claim is not evidenced yet.

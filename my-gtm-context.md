@@ -1,8 +1,22 @@
 # My GTM Context
 
-**Last Updated:** May 9, 2026  
+**Last Updated:** August 8, 2026  
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
+
+> ### 🔴 August 2026 Status Header — read before using anything below
+>
+> **Jordan Essentials is LIVE.** Launched July 17–18, 2026. 700+ downloads in the launch weekend against a ~2,500 rep base (~28% in 48 hours), still growing. ~11-week deal cycle. eSuite pass-through proven in production at $15/mo rep-facing. Founder requested the paid contract start be pulled forward to September 2026. Full record: [`prospects/jordan-essentials.md`](prospects/jordan-essentials.md).
+>
+> **AiCE partnership is STILL UNSIGNED** as of Aug 8, 2026 (term sheets were targeted for June). Continue hedging: do not re-arm anti-AiCE positioning, and do not build on the partnership.
+>
+> **Color Street has NOT closed.** **Paparazzi case study is STILL UNPUBLISHED** — outstanding since May and now the oldest unresolved item in the GTM plan.
+>
+> **Wayroo integrates with Exigo and other back offices** (confirmed Aug 8, 2026). This underpins the Wayroo-led entry thesis — see §14.
+>
+> **⚠️ Two unresolved conflicts in this document.** (1) §9 states a $2M 2026 revenue goal; `strategic-inputs.md` BYD-3 states $500K. Both are internally coherent — $500K is the committed target, $2M describes the demand engine at capacity. (2) §5 prices Wayroo at $5/user/mo; `strategic-inputs.md` §5 says $1/user/mo bundled into eSuite, billed per *active* rep. These produce a 17x spread on the same account. Both are open leadership decisions as of Aug 8.
+>
+> **Active Phase 8 plan:** [`outputs/08-launch-plan-presentation.md`](outputs/08-launch-plan-presentation.md)
 
 ---
 
@@ -118,6 +132,14 @@ Same buyer profile as ICP 1, but at organizations where the majority of reps do 
 **Pitching implication:** Lead with **Dropship + dashboards + corporate-to-rep distribution (notifications, media library)**. Inventory features become a secondary "we also support your in-person reps" bullet, not the headline.
 
 **Qualifying question for the segment:** "What % of your reps carry personal inventory?" The answer slots them into C&C (50%+), Hybrid (~20–50%), or Non-C&C (<20%, with ~20% still selling in person).
+
+> ### ⚠️ This qualifying question is producing unreliable data (added Aug 8, 2026)
+>
+> At the Jordan Essentials launch, materially more reps turned out to sell in person than the ~20% C&C estimate assumed — **at an existing client where ByDesign holds the back-office data.** If the estimate was wrong there, it is likely wrong across the six remaining Hybrid candidates, where visibility is lower. DSO leadership appears not to actually know their own C&C share.
+>
+> **Recommendation: derive C&C share from Freedom back-office data wherever ByDesign has it, rather than asking corporate to self-report.** Keep the question for accounts where no back-office data exists (new logos), but treat the answer as a hypothesis, not a fact.
+>
+> This mirrors the Color Street 80/20 hobbyist/seller finding: DSO self-reported rep figures have been wrong in both directions at both accounts where they could be checked.
 
 **ICP 2 — Sales Reps** (End User for Track 1 / Direct Buyer for Track 2)  
 Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/PayPal, spreadsheets, email, Canva). Measured on personal sales volume and monthly earnings.
@@ -390,7 +412,16 @@ Key competitive facts:
 
 **Flagship case study (Paparazzi — unpublished, build immediately):**
 > 4,000 Paparazzi reps generated **$31M in sales in 2025** — a **60%+ increase over 2024** — using Wayroo.
-This is the single highest-leverage marketing asset. It is not yet published anywhere.
+This is the single highest-leverage marketing asset. It is not yet published anywhere. **Still unpublished as of Aug 8, 2026 — approval never requested.**
+
+**Second proof asset (Jordan Essentials — launched July 17–18, 2026):**
+> **700+ downloads in the launch weekend — 28% of a 2,500-rep field in 48 hours**, still growing. Deal closed in ~11 weeks vs. the 4–6 month standard. After the launch, the founder requested the paid contract start be pulled forward to September, cutting short an agreed free period.
+
+**Why this may now be the more valuable of the two.** Paparazzi proves *scale* at a client live for years. Jordan Essentials proves **repeatability in the exact segment the 2026 upsell motion sells into, on an 11-week timeline, with a named forcing function** — and it is fresh. A Hybrid DSO prospect recognizes themselves in Jordan Essentials in a way they never will in Paparazzi.
+
+⚠️ **Claim boundary:** the *adoption* number is fully supported and publishable. The *"Wayroo reversed a 6-month sales decline"* claim is **not** — no pre-launch baseline was captured. Do not publish the recovery claim until the baseline is reconstructed from Freedom historical reports.
+
+**Rep economics datapoint (Jordan Essentials, July 2026):** reps spend a **minimum of $60/month** on tools to run their businesses — Canva, ChatGPT, Square, Boards, Project Broadcast. Wayroo arrives inside a $15/mo eSuite fee, **$5 incremental** over the prior $10 tier. First hard dollar figure on rep tool spend captured at any account, and the clearest rep-economics substitution argument available.
 
 **Platform credibility stats (from sales deck):**
 - 25 years in the industry
@@ -558,9 +589,53 @@ Structured records of what was learned from prospect interactions — confirmed 
 | Prospect | GTM Segment | Key Intel | File |
 |----------|-------------|-----------|------|
 | Color Street | Cash & Carry DSO (ICP 1a) | Left Exigo; custom commission engine + Shopify stack; Wayroo-only deal (no Freedom pitch); "My Stash" concept validated; customer auto-creation in DSO back office named unprompted; blocked on Shopify integration | [prospects/color-street.md](prospects/color-street.md) |
-| Jordan Essentials | Hybrid DSO (ICP 1b — working hypothesis) | Existing Freedom client; ~20% C&C; Wayroo upsell as recovery story for 6-month rep sales/engagement decline; convention ~July 22, 2026 forcing function (~11 weeks); Nancy (Founder) + Hope (VP Sales) both Economic Buyers; cross-account validated customer auto-creation + Spendback (DSO wholesale-fee 2.55%+ → 1%); rep performance dashboards land for VP-Sales-tier EB; **FTC/tax compliance NOT raised** — do not lead with compliance for Hybrid DSOs | [prospects/jordan-essentials.md](prospects/jordan-essentials.md) |
+| Jordan Essentials | Hybrid DSO (ICP 1b) — **may reclassify toward C&C** | ✅ **CLOSED-WON, LIVE since July 17–18, 2026.** 700+ downloads / ~28% of 2,500 reps in 48 hrs. ~11-week cycle. eSuite pass-through live at $15/mo. Founder pulled paid start forward to Sept. Rep-side top reactions were all *selling and visibility* tools: Tap-to-Pay (unshipped), invoicing w/ payment links, downline dashboards, phone access to back-office data. **Media Library rated High by DSO leadership, Low by reps** — persona split. Reps spend $60/mo min on tools. ~20% C&C figure confirmed understated. Repeated rep requests for SMS/Project Broadcast. | [prospects/jordan-essentials.md](prospects/jordan-essentials.md) |
 
 **How skills should use this:**
 - Before any outreach or call prep, read the relevant prospect file
 - When building GTM assets (positioning, messaging, battlecards), cross-reference confirmed pains and verbatim quotes from prospect files
 - When identifying ICP patterns, look for signals that repeat across multiple prospect files
+
+---
+
+## 14. Open Strategic Question — The Wayroo-Led Entry Thesis
+
+**Status as of August 8, 2026: OPEN. Two-account pattern with a confirmed technical basis. Escalated for a Q4 2026 leadership decision. Not yet a positioning change — do not treat as decided.**
+
+### The observation
+
+The current motion sells **Freedom** (a back-office replacement — expensive, high switching cost, 4–6 month cycle) with **Wayroo** attached. Accumulated evidence points the other way:
+
+| Evidence | Source |
+|---|---|
+| Both live prospect records are **Wayroo-first**. Color Street is Wayroo-only with no Freedom pitch. | `prospects/color-street.md` |
+| Jordan Essentials closed in **~11 weeks** as a Wayroo attach to an existing client | `prospects/jordan-essentials.md` |
+| **28% of a 2,500-rep field adopted in 48 hours**; enthusiasm palpable | JE launch, July 17–18 |
+| Founder **voluntarily shortened her own free period** | JE launch |
+| **Wayroo integrates with Exigo and any other back office** — confirmed capability | Confirmed Aug 8, 2026 |
+
+### Why it would matter
+
+| | Freedom-led (today) | Wayroo-led |
+|---|---|---|
+| The ask | "Replace your back office" | "Add the app your reps already want" |
+| Cycle | 4–6 months | ~11 weeks observed |
+| Addressable market | DSOs willing to rip out a back office | **Any DSO — including Exigo's installed base** |
+| Champion | Corporate only | Corporate **and the field** |
+| Expansion | — | Wayroo → Freedom at renewal; Wayroo → Back Office Lite for smaller DSOs |
+| Competitive effect | Exigo is a wall | **Exigo's installed base becomes a market** |
+
+### Product direction that would strengthen it (both UNSHIPPED — do not build GTM on either)
+
+- **Wayroo Back Office Lite** — cloud genealogy + commission engine connected to Wayroo. Would make Wayroo a genuinely standalone product. *In build.*
+- **Rep-added personal inventory** — rep buys Wayroo, loads their own inventory, pushes the app up to the DSO, then sells corporate inventory via existing inventory sync. A textbook bottom-up land-and-expand, and the mechanism that would activate the Track 2 (Direct-to-Rep) motion in §2. *Under consideration; deferred to 2027 per `strategic-inputs.md` §6.*
+
+⚠️ **Tap-to-Pay is the cautionary case.** It drew the strongest rep reaction at the Jordan Essentials launch and has not shipped, leaving ~2,500 reps with a dated expectation. Do not repeat this at company-strategy scale.
+
+### How it is being tested
+
+`outputs/08-gtm-motions.md` Action 5 — a bounded test against **5–10 Exigo-based DSOs** with a Wayroo-only pitch, measured on **meeting acceptance rate vs. the Freedom-led baseline**, explicitly *not* on 2026 bookings. Uses only shipped capability. Result read at Week 15 (mid-November) and feeds the Q4 decision.
+
+### Decision boundary
+
+Per `strategic-inputs.md` §9, positioning **category** and lead differentiator are a joint Unified-Strategy/GTM decision. The GTM repo generates the hypothesis and the evidence; it does not unilaterally reposition the company. **Until leadership decides, keep Freedom-led as the operative positioning in all buyer-facing artifacts.**
