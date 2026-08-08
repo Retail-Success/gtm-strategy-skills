@@ -36,16 +36,24 @@ That launch, combined with confirmation that Wayroo integrates with Exigo and ot
 
 ### Where we actually stand against 2026 targets
 
-The honest scorecard, which differs from the assumed one:
-
 | Target | Status | Verdict |
 |---|---|---|
-| **BYD-3 — $500K new client revenue** | **$474K closed YTD (April)** | 🟢 **94.8% — effectively met** |
-| 5 new DSOs signed | 2 signed; ~40 open opportunities | 🟡 **Reachable from pipeline already in flight** |
-| **WAY-1 — 10,000 Wayroo active users** | ~4,700 | 🔴 **Not achievable. Recommend re-baselining to ~6,000.** |
-| Wayroo cross-sell +300% | 1 of 3 | 🟡 Plan targets 2 more |
+| **BYD-3 — $500K new client revenue** | **Missed** | 🔴 |
+| 5 new DSOs signed | 2 signed | 🔴 Missed |
+| **WAY-1 — 10,000 Wayroo active users** | ~4,700 | 🔴 ~5,300 short |
+| Wayroo cross-sell +300% | 1 of 3 | 🔴 |
 
-**The most important line in this table is the third.** The revenue target is essentially met. The adoption target is not, and cannot be, for a structural reason explained below. A plan built to chase new-logo revenue would solve a problem that is already solved.
+**2026 targets are missed and are no longer the operative planning frame.** The relevant question is not how to recover them in 4.7 months — it is why the misses were structural, because the same constraints carry into next year unless they change.
+
+| Constraint | Evidence |
+|---|---|
+| One sales rep against a 4–6 month cycle | `my-gtm-context.md` §8 |
+| Marketing at **0.4% of revenue** vs. a 5–20% benchmark | `08-gtm-budget.md` |
+| **Zero published proof assets** — the $31M Paparazzi result has sat unpublished since May | `my-gtm-context.md` §9 |
+| The best-converting channel (71.4%) supplies **7.5% of opportunities** | `my-gtm-context.md` §7 |
+| Deal value scales with **rep adoption**, not signature — and no adoption motion exists | Confirmed by $3/user pricing, below |
+
+**A 5-logo year is not reachable from that base.** The plan below changes the constraints rather than restating the targets.
 
 ---
 
@@ -341,7 +349,7 @@ Any conversation anchored on the $36,400 annual marketing figure understates act
 |---|---|---|---|
 | 1 | **Confirm the operative 2026 revenue target.** `my-gtm-context.md` says $2M; `strategic-inputs.md` BYD-3 says $500K. Both are internally coherent — $500K is the committed number, $2M describes the demand engine at full capacity. **We need to know which we are measured on.** | Leadership | **Aug 15** |
 | 2 | **Re-baseline WAY-1 to ~6,000**, or accept a reported miss against 10,000 | Leadership | **Aug 15** |
-| 3 | **Resolve Wayroo per-user pricing** — $1/user/mo vs. $5/user/mo, active vs. nominal reps. Current documents produce a 17x spread on the same account. | Leadership + Morgan | **Aug 22** |
+| 3 | ~~Resolve Wayroo per-user pricing~~ ✅ **RESOLVED Aug 8.** Jordan Essentials pays **$3/user/mo**; charges reps **$5/mo** on top of the existing $10. **The DSO resells Wayroo at a 67% margin.** One sub-question remains: is the $3 billed on *active* users or *total* reps? That is a 3.6x difference at Jordan Essentials ($25K vs. $90K/yr). | Finance | **Aug 15** |
 | 4 | **Commit a Tap-to-Pay ship date**, or approve expectation-management comms | Product | **Aug 15** |
 | 5 | **Approve +$2,000 budget reallocation** | Leadership | **Aug 15** |
 | 6 | **Schedule the Wayroo-led category decision for Q4 planning** | Leadership | **Aug 22** |

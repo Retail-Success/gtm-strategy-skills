@@ -14,9 +14,18 @@
 >
 > **Wayroo integrates with Exigo and other back offices** (confirmed Aug 8, 2026). This underpins the Wayroo-led entry thesis — see §14.
 >
-> **⚠️ Two unresolved conflicts in this document.** (1) §9 states a $2M 2026 revenue goal; `strategic-inputs.md` BYD-3 states $500K. Both are internally coherent — $500K is the committed target, $2M describes the demand engine at capacity. (2) §5 prices Wayroo at $5/user/mo; `strategic-inputs.md` §5 says $1/user/mo bundled into eSuite, billed per *active* rep. These produce a 17x spread on the same account. Both are open leadership decisions as of Aug 8.
+> **🔴 2026 REVENUE TARGETS WERE MISSED** and are no longer the operative planning frame (confirmed Aug 8, 2026). Treat every revenue target in §9 of this document as historical. The go-forward frame is Wayroo/ByDesign strategy, not 2026 target recovery.
 >
-> **Active Phase 8 plan:** [`outputs/08-launch-plan-presentation.md`](outputs/08-launch-plan-presentation.md)
+> **✅ WAYROO PRICING RESOLVED (Aug 8, 2026) — supersedes §5.** Confirmed from Jordan Essentials in production:
+> - **DSO pays ByDesign: $3.00 / user / month**
+> - **DSO charges its reps: $5.00 / rep / month**, *in addition to* the $10/mo eSuite fee they already charged (rep total $15/mo)
+> - **DSO margin: $2.00/rep/mo — a 67% margin on the resale**
+>
+> This is stronger than the "cost-neutral pass-through" framing in §5: **the DSO does not absorb Wayroo, it resells Wayroo at a profit.** Every additional adopting rep earns the DSO $2/month, which makes rep adoption a *shared* financial incentive. It also means **deal value scales with adoption, not signature** — a signed DSO is worth little until its reps adopt. Open sub-question: is the $3 billed on *active* users or *total* reps? (3.6x difference at Jordan Essentials.)
+>
+> **AiCE: undetermined, moving toward ACQUISITION** (not JV) as of Aug 8, 2026. **If it proceeds, the AiCE brand would likely be the surviving brand.** Continue hedging — do not re-arm anti-AiCE positioning, do not build on it.
+>
+> **Active Phase 8 plan:** [`outputs/08-launch-plan-presentation.md`](outputs/08-launch-plan-presentation.md) — note its 2026-target scorecard is superseded; its structural findings (cycle math, adoption lag, channel economics, proof gap) stand.
 
 ---
 

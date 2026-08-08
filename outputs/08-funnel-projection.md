@@ -8,20 +8,34 @@
 
 ---
 
-## Headline Finding
+> # ⛔ SUPERSEDED — August 8, 2026 (same day)
+>
+> **The 2026 revenue targets were missed and are no longer the operative planning frame.** Confirmed by Sam, Aug 8.
+>
+> **The error corrected:** this document inferred from `$474K YTD (April) / $500K BYD-3` that the revenue target was "effectively met." That inference was wrong. It was flagged as unconfirmed at the time (see Assumptions table: *"$474K YTD is all new-logo — confidence: Low"*), and the confirmation came back negative.
+>
+> **What is still valid below:**
+> - The **cycle-math constraint** — nothing opened in August closes in 2026. Structural, unaffected.
+> - The **WAY-1 implementation-lag finding** — closing a Wayroo deal in Q4 adds no Wayroo users in 2026. Structural, unaffected.
+> - The **cheapest-lever analysis** — deepening Jordan Essentials adoption is still the highest-yield action available.
+> - The **conversion rates and channel math** — drawn from 2025 actuals, unaffected.
+>
+> **What is void:** the "target already met" headline, the BYD-3 scorecard, and the three-scenario revenue projections.
+>
+> **Pricing is now resolved** — see the corrected section below. Jordan Essentials pays **$3/user/month**.
 
-Working the math backward produced a conclusion that reframes the whole Aug–Dec plan:
+---
 
-> **The 2026 revenue target is essentially already met. The user-adoption target is the one at risk, and it is at risk by a wide margin.**
+## Headline Finding — CORRECTED
 
 | 2026 Target | Status as of Aug 8 | Verdict |
 |---|---|---|
-| **BYD-3 — $500K new client booked revenue** | **$474K closed YTD (April)** = 94.8% | 🟢 **Effectively met** — $26K remaining |
-| **5 new DSOs signed** | 2 signed (LemonGrass, JBloom) | 🟡 **Achievable from pipeline already in flight** |
-| **WAY-1 — 10,000 Wayroo active users** | ~4,700 (Paparazzi 4,000 + Jordan Essentials 700) | 🔴 **~5,300 short. Not achievable in-window.** |
-| Wayroo cross-sell +300% | 1 (Jordan Essentials) | 🟡 Action 1 targets 2 more |
+| **BYD-3 — $500K new client booked revenue** | **Missed** | 🔴 No longer the operative frame |
+| 5 new DSOs signed | 2 signed (LemonGrass, JBloom) | 🔴 Missed |
+| **WAY-1 — 10,000 Wayroo active users** | ~4,700 (Paparazzi 4,000 + Jordan Essentials 700) | 🔴 ~5,300 short |
+| Wayroo cross-sell +300% | 1 (Jordan Essentials) | 🟡 |
 
-A plan built to chase new-logo revenue would be solving a problem that is already solved, while the binding constraint went unaddressed. **The Aug–Dec plan should be measured primarily on Wayroo adoption and 2027 pipeline, not on 2026 bookings.**
+**The finding that survives, and now matters more:** the reason the misses were structural rather than executional. A 4–6 month cycle against a one-rep sales team, with 0.4% of revenue in marketing spend and zero published proof assets, cannot produce a 5-logo year. **The go-forward plan has to change the constraints, not the targets.**
 
 ---
 
@@ -158,15 +172,37 @@ That is roughly **1,400 users — 26% of the entire WAY-1 gap — from one exist
 | **Existing pipeline (40 opps)** | — | — | 40 | 13.4% | **5.4** | **~$540K** | — |
 | **Exigo test** | 5–10 | 20–30% | 1–3 | — | 0–1 | $0 | $0–100K |
 
-**Note on installed-base deal value — genuinely unknown, and the range is wide.** `my-gtm-context.md` §5 prices Wayroo at **$5/user/mo**; `strategic-inputs.md` §5 says **$1/user/mo** bundled into eSuite. `strategic-inputs.md` §5 also mandates **per-active-rep billing, not nominal seats.** Against a 2,500-rep account at ~700 active:
+### ✅ RESOLVED — actual Wayroo pricing, confirmed from Jordan Essentials (Aug 8, 2026)
 
-| Model | Annual value |
+The `$1/user/mo` vs. `$5/user/mo` conflict between `my-gtm-context.md` §5 and `strategic-inputs.md` §5 is closed. **Neither figure was right.** The production number:
+
+| Flow | Amount |
 |---|---|
-| $5/mo × 700 active | $42,000 |
-| $1/mo × 700 active | $8,400 |
-| $5/mo × 2,500 nominal | $150,000 |
+| **Jordan Essentials pays ByDesign** | **$3.00 / user / month** |
+| **Jordan Essentials charges its reps** | **$5.00 / rep / month** — *in addition to* the $10/mo they already charged |
+| Rep's total monthly fee | **$15.00** ($10 existing + $5 Wayroo) |
+| **DSO gross margin on Wayroo** | **$2.00 / rep / month — a 40% markup, 67% margin on the resale** |
 
-**A 17x spread.** No credible upsell revenue forecast is possible until this is resolved. **Week 1 item, and it belongs in the exec doc as an open decision rather than a modeled number.**
+### This is a materially better GTM fact than "cost-neutral"
+
+Existing positioning (`my-gtm-context.md` §5) frames eSuite pass-through as making Wayroo *"cost-neutral or revenue-positive"* for the DSO. The Jordan Essentials structure proves the stronger version:
+
+> **The DSO does not absorb Wayroo. The DSO resells Wayroo at a 67% margin and makes money on it.**
+
+At Jordan Essentials' scale:
+
+| Basis | ByDesign revenue | JE revenue | **JE profit** |
+|---|---|---|---|
+| ~700 active reps | $2,100/mo · **$25,200/yr** | $3,500/mo | **$1,400/mo · $16,800/yr** |
+| 2,500 reps (full base) | $7,500/mo · **$90,000/yr** | $12,500/mo | **$5,000/mo · $60,000/yr** |
+
+**Three consequences:**
+
+1. **Cost is no longer the lead objection it was.** `my-gtm-context.md` §6 lists cost as sales objection #1. Against a structure where the DSO *profits*, the objection changes shape entirely — from "can we afford this?" to "how fast can we roll it out?"
+2. **Rep-adoption growth is a shared incentive, not just ours.** Every additional adopting rep earns the DSO $2/month. The DSO now has its own financial reason to drive adoption — which is exactly the lever the WAY-1 analysis identified as cheapest.
+3. **Deal value scales with adoption, not signature.** At $3/user, a signed DSO is worth very little until its reps adopt. **This reinforces the central finding: post-sale adoption, not new logos, is where the revenue actually lives.**
+
+⚠️ **Still to confirm:** whether the $3 is billed on *active* users or *total* reps. Against Jordan Essentials that is a 3.6x difference ($25K vs. $90K/yr) and it determines whether adoption work is revenue-generating or merely retention-protecting.
 
 ---
 

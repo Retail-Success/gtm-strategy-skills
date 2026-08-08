@@ -17,8 +17,11 @@
 | **Launch weekend downloads** | **700+** | Still growing as of Aug 8 |
 | **Active rep base** | **~2,500** | |
 | **Launch-weekend adoption rate** | **~28% in 48 hours** | Strongest rep-adoption datapoint ByDesign owns |
-| Rep-facing price | **$15/mo** (upgraded from $10/mo tier) | Wayroo + Media Library included |
+| **JE pays ByDesign** | **$3.00 / user / month** | Confirmed Aug 8, 2026 |
+| **JE charges reps** | **$5.00 / rep / month** | *In addition to* the $10/mo they already charged — rep total $15/mo |
+| **JE margin on Wayroo** | **$2.00 / rep / month — 67% margin** | **The DSO resells Wayroo at a profit; it does not absorb it** |
 | Rep incremental cost | **$5/mo** | Against a documented **$60/mo minimum** rep tool spend |
+| ByDesign annual value | **$25.2K** at ~700 active · **$90K** at 2,500 reps | ⚠️ Depends on whether $3 bills on active users or total reps |
 | Contract acceleration | Free period cut short at customer request; **paid start moved to September 2026** | Founder-initiated |
 | Deal cycle | **~11 weeks** (May 6 follow-up → July 17 launch) | vs. 4–6 month standard new-logo cycle |
 
