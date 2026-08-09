@@ -80,9 +80,12 @@ There are two revenue lines, and the smaller one is the subscription.
 |---|---|
 | Signed but not adopted | **$0** |
 | Adopted but dormant | **$36** ($3 × 12) |
-| **Transacting at the Paparazzi average** | **~$152** ($36 SaaS + $116 payments) |
+| **Transacting** ($1,200/mo GMV × 1.5% + SaaS) | **~$252** ($36 SaaS + $216 payments) |
+| *Blended per MAU, at a ~54% transact rate* | *~$152* |
 
-**A transacting rep is worth ~4.2x a dormant one, and infinitely more than a signed-but-unadopted one.**
+**A transacting rep is worth ~7x a dormant one, and infinitely more than a signed-but-unadopted one.**
+
+> **Note on units:** $252 is per *transacting* rep; $152 is per *MAU* (blended across transactors and dormant adopters). Both are correct for their denominator — use $252 when reasoning about converting a dormant rep, since that is the marginal gain.
 
 This is the most consequential fact in the document. It means the metric that matters is not logos, not seats, and not even downloads — it is **transacting reps and GMV per rep.** `my-gtm-context.md` §5 already names the right North Star (*"rep sales volume through Wayroo and replicated sites"*). **The GTM function has simply never been organized around it.**
 
@@ -158,6 +161,19 @@ For comparison, `my-gtm-context.md` §7 puts the average new-logo deal at ~$100K
 ### Why nobody is doing it
 
 Because at $3/user it looked like a $25K→$90K retention exercise. **With payments included it is a $107K→$324K revenue engine**, and it is the highest-yield activity available to the company.
+
+### The lever inside the lever
+
+There are **two** ways to grow that number, and only one has ever been considered:
+
+| Lever | Mechanism | JE upside | Speed |
+|---|---|---|---|
+| More adopters | 700 → 2,125 downloads | +$218K | Slow |
+| **More of the adopters transact** | 54% → 80% of the *existing* 700 | **+$39K** | **Fast — they're already in the app** |
+
+**~$39K/year at Jordan Essentials with zero new downloads.** Every metric currently reported stops before the point where this lever operates.
+
+**Full playbook:** [`10-transacting-adoption-playbook.md`](10-transacting-adoption-playbook.md)
 
 | | |
 |---|---|
