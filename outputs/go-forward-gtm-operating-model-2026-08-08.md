@@ -7,6 +7,14 @@
 **Status:** v1.0
 
 **Supersedes as the operative plan:** [`08-launch-plan-presentation.md`](08-launch-plan-presentation.md). That document's 2026-target scorecard is void; its structural findings carry forward here.
+**Financial companion:** [`wayroo-aice-financial-model-analysis-2026-08-08.md`](wayroo-aice-financial-model-analysis-2026-08-08.md) — reconciliation of the Wayroo/AiCE 12-month model against confirmed actuals.
+
+> **The combined financial model corroborates this plan's central claim in ByDesign's own numbers: payments is 76–92% of Wayroo revenue** ($3.24M residuals vs. $270K–$1.0M subscriptions).
+>
+> **Three findings from the reconciliation carry into this plan:**
+> 1. **The model's $1,200/month is per *transacting* user** — which implies a **~54% transact rate** at Paparazzi (2,153 transacting of 4,000 MAUs). First transact-rate benchmark the company has, and it is derived rather than measured.
+> 2. **The model's Year-0 baseline of 15,000 transacting users is ~6x the current ~2,500.** Even with Color Street closed and Jordan Essentials fully penetrated, it is ~41% covered.
+> 3. **Under acquisition rather than partnership, ByDesign's share of the model goes from $3.36M to $6.19M (+84%)** — $670,500 of retained commission plus $2,160,000 of consolidated AiCE subscription revenue.
 
 ---
 
@@ -323,13 +331,24 @@ AiCE's ~100K users (≈50K DSO reps + ≈50K creators) are worth very different 
 | Basis | 50K DSO reps |
 |---|---|
 | **SaaS only** ($3/user/mo) | **$1.8M/year** |
-| **+ payments**, if they transact at the Paparazzi benchmark | **~$5.8M/year in payments alone** |
+| **+ payments** — 50K × ~54% transacting × $14,400 GMV × 1.5% | **~$5.8M/year in payments alone** |
 
 **Valued as subscription seats, AiCE's user base is a moderate asset. Valued as transaction volume routed onto Wayroo rails, it is the whole thesis.**
 
-⚠️ **Heavy caveats, and they matter for diligence rather than direction:** not all 50K would migrate to Wayroo payment rails; creator GMV almost certainly differs from DSO-rep GMV and is unknown; and the Paparazzi benchmark is one account. **This is a framing for how to value the deal, not a number to put in a model.**
+### And the model itself quantifies the acquisition premium
 
-**Which is exactly why Motion A's measurement work is diligence work.** Establishing real GMV-per-transacting-rep across Paparazzi and Jordan Essentials gives a defensible multiplier to apply to any acquired user base. Without it, the acquisition gets valued on seats — the minority revenue line.
+The Wayroo/AiCE 12-month model was built on **partnership** economics. Re-framed for acquisition:
+
+| | Partnership | **Acquisition** |
+|---|---|---|
+| **ByDesign's share of the model** | **$3,355,500** | **$6,186,000** |
+| | | **+$2,830,500 (+84%)** |
+
+Composed of **$670,500** in commission no longer paid out — a line that compounds, since it is 20% of the fastest-growing revenue item — and **$2,160,000** of consolidated AiCE subscription revenue.
+
+⚠️ **Heavy caveats on the user valuation, and they matter for diligence rather than direction:** not all 50K would migrate to Wayroo payment rails; creator GMV almost certainly differs from DSO-rep GMV and is unmeasured; the transact rate is derived from one account; and the Paparazzi benchmark is one account. **This is a framing for how to value the deal, not a number to put in a model.**
+
+**Which is exactly why Motion A's measurement work is diligence work.** Establishing real GMV-per-transacting-rep and a measured transact rate across Paparazzi and Jordan Essentials gives a defensible multiplier to apply to any acquired user base. Without it, the acquisition gets valued on seats — the minority revenue line.
 
 ---
 
@@ -337,7 +356,7 @@ AiCE's ~100K users (≈50K DSO reps + ≈50K creators) are worth very different 
 
 | # | Decision | Owner | By |
 |---|---|---|---|
-| 1 | **Stand up transaction-level reporting** — transacting reps, GMV per rep, download-to-first-transaction, by account. Payments is ~76% of revenue and is currently unmeasured at the rep level. **Nothing else in Motion A can be managed without it.** | Product + Data | **Aug 15** |
+| 1 | **Stand up transaction-level reporting** — transacting reps, GMV per rep, download-to-first-transaction, by account. Payments is 76–92% of Wayroo revenue and is currently unmeasured at the rep level. **Nothing else in Motion A can be managed without it — and a $1.5M line in the combined financial model rides on a GMV-per-user figure nobody currently tracks.** | Product + Data | **Aug 15** |
 | 2 | **Commit a Tap-to-Pay date** or approve expectation comms to ~2,500 reps. Now a **revenue** decision, not only a product one — it is both the top rep draw and a payments instrument. | Product | **Aug 15** |
 | 3 | **Approve Motion A** — the transacting-adoption engine — as a funded workstream with a named owner. **~$217K/year available at Jordan Essentials alone**, versus ~$100K for an average new logo. | Leadership | **Aug 15** |
 | 3b | **Confirm the realized payments take** — what share of the Paparazzi $31M actually ran through Wayroo payment rails at 1.5% | Finance | **Aug 15** |
@@ -379,7 +398,9 @@ Three things change the trajectory, none of which depend on the AiCE outcome:
 
 **One thing to hold rather than decide:** rep-paid PLG is a buy-versus-build, and the acquisition is the buy. Gate it, don't drift into it.
 
-**And one reframe for the acquisition itself:** valued as subscription seats, AiCE's ~100K users are a moderate asset. Valued as transaction volume routed onto Wayroo rails, they are the entire thesis. **The measurement work in Motion A is what makes that valuation defensible.**
+**And two reframes for the acquisition itself.** Valued as subscription seats, AiCE's ~100K users are a moderate asset; valued as transaction volume routed onto Wayroo rails, they are the entire thesis — and **the measurement work in Motion A is what makes that valuation defensible.** Separately, re-framing the existing 12-month model from partnership to acquisition takes ByDesign's share from **$3.36M to $6.19M (+84%)** on identical operating assumptions.
+
+**One caution to carry into the deck:** the model's Year-0 baseline of 15,000 transacting users is **~6x the current ~2,500**, and only ~41% covered even with Color Street closed and Jordan Essentials fully penetrated. Better disclosed with a path attached than found in diligence.
 
 **The through-line:** whether the company ends up called Wayroo or AiCE, it is becoming a business that leads with the rep-facing app, rides on any back office, and **earns when reps sell.** Everything above is an investment in that company.
 
