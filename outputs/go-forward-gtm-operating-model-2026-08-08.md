@@ -43,19 +43,42 @@ Selling Freedom means asking a DSO to replace its back office: expensive, high-s
 
 **Under an AiCE brand this is the same motion.** AiCE is already rep- and creator-facing. The acquisition would change the logo on the app, not the direction of entry.
 
-### Invariant 2 — Revenue scales with adoption, not signature
+### Invariant 2 — Revenue scales with *transacting* adoption, not signature
 
-The confirmed pricing makes this concrete:
+There are two revenue lines, and the smaller one is the subscription.
 
-| Flow | Amount |
+| Line | Rate |
 |---|---|
-| DSO pays ByDesign | **$3.00 / user / month** |
-| DSO charges reps | **$5.00 / rep / month** (on top of the existing $10) |
-| **DSO margin** | **$2.00 / rep / month — 67% on the resale** |
+| **SaaS** — DSO pays ByDesign | **$3.00 / user / month** |
+| **Payments** — ByDesign take on transactions through Wayroo selling tools (tap-to-pay, invoicing, POS) | **~1.5% of every transaction** |
+| *DSO charges its reps* | *$5.00 / rep / month, on top of the existing $10 — a **$2/rep 67% margin** for the DSO* |
 
-At $3/user, **a signed DSO is worth almost nothing until its reps adopt.** Jordan Essentials is worth $25K/year at ~700 active reps and $90K at full 2,500-rep penetration — a 3.6x swing driven entirely by post-sale work.
+**Paparazzi is the only account with real GMV data, and it shows the shape:**
 
-This is the most consequential fact in the document, because **the current GTM function is built around signing and has no adoption motion at all.**
+| | Paparazzi, 2025 |
+|---|---|
+| Reps | 4,000 |
+| Rep sales through Wayroo | **$31M** |
+| GMV per rep | **~$7,750 / year** |
+| SaaS revenue (4,000 × $36) | **$144,000** |
+| **Payments revenue ($31M × 1.5%)** | **$465,000** |
+| **Total** | **$609,000** |
+
+> ### **Payments is ~76% of the revenue. The subscription is the minority line.**
+
+### What a rep is actually worth
+
+| Rep state | Annual value to ByDesign |
+|---|---|
+| Signed but not adopted | **$0** |
+| Adopted but dormant | **$36** ($3 × 12) |
+| **Transacting at the Paparazzi average** | **~$152** ($36 SaaS + $116 payments) |
+
+**A transacting rep is worth ~4.2x a dormant one, and infinitely more than a signed-but-unadopted one.**
+
+This is the most consequential fact in the document. It means the metric that matters is not logos, not seats, and not even downloads — it is **transacting reps and GMV per rep.** `my-gtm-context.md` §5 already names the right North Star (*"rep sales volume through Wayroo and replicated sites"*). **The GTM function has simply never been organized around it.**
+
+⚠️ **One caveat on the benchmark:** the $31M is total rep sales on Wayroo. The share running through Wayroo *payment rails* — where the 1.5% applies — may be lower than 100%. Confirm the realized take before using $465K as a hard figure. The directional conclusion holds regardless.
 
 ### Invariant 3 — The DSO resells at a profit
 
@@ -106,24 +129,53 @@ Stated plainly, because the go-forward plan is only credible if the diagnosis is
 
 Three motions. Ordered by yield per unit of effort, which — given Invariant 2 — is not the conventional order.
 
-## Motion A — The Adoption Engine *(new; highest yield; no equivalent exists today)*
+## Motion A — The Transacting-Adoption Engine *(new; highest yield by a wide margin; no equivalent exists today)*
 
-**The thesis:** at $3/user, growing adoption inside accounts already signed produces revenue faster and cheaper than signing new ones. This is the single largest gap in the current GTM function.
+**The thesis:** with ~76% of revenue coming from a 1.5% transaction take, the money is made **after** the signature, by reps who actually sell. Growing transacting adoption inside accounts already signed produces more revenue, faster and cheaper, than signing new ones.
 
-**The evidence it works:** Jordan Essentials reached 28% of 2,500 reps in 48 hours **with zero adoption spend since.** Moving 28% → 85% adds ~1,400 users at that account alone — from a customer who has already said yes, with no sales cycle, no procurement, and no competitive threat.
+### The Jordan Essentials arithmetic
+
+Applying the Paparazzi GMV benchmark (~$7,750/rep/year) to Jordan Essentials' ~2,500 reps:
+
+| Scenario | Transacting reps | SaaS | Payments | **Total/year** |
+|---|---|---|---|---|
+| **Today** (28% adopted) | ~700 | $25,200 | $81,375 | **$106,575** |
+| **Target** (85% adopted) | ~2,125 | $76,500 | $247,031 | **$323,531** |
+| | | | **Delta** | **+$216,956/year** |
+
+> **~$217K of annual revenue at a single existing account, available through adoption work rather than a sales cycle.** No procurement, no competitive threat, no 4–6 month wait. The customer has already said yes.
+
+For comparison, `my-gtm-context.md` §7 puts the average new-logo deal at ~$100K. **Deepening one existing account is worth more than two new logos, and it is available now.**
+
+### Why nobody is doing it
+
+Because at $3/user it looked like a $25K→$90K retention exercise. **With payments included it is a $107K→$324K revenue engine**, and it is the highest-yield activity available to the company.
 
 | | |
 |---|---|
-| **Scope** | Jordan Essentials, Paparazzi, and every live Wayroo deployment |
+| **Scope** | Jordan Essentials first, then Paparazzi and every live deployment |
 | **Owner** | Cassie Lewis + Autumn Fowers; Sam builds the playbook |
-| **Mechanism** | Launch playbook, rep enablement, field-leader activation, adoption reporting to the DSO |
-| **Why the DSO helps** | They earn $2/rep/month. Adoption is a shared incentive — make the margin visible to them. |
-| **Leading indicators** | Adoption rate per account · time-to-first-transaction per rep · % of rep base transacting monthly |
+| **Mechanism** | Launch playbook, rep enablement, field-leader activation, GMV reporting to the DSO |
+| **Why the DSO helps** | They earn $2/rep/month on adoption **and** their reps sell more. Make both visible. |
 | **Brand exposure** | **None.** Works identically under any brand. |
 
-> **Two dependencies, and neither is marketing's to fix.**
-> **Tap-to-Pay** was the strongest rep draw at the Jordan Essentials launch and has not shipped — ~2,500 reps hold a convention-dated expectation. The adoption curve past 700 likely depends on it more than on any campaign.
-> **Billing basis** — whether $3 bills on active users or total reps determines whether this motion generates revenue or merely protects retention. That single answer changes its priority.
+### The metric change this forces
+
+**Stop measuring downloads. Measure transacting reps and GMV per rep.**
+
+| Retire | Adopt |
+|---|---|
+| Downloads | **% of rep base transacting monthly** |
+| Adoption rate | **GMV per transacting rep** |
+| MAU | **Time from download to first transaction** |
+
+A 700-download launch is a good headline and an incomplete result. **The 700th download is worth $36/year until that rep makes a sale.**
+
+> ### 🔴 Tap-to-Pay is not a feature request. It is a revenue line.
+>
+> Tap-to-Pay was the single strongest rep draw at the Jordan Essentials launch **and** it is a payments-revenue instrument — every transaction through it earns 1.5%. It has not shipped, and ~2,500 reps hold a convention-dated expectation.
+>
+> **Each week it slips costs adoption momentum and transaction revenue simultaneously.** This reclassifies it from "product dependency" to the highest-leverage revenue item on the roadmap. It belongs in the revenue conversation, not just the product one.
 
 ## Motion B — Partner-Led *(existing, designed, never launched)*
 
@@ -206,15 +258,19 @@ Everything here is brand-independent and overdue.
 
 | Indicator | Now | Target by Q1 2027 |
 |---|---|---|
-| **Jordan Essentials adoption** | 28% | **85%** |
+| **JE reps transacting monthly** | **Unmeasured** | **Measured, then 60%+** |
+| **GMV per transacting rep** | **Unmeasured** | Measured and benchmarked vs. Paparazzi's ~$7,750/yr |
+| **Time from download to first transaction** | **Unmeasured** | Measured, then trending down |
+| Jordan Essentials adoption | 28% | **85%** |
 | Published case studies | **0** | 2 |
 | Rep-level testimonials | **0** | 3–5 |
 | Partners onboarded | 1 informal | 5 |
-| Qualified partner intros | — | 5 |
 | Partner share of opportunity supply | **7.5%** | 20% |
 | Adoption playbook | **Does not exist** | Written and validated at 2 accounts |
 | Exigo meeting acceptance vs. baseline | Unknown | **Measured** |
 | Google Ads spend | $17K/yr | **$0** |
+
+**Note that the top three indicators are currently unmeasured.** Given that payments is ~76% of revenue, **the company is not instrumented to see the majority of its own revenue driver at the rep level.** Standing up that measurement is a Phase 1 item, not a Phase 2 one — every other decision in Motion A depends on it.
 
 ---
 
@@ -256,9 +312,24 @@ Worth naming, because it reframes this plan as an input rather than a bet placed
 | Evidence produced | What it tells the acquisition decision |
 |---|---|
 | **Exigo test result** | Whether a rep-app-led, back-office-agnostic motion wins meetings — the core thesis under either brand |
-| **Adoption playbook results** | Whether adoption is a repeatable engine or a Jordan Essentials one-off. Determines what AiCE's 100K users are actually worth to us. |
-| **Billing basis + adoption curve** | The real revenue-per-user model — needed to value a user base at all |
+| **Adoption playbook results** | Whether transacting adoption is a repeatable engine or a Jordan Essentials one-off |
+| **GMV per transacting rep** | **The valuation input** — see below |
 | **Published proof** | Diligence-grade evidence Wayroo works at scale |
+
+### The payments take is the acquisition's core valuation logic
+
+AiCE's ~100K users (≈50K DSO reps + ≈50K creators) are worth very different amounts depending on which revenue line you value them on:
+
+| Basis | 50K DSO reps |
+|---|---|
+| **SaaS only** ($3/user/mo) | **$1.8M/year** |
+| **+ payments**, if they transact at the Paparazzi benchmark | **~$5.8M/year in payments alone** |
+
+**Valued as subscription seats, AiCE's user base is a moderate asset. Valued as transaction volume routed onto Wayroo rails, it is the whole thesis.**
+
+⚠️ **Heavy caveats, and they matter for diligence rather than direction:** not all 50K would migrate to Wayroo payment rails; creator GMV almost certainly differs from DSO-rep GMV and is unknown; and the Paparazzi benchmark is one account. **This is a framing for how to value the deal, not a number to put in a model.**
+
+**Which is exactly why Motion A's measurement work is diligence work.** Establishing real GMV-per-transacting-rep across Paparazzi and Jordan Essentials gives a defensible multiplier to apply to any acquired user base. Without it, the acquisition gets valued on seats — the minority revenue line.
 
 ---
 
@@ -266,9 +337,11 @@ Worth naming, because it reframes this plan as an input rather than a bet placed
 
 | # | Decision | Owner | By |
 |---|---|---|---|
-| 1 | **Is the $3/user billed on active users or total reps?** 3.6x swing at Jordan Essentials; determines whether Motion A is revenue or retention. | Finance | **Aug 15** |
-| 2 | **Commit a Tap-to-Pay date** or approve expectation-management comms to ~2,500 reps | Product | **Aug 15** |
-| 3 | **Approve Motion A** — the adoption engine — as a funded workstream with a named owner. It does not exist today and is the highest-yield gap. | Leadership | **Aug 15** |
+| 1 | **Stand up transaction-level reporting** — transacting reps, GMV per rep, download-to-first-transaction, by account. Payments is ~76% of revenue and is currently unmeasured at the rep level. **Nothing else in Motion A can be managed without it.** | Product + Data | **Aug 15** |
+| 2 | **Commit a Tap-to-Pay date** or approve expectation comms to ~2,500 reps. Now a **revenue** decision, not only a product one — it is both the top rep draw and a payments instrument. | Product | **Aug 15** |
+| 3 | **Approve Motion A** — the transacting-adoption engine — as a funded workstream with a named owner. **~$217K/year available at Jordan Essentials alone**, versus ~$100K for an average new logo. | Leadership | **Aug 15** |
+| 3b | **Confirm the realized payments take** — what share of the Paparazzi $31M actually ran through Wayroo payment rails at 1.5% | Finance | **Aug 15** |
+| 3c | ~~Is the $3/user billed on active users or total reps?~~ **Downgraded.** Still worth knowing (3.6x on the SaaS line), but SaaS is ~24% of account revenue — this matters far less than it appeared before payments was included. | Finance | Aug 29 |
 | 4 | **Kill Google Ads; reallocate** ($17K/yr → $0 closed) | Leadership | **Aug 15** |
 | 5 | **Formally gate Track 2 / rep-paid PLG on the acquisition outcome** — neither build nor drop | Leadership | **Aug 22** |
 | 6 | **Second sales hire** — decide whether it is a 2027 commitment. Capacity gates every new-logo motion regardless of brand. | Leadership | Q4 planning |
@@ -294,15 +367,21 @@ Worth naming, because it reframes this plan as an input rather than a bet placed
 
 **2026 was missed for structural reasons, and the structure is fixable.**
 
+**The central fact: ~76% of revenue is a 1.5% take on rep transactions, not the $3/user subscription.** At Paparazzi that is $465K in payments against $144K in SaaS. It means a transacting rep is worth ~4.2x a dormant one, and a signed-but-unadopted DSO is worth nothing at all.
+
+**The company sells like a SaaS business and earns like a payments business.** Closing that gap is the plan.
+
 Three things change the trajectory, none of which depend on the AiCE outcome:
 
-1. **Build an adoption engine.** At $3/user, revenue lives after the signature, and there is currently no motion there at all. Jordan Essentials at 28% with no adoption spend is the proof and the pilot.
-2. **Publish the proof.** Zero case studies against a $31M customer result. It is a permission problem, not an evidence problem — days of work, not a quarter.
-3. **Feed the channel that already works.** Partners convert at 71.4% and supply 7.5% of opportunities.
+1. **Build the transacting-adoption engine.** ~$217K/year is available at Jordan Essentials alone — more than two average new logos, with no sales cycle. No motion exists here today.
+2. **Instrument it.** Transacting reps and GMV per rep are currently unmeasured. The majority of revenue is invisible at the rep level.
+3. **Publish the proof and feed the partner channel.** Zero case studies against a $31M result; 71.4% conversion on 7.5% of supply. Both are cheap and both are overdue.
 
-**And one thing to hold rather than decide:** rep-paid PLG is a buy-versus-build, and the acquisition is the buy. Gate it, don't drift into it.
+**One thing to hold rather than decide:** rep-paid PLG is a buy-versus-build, and the acquisition is the buy. Gate it, don't drift into it.
 
-**The through-line:** whether the company ends up called Wayroo or AiCE, it is becoming a business that leads with the rep-facing app, rides on any back office, and earns its revenue when reps actually use the product. **Everything above is an investment in that company.**
+**And one reframe for the acquisition itself:** valued as subscription seats, AiCE's ~100K users are a moderate asset. Valued as transaction volume routed onto Wayroo rails, they are the entire thesis. **The measurement work in Motion A is what makes that valuation defensible.**
+
+**The through-line:** whether the company ends up called Wayroo or AiCE, it is becoming a business that leads with the rep-facing app, rides on any back office, and **earns when reps sell.** Everything above is an investment in that company.
 
 ---
 

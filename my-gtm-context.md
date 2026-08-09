@@ -16,12 +16,16 @@
 >
 > **🔴 2026 REVENUE TARGETS WERE MISSED** and are no longer the operative planning frame (confirmed Aug 8, 2026). Treat every revenue target in §9 of this document as historical. The go-forward frame is Wayroo/ByDesign strategy, not 2026 target recovery.
 >
-> **✅ WAYROO PRICING RESOLVED (Aug 8, 2026) — supersedes §5.** Confirmed from Jordan Essentials in production:
-> - **DSO pays ByDesign: $3.00 / user / month**
-> - **DSO charges its reps: $5.00 / rep / month**, *in addition to* the $10/mo eSuite fee they already charged (rep total $15/mo)
-> - **DSO margin: $2.00/rep/mo — a 67% margin on the resale**
+> **✅ WAYROO REVENUE MODEL RESOLVED (Aug 8, 2026) — supersedes §5.** Two lines, and the subscription is the minority one:
+> - **SaaS — DSO pays ByDesign: $3.00 / user / month**
+> - **PAYMENTS — ByDesign takes ~1.5% of every transaction** through Wayroo selling tools (tap-to-pay, invoicing, POS)
+> - *DSO charges its reps $5.00/rep/mo on top of the existing $10 (rep total $15/mo) — a $2/rep, **67% margin** for the DSO, which resells Wayroo at a profit rather than absorbing it*
 >
-> This is stronger than the "cost-neutral pass-through" framing in §5: **the DSO does not absorb Wayroo, it resells Wayroo at a profit.** Every additional adopting rep earns the DSO $2/month, which makes rep adoption a *shared* financial incentive. It also means **deal value scales with adoption, not signature** — a signed DSO is worth little until its reps adopt. Open sub-question: is the $3 billed on *active* users or *total* reps? (3.6x difference at Jordan Essentials.)
+> **Paparazzi 2025 shows the shape:** 4,000 reps, $31M in rep sales ≈ **$7,750 GMV/rep/year**. SaaS $144K vs. **payments $465K — payments is ~76% of account revenue.**
+>
+> **What a rep is worth per year:** signed-but-unadopted **$0** · adopted-but-dormant **$36** · **transacting at benchmark ~$152**. A transacting rep is **~4.2x** a dormant one.
+>
+> **Operating consequence:** the company sells like a SaaS business and earns like a payments business. The North Star in §5 (*"rep sales volume through Wayroo and replicated sites"*) is already correct — GTM has simply never been organized around it. **Measure transacting reps and GMV per rep, not downloads or MAU.** At Jordan Essentials, moving 28% → 85% adoption is worth **~$217K/year** — more than two average new logos, with no sales cycle. ⚠️ Confirm what share of the $31M ran through Wayroo payment rails before treating $465K as hard.
 >
 > **AiCE: undetermined, moving toward ACQUISITION** (not JV) as of Aug 8, 2026. **If it proceeds, the AiCE brand would likely be the surviving brand.** Continue hedging — do not re-arm anti-AiCE positioning, do not build on it.
 >
