@@ -1,3 +1,17 @@
+> # ⛔ SUPERSEDED — 2026-08-10 Strategy Reset
+>
+> **This document was built for a new-logo, paid-motion go-to-market. It no longer reflects current strategy.**
+>
+> The August 10, 2026 reset moved the near-term motion to **Wayroo Land-and-Expand** — existing-client upsell executed through PLG mechanics, targeting reps inside the ByDesign installed base. Under that model the **DSO is the approver, not the buyer**; **Wayroo Essentials is free and unbranded**; selling tools are free but locked pending ProPay onboarding; and **monetisation is transaction volume, not licences**.
+>
+> **Do not reconcile new work against this document.** Its ICP intelligence, verbatim prospect quotes, and competitive facts remain useful as history. Its **positioning, pricing, targeting, channel, and funnel conclusions are void.**
+>
+> **Current source of truth:** [`my-gtm-context.md`](../my-gtm-context.md) · [`go-forward-gtm-operating-model-2026-08-08.md`](go-forward-gtm-operating-model-2026-08-08.md) · [`10-transacting-adoption-playbook.md`](10-transacting-adoption-playbook.md)
+>
+> *Header added 2026-08-13.*
+
+---
+
 > **PARTNERSHIP UPDATE — May 18, 2026:** AiCE has moved from competitor to partner channel. Sam met with Brian (AiCE CEO) May 15; term sheets for Motion 1 (referrals) and Motion 2 (payment processor recommendation switch) target June 2026. **Do not lead with anti-AiCE positioning in live sales conversations until further notice.** Where this doc treats AiCE as a competitive alternative below, treat as background context only, pending re-write after term sheets sign. Treel.ai is now dual-status (competitor AND potential Partner-tier API integrator); confirmed Superpatch-specific signal, do not position against market-wide. See [`strategic-inputs.md`](../strategic-inputs.md) Section 4 and PM-OS `outputs/analyses/strategy-wayroo-aice-integration-2026-05-08.md` for current partnership status.
 
 ---

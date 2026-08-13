@@ -1,3 +1,17 @@
+> # ⛔ SUPERSEDED — 2026-08-10 Strategy Reset
+>
+> **This document was built for a new-logo, paid-motion go-to-market. It no longer reflects current strategy.**
+>
+> The August 10, 2026 reset moved the near-term motion to **Wayroo Land-and-Expand** — existing-client upsell executed through PLG mechanics, targeting reps inside the ByDesign installed base. Under that model the **DSO is the approver, not the buyer**; **Wayroo Essentials is free and unbranded**; selling tools are free but locked pending ProPay onboarding; and **monetisation is transaction volume, not licences**.
+>
+> **Do not reconcile new work against this document.** Its ICP intelligence, verbatim prospect quotes, and competitive facts remain useful as history. Its **positioning, pricing, targeting, channel, and funnel conclusions are void.**
+>
+> **Current source of truth:** [`my-gtm-context.md`](../my-gtm-context.md) · [`go-forward-gtm-operating-model-2026-08-08.md`](go-forward-gtm-operating-model-2026-08-08.md) · [`10-transacting-adoption-playbook.md`](10-transacting-adoption-playbook.md)
+>
+> *Header added 2026-08-13.*
+
+---
+
 # Phase 6 — Positioning: Cash & Carry DSO Variant
 
 **Phase:** 6 — Crafting Positioning
