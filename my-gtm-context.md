@@ -6,7 +6,11 @@
 
 > ### 🔴 August 2026 Status Header — read before using anything below
 >
-> **Jordan Essentials is LIVE.** Launched July 17–18, 2026. 700+ downloads in the launch weekend against a ~2,500 rep base (~28% in 48 hours), still growing. ~11-week deal cycle. eSuite pass-through proven in production at $15/mo rep-facing. Founder requested the paid contract start be pulled forward to September 2026. Full record: [`prospects/jordan-essentials.md`](prospects/jordan-essentials.md).
+> **Jordan Essentials is LIVE.** Launched July 17–18, 2026. ~11-week deal cycle. Founder requested the paid contract start be pulled forward to September 2026. Full record: [`prospects/jordan-essentials.md`](prospects/jordan-essentials.md).
+>
+> 🔴 **"Still growing" is unsupported — there is no post-launch adoption data (corrected 2026-08-13).** The **764 reps on Wayroo** all downloaded **within 2–3 days of the JE convention**; 764 is a precise count of the launch cohort, not growth on top of the earlier "700+" estimate. **No measurement exists after the launch window**, so no claim about the curve — up, flat, or down — is currently supportable. Instrumenting it is the gap.
+>
+> 🔴 **Only 254 of the 764 are on Revolution Pro.** The other **510 lose their stores** unless they pay the $5 fee. **Near-term adoption risk is downward, not upward.** See §3.
 >
 > **AiCE partnership is STILL UNSIGNED** as of Aug 8, 2026 (term sheets were targeted for June). Continue hedging: do not re-arm anti-AiCE positioning, and do not build on the partnership.
 >
@@ -86,65 +90,212 @@ Current state without Dropship: if a rep doesn't have an item in their personal 
 
 ## 2. Target Market
 
-**Primary:** Direct Selling Organizations (DSOs) in the MLM industry — specifically VP of Sales, Founders, and CEOs at companies with 300–10,000 reps in the US and Canada.
+> **Revised 2026-08-10 — Wayroo Land-and-Expand.** The near-term target is reps inside the existing ByDesign installed base, not net-new DSO prospects. Anchors to [`outputs/go-forward-gtm-operating-model-2026-08-08.md`](outputs/go-forward-gtm-operating-model-2026-08-08.md), Invariant 1 (lead with the rep-facing app) and Invariant 2 (revenue scales with transacting adoption, not signature).
 
-**Secondary:** Independent sales reps/distributors operating under a DSO — measured on personal sales volume and monthly earnings.
+**Primary: Revolution Pro subscribers inside the ByDesign installed base.**
 
-**B2B or B2C:** Two distinct GTM tracks, at different stages:
+> ### ✅ The addressable base is confirmed: **75,000 Revolution Pro subscribers** (2026-08-13)
+>
+> Revolution Pro is the rep-level gate on Wayroo, and **75,000 reps hold it** across 55 active clients. They pay for it — directly or via their DSO — and they are reachable **without a sales cycle, a procurement process, or a new contract.** That is the entire point of the motion.
+>
+> **What this base is worth at the Paparazzi benchmark** (~$14,400 GMV per transacting rep/year × 1.5% = **$216/rep/year in payments**):
+>
+> | Scenario | Transacting reps | Annual payments |
+> |---|---|---|
+> | **Full penetration** (54% transact rate) | 40,500 | **$8.75M** |
+> | **Financial model Year-0 target** | 15,000 | **$3.24M** |
+> | *Required to hit Year 0* | *20% of the Pro base transacting — **37% adoption*** | |
+>
+> > ### 🔴 **The financial model's entire Year-0 residual line is reachable inside the installed base. No new logos required.**
+> >
+> > 15,000 transacting reps at $216 is **exactly the model's $3,240,000** residual figure. It needs **37% adoption of the existing 75,000** — against a Jordan Essentials launch that pulled 764 reps in 2–3 days.
+> >
+> > **This corrects the conclusion in [`wayroo-aice-financial-model-analysis-2026-08-08.md`](outputs/wayroo-aice-financial-model-analysis-2026-08-08.md) §5**, which held that the model "requires 10x the user growth the current sales motion can deliver" and therefore needs AiCE or a PLG build. That is true for Years 1–3. **It is not true for Year 0** — which is sitting in accounts that have already signed.
+>
+> ⚠️ **Still unknown, and it is the number that sizes everything:** what fraction of a client's Pro subscribers adopt Wayroo when offered. At JE, **254 reps are on both Pro and Wayroo** — but JE's total Pro population is unmeasured, so the conversion rate cannot be derived. **Get Pro-subscriber counts per client.**
+>
+> ⚠️ **Scale check on the proof base:** JE's 254 Pro-and-Wayroo reps are **0.34% of the addressable population.** The entire evidence base for this motion is one very small account.
 
-- **Track 1 — B2B (DSO-first, current motion):** DSO corporate leadership is the buyer. They sign the contract; reps adopt Wayroo via corporate mandate. All current sales activity (Daniel's pipeline, Color Street, Paparazzi, etc.) operates on this track. Messaging targets VP Sales, Founders, CEOs, and Field Operations Directors.
+> **Revolution vs. Freedom — the two back offices.** **Freedom** is the *DSO* back-office portal (corporate: comp engine, genealogy, ecommerce, inventory). **Revolution** is the *rep* back office, **usually $5/user/month**. Revolution plus back-office platform fees are the existing paid relationship Wayroo Essentials is layered onto — which is precisely why it can be included at no incremental charge.
 
-- **Track 2 — Direct-to-Rep (future motion, not yet active):** Selling directly to the individual rep — independent of whether their DSO has a Wayroo contract. Messaging, channels, and value props are entirely different from Track 1. This track is in planning; the personas, messaging, and GTM motion have not yet been developed. Do not conflate with Track 1 in any current deliverable.
+> **Three payer models already exist across the client base.** This is a billing preference, not a strategic variable — support all three:
+>
+> | Model | How it works | Live example |
+> |---|---|---|
+> | **DSO absorbs** | DSO pays on behalf of its reps | Multiple clients |
+> | **Rep self-pays** | DSO permits, rep pays directly | Multiple clients |
+> | ✅ **DSO marks up the passthrough** | DSO bills the rep *above* its own cost and keeps the spread | **Jordan Essentials** |
+>
+> **Lead with the markup model.** A DSO that marks up earns margin on every rep who adopts — so **the DSO's revenue interest and ByDesign's point at the same number.** It turns the approver ask from *"this costs you nothing"* into *"this is a margin line for you,"* and the mechanic works identically on the free Wayroo tier and the paid Aice upgrade. Per §12 this appears in **no deck**. ⚠️ The specific JE markup figures ("$10 → $15, $2/rep at 67%") are **unverified against actual billing** — confirm before building the pitch.
 
-**Company size:** Mid-market (300–10,000 distributors)  
-**Geography:** US-primary; Canada secondary. No international expansion planned for 2026.
+**The DSO is the approver, not the buyer.** The ask to corporate is *permission and a communications channel*, not budget. **The rep is the adopter.**
+
+**No new paper.** The DSO's original signed terms already cover this. No new contracting party, no rep-facing ToS, no contract amendment.
+
+**Geography: US market only** — a deliberate focus decision, held regardless of the international client base. Multilingual and multi-currency are deferred. Most ByDesign clients are international, so **the addressable slice is materially smaller than 55 clients / 75,000 reps implies.**
+
+> ⚠️ **Open number:** how many US reps sit inside those 55 clients has not been quantified. Every sizing figure in this section is a gross number, not an addressable one. Quantify before using either for a target or a forecast.
+
+**Distribution:** reps download an enterprise app from the app store, but **payments and upgrades run directly through ByDesign — no Apple or Google platform fees.**
+
+**Launch partner — Aice.** Wayroo Essentials launches alongside **Aice's free tier** — **both free** — connected by a simple integration letting reps move between the two apps. **Wayroo is the front door:** a rep who opens Aice first is prompted into Wayroo. A **combined upgrade path** unlocking more of Aice's feature set comes later. Partnership holds until the acquisition closes.
+
+> ### Division of labour: **Aice originates, Wayroo transacts**
+>
+> | | **Wayroo** | **Aice** |
+> |---|---|---|
+> | **Back-office data pull** (dashboard widgets: sales, downline, performance) | ✅ **Exclusive — never in Aice** | ❌ |
+> | Media library | ✅ | ❌ |
+> | Inventory, orders, customer records | ✅ | ❌ |
+> | **All transactions** | ✅ | ❌ |
+> | Training, community, content, funnel | ❌ | ✅ |
+> | **Campfire** — Facebook-group-style community **where reps sell to customers** | ❌ | ✅ |
+>
+> **Campfire selling hands off to Wayroo at the point of sale.** A rep builds a community in Aice, sells into it, and **the transaction jumps to Wayroo, where all sales happen.** So Aice is not only a retention bridge — **it is a demand generator feeding the payments line.**
+>
+> 🔴 **But Campfire selling is gated on the same ProPay onboarding.** The gate now blocks **two** products, not one: a locked account gets Campfire communities where selling does not complete. **This raises the value of finishing ProPay onboarding and should be said to the home office at beat 3** — and the demand counter should capture Campfire-originated intent as well as in-Wayroo taps.
+>
+> **The back-office data pull staying Wayroo-exclusive is what keeps Wayroo the front door.** It is the one capability Aice cannot replicate, and it was among the strongest observed rep draws at the Jordan Essentials launch.
+
+> ### ⚠️ Horizon: Revolution Pro is expected to be retired
+>
+> More Revolution Pro features will move into Wayroo over time, and **Revolution Pro will likely be retired.** Not a near-term change, but it puts a shelf life on two things currently load-bearing:
+>
+> - **The category frame** — *"the selling app that comes with your back office"* stops being true when **Wayroo *is* the back office.**
+> - **The commercial frame** — *"included with a subscription you already hold"* has no referent once that subscription no longer exists. The $5 presumably follows Wayroo.
+>
+> **No action now.** Do not build positioning that depends *permanently* on the Pro relationship, and revisit the category and the free/paid story when the sunset gets a date.
+
+> ### The offer is the pair, and the pair is what makes the whole field addressable
+>
+> **Wayroo alone serves reps who sell their own inventory.** With selling tools locked — the state at every account before ProPay completes — Wayroo is an inventory view with a storefront. Useful, not compelling. **Aice covers what every rep needs regardless of how they sell**: training, team, content, community.
+>
+> **Wayroo + Aice is useful to the entire field. Wayroo alone is useful to a slice of it.**
+>
+> **🔴 Operationally, this is why they launch together: Aice is the retention bridge during the ProPay wait.** A rep at a locked account otherwise has an inventory viewer and a reason to be annoyed. Aice gives them something that works immediately, keeping them engaged long enough for the demand loop to complete. **Without it, the locked state risks churning the rep before the lock can do its job.**
+>
+> ⚠️ This raises the stakes on where Aice draws its free/paid line. **Drawn too thin, the pair does not cover the non-C&C field and the bridge does not hold.** No longer only a pricing decision.
+
+> ### Free tiers to our own installed base are a retention lever for ByDesign
+>
+> Beyond the payments revenue: **every client whose reps run their business on Wayroo + Aice is materially harder to churn.** The two apps deepen the Revolution Pro relationship rather than sitting beside it, and Wayroo bundled into Pro is the most direct available answer to competitors absorbing Revolution surface area.
+>
+> **Internal rationale only.** Never say this to a DSO — it turns a gift into a trap. The DSO-facing retention argument is about *their* rep churn, not our client churn. See [`outputs/07-dso-launch-kit.md`](outputs/07-dso-launch-kit.md) slide 7.
+
+**Acquisition structure (as of 2026-08-10):** ByDesign / Retail Success is pursuing Aice by granting **minority equity in either Retail Success or a newly stood-up entity.** This supersedes the earlier "merger, undetermined" framing.
+
+### The three motions, and where each stands
+
+| Motion | Status | Who pays | Who adopts |
+|---|---|---|---|
+| **Land-and-Expand (installed base)** | **Active — primary** | Nobody, to start. DSO approves. | Rep |
+| Track 1 — B2B new-logo DSO | Deprioritized; capacity-gated (one closer, 4–6 month cycle) | DSO corporate | Rep via corporate mandate |
+| Track 2 — direct-to-rep paid PLG | Formally gated on the Aice merger outcome — neither build nor drop | Rep | Rep |
+
+**Land-and-Expand is not Track 2.** The rep adopts but never pays ByDesign directly. It is a PLG *mechanic* — free product, rep-led adoption, self-serve activation — operating inside an existing B2B contract. Do not reuse Track 2 assumptions here.
+
+**Company size:** existing ByDesign clients; rep bases from a few hundred to ~20,000
+**Geography:** US-only at launch; Canada and international deferred with multi-currency
 
 ---
 
 ## 3. Ideal Customer Profile (ICP)
 
-**ICP 1 — DSO Leaders** (Primary Buyer)  
-VP of Sales, Founder/CEO, or Field Operations Director at a mid-market MLM organization (200–4,000 reps) in jewelry, skincare, wellness, or adjacent categories. Measured on rep headcount growth, rep retention, and total wholesale/retail sales volume. Currently on legacy back-office (Exigo), generic CRM, or disconnected tools with no unified rep visibility.
+> **Revised 2026-08-10.** The rep is now the primary ICP because the rep is where revenue is created (Invariant 2: a signed-but-unadopted rep is worth $0/year; adopted-but-dormant $36; transacting ~$252). The DSO leader is retained as the **approver** persona, not the buyer.
 
-**ICP 1a — Cash & Carry DSO Leaders** (High-Value Sub-Segment of ICP 1)  
-Same buyer profile as ICP 1, but at organizations where a significant portion (~50–80%) of reps carry and sell personal physical inventory — rather than fulfilling direct-to-customer catalog orders. Common in jewelry, accessories, cosmetics, nail/beauty categories.
+### ICP A — The Rep (Primary; the adopter)
 
-**Defining behaviors:**
-- **Vendor events are the primary sales channel** — reps regularly participate in markets, pop-ups, fairs, and in-home parties. A mobile POS is not optional; it is the business. Wayroo's barcode POS is purpose-built for this.
-- **Party plan roots are common** — many C&C DSOs originated as or still operate with party plan mechanics (host rewards, consultant-led events). These accounts are candidates for both Wayroo (rep commerce, now) and Freedom Party v2 (host rewards and party mechanics, on release).
-- **Reps want automated inventory, not spreadsheets** — reps will not maintain manual stock counts. In Wayroo, reps place wholesale bulk inventory orders directly from within the app; inventory items appear immediately in their Wayroo inventory on order placement, and the rep marks items as received as the physical stock arrives. Stock counts then update automatically on each sale. Zero manual entry at any step. This is both an adoption requirement and a compliance enabler.
+Independent field seller inside a ByDesign client organization, US-based, already paying for Revolution. Runs their business across **6–10 apps costing $60–100/month of their own money**. Measured on personal sales volume and monthly earnings.
 
-**Key differentiating pains:** Corporate has zero visibility into rep inventory after wholesale ships; no customer records from in-person transactions; customers of reps receive no invoices or shipping tracking (trust and repeat-purchase gap); active FTC and tax compliance exposure from untracked cash/Venmo sales.
+**What the rep gets:** **free, unbranded Wayroo Essentials — plus the selling tools, also free.** No white-label, no client logo. This is positioned as a **value-add to reps who already pay for Revolution**, not as a new product to buy.
 
-**Example:** Color Street (~70% cash-and-carry, 20,000–30,000 stylists, traditional party plan company with host rewards, left Exigo March 2026).
+**Selling tools are visible but LOCKED.** Tap-to-Pay, invoicing, and POS appear in the app behind a *"contact corporate"* prompt until the DSO completes ProPay onboarding. **Once unlocked they are free — ByDesign never charges for them.**
 
-**ICP 1b — Hybrid DSO Leaders** (Sub-Segment of ICP 1)  
-Same buyer profile as ICP 1, but at organizations where rep selling is split — a meaningful portion of reps carry personal inventory AND a meaningful portion sell catalog-only via the replicated site. Neither motion dominates. Roughly 20–50% of reps carry inventory.
+> **The locked-tools mechanic is the demand engine, not a limitation.** A rep who can see Tap-to-Pay but cannot use it has a reason to press corporate. That pressure — not a sales call — is what drives DSO ProPay onboarding, which is what unlocks the payments revenue line.
 
-**Why this is its own segment:** Pitching this DSO requires the **full Wayroo stack** — POS + inventory + storefront + Dropship — not the C&C-only or Non-C&C-only subset. There are effectively two rep sub-personas inside one DSO with different onboarding paths. Dropship is especially compelling here because it serves both halves: inventory-carrying reps already understand individual rep merchant economics, and catalog-only reps get the immediate-pay upgrade.
+### ICP B — The DSO Approver (Secondary; permission-granter, not budget-holder)
 
-**Example:** Jordan Essentials (existing ByDesign client, ~20% C&C — at the lower boundary of the structural Hybrid range). Treat any Jordan Essentials proof points as the highest-leverage Hybrid case study material.
+Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Director) at an **existing** ByDesign client. **In this motion they are not being sold to.** Three things are needed from them, in order:
 
-**Buying-motion intelligence (one specific Hybrid pattern observed at Jordan Essentials, May 2026):** Decline-driven Wayroo upsell — DSO has watched rep sales/engagement fall over a 6+ month window; convention or annual event functions as the announcement vehicle and deal-closing forcing function; two aligned Economic Buyers (Founder + VP Sales), no Technical Gatekeeper. Lead value props: customer auto-creation in Freedom back office (cross-account validated with Color Street), Spendback DSO cost-reduction (cross-account validated), rep performance dashboards (Wayroo widgets pulling Freedom report data — VP-Sales-tier resonance). **Do not lead with FTC/tax compliance** — Hybrid DSO buyers at minority-C&C levels do not perceive compliance as the priority pain. Full intelligence: `outputs/02-hybrid-dso-icp-intelligence.md`. Qualification intake for the 7 minority-C&C pipeline candidates (sales team identified May 7, 2026): `outputs/02-hybrid-dso-qualification-questions.md`. Wayroo upsell motion is owned by Cassie Lewis + Autumn Fowers; sales team identifies candidates from the Freedom-relationship view.
+| # | The ask | Why it matters |
+|---|---------|----------------|
+| 1 | Permission to offer Wayroo Essentials to the field | Gates any rep access at all |
+| 2 | A communications channel to reps | Determines adoption rate — see benchmarks below |
+| 3 | **ProPay onboarding completion** | **Unlocks selling tools. Until this happens the payments line — ~76% of account revenue — is $0.** |
 
-**ICP 1c — Non-Cash-and-Carry DSO Leaders** (Sub-Segment of ICP 1)  
-Same buyer profile as ICP 1, but at organizations where the majority of reps do NOT carry personal inventory — they sell DSO catalog items via the replicated site and earn commission. Roughly 20%+ of reps still sell in-person with personal inventory, but it's not the dominant motion.
+**#3 is the qualifying criterion that actually matters.** A DSO that grants permission but never completes ProPay onboarding produces adoption with no payments revenue — reps in the app, nothing transacting. **Qualify and sequence accounts on ProPay readiness, not on rep count.**
 
-**Feature appeal differs materially from C&C:**
+> ### 🔴 There are TWO gates, not one (discovered at JE, 2026-08-13)
+>
+> | Gate | Level | JE status |
+> |---|---|---|
+> | **1. DSO completes ProPay onboarding** | Account | ✅ Done — selling tools unlocked |
+> | **2. Rep subscribes to Revolution Pro** | **Rep** | 🔴 **Only 254 of 764 Wayroo adopters (33%)** |
+>
+> **Wayroo requires a Revolution Pro subscription at the rep level.** At JE, **510 of 764 adopters (67%) are not on Revolution Pro and will have their stores turned off**, with a prompt to pay the **$5 JE fee** — which JE reps can self-pay inside the ByDesign back office, and which unlocks Revolution Pro + Wayroo + selling tools together.
+>
+> **This changes what the motion is.** "Included for Revolution reps" reaches only the third of adopters who are already Revolution Pro subscribers. For the other two-thirds it is a **$5 paywall applied after adoption** — and at the flagship account it lands on 510 reps who already downloaded and started using the product.
+>
+> **Revolution Pro is always paid.** Every rep who has it is paying for it — either directly or through their DSO. There is no free Revolution Pro population.
+>
+> **So Wayroo is never free-standing: it is an attach to a paid subscription.** Which means the favourable reading is probably the truer one — **Wayroo is not a giveaway, it is the reason to buy Revolution Pro.** Wayroo becomes the acquisition funnel for a paid subscription, with payments as the second line. Cleaner than "free, monetised on payments," and it means Wayroo adoption is not forgone revenue at all. **But it has to be designed and messaged as an upgrade, not discovered by a rep whose store stopped working.**
+>
+> ✅ **Sizing resolved (2026-08-13): there are 75,000 Revolution Pro subscribers.** The Pro gate does not shrink the addressable base — **Pro *is* the base.** See §2 for what it is worth and why the model's Year-0 target sits inside it.
+>
+> ⚠️ **Still open:** **per-client Pro-subscriber counts** (without them no adoption rate can be derived), ByDesign's cut of the $5, and how many of the 510 convert. **The 510 conversion rate is the single most informative number the company will get this quarter** — it prices the Wayroo → Revolution Pro attach before it runs at 54 other clients.
 
-| Feature | Resonance with Non-C&C |
-|--------|------------------------|
-| Dashboard with sales reports | **High** — corporate visibility into rep performance |
-| Notifications from corporate | **High** — distribution channel that bypasses email/social |
-| Media library | **High — cross-ICP (also applies to C&C)** — corporate controls branding and marketing of products in rep hands; reps distribute on-brand assets instead of unofficial photos / renamed products |
-| Inventory management | **Weaker** — most reps don't carry stock; still serves the ~20% who do |
-| **Dropship** | **Hero feature for this segment** (see below) |
+**The approver's own incentive:** it costs them nothing. Wayroo Essentials and the selling tools are **included for reps the DSO already pays a Revolution fee and back-office platform fees for** — better-equipped reps, more field activity, and full transaction visibility, at no incremental line item.
 
-**Why Dropship is the hero feature for Non-C&C:** Today, Non-C&C reps direct customers to the DSO's replicated site, earn a low commission, and wait up to ~30 days for the monthly payout. Dropship lets the rep sell that same corporate inventory, ship directly from corporate to the customer, and get paid immediately through their own ProPay merchant account. Same fulfillment — completely different rep economics. It is the structural fix to the "why bother selling on the replicated site?" problem.
+**Payments status:** selling tools run on **ProPay today.** Jordan Essentials is already on ProPay, waiting only on Tap-to-Pay (**expected September 2026**). **Adyen is 3–6 months out and is an improvement, not a prerequisite** — do not gate the motion on it.
 
-**Pitching implication:** Lead with **Dropship + dashboards + corporate-to-rep distribution (notifications, media library)**. Inventory features become a secondary "we also support your in-person reps" bullet, not the headline.
+### The commercial model, resolved (2026-08-13)
 
-**Qualifying question for the segment:** "What % of your reps carry personal inventory?" The answer slots them into C&C (50%+), Hybrid (~20–50%), or Non-C&C (<20%, with ~20% still selling in person).
+**Two motions, two commercial shapes.** Full working: [`outputs/05-aice-bundle-and-free-tier-pricing.md`](outputs/05-aice-bundle-and-free-tier-pricing.md).
+
+| | **Installed base (Land-and-Expand)** | **New DSOs** |
+|---|---|---|
+| **Who** | Revolution reps at existing clients | Net-new logos |
+| **What they already pay** | Revolution fee **+ back-office platform fees** | Nothing |
+| **Wayroo Essentials + all selling tools** | **Included** at no incremental charge | Typical pricing tiers (§5) |
+| **Aice** | **Free tier** — feature-limited by design | Same |
+| **ByDesign revenue, near-term** | **Payments only (~1.5%)** | Tier + per-user + payments |
+| **ByDesign revenue, later** | **Aice upgrade path** | Same |
+
+> **"Free" is the wrong internal word. The word is *included*.** Revolution clients already pay a platform fee; Wayroo rides inside it. That is ordinary software bundling, not a discount — and it is the entire competitive defence when a prospect discovers an existing client isn't paying extra for Wayroo. The fence is **"already a platform customer vs. not,"** and it needs no apology.
+
+> **In the Land-and-Expand motion, payments is not the majority of revenue — it is the entirety of it, until the Aice upgrade path opens.** Invariant 2 understates the case: transacting adoption is not merely where most of the money is, it is the only place any of it is. **Consequence: ProPay onboarding velocity is a revenue metric, not an implementation task** — it is the sole gate between an adopted rep and a transacting one.
+
+**All selling tools are in the free tier.** Tap-to-Pay, invoicing, and POS are never behind a paid upgrade. The ProPay "contact corporate" prompt is a **merchant-account prerequisite, not a commercial gate** — the two are consistent. Gating any transactional feature would cost ~$216/year per suppressed rep against an upgrade worth less than that.
+
+**Paid Wayroo surface:** white-labeling / branding, sold to the DSO. **This is now the only one.**
+
+> ⚠️ **International is out of scope.** The Wayroo app is not ready and it is not the starting point. Multi-currency/multilingual and the 2027 international TAM are deferred; do not build pricing, bundle, or forecast work on them.
+
+> ⚠️ **Stranded figures — reconcile before any forecast.** The **$3.00/user/month SaaS** line and the **DSO's $5/rep resale at a $2 / 67% margin** describe the prior paid Wayroo model. They apply to the **new-DSO motion only**, not to the installed-base rollout. They still appear in §5, in [`outputs/go-forward-gtm-operating-model-2026-08-08.md`](outputs/go-forward-gtm-operating-model-2026-08-08.md) (Invariants 2 and 3), and in the financial model — all of which apply them to a base that does not pay them. Residual ambiguity: the earlier "$5/rep on top of the existing $10" framing and Revolution's own ~$5/user/mo fee are not obviously the same $5.
+
+### Adoption benchmarks — what this motion can realistically deliver
+
+| Benchmark | Figure | How to read it |
+|---|---|---|
+| Jordan Essentials launch | **764 reps, all within 2–3 days of the convention** | **A ceiling, not a floor.** Branded, corporate-announced, convention-launched, at a client that actively wanted it. A cold, unbranded push should be planned well below this. Supersedes the earlier "700+" estimate — same cohort, precise count. |
+| **Post-launch adoption velocity** | 🔴 **Unmeasured** | **No data exists after the launch window.** Every plan that assumes continued adoption — including the 85% target and the ~$217K/year Motion A upside — currently rests on an unmeasured curve. **Measuring it is a prerequisite, not a nice-to-have.** |
+| Paparazzi transact rate | **~54%** (2,153 of 4,000 MAUs) | **Derived from the financial model, not measured.** The only transact-rate benchmark the company has. |
+| Paparazzi GMV per rep | **~$7,750 / rep / year** ($31M across 4,000 reps, 2025) | The only real GMV data in the business |
+| Financial model Year-0 baseline | **15,000 transacting users** | Against **~2,500 today** — a 6x gap, and the number the model rides on |
+
+### Segment lenses (demoted from deal qualification to feature relevance)
+
+The C&C / Hybrid / Non-C&C segmentation was built to qualify **new-logo DSO deals**. Under Land-and-Expand it no longer gates anything — but it still predicts which features a given rep population will actually use, which makes it useful for enablement and comms sequencing.
+
+| Segment | Rep population | Features that land |
+|---------|----------------|--------------------|
+| **ICP 1a — Cash & Carry** | ~50–80% carry personal inventory | POS, barcode scanning, inventory sync, personal storefront |
+| **ICP 1b — Hybrid** | ~20–50% carry inventory | Full stack; two rep sub-personas inside one client, two onboarding paths |
+| **ICP 1c — Non-Cash-and-Carry** | <20% carry inventory | Dropship, dashboards, corporate notifications, media library |
+
+Full segment intelligence is retained in [`outputs/02-cash-carry-dso-icp-intelligence.md`](outputs/02-cash-carry-dso-icp-intelligence.md) and [`outputs/02-hybrid-dso-icp-intelligence.md`](outputs/02-hybrid-dso-icp-intelligence.md), which are **not** superseded.
+
+**Qualifying question for the segment:** "What % of your reps carry personal inventory?" — C&C (50%+), Hybrid (~20–50%), Non-C&C (<20%).
 
 > ### ⚠️ This qualifying question is producing unreliable data (added Aug 8, 2026)
 >
@@ -154,17 +305,8 @@ Same buyer profile as ICP 1, but at organizations where the majority of reps do 
 >
 > This mirrors the Color Street 80/20 hobbyist/seller finding: DSO self-reported rep figures have been wrong in both directions at both accounts where they could be checked.
 
-**ICP 2 — Sales Reps** (End User for Track 1 / Direct Buyer for Track 2)  
-Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/PayPal, spreadsheets, email, Canva). Measured on personal sales volume and monthly earnings.
+**Buying triggers (Track 1, retained for the deprioritized new-logo motion):** Rep activation failure, high turnover, regulatory/FTC pressure, competitor platform displacing them (Party Platform Solutions, Thatcher), decline-driven existing-client Wayroo upsell, convention/annual event as deal-closing forcing function.
 
-- **In Track 1 (current):** The rep is the end user, not the buyer. The DSO signs the contract; the rep adopts via corporate mandate. Reps adopt Wayroo when the DSO mandates it — Paparazzi (4,000 MAUs) confirms this. Adoption is a corporate rollout problem, not a grassroots one.
-- **In Track 2 (future):** The rep is the direct buyer. This track has not yet been developed — personas, messaging, channels, pricing, and GTM motion are all TBD. Do not use Track 1 DSO messaging for this audience.
-
-**Rep Adoption Signal (Track 1):** Sell the DSO; the reps follow. Paparazzi is the proof.
-
-**Job title / role:** VP of Sales, Founder, CEO (buyer) + Independent Rep (end user)  
-**Key characteristics:** Resource-constrained, growth-oriented DSO with a rep force that is under-equipped, under-activated, and churning faster than recruiting can cover  
-**Buying triggers:** Rep activation failure, high turnover, regulatory/FTC pressure, competitor platform displacing them (Party Platform Solutions, Thatcher), **decline-driven existing-client Wayroo upsell** (sales/engagement decline over 6+ months — Hybrid DSO trigger, confirmed at Jordan Essentials May 2026), **convention/annual event as deal-closing forcing function** (Jordan Essentials confirmed; Color Street's Paparazzi conference operates similarly)  
 **Where they hang out:** DSA (Direct Selling Association) events, ANMP conference, MLM industry referral networks, Capterra/G2
 
 **Confirmed DSO ICP Value Preferences (from Color Street demo, May 2026):**
@@ -177,12 +319,28 @@ Independent field seller under a DSO. Juggling 4–6 disconnected tools (Square/
 
 ## 4. Problem & Value
 
-### The Core Problem
+> **Revised 2026-08-10.** Order of priority inverted. Under Land-and-Expand the rep's problem is the one that has to be solved first, because the rep is the adopter and the transaction is the revenue event. The DSO's problems are retained below and remain true — they are no longer the lead argument, because there is no budget ask to justify.
+
+### The Core Problem — The Rep (Primary)
+
+**The rep is paying $60–100 every month, out of their own pocket, for 6–10 apps that do not talk to each other.** Square for POS, PayPal or Venmo for payments, a spreadsheet for inventory, Canva for graphics, a separate invoicing tool, a separate storefront. None of them know what the rep ordered from corporate. None of them tell corporate what the rep sold. The rep pays for the privilege of doing reconciliation by hand.
+
+**Free Wayroo Essentials removes that bill.** That is the rep-facing argument, and it is stronger than any feature claim — because the competing product is not another app, it is the $60–100/month the rep is already spending.
+
+> **What the rep cannot do yet, and why that is deliberate.** Tap-to-Pay, invoicing, and POS are visible in the app but **locked** behind a *"contact corporate"* prompt until the DSO completes ProPay onboarding. They are **free once unlocked.** The lock is the mechanism that turns rep demand into DSO action — see §3, ICP B.
+
+### The Core Problem — The DSO (Approver)
+
+The DSO is not being asked for money, so the problem framing changes. What corporate needs to hear is that **approval is free and costs them nothing** — their Revolution reps get a materially better toolset at no incremental line item, and corporate gets transaction visibility it does not have today. Alongside that, the operational problems below are real and remain the reason a DSO *wants* this rather than merely tolerates it.
 
 **For DSO Leaders:**
 Direct selling organizations are flying blind in their own field. Reps sign up but never activate. Companies have no real-time visibility into what reps are selling, who's struggling before they quit, or what tools reps are using in the field. The result: high rep turnover, no auditable retail transaction record (FTC compliance failure), and no ability to coach or hold the field accountable.
 
-**Regulatory Compliance Context (Critical for Positioning — Three mandates, not one):**
+**Regulatory Compliance Context — retained, but demoted as a lead argument.**
+
+> ⚠️ **Do not open with compliance under this motion.** The three-mandate FTC/tax argument below was built to create urgency in a *paid, new-logo* deal. In an approver conversation with no budget ask, leading with regulatory risk reads as a threat rather than an offer, and it is not what the rep — the actual adopter — responds to. Keep it as a supporting structural argument and as the answer to "why does this matter beyond a free app." The material below is unchanged and remains accurate.
+
+**Three mandates, not one:**
 
 **FTC Compliance — Argument 1: Retail sales documentation.** The FTC requires DSOs to demonstrate that products are being sold to real end customers — not just bulk-loaded onto reps as a disguised income scheme. Every sale that goes through Venmo, cash, or PayPal with no customer record is an unauditable transaction and a compliance liability. This is a universal DSO problem. For cash-and-carry DSOs, the exposure is acute because the majority of rep selling activity happens outside any tracked channel. Wayroo's branded invoicing, customer record capture, and transaction audit trail directly address the FTC's retail sales documentation requirement. No competitor (Square, Venmo, PayPal) creates a customer record that DSO corporate can access or audit.
 
@@ -197,7 +355,7 @@ Direct selling organizations are flying blind in their own field. Reps sign up b
 **Customer Data for DSO Marketing (Strategic Gain — beyond compliance):** When a rep sells through Venmo or cash, the customer identity is invisible to corporate. The DSO cannot market to those customers, cannot launch loyalty programs, cannot run retargeting campaigns, and cannot build a direct relationship with buyers who are already purchasing their products. Wayroo captures the customer record at the point of rep sale and surfaces it to the DSO's CRM — turning the rep's customer base into a DSO marketing asset. This is a direct revenue driver: DSOs can send product launches, promotions, and loyalty offers to customers they previously had no way to reach. For large cash-and-carry DSOs (e.g., Color Street with 20,000+ stylists), this could represent tens of thousands of customer records that are currently invisible to corporate marketing.
 
 **For Reps:**
-Reps run their business across 4–6 disconnected tools (Square, PayPal, Venmo, spreadsheets, separate invoicing, Canva) — paying for each separately, losing time switching between them, and losing sales from payment friction. No single tool does everything they need.
+Reps run their business across **6–10 disconnected tools at $60–100/month** (Square, PayPal, Venmo, spreadsheets, separate invoicing, Canva) — paying for each separately, losing time switching between them, and losing sales from payment friction. No single tool does everything they need. *(Figure updated 2026-08-10; supersedes the earlier "4–6 tools" and the $60/month minimum captured at Jordan Essentials.)*
 
 ### Prioritized Problems — DSO ICP (scored 1–15)
 
@@ -260,11 +418,18 @@ Wayroo is not a POS or an inventory tool — it's the **operating system for the
 
 ### Value Proposition
 
-**For DSO Leaders:**  
-Wayroo is the all-in-one mobile business app built for direct selling reps — giving DSO leaders the tools to activate reps faster, reduce turnover, and drive more revenue, without the chaos of managing multiple platforms or third-party integrations.
+> **Revised 2026-08-10.** Rep-first, and free.
 
-**For Reps:**  
-One app to sell, get paid, and manage customers — so you spend your time selling, not figuring out software.
+**For Reps (primary — the adopter):**
+**Free.** One app that replaces the 6–10 you are paying $60–100 a month for — and the only one that already knows what you ordered from corporate, so your inventory is right without you touching a spreadsheet.
+
+**For DSO Leaders (approver):**
+**It costs you nothing, and your reps are already paying for Revolution.** They get a materially better toolset at no new line item, wired into the back office you already run — and every transaction they make becomes a record you can see.
+
+**The one-line version of the motion:**
+> *Free for the rep. Free for the DSO. Paid for by the transaction.*
+
+**What stays paid:** white-labeling / branding, sold to the DSO. Selling tools are never charged for.
 
 **Value Prop Canvas — Pain Relievers:**
 
@@ -315,9 +480,17 @@ One app to sell, get paid, and manage customers — so you spend your time selli
 
 ## 5. Business Model
 
+> ### ⚠️ Scope note (2026-08-13): this section applies to the NEW-DSO motion only
+>
+> The tiers below are the **"typical pricing tiers, for now"** that net-new logos pay. **They do not apply to the installed base.** Revolution reps at existing clients already pay a Revolution fee plus back-office platform fees, and Wayroo Essentials + all selling tools are **included** at no incremental charge — see §3, *The commercial model*.
+>
+> **Unresolved inside this table:** the Wayroo user line reads **$5/user/mo**, while the rate confirmed in production at Jordan Essentials is **$3.00/user/mo**. Both figures circulate. Resolve before quoting either.
+>
+> **International is out of scope** — the Wayroo app is not ready. Ignore any international assumption carried in the pricing or partnership models.
+
 **Primary Revenue:** Monthly platform fee + per-user licensing (DSO pays for both ByDesign users and Wayroo users). Payments rev-share is the growth engine — every transaction through Wayroo POS and the Freedom shopping cart generates revenue share.
 
-**Pricing Tiers:**
+**Pricing Tiers (new DSOs):**
 
 | Tier | Platform | ByDesign User | Wayroo User | Target |
 |------|----------|--------------|-------------|--------|
@@ -348,75 +521,87 @@ DSOs already charge reps a monthly technology access fee called an eSuite fee. T
 
 ## 6. Competitive Landscape
 
-### Direct Competitors
+> **Revised 2026-08-10.** Two structural corrections: **Aice is a launch partner, not a competitor**, and **inventory features are not the differentiator** — free Square already does basic inventory well. The differentiator is the **ByDesign back-office integration plus price.**
 
-**Exigo** — Largest player. Enterprise MLM back-office platform. Strong: established brand, deep comp engine. Has a native mobile rep app (correction May 9, 2026 — prior version of this document incorrectly stated Exigo has no rep app). Differentiation vs. Wayroo: the **scope and tier of Exigo's rep app vs. Wayroo's ERP-tier scope (inventory + orders + payments + financial records + shipping + storefront)** — competitive research outstanding to confirm Exigo rep app feature scope, per-rep merchant account model, and POS depth. Wayroo's structural advantages likely hold (per-rep ProPay merchant accounts, native Freedom comp engine integration, three-pillar FTC compliance, LuLaRoe lineage) but the "Exigo has no rep app" claim is wrong — do not use it. Market position: back-office + lighter rep app. Wayroo is additive to Exigo for DSOs that want ERP-tier rep infrastructure on top of their existing back office.
+### The Real Differentiator
 
-**Aice** — Creator/funnel/community + light-CRM app for MLM reps. Website: aice.cc. Founder/CEO: Brian Juhl (founder-led, public Instagram presence). Headline: "The app for turning your side gigs into your main gig." Public proof point: "20,000 new reps in 4 months." Pricing model: **rep-paid PLG**, $9.99 / $19.99 / $49.99 per month, 14-day free trial, 30-day money-back guarantee; corporate plan available on request but not published. DSO economic model (per April 2026 DSU notes): DSOs do not pay for the Aice app — reps pay; DSOs pay only for the integration. Core surface: mobile funnel builder, interactive video, content keyboard, smart forms (logic, webhooks, payment capture via Shopify), smart links, contact management/CRM, smart scheduling, Spaces/communities, Campfire team collaboration, real-time analytics, teleprompter, AI Assistant (Pro+ tier). Native integrations: Project Broadcast (bundled in Essentials tier), Canva, Shopify, Zoom. **No native ecommerce — routes via Shopify integration.** **No commerce overlap with Wayroo:** Aice has zero POS, zero payments/payouts, zero inventory, zero invoicing, zero shipping, zero merchant accounts, zero FTC/tax transaction record, zero compensation engine. Strengths: sharp creator-economy category, founder-led brand, PLG velocity, low-friction pricing, Spaces/community differentiation, multi-back-office connector story (MLM Soft, Pillars, Shopify). Weaknesses: Shopify dependency is structural (DSO inherits Shopify's 3% rate + single merchant account liability when both products are present); cannot serve cash-and-carry DSOs; no party plan; thin operational base on some integrations (Pillars Software = 3 employees per DSU notes); /about and /features pages 404 (sparse public infrastructure). **Integration partner candidate, not direct competitor.** The two products serve adjacent surfaces of the same rep's day — Aice = top-of-funnel (attract, communicate, nurture); Wayroo = transaction backbone (sell, get paid, ship, comply). Threat: rep tool fatigue and budget capture if reps perceive Wayroo as redundant with Aice; Shopify dependency leakage inside ByDesign accounts if integration is structured naïvely. Bravenly is the active test case (existing ByDesign client chose Aice over Wayroo; customer interview required before any integration agreement). Full analysis: `outputs/02-competitor-analysis-aice.md`. Confluence: [Wayroo Competitive Analysis](https://bydesign.atlassian.net/wiki/spaces/WAYR/pages/289374209/Wayroo+Competitive+Analysis).
+> **ByDesign back-office integration (wholesale order sync + inventory sync) — plus price.**
 
-**Rallyware** — AI sales performance orchestration platform for distributed sales teams (direct selling + retail + brand reps). Founded 2012 at MIT, $22M raised 2022, 200+ enterprise customers, 15M users in 90+ countries. Direct selling logos: Mary Kay, Nu Skin, Avon, Tupperware, Hugh & Grace, Yanbal. Retail logos: Samsung, Adidas. Headline: "Peak Performance. Every Rep. Everywhere." Core products: AI Guided Selling, AI Sales Coach, AI Learning Management System, Performance Incentives, CRM & Clienteling, Communication & Field Operations, Performance Intelligence. Strong: enterprise reference wall, AI category leadership, content/thought-leadership engine, global footprint, capital. Weak: zero commerce primitives — no POS, payments, inventory, invoicing, payouts, shipping. No FTC/tax-grade transaction record (does not transact). No cash & carry support. No party plan. Enterprise-only profile (Tier 1 DSOs $1B+); does not service mid-market. **Different ICP tier and category from Wayroo — co-existence likely, displacement rare. Treat as adjacent category, not direct competitor.** A Mary Kay/Nu Skin–class DSO running Rallyware for enablement is a future Wayroo expansion target (commerce layer for cash-and-carry segments), not a displacement target. Full analysis: `outputs/02-competitor-analysis-rallyware.md`.
+Everything else in the rep-app category is either matched by a free tool or purchasable separately. What no competitor can replicate is that a rep's **wholesale order and inventory flow straight from the ByDesign back office into the app**, with no manual entry and no second system of record. That, and the fact that Essentials is **free** against a category charging $5/rep/month and up.
 
-**Party Platform Solutions** — Party plan back-office. Recently raised prices significantly. Clients actively leaving. Primary Party 2.0 acquisition target.
+> ⚠️ **Correction — do not claim inventory management as a differentiator.** Free Square already handles basic inventory well: spreadsheet upload, categories, tax codes. Prior positioning and Phase 6 outputs leaned on inventory as a Wayroo advantage; that claim does not survive contact with a rep who has used Square. Inventory is table stakes. **The sync is the differentiator, not the feature.**
 
-**Thatcher** — Party plan back-office going bankrupt. Near-term acquisition opportunity — their clients are in market now.
+### What reps actually pay today
 
-**Fluid** — "We-Commerce" front-end layer for DSOs (raised $15M March 2026). Competes with Wayroo at the rep layer, not Freedom at the back-office layer. Key weakness: always requires a second vendor. No payout infrastructure, no compliance tooling, no commission engine.
+Reps currently spend **$60–100/month across 6–10 apps** of their own money. That is the number to displace, and it is the strongest rep-facing economic argument available.
 
-**Shopify** — Competes with both Freedom (ecommerce / back-office layer) and Wayroo (rep-facing commerce). Shopify is integrated with ByDesign Freedom's back office via a cart integration, so it can appear as a partner — but it is also a direct competitor for DSOs evaluating rep-facing commerce tools.
+### Rep-layer competitors
 
-Key competitive facts:
-- **3% processing rate** — the highest of any comparable ecommerce platform. This is a specific, citable cost differentiator in every Shopify competitive conversation.
-- **Single merchant account model** — Shopify runs one merchant account for the DSO. The DSO absorbs every processing fee across all rep transactions, plus pays a monthly license fee. For a large DSO (10,000–30,000 reps), the cumulative 3% fee on total sales volume is a significant, ongoing cost burden.
-- **Replicated sites** — Shopify offers replicated sites, competing directly with Wayroo's replicated site feature.
-- **Financial liability exposure** — Because all transactions run under the DSO's single merchant account, the DSO carries the liability for every rep's chargebacks, disputes, and payment fraud.
+**Square** — Free tier, and it is genuinely good. Basic inventory (spreadsheet upload, categories, tax codes) and mobile POS at no cost. **This is the most honest competitive benchmark for Wayroo Essentials.** Where Square cannot follow: no connection to the DSO's back office, no wholesale order sync, no customer record flowing to corporate, no commission engine, no compliance loop.
 
-**Wayroo's structural advantage over Shopify:**
-- Each Wayroo rep operates as their own independent business with their own merchant account
-- Reps pay their own processing fees per transaction (wholesale orders and replicated site retail orders) — not the DSO
-- The DSO pays the Wayroo license fee only; transaction liability sits with the individual rep merchant
-- Replicated retail site orders represent a small portion of a DSO's total sales volume, so the per-transaction fees reps absorb on those are not burdensome
-- Result: DSO has materially lower financial liability, lower ongoing cost, and a more defensible merchant structure
+**Hustle** — Charges **$5 per monthly-active-rep.** **Paparazzi pays it across ~20,000 reps.** A live, funded, per-rep-priced competitor already inside a flagship ByDesign account — and direct evidence that DSOs will pay per-rep for rep tooling. Wayroo Essentials being free is a direct answer to Hustle's price.
 
-**TCO argument against Shopify:** For a DSO with 20,000 reps, compare: (a) Shopify — DSO absorbs 3% on all transactions + monthly license + single merchant liability; vs. (b) Wayroo — DSO pays license fee only (eSuite pass-through to reps), reps pay their own transaction fees as independent merchants. The gap widens with scale.
+**Boards** — The incumbent **Jordan Essentials is migrating off.** Displacement is already in motion at the pilot account.
 
-**Note on Aice:** Aice's ecommerce layer requires a Shopify integration — meaning DSOs that choose Aice are also inheriting Shopify's 3% processing rate and single merchant account structure. Wayroo's native commerce (no Shopify dependency) avoids this cost entirely.
+> ### 🔴 Confirmed 2026-08-10 — Paparazzi's field is ~20,000 reps, not 4,000
+>
+> Hustle is paid across **~20,000 Paparazzi reps.** Wayroo counts **4,000 MAUs** there — **~20% penetration, not full coverage.** Every prior artifact treats "Paparazzi = 4,000 reps," including §7, the flagship case study framing, and the GMV-per-rep benchmark.
+>
+> **Two consequences.** The case study headline changes meaning: $31M was generated by ~20% of the field, which is a *stronger* per-rep result and a *weaker* coverage claim — say the former, never imply the latter. And **~16,000 un-adopted Paparazzi reps are the largest single Land-and-Expand target in the installed base**, sitting inside an account that already runs Wayroo and already pays a competitor $5/monthly-active-rep for adjacent tooling.
+>
+> ⚠️ The **~$7,750 GMV/rep/year** benchmark uses 4,000 (adopters) as its denominator, which remains the correct basis for per-transacting-rep math. Do not re-derive it against 20,000.
 
-### Competitive Feature Map (Wayroo vs. Aice vs. Rallyware)
+### Aice — Launch Partner (not a competitor)
 
-| Capability | Wayroo | Rallyware | Aice |
-|-----------|--------|-----------|------|
-| Mobile POS | ✅ Native | ❌ | ❌ |
-| Ecommerce Storefront | ✅ Native | ❌ | ⚠️ Shopify dependency |
-| Real-time inventory management | ✅ | ❌ | ❌ |
-| Next-day payouts | ✅ | ❌ | ❌ |
-| Mobile invoicing | ✅ | ❌ | ❌ |
-| Integrated shipping | ✅ | ❌ | ❌ |
-| Sales dashboards & reports | ✅ | Limited | Limited |
-| Sales enablement / training | Limited | ✅ Core | ✅ Core |
-| Social selling tools | Limited | ✅ | ✅ |
+**Status: partnership, holding until the merger deal closes.**
 
-**Key insight:** Rallyware and Aice are sales enablement platforms. Wayroo is a business management and transaction platform. Wayroo wins when the pain is operational (rep turnover, fragmented tools, slow activation, commission issues).
+Wayroo Essentials launches **alongside Aice's free tier**, connected by a simple integration letting reps move between the apps. **Wayroo is the front door** — a rep who opens Aice first is prompted into Wayroo. Aice's paid pro tier is billed by ByDesign; the revenue split is Finance's call.
 
-**Your key differentiator:** The only platform connecting corporate back office (Freedom) to a native mobile rep experience (Wayroo) with no data gaps — plus next-day payouts, real retail transaction tracking for FTC compliance, and no third-party integration dependencies.
+**Do not run anti-Aice positioning.** Prior competitive material treating Aice as a rival (including the Shopify-dependency attack) is retired for the duration of the partnership. The product-surface analysis in [`outputs/02-competitor-analysis-aice.md`](outputs/02-competitor-analysis-aice.md) remains accurate as a factual description of what Aice does; its competitive conclusions do not apply.
 
-**Dropship — first-mover, no competitor equivalent:** No other app in the direct selling industry offers rep-level dropship with individual merchant accounts. Wayroo Dropship solves: (1) the commission timing problem — reps get paid immediately instead of waiting ~30 days; (2) the DSO processing cost problem — 3% fees and chargeback liability shift away from corporate; (3) state compliance — 24+ states require the income tracking structure Dropship creates. This is not a feature gap a competitor closes in a quarter — it requires individual merchant account infrastructure, payment routing, and compliance logic that takes significant time to build.
+**Why the pairing works:** Aice is top-of-funnel (attract, communicate, nurture); Wayroo is the transaction backbone (sell, get paid, ship, comply). Adjacent surfaces of the same rep's day, with Wayroo owning the revenue-generating half.
 
-**Why better for ICP:** DSOs get a complete audit trail of real retail transactions (compliance), full rep visibility (coaching), and one vendor instead of two or three. Reps get one app that replaces everything.
+### Back-office / platform competitors (Track 1 — deprioritized motion)
 
-**Top sales objections:**
-1. **Cost** — price sensitivity is real; counter with TCO argument: Shopify charges 3% on all transactions (highest in category) under a single DSO merchant account — the DSO absorbs every fee. Wayroo's model has the DSO paying a license fee only; reps pay their own transaction fees as independent merchants. At scale, Wayroo is materially cheaper. Reinforce with Paparazzi $31M/$60%+ growth proof point.
-2. **Outdated shopping cart UI vs. Shopify** — prospects see Shopify as the modern standard; acknowledge the gap, then surface the 3% processing rate and single merchant account liability. The "modern" UI has a significant hidden cost the DSO is absorbing on every transaction. Pivot to Party 2.0 / shopping cart upgrade roadmap.
+**Exigo** — Largest player. Enterprise MLM back-office platform. Has a native mobile rep app; the differentiation question is the **scope and tier** of that app versus Wayroo's (inventory + orders + payments + financial records + shipping + storefront). Competitive research outstanding on Exigo rep app feature scope, per-rep merchant account model, and POS depth. **Do not claim "Exigo has no rep app" — that is incorrect.** Wayroo integrates with Exigo and any other back office, so Exigo's installed base is addressable rather than walled off.
 
-**What closes deals:**
-1. Prospects coming from a worse platform — the bar is low enough that Freedom + Wayroo wins on reliability and completeness
-2. Prospects leaving Shopify due to high transaction fees and integration costs — they've already decided Shopify is too expensive; Wayroo's native commerce (no Shopify dependency, no extra fees) is the direct answer
-- **Implication:** The "vs. Shopify" narrative is a real buying trigger, not just a competitor battlecard. Wayroo's all-native stack (POS, storefront, payouts, inventory — no Shopify required) directly addresses why deals close.
+**Shopify** — Competes with Freedom (ecommerce/back-office) and at the rep-facing commerce layer. Integrated with Freedom via a cart integration, so it can appear as a partner while also being a competitor.
+
+- **3% processing rate** — highest of any comparable ecommerce platform; a specific, citable cost differentiator
+- **Single merchant account model** — the DSO absorbs every processing fee across all rep transactions plus a monthly license
+- **Replicated sites** — competes directly with Wayroo's replicated site feature
+- **Financial liability exposure** — all transactions run under the DSO's single merchant account, so the DSO carries liability for every rep's chargebacks, disputes, and fraud
+
+**Wayroo's structural advantage over Shopify:** each rep operates as their own business with their own merchant account; reps pay their own per-transaction fees; the DSO carries the license fee only and transaction liability sits with the individual rep merchant.
+
+**Rallyware** — AI sales performance orchestration for distributed sales teams. Enterprise-only (Tier 1 DSOs $1B+), does not service mid-market, zero commerce primitives, does not transact. **Adjacent category, not a direct competitor.** Full analysis: [`outputs/02-competitor-analysis-rallyware.md`](outputs/02-competitor-analysis-rallyware.md).
+
+**Party Platform Solutions** — Party plan back-office. Recently raised prices significantly; clients actively leaving. Party 2.0 acquisition target.
+
+**Thatcher** — Party plan back-office going bankrupt. Client base in active migration.
+
+**Fluid** — "We-Commerce" front-end layer for DSOs ($15M raised March 2026). Competes at the rep layer. Always requires a second vendor underneath; no payout infrastructure, no compliance tooling, no commission engine.
+
+### Objection handling under the new motion
+
+The old objection list led with **cost**. That objection largely disappears when the product is free — and the objections that replace it are different in kind.
+
+| Objection | Response |
+|-----------|----------|
+| **"Why would we add another rep app?"** (approver) | Not another app — a free one that replaces 6–10 the rep already pays $60–100/month for, and the only one wired into the back office they already run. |
+| **"What does this cost us?"** (approver) | **Nothing.** Essentials and the selling tools are free to your Revolution reps. The only paid Wayroo tier is white-labeling, and that is optional and separate. |
+| **"Square already does this and it's free."** (rep) | Square does POS and basic inventory. It does not know your wholesale order, does not sync your inventory from corporate, and does not put your customer into the company's system. |
+| **"We already pay Hustle / use Boards."** | Hustle is $5/monthly-active-rep. Essentials is free, and it is the only option integrated with the back office. Jordan Essentials is migrating off Boards now. |
+| **ProPay onboarding effort** (approver) | The real gate. Selling tools stay locked until it is done — and locked tools mean no payments revenue and a field asking why. Sequence this first. |
+| **Outdated shopping cart UI vs. Shopify** | Acknowledge, then surface the 3% processing rate and single-merchant liability. Pivot to the Party 2.0 / cart upgrade roadmap. |
+
+**What closes (Track 1, retained):** prospects coming from a worse platform; prospects leaving Shopify over transaction fees and integration cost.
 
 ---
 
 ## 7. Traction & Evidence
 
-- ~$8–10M ARR, ~100 employees, **51 active Freedom clients**
+- ~$8–10M ARR, ~100 employees, **55 active clients** *(corrected 2026-08-10; supersedes the prior "51 active Freedom clients")*
 - 4,000 MAUs on one live Wayroo client (Paparazzi) — proof-of-concept no competitor can dispute
 - 2025 closed: $1.84M across 9 deals; top deal Tropic Skin Care at $900K
 - 2026 YTD (April): $474K closed (LemonGrass, JBloom), 48 open opps
@@ -428,7 +613,21 @@ Key competitive facts:
 This is the single highest-leverage marketing asset. It is not yet published anywhere. **Still unpublished as of Aug 8, 2026 — approval never requested.**
 
 **Second proof asset (Jordan Essentials — launched July 17–18, 2026):**
-> **700+ downloads in the launch weekend — 28% of a 2,500-rep field in 48 hours**, still growing. Deal closed in ~11 weeks vs. the 4–6 month standard. After the launch, the founder requested the paid contract start be pulled forward to September, cutting short an agreed free period.
+> **700+ downloads in the launch weekend.** Deal closed in ~11 weeks vs. the 4–6 month standard. After the launch, the founder requested the paid contract start be pulled forward to September, cutting short an agreed free period.
+
+> 🔴 **Actuals as of Aug 10, 2026 — publish the launch number, and nothing beyond it.**
+>
+> | Metric | Figure |
+> |---|---|
+> | Reps on Wayroo (as of 8/10) | **764** — **all downloaded within 2–3 days of the convention** |
+> | Of those, on Revolution Pro | **254** (33%) |
+> | Not on Revolution Pro — **stores to be turned off** | **510** (67%) |
+> | Stores created (as of 8/7) | **2,618** ⚠️ *unconfirmed whether this reflects total JE reps* |
+> | Post-launch adoption velocity | 🔴 **Unmeasured — no data after the launch window** |
+>
+> **The publishable claim is "764 reps adopted Wayroo within days of the convention."** True, precise, and strong. **Do not attach "and still growing"** — nothing measures that. And do not publish an adoption *rate* until the 510 store-shutoff resolves, because the denominator is unconfirmed and the numerator may fall to 254 before it rises.
+>
+> ⚠️ **2,618 stores against 764 Wayroo reps** — a 3.4x gap, and the 2,618 is not yet confirmed to mean total reps. **Do not use it as a denominator for any adoption percentage until it is defined.**
 
 **Why this may now be the more valuable of the two.** Paparazzi proves *scale* at a client live for years. Jordan Essentials proves **repeatability in the exact segment the 2026 upsell motion sells into, on an 11-week timeline, with a named forcing function** — and it is fresh. A Hybrid DSO prospect recognizes themselves in Jordan Essentials in a way they never will in Paparazzi.
 

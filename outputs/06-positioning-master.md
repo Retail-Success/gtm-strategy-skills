@@ -1,277 +1,380 @@
-> # ⛔ SUPERSEDED — 2026-08-10 Strategy Reset
->
-> **This document was built for a new-logo, paid-motion go-to-market. It no longer reflects current strategy.**
->
-> The August 10, 2026 reset moved the near-term motion to **Wayroo Land-and-Expand** — existing-client upsell executed through PLG mechanics, targeting reps inside the ByDesign installed base. Under that model the **DSO is the approver, not the buyer**; **Wayroo Essentials is free and unbranded**; selling tools are free but locked pending ProPay onboarding; and **monetisation is transaction volume, not licences**.
->
-> **Do not reconcile new work against this document.** Its ICP intelligence, verbatim prospect quotes, and competitive facts remain useful as history. Its **positioning, pricing, targeting, channel, and funnel conclusions are void.**
->
-> **Current source of truth:** [`my-gtm-context.md`](../my-gtm-context.md) · [`go-forward-gtm-operating-model-2026-08-08.md`](go-forward-gtm-operating-model-2026-08-08.md) · [`10-transacting-adoption-playbook.md`](10-transacting-adoption-playbook.md)
->
-> *Header added 2026-08-13.*
-
----
-
-> **PARTNERSHIP UPDATE — May 18, 2026:** AiCE has moved from competitor to partner channel. Sam met with Brian (AiCE CEO) May 15; term sheets for Motion 1 (referrals) and Motion 2 (payment processor recommendation switch) target June 2026. **Do not lead with anti-AiCE positioning in live sales conversations until further notice.** Where this doc treats AiCE as a competitive alternative below, treat as background context only, pending re-write after term sheets sign. Treel.ai is now dual-status (competitor AND potential Partner-tier API integrator); confirmed Superpatch-specific signal, do not position against market-wide. See [`strategic-inputs.md`](../strategic-inputs.md) Section 4 and PM-OS `outputs/analyses/strategy-wayroo-aice-integration-2026-05-08.md` for current partnership status.
-
----
-
-# Phase 6 — Master Positioning: Wayroo + Freedom
+# Phase 6 — Master Positioning: Wayroo Essentials (Land-and-Expand)
 
 **Phase:** 6 — Crafting Positioning
-**Framework:** April Dunford — *Obviously Awesome* positioning methodology, adapted for GTM Strategist by Maja Voje
-**Scope:** Wayroo + Freedom as the end-to-end native commerce platform for direct selling (umbrella positioning — segment variants for C&C, Hybrid, and Non-C&C derive from this)
-**Last updated:** May 10, 2026
-**Inputs:** `my-gtm-context.md`, `outputs/02-cash-carry-dso-icp-intelligence.md`, `outputs/02-hybrid-dso-icp-intelligence.md`, `outputs/02-competitor-analysis-aice.md`, `outputs/02-competitor-analysis-rallyware.md`, `outputs/03-cash-carry-customer-archetype.md`, `prospects/color-street.md`, `prospects/jordan-essentials.md`
-**Status:** Draft v1 — built on two-prospect intelligence (Color Street May 1 + May 6, Jordan Essentials May 6) + 4K Paparazzi MAU live deployment. Test in next 4+ DSO discovery calls. Update after Phase 6 testing (Task 5).
+**Framework:** April Dunford — *Obviously Awesome*, adapted for GTM Strategist by Maja Voje
+**Date:** 2026-08-13 · **Owner:** Sam Atieh
+**Scope:** Free, unbranded Wayroo Essentials distributed to reps inside the ByDesign installed base
+**Status:** v1 — clean slate. **Supersedes the May 2026 positioning entirely** (archived at [`archive/06-positioning-master-SUPERSEDED-2026-05.md`](archive/06-positioning-master-SUPERSEDED-2026-05.md)); that work was built for a new-logo, paid, Freedom-led motion and shares no premises with this one.
+
+**Inputs:** `my-gtm-context.md` (2026-08-13) · [`go-forward-gtm-operating-model-2026-08-08.md`](go-forward-gtm-operating-model-2026-08-08.md) — Invariants 1 and 2 · [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md)
+
+> **This positions one product for one motion.** New-logo/paid Wayroo keeps a separate story — see `my-gtm-context.md` §5. Do not merge them; the free motion's credibility depends on not sounding like a trial.
 
 ---
 
-## Why a Master Positioning Exists
+## The three problems this positioning has to solve
 
-Every Wayroo prospect lives in a segment (C&C, Hybrid, Non-C&C). Segment-specific positioning is essential for sales conversations. But without a master umbrella, segment variants drift into inconsistency, every new prospect requires custom work, and the cross-segment story (the strongest Wayroo claim) gets lost.
-
-The master positioning captures **what is true about Wayroo + Freedom across every DSO segment.** Segment variants emphasize different elements, lead with different pillars, and use different proof points — but all derive from this master.
-
-**Important scope note:** The master positions Wayroo + Freedom *together*. The unique architectural advantage (native back office ↔ rep app integration) requires both. Standalone Wayroo positioning (e.g., for Color Street, where they have a custom commission engine) loses the Freedom-side framing — that exception is handled by the C&C variant, not the master.
-
----
-
-## The Dunford Canvas
-
-### Step 1: Competitive Alternatives
-
-What does a DSO use today instead of Wayroo + Freedom? This includes direct competitors, indirect alternatives, and the patchwork status quo.
-
-| Alternative | What It Does | Why It Fails DSOs |
-|-------------|-------------|---------------------|
-| **Exigo** | Established DSO back office (largest in category) — *has a native mobile rep app* | Strong back office and comp engine. Has a rep mobile app, but the **scope and tier of that rep app is the differentiation question** (likely lighter / CRM-tier vs. Wayroo's ERP-tier scope: inventory + orders + payments + financial records + shipping + storefront). **Open competitive research:** confirm Exigo rep app feature scope, per-rep merchant account model (likely absent), and POS depth. Do not claim "Exigo has no rep app" — that's incorrect. |
-| **Custom-built stack** (Color Street model) | DSO's own commission engine + Shopify front-end | Custom build is real engineering work; integration becomes "two sources of truth" sync issues; maintenance burden ongoing; reps still get no rep-side platform |
-| **Shopify** (Freedom alternative) | Ecommerce + rep storefront platform | 3% processing rate (highest in category); single DSO merchant account = full chargeback liability across every rep; built for ecommerce, not direct selling — no comp engine, no party plan, no DSO compliance tooling |
-| **Aice** | Rep-facing platform with AI tools and modern UX | Ecommerce requires a Shopify integration → inherits Shopify's 3% fee burden and single merchant model; no native POS; rep experience splits across Aice + Shopify + ProPay + comp engine |
-| **Rallyware** | AI sales performance / training / enablement for distributed sales teams | Adjacent category — doesn't transact; zero commerce primitives; enterprise-only profile (Tier 1 DSOs $1B+); does not service mid-market |
-| **Party Platform Solutions** | Party plan back office | Recently raised prices significantly; clients actively leaving |
-| **Thatcher** | Party plan back office | Going bankrupt; client base in active migration |
-| **Fluid** | "We-commerce" front-end layer ($15M raised March 2026) | Always requires a second vendor underneath; no payout infrastructure; no compliance tooling; no commission engine |
-| **Square** (rep side) | Mobile POS at vendor events | One channel only (in-person); no inventory tracking; no customer record to DSO; no branded invoice; no online storefront; no compliance loop |
-| **Venmo / PayPal** (rep side) | Informal payments and invoicing | Invisible to corporate; no FTC/tax record; no brand control; customer identity disappears with the transaction |
-| **Excel / Google Sheets** (rep side) | Manual rep inventory tracking | Not a sales channel — manual tracking only; abandoned after 2 events; never connected to any transaction |
-| **HyperWallet / PayQuicker** (rep side) | Commission disbursement to rep cards | Issues a card; rep spends back via card transaction (still on card rails, still pays processing fee); not a unified rep business platform |
-| **Hustle / Fluid** (DSO content distribution side) | DSO-to-rep content / asset distribution | DSOs paying for separate apps for content distribution; functionality could fit inside Wayroo Media Library (in pilot) |
-| **Status quo / nothing** | DSO ignores the rep tooling gap | The default; each rep uses a different tool; compliance risk accumulates silently |
-
-**Honest composite — what a DSO actually uses today:**
-A DSO runs one of (Exigo, custom commission engine, party plan platform, Shopify) for back office, plus a rep base running Square + Excel + Venmo + ad-hoc Facebook posts + (sometimes) a HyperWallet/PayQuicker card for spending commissions. Corporate sees a fraction of what reps actually do. The biggest competitor isn't a single product — it's the patchwork.
-
----
-
-### Step 2: Unique Attributes
-
-What does Wayroo + Freedom have that no combination of alternatives can replicate?
-
-| Attribute | Why None of the Alternatives Can Claim It |
-|-----------|--------------------------------------------|
-| **Native end-to-end (back office ↔ rep app)** | Aice + Shopify = two-vendor stitch. Exigo = back office only. Wayroo + Freedom = single-platform native, with no integration tax. |
-| **Per-rep ProPay merchant accounts with two-tier underwriting** | Shopify = single DSO merchant. Square = individual rep underwriting (slow approval, high decline rate, no portfolio context). ProPay's two-tier model (corporate underwrites portfolio once → ~99% rep approval with 4-step onboarding) is industry-unique. |
-| **Three rep selling channels in one app (storefront + invoicing with payment links + vendor event POS)** | Square = POS only. Shopify = storefront only. PayPal = invoicing only. Wayroo = all three, all feeding the same inventory count + same compliance audit trail. |
-| **Spendback (ProPay → wholesale, off card rails)** | No competitor has rep payout + purchasing loop. HyperWallet/PayQuicker issue cards (still on card rails, still incur processing fees). Spendback is direct ProPay-to-ProPay transfer — the lowest-cost mechanism in the industry. |
-| **Dropship with individual rep merchant accounts** | First-mover. No competitor offers rep-level dropship. Solves rep pay timing + DSO processing cost + 24-state contractor compliance simultaneously. |
-| **Three-pillar FTC compliance pass-through (retail docs + contractor classification + tax)** | No competitor structurally passes all three FTC tests. Wayroo + ProPay individual merchants pass all three simultaneously. |
-| **Customer record auto-creation flowing to DSO back office** | Square/Venmo capture nothing. Shopify only via the corporate cart. Wayroo captures the rep customer at point of in-person sale and pushes the record to the DSO's CRM automatically. |
-| **Path B integration architecture (commission engine direct, bypassing Shopify)** | Reusable pattern for any DSO with Shopify + custom commission stack. CTO-friendly architectural pattern (no third source of truth). |
-| **LuLaRoe lineage** | The platform was built for LuLaRoe — the largest cash-and-carry deployment in MLM history. No competitor has this credibility with the C&C rep population. |
-| **ERP-tier scope for the rep** | Aice/Rallyware = CRM-tier sales enablement. Square/PayPal = single-function tools. Wayroo is the only ERP-tier rep business platform in the MLM market (inventory + orders + payments + financial records + shipping + storefront, all in one app). |
-| **Three-way revenue alignment of incentives** | Aice/Rallyware/Shopify charge subscription regardless of activity. Wayroo's economic model (transaction-fee rev-share) aligns with rep transaction volume — the same metric DSO + rep optimize for. The vendor's commercial model and the customer's operational reality are the same equation. |
-| **Paparazzi proof point** | 4,000 MAUs generated $31M in 2025 — 60%+ YoY growth. Single live deployment competitors cannot dispute. |
-| **Built natively for direct selling** | Shopify wasn't. Square wasn't. Stripe wasn't. ProPay specifically underwrites direct selling portfolios — a category most general-purpose processors decline. |
-
----
-
-### Step 3: Value (So What?)
-
-For each unique attribute, customer-facing outcome:
-
-| Unique Attribute | Customer Outcome |
-|-----------------|------------------|
-| Native end-to-end | One vendor; no integration overhead; no third-party stitching cost; no sync drift |
-| Per-rep ProPay merchant accounts | Chargeback liability shifts to reps; FTC contractor classification passes structurally; DSO's cumulative processing cost shrinks as rep volume scales |
-| Three rep selling channels in one app | Reps sell wherever the customer is — vendor table, online, post-event invoice — without buying three separate tools and without manual reconciliation across them |
-| Spendback | Rep capital cycles faster (sell → ProPay → wholesale order); DSO drops wholesale-order processing fee from ~3% to 1% on every Spendback transaction |
-| Dropship | Reps paid immediately on catalog orders (vs. ~30-day commission cycle); DSO eliminates 3% + chargeback exposure on dropship orders; rep gets a third income stream |
-| Three-pillar FTC compliance | DSO passes all three FTC structural tests — protected from contractor reclassification (existential cost exposure: payroll taxes + benefits + worker protections across thousands of reps) |
-| Customer records to DSO | Net-new marketing audience unlocked; loyalty programs, retargeting, win-back campaigns, product launches all targeting buyers who have already demonstrated willingness to purchase |
-| Path B integration | DSOs on Shopify + custom commission engine stacks can integrate Wayroo cleanly without adding a "third source of truth"; smaller deal scope, faster integration, higher CTO confidence |
-| LuLaRoe lineage | Faster rep adoption — ex-LuLaRoe rep populations across jewelry, nail, beauty, cosmetics already know the platform |
-| ERP-tier scope | Higher switching cost = more defensible deal; reps run their actual business on Wayroo, not a sales tool that can be swapped |
-| Three-way revenue alignment | Vendor incentive matches DSO + rep incentive; cost shrinks as scale grows; "the more your reps sell, the cheaper Wayroo gets" |
-| Paparazzi proof | $31M / 60%+ YoY rep sales growth — the outcome metric DSO leadership cares about, demonstrated in production |
-
----
-
-### Step 4: Target Customers
-
-**Primary buyer:**
-VP of Sales / Founder / CEO at mid-market direct selling organization (200–10,000 reps in jewelry, skincare, wellness, beauty, accessories, nail, party plan, cosmetics). Measured on rep activation rate, rep retention, total wholesale + retail GMV.
-
-**Best-fit qualifying signals:**
-- Currently on Exigo, custom-built, party plan platform (PPS / Thatcher), or Shopify-as-back-office
-- Has a rep base ≥1,000 with material vendor event / personal-inventory selling activity
-- Feels rep activation, retention, or fragmentation pain at the C-suite level
-- Faces FTC compliance scrutiny or has had a tax/audit scare in the last 18 months
-- Recruitment / retention pain has surfaced as a board-level metric
-
-**Best-fit value match:**
-- Rep activation failure → Wayroo's one-app rep platform addresses the activation funnel
-- Compliance exposure → Wayroo + ProPay structurally passes the three FTC tests
-- Customer data invisibility → Customer record auto-creation surfaces the field-level customer base
-- Processing cost burden → Per-rep merchant + Spendback structurally reduces DSO processing fees
-
-**Worst-fit signals (deprioritize or disqualify):**
-- <200 reps (too small for ICP economics)
-- 100% catalog-only DSO with zero personal-inventory selling activity (Wayroo's biggest features don't apply; Aice may be a better fit)
-- Enterprise-tier ($1B+ DSOs running Rallyware/Mary Kay-class deployments) — co-existence likely, displacement rare
-- DSO has zero appetite for back-office change AND zero appetite for rep-side change
-
-**DMU shape patterns observed (from prospect data):**
-
-| Pattern | Example | Notes |
+| # | Problem | Where it's solved |
 |---|---|---|
-| Two-person C-suite DMU (CEO + CTO) | Color Street | Compresses buying cycle but raises stakes per call. Two-track proposal architecture required. |
-| Founder-led DMU + product team | Jordan Essentials | Founder (Hope Hudgins) + R&D / VP Sales / Marketing — broader committee, faster alignment when founder champions internally |
-| Three-stakeholder DMU (CEO + VP Sales + Field Ops) | Hypothetical mid-market | Most common at non-technical DSOs |
+| 1 | **Free and unbranded** — first impression for the whole installed base, never positioned | Steps 2–3, and *The Unbranded Trust Problem* |
+| 2 | **Deliberately incomplete** — locked selling tools must read as invitation, not paywall | **The Locked State** — the hardest piece |
+| 3 | **Dual audience, opposite messages** — reps led with Tap-to-Pay, home office explicitly not | Step 4, and [`06-messaging-house.md`](06-messaging-house.md) |
 
 ---
 
-### Step 5: Market Category
+# The Dunford Canvas
 
-**The category frame:**
-> *Native end-to-end commerce platform for direct selling.*
+## Step 1 — Competitive Alternatives
 
-Within that category, Wayroo specifically is **the rep business operating system** (ERP-tier).
+What a rep actually does today instead of using Wayroo.
 
-**Why this category, not the alternatives:**
+| Alternative | What it does well | Where it stops |
+|---|---|---|
+| **Square (free tier)** | **Genuinely good.** Free POS, card reader, and basic inventory — spreadsheet upload, categories, tax codes. Mature and trusted. | Knows nothing about the company the rep sells for. No wholesale order, no inventory from corporate, no customer record reaching the home office, no connection to commissions. |
+| **Hustle** | Live rep tooling, funded, already inside the installed base — **Paparazzi pays $5/monthly-active-rep across ~18,000 reps** | Priced per active rep. ⚠️ Feature scope not researched — see gap below. |
+| **Boards** | Incumbent at Jordan Essentials | JE is migrating off it. ⚠️ Feature scope not researched. |
+| **The DSO's own back office** | Authoritative — it *is* the system of record. The rep can log in and see everything. | Browser, not pocket. Not at the vendor table, not at the point of sale, not a card reader. |
+| **Doing nothing** | Zero friction, zero cost, zero learning | Cash and Venmo, inventory tracked by memory, no customer record, no reconciliation. **This is the majority behaviour and the real competitor.** |
 
-| Candidate Frame | Why Not |
+**The honest composite:** a rep runs Square or Venmo for money, their head or a spreadsheet for stock, and logs into the back office when they have to. Nothing connects. **The competitor is not a product — it is a habit.**
+
+> ⚠️ **Research gap:** Hustle and Boards are named on price and presence only. Neither has a feature-level teardown. **Do not ship competitive claims against them until one exists** — this entire positioning rests on integration, and it is possible one of them integrates with something.
+
+## Step 2 — Unique Attributes
+
+Test applied: *could a competitor truthfully claim this?*
+
+| Attribute | Square | Hustle | Boards | Back office | Nothing | Unique? |
+|---|---|---|---|---|---|---|
+| **Wholesale order and inventory arrive already in the app** | ❌ | ❓ | ❓ | Data yes, mobile no | ❌ | ✅ |
+| **Rep sales flow back to corporate automatically** | ❌ | ❓ | ❓ | ❌ | ❌ | ✅ |
+| **Same system as commissions and genealogy** | ❌ | ❌ | ❌ | ✅ but not mobile | ❌ | ✅ |
+| **Included in a subscription the rep already holds** | **Also $0** | ❌ $5/rep | ❌ paid | ✅ | ✅ | ⚠️ **Not vs. Square** |
+| **Per-rep ProPay merchant, two-tier underwriting** | Individual accounts, but slow approval / high decline for this population | ❌ | ❌ | ❌ | ❌ | ⚠️ Qualified |
+
+### Two honesty corrections that make everything else credible
+
+**1. Price does not differentiate against Square.** Square's free tier is $0; Wayroo Essentials is $0 incremental. **Against Square the differentiator is integration alone.** Price differentiates against **Hustle ($5/monthly-active-rep) and Boards** — real, and worth using there. Claiming "free" as an advantage over Square invites the obvious reply and loses the room.
+
+**2. Inventory features are not the differentiator.** Square does basic inventory well. **The sync is the differentiator, not the feature.** Never demo inventory management as a capability — demo it as *already populated*.
+
+> ### The core unique attribute, stated once
+>
+> **Wayroo is the only selling app already connected to the company the rep sells for.** Everything else is a tool the rep bolts on and maintains. One claim, structural, and no competitor reaches it without building an integration to ByDesign.
+
+## Step 3 — Value
+
+| Attribute | For the rep | For the home office |
+|---|---|---|
+| Order + inventory pre-loaded | **Nothing to set up.** No spreadsheet, no SKU entry, no first-run data work. Selling in minutes. | Reps actually activate instead of stalling at setup |
+| Sales flow to corporate | Credit is automatic — no reporting, no screenshots | **Field visibility that has never existed** |
+| Same system as commissions | What you sell shows up where you get paid | One system of record, no reconciliation |
+| Included with Revolution Pro | **No new bill** on a rep already carrying $60–100/month | **Makes Revolution Pro worth buying** — see the economic line |
+| Per-rep ProPay merchant *(once unlocked)* | Money lands in the rep's own account | Chargeback and transaction liability sit with the rep, not corporate |
+
+## Step 4 — Target Customers
+
+**Primary: the rep.** Independent seller inside a ByDesign client, US, **on Revolution Pro**. Currently running Square or Venmo plus a spreadsheet, and paying $60–100/month across 6–10 apps.
+
+> **Audience size confirmed: 75,000 Revolution Pro subscribers** across 55 clients (2026-08-13). At the Paparazzi benchmark that base is worth **$8.75M/year in payments at full penetration**, and the financial model's entire Year-0 residual line (**$3.24M, 15,000 transacting**) needs only **37% adoption of it** — no new logos. ⚠️ The US-only slice of the 75,000 is still unquantified.
+
+> ### 🔴 The offer is the pair — and that is what makes the whole field addressable
+>
+> **Wayroo's commerce value serves the rep who sells their own inventory.** At a field that is mostly catalog-only, the selling tools alone do not earn daily use.
+>
+> **Aice covers what every rep needs regardless of how they sell**: training, team, content, community. **Wayroo + Aice is useful to the entire field; Wayroo's commerce layer is useful to a slice of it.**
+>
+> **Two consequences, and the second is the one to act on:**
+>
+> **1. Target the whole rep base, not the in-person sellers.** Step 4 previously scoped this to reps who "sell in person at least sometimes." **That scoping was too narrow given the pair** — and it is probably too narrow anyway, since DSO-reported C&C share has been wrong at every account where it could be checked (`my-gtm-context.md` §3). **More reps sell their own inventory than their companies know.**
+>
+> **2. 🔴 Aice is a retention bridge during the ProPay wait** — one of two, alongside Wayroo's own non-transactional features (below). It gives the rep something that works immediately while the selling tools are pending, which is what keeps them engaged long enough for the demand loop to complete. This is the strongest operational argument for launching the two together, and it applies most exactly where the motion is weakest.
+
+---
+
+## 🔴 The locked state is stronger than "an inventory viewer" — and Jordan Essentials proves it
+
+**Correction to an earlier draft, which under-described what a rep gets before ProPay completes.** Two Wayroo capabilities are fully available in the locked state, and both are non-transactional:
+
+| Capability | Available locked? | Rep value |
+|---|---|---|
+| **Dashboard widgets pulling live back-office data** | ✅ | Sales, downline, and performance data **on their phone** — previously only reachable by logging into a browser |
+| **Media library** | ✅ | On-brand product assets to post, instead of unofficial photos |
+| Populated inventory + customer records | ✅ | The USP-1 proof |
+| Tap-to-Pay · invoicing · POS | ❌ Pending ProPay | The hero, and the demand hook |
+
+> ### The Jordan Essentials launch already validated this, and the earlier positioning missed it.
+>
+> `my-gtm-context.md` §13 records the four strongest rep reactions at the JE launch: **Tap-to-Pay, invoicing with payment links, downline dashboards, and phone access to back-office data.**
+>
+> **Two of those four work in the locked state.** The dashboard and back-office-data hooks are not hypothetical — they drew real, observed rep excitement, and they need no merchant account. **Locked Wayroo has proven rep appeal, not merely residual utility.**
+
+### What this changes: lead order at locked accounts
+
+Tap-to-Pay remains the strongest hook in **announcement and acquisition** messaging — that is unchanged. But **inside a locked account's first run, put the working features first.** Opening on a capability the rep cannot use, however exciting, spends the best moment in the product on a dead end.
+
+**Locked-account order:** populated inventory → dashboard widgets → *then* the pending selling tools with the demand counter. The rep gets value before they meet the wait, which is also what makes the wait tolerable.
+
+> ⚠️ **Media library is a DSO hook, not a rep hook.** JE rated it **High by DSO leadership and Low by reps** (`my-gtm-context.md` §13). **Use it in the DSO deck; keep it out of rep first-run.** It is a brand-control argument, and brand control is a corporate concern.
+>
+> ⚠️ **This raises the stakes on the Aice free/paid line.** The coverage argument holds only if Aice Lite is genuinely useful. Drawn too thin, the pair does not cover the non-C&C field and the retention bridge does not hold. **That decision is no longer only a pricing question** — see [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md) Q1.
+
+**Best-fit signals:** sells at vendor events, markets, or parties · carries personal inventory · already uses Square or a card reader · at a C&C-heavy or Hybrid account.
+
+**Secondary: the home office.** Approver, not buyer.
+
+> ### 🔴 The audience asymmetry — the most important rule in this document
+>
+> | | **Rep** | **Home office** |
+> |---|---|---|
+> | **Lead with** | **Tap-to-Pay.** The strongest hook available — it visibly excites every audience that sees it. | **Economics and visibility.** Costs nothing, pays margin, shows field activity. |
+> | **Never lead with** | Compliance, corporate visibility, back-office architecture | **Tap-to-Pay.** It implies "you must complete ProPay onboarding," turning a free frictionless ask into a compliance project. |
+>
+> **These are not two versions of one message. They are two different messages, sequenced.**
+>
+> | Beat | Audience | Ask | Framing |
+> |---|---|---|---|
+> | **1** | Home office | Permission + a comms channel | Costs nothing, pays margin. **No ProPay mention.** |
+> | **2** | Reps | Adopt | Tap-to-Pay hook; the locked state creates pull |
+> | **3** | Home office | **Complete ProPay onboarding** | *"Your reps are asking"* — rep-pulled, not vendor-pushed |
+>
+> **Beat 3 is why the sequence exists.** ProPay onboarding never gets asked for cold — it arrives as a response to the home office's own field. **The rep is the channel.**
+
+## Step 5 — Market Category
+
+> ### **The selling app that comes with your back office.**
+
+For the home office: *the rep selling app included with Revolution Pro.*
+
+| Candidate frame | Why not |
 |---|---|
-| "DSO back-office software" | Puts Wayroo inside Exigo's category — wrong. Wayroo + Freedom is broader than back office. |
-| "Rep mobile app" | Undersells — sounds like a feature inside someone else's platform. |
-| "MLM SaaS" | Too generic; nothing differentiating. |
-| "Sales enablement platform" | Puts Wayroo against Aice / Rallyware — wrong category. We transact; they enable. |
-| "Direct selling commerce platform" | Closer, but missing the "end-to-end native" piece. |
-| ✅ **"Native end-to-end commerce platform for direct selling"** | Captures Freedom + Wayroo together. Subcategory of "direct selling tech" but specifies *commerce* (transactional, not enablement) and *end-to-end* (back office + rep app native). Different category from Aice (rep-only + Shopify dependency), Rallyware (sales enablement), and Shopify (built for ecommerce, not DSO). |
+| "Rep business operating system" (prior ERP framing) | Overclaims a deliberately incomplete free product. Reserve for the paid story. |
+| "Free rep commerce app" | Leads with free, cheapens it, and hands Square a price-parity reply |
+| "Mobile POS for direct sellers" | Puts us in Square's category, where Square wins on maturity |
+| "All-in-one rep app" | Every competitor says it; means nothing |
+| ✅ **"The selling app that comes with your back office"** | Explains why it's free (*included*), makes integration the category rather than a feature, separates it from every bolt-on. A rep understands it instantly — they know they have a back office. |
 
-**For the rep-side specifically:**
-Wayroo is **the rep business operating system** — ERP-tier scope (inventory + orders + payments + financial records + shipping + storefront), not CRM/sales-enablement-tier. This framing creates a higher switching-cost narrative (reps run their business on Wayroo, not just track sales with it).
+## Step 6 — Relevant Trends
 
----
+**1. Rep tool spend has stacked up to a number reps can feel.** $60–100/month across 6–10 apps, out of pocket (JE, July 2026). The strongest economic argument available to a rep audience.
 
-### Step 6: Relevant Trends
+**2. A phone is now a card reader.** Tap-to-phone is mature and normal in 2026. **This is why Tap-to-Pay generates excitement rather than mild interest** — reps have seen it work everywhere else and expect it. The last hardware dependency for in-person selling is gone; what remains is permission, not equipment.
 
-Three trends that make this timely. **Note on trend prioritization:** The order matters. Lead with what's *felt* by the buyer daily, not just what's *true*. FTC enforcement is real but not felt urgently by most DSO leaders day-to-day; rep tool fragmentation and Shopify cost burden ARE felt.
-
-**1. Rep tool fragmentation is the bottleneck for rep activation, retention, and DSO growth.**
-Every DSO is watching its reps cobble together Square + Venmo + Excel + PayPal + Shopify + separate invoicing apps. Reps drop tools. Reps lose customers. Reps quit because "it's too hard." DSOs measure rep activation, retention, and GMV but don't have a tool that addresses the root cause: fragmentation itself. Wayroo's one-app rep platform is the structural answer to a problem every DSO leader feels daily.
-
-**2. Shopify's TCO at DSO scale is becoming visible.**
-DSOs that adopted Shopify for "modern UX" are realizing:
-- 3% processing rate (highest in category) × millions of rep transactions = unbounded cost
-- Single DSO merchant account → full chargeback liability across every rep
-- Monthly license + Shopify-app-store ecosystem fees
-- Path A integration (direct Shopify ↔ Wayroo) imports all of these costs even when adopting Wayroo
-
-The "Shopify looks modern" objection has a hidden cost the DSO is absorbing on every transaction. Wayroo's per-rep merchant model + Path B integration architecture is the structural alternative.
-
-**3. The rep-tool category is locking in (and FTC compliance is the structural pressure underneath).**
-- Aice raised $15M in March 2026 earmarked for AI features
-- Party Platform Solutions raised prices significantly
-- Thatcher is going bankrupt
-- Rallyware is consolidating enterprise-tier DSO sales enablement
-- And underneath all of it: the FTC is actively enforcing retail-sales-documentation and contractor-classification mandates — every untracked Venmo transaction accumulates liability, and the contractor-classification three-pillar test (rep owns merchant + chargeback + transaction) is an existential risk for DSOs running single-merchant models.
-
-The infrastructure choice DSOs make in 2026 will compound switching costs for years AND determine whether the DSO passes structural FTC tests. DSOs that wait will find their rep base on a platform a competitor controls — and rep migration is harder than DSO-side migration.
+**3. *(Home office only, supporting)* Contractor payment and income-tracking rules** across 24+ states make the rep-owned merchant structure a compliance asset. **Never a lead.** Use late, and only if raised.
 
 ---
 
-### Lead Differentiator Hierarchy
+# Master Positioning Statement
 
-When pitching Wayroo + Freedom, lead in this order:
+> **For independent sellers inside ByDesign client organizations** — who run their business across Square, Venmo, a spreadsheet, and their own memory — **and for the home offices that cannot see any of it,**
+>
+> **Wayroo Essentials is the selling app that comes with your back office.**
+>
+> **Unlike** Square, Hustle, Boards, or anything else a rep bolts on and maintains, **Wayroo is already connected to the company the rep sells for** — the wholesale order, the inventory, the customer, and the commission all live in one system.
+>
+> **Which means** the rep sets up nothing and the home office sees everything — and neither pays anything extra, because it is **included with a Revolution Pro subscription the rep already holds.**
+>
+> **This matters now because** reps are carrying $60–100/month in tools they bought themselves, and because a phone is now a card reader — so the thing reps most want to do, take a card payment in the field, no longer needs hardware. **Only permission.**
 
-1. **POS + ProPay rep transaction infrastructure** — the rep experience layer (bluetooth scanning, sell-on-the-fly, vintage inventory, three rep selling channels in one app, branded invoices, shipping). This is what's *felt* by reps daily and what CEOs reframe as "a sales tool."
-2. **Native back office ↔ rep app integration** — the architectural advantage (Freedom comp engine + Wayroo rep app + ProPay merchant, all native, no Shopify dependency, no third-party stitching). This is the CTO buying argument.
-3. **Three-pillar FTC compliance** — retail sales docs + contractor classification + tax. Strong supporting structural argument that elevates deal urgency in the late stage, but NOT the headline. Use as a close move, not an opener.
+### Audience derivations
 
-This hierarchy reflects what landed across two prospect calls (Color Street May 1 + May 6, Jordan Essentials May 6). Brian B's CEO reframe ("I see this as a sales tool") is the strongest signal of how to position. Compliance language is a supporting argument, not the lead trend.
+**Rep-facing:**
+> Your inventory is already in it. Take card payments on your phone, sell at any event, and let your sales reach the home office on their own — in the app that comes with what you already pay for.
+
+**Home-office-facing:**
+> The rep selling app included with Revolution Pro. Your reps get the tools they are currently buying themselves, already connected to your back office — and every rep sale becomes a record you can see. **Approving it costs you nothing, and Wayroo is the reason your reps subscribe.**
 
 ---
 
-## Master Positioning Statement
+# UVP and USPs
 
-> **For** direct selling organizations (200–10,000 reps in jewelry, skincare, wellness, beauty, accessories, nail, party plan) **who** are losing rep activation, retention, and revenue to fragmented rep tools — Square, Venmo, Excel, PayPal, Shopify, separate invoicing apps — and accumulating FTC compliance exposure with every untracked rep transaction,
->
-> **Wayroo + Freedom is the native end-to-end commerce platform for direct selling** — the only system where the corporate back office (Freedom: compensation engine, genealogy, replicated sites) and the rep business operating system (Wayroo: POS, inventory, payments, customer records, shipping, storefront) are built natively together, with no Shopify dependency, no third-party stitching, and no data gaps between corporate and the field.
->
-> **Unlike** Exigo (back-office only, reps are an afterthought), Aice (rep-facing but requires a Shopify integration that imports Shopify's 3% fee burden and single merchant liability), Shopify itself (built for ecommerce, not direct selling — DSOs absorb 3% on every transaction and carry full chargeback liability), Rallyware (enterprise sales enablement that doesn't transact), or the multi-tool patchwork most reps run today,
->
-> **we give every rep an ERP-grade business platform** — their own ProPay merchant account (chargeback liability, FTC contractor classification, and tax records all flow to the rep, not the DSO), their own branded storefront, their own POS, automatic customer record capture flowing back to corporate, automatic 1099 from ProPay — all in one app, all visible to corporate, all supported natively by the back office that runs your comp plan.
->
-> **Which means** your reps stop losing time and money on fragmented tools, your DSO stops absorbing 3% on every rep transaction, your customer base stops being invisible to corporate marketing, and you pass FTC contractor classification structurally — *without ripping and replacing your back office*.
->
-> **This matters now because** rep tool fragmentation is the bottleneck for rep activation, retention, and DSO growth that every DSO leader feels daily; because Shopify's TCO at DSO scale is becoming visible (3% × millions of transactions + single-merchant liability has unbounded cost); because the rep-tool category is locking in around AI-positioned competitors — the infrastructure choice DSOs make in 2026 will compound switching costs for years; and because the FTC is actively enforcing retail-sales-documentation and contractor-classification mandates underneath all of it (every untracked Venmo transaction accumulating liability, contractor-reclassification an existential cost exposure for DSOs running single-merchant models).
+## UVP — Rep
+
+> **Everything you sell, from one app you already pay for — with your inventory already in it.**
+
+## UVP — Home Office
+
+> **Better-equipped reps, field visibility you have never had, and margin on every rep who subscribes — for the price of saying yes.**
+
+## How this differs from the paid/new-logo story
+
+| | **Paid / new-logo Wayroo** | **Free Land-and-Expand** |
+|---|---|---|
+| Promise | Replace the patchwork; run the field on one platform | **Nothing to set up — it's already yours** |
+| Proof | Paparazzi $31M; platform breadth | **Open the app and your own inventory is there** |
+| Buyer | DSO corporate, budgeted | **Nobody buys.** The rep adopts, the DSO approves. |
+| Hero | Platform completeness | **Tap-to-Pay** |
+| Risk if confused | — | **Sounding like a trial.** A free product that sounds like a demo of a paid one gets treated as one. |
+
+## USPs — with competitor crosscheck
+
+| # | USP | Truly unique? | Use against |
+|---|---|---|---|
+| 1 | **Wholesale order and inventory arrive pre-loaded** | ✅ | Everything — this is the lead |
+| 2 | **Rep sales flow back to corporate automatically** | ✅ | Square, doing nothing |
+| 3 | **Same system as commissions and genealogy** | ✅ | All bolt-ons |
+| 4 | **Included — no new bill** | ⚠️ Not vs. Square ($0 too) | **Hustle ($5/rep) and Boards only** |
+| 5 | **Per-rep ProPay merchant, ~99% approval via two-tier underwriting** | ⚠️ Qualified | Square, on approval rates only |
+
+**USP 1 is the whole position.** If a rep opens the app and their own inventory is there, every other claim becomes credible. If it is empty, none of them survive.
 
 ---
 
-## Validation Checklist
+# The Locked State
+
+**The hardest piece, and the entire demand-generation mechanism.** A rep must see Tap-to-Pay behind "contact corporate" and think *I want that* — not *they're nickel-and-diming me.*
+
+## The advantage nobody has named: the lock is honest
+
+You genuinely cannot process card payments without a merchant account. **ProPay onboarding is underwriting, not billing.** The truthful explanation is also the persuasive one — so this needs no spin, only discipline about not *looking* like a paywall.
+
+> ### The principle: the lock must read as **pending**, never as **withheld**.
+
+## What produces each reading
+
+| Paywall reading comes from | Invitation reading comes from |
+|---|---|
+| Ambiguity about why it's locked | **A clear, non-commercial reason** |
+| An implication that money opens it | **A named actor who is neither the rep nor a price** |
+| The feature feeling like it *should* have been included | **Ownership language — it *is* included, just not switched on** |
+| No recourse | **An action the rep can take** |
+
+## Banned patterns — these read as paywall regardless of copy
+
+- 🚫 **Padlock icon.** The most universal paywall signal in software.
+- 🚫 **Blur, greyscale, or "preview" treatment.** Trained paywall grammar.
+- 🚫 **"Upgrade," "Pro," "Premium," "Unlock," "Get access"**
+- 🚫 **Any price anywhere on the screen**
+- 🚫 **Any implication the rep could pay to open it**
+
+## Required patterns
+
+- ✅ **Show the feature fully** — not obscured. It is theirs; show them what is theirs.
+- ✅ **Status language, not gate language.** *"Payment setup pending at Jordan Essentials"* — not *"Locked."*
+- ✅ **Name the company and the reason** in one plain sentence, in banking terms.
+- ✅ **State inclusion explicitly:** *"included in your app at no cost."*
+- ✅ **Give a one-tap action** that registers interest.
+- ✅ **Show the demand counter.**
+
+## The demand counter — the keystone
+
+A tap registers interest and shows the rep a running count at their own company.
+
+> **"You and 46 other reps at Jordan Essentials have asked for this."**
+
+Four effects at once, all honest:
+
+| Effect | Why it works |
+|---|---|
+| **Reassures the rep** | Not singled out; nothing is wrong with their account |
+| **Converts frustration into participation** | The rep does something instead of hitting a wall |
+| **Creates the artifact that drives beat 3** | *"47 of your reps have asked"* is the entire home-office ProPay conversation |
+| **Builds the account priority queue** | Request density ranks which DSOs to onboard first — a real GTM input |
+
+**This is the mechanism the strategy rests on.** Without it, the lock is friction. With it, the lock is the pipeline.
+
+⚠️ **Instrumentation dependency:** the counter must exist in-product. Shipping the lock without it produces frustration and no signal — the worst of both. **A product requirement, not a marketing nice-to-have.**
+
+## Live copy
+
+> ### Tap to Pay
+> Take card payments right on your phone. No reader, no extra hardware.
+>
+> *Jordan Essentials is completing payment setup with our processor. It's a banking requirement — Tap to Pay is included in your app at no cost as soon as it's done.*
+>
+> **[ Tell Jordan Essentials I want this ]**
+> *You and 46 other reps have asked.*
+
+**Check:** no price, no padlock, no upgrade language, a named non-commercial actor, explicit inclusion, an action, social proof. **It cannot be parsed as a paywall because there is nothing to buy.**
+
+---
+
+# The Unbranded Trust Problem
+
+Unbranded means the app says **Wayroo** while the rep's company is **Jordan Essentials**. The category claim — *the app that comes with your back office* — is undercut on sight, because nothing on screen looks like the rep's company.
+
+> ### The product self-authenticates through data, not branding.
+>
+> The moment a rep opens it and sees **their own wholesale order, their own inventory, their own downline**, the connection is proved more convincingly than a logo ever would. A logo asserts the relationship; the data demonstrates it.
+
+**Design implication — a positioning requirement, not a preference: the first-run experience must lead with the rep's own data.** Not a welcome screen, not a feature tour, not a setup wizard. **"Your inventory is already here"** — populated, on first open.
+
+If first-run shows an empty state or a setup flow, the unbranded app is just another tool to configure, and **USP 1 is destroyed at the only moment it can be proved.**
+
+---
+
+# The Home-Office Economic Line
+
+## The sharpest form
+
+> ### **Wayroo is the reason your reps buy Revolution Pro — and you make margin on every one of them.**
+
+This follows directly from the Revolution Pro gate: Wayroo requires a paid Revolution Pro subscription, and DSOs that mark up the passthrough keep the spread. Wayroo is not a cost and not neutral — **it makes the DSO's own marked-up subscription worth buying.**
+
+## The mechanic
+
+| Step | What happens |
+|---|---|
+| 1 | Rep subscribes to Revolution Pro — **always paid**, by the rep or by the DSO |
+| 2 | DSO sets the rep-facing price above its own cost |
+| 3 | **DSO keeps the spread on every subscribing rep** |
+| 4 | Wayroo makes the subscription worth having → **more subscribers → more margin** |
+| 5 | Rep transactions generate payments revenue → ByDesign's line |
+
+**Steps 3 and 5 point the same direction for the first time.** The DSO's revenue interest and ByDesign's are the same number: how many reps adopt and sell.
+
+## Why it beats "cost-neutral"
+
+The prior positioning called the passthrough *cost-neutral*. That undersells it and frames a revenue line as an absence of cost. **"It pays you" beats "it doesn't cost you"** — and it turns the approver from a permission-granter into someone with a reason to drive adoption.
+
+> ⚠️ **The $2/rep at 67% margin figures are unverified.** They circulate in the operating model and financial model but have not been checked against Jordan Essentials' actual billing. **The mechanic is confirmed; the numbers are not.** Pitch the mechanic; withhold the figures until Decision #1 in the pricing output closes.
+
+---
+
+# Validation Checklist
 
 | Criterion | Status | Note |
-|-----------|--------|------|
-| **Specific target** | ✅ | Mid-market DSOs (200-10K reps, named verticals), not "everyone" |
-| **Real alternatives** | ✅ | Cites Exigo, Shopify, Square, Venmo, Aice, Rallyware — all real, citable |
-| **Provable claims** | ✅ | 3% Shopify rate (citable), Paparazzi $31M proof (live), ProPay individual merchant (demonstrable), three-pillar FTC test (legal-tested) |
-| **Differentiated** | ✅ | A competitor cannot claim native end-to-end + per-rep merchant + three-pillar FTC pass + LuLaRoe lineage in combination |
-| **Category clarity** | ✅ | "Native end-to-end commerce platform for direct selling" reads cleanly to a DSO buyer |
-| **Trend-backed** | ✅ | FTC enforcement (active), Shopify TCO visibility, rep-tool category lock-in — all real and current |
+|---|---|---|
+| **Specific target** | ✅ | US reps on Revolution Pro inside ByDesign clients who sell in person |
+| **Real alternatives** | ✅ | Square, Hustle, Boards, the back office, doing nothing — and doing-nothing is named as the true competitor |
+| **Provable claims** | ⚠️ | Integration is demonstrable on first open. **Hustle/Boards claims are not yet provable.** |
+| **Differentiated** | ✅ | No competitor can claim back-office connection without building to ByDesign |
+| **Category clarity** | ✅ | A rep knows what a back office is; the frame lands without explanation |
+| **Trend-backed** | ✅ | Rep tool spend and tap-to-phone are both real and dated |
+| **Free ≠ trial** | ⚠️ | **Untested. The largest open risk in the positioning.** |
 
 ---
 
-## Key Differences from Segment Variants
+# What This Positioning Is NOT
 
-The master positioning is comprehensive but not optimized for any specific segment. Segment variants emphasize different elements based on the prospect's actual fact pattern:
-
-| Segment | Variant File | Lead Pillar | Avoid |
-|---------|--------------|-------------|-------|
-| Cash & Carry DSO | `06-positioning-cash-carry-variant.md` | FTC compliance + customer data ownership + inventory visibility | Don't lead with Dropship (most reps already carry inventory) |
-| Hybrid DSO | `06-positioning-hybrid-variant.md` | Decline reversal + customer auto-creation + Spendback + Dropship for catalog-only reps | Don't lead with FTC (less acute when C&C cohort is small) |
-| Non-C&C DSO (future) | `06-positioning-non-cash-carry-variant.md` (not yet built) | Dropship hero + dashboards + media library + corporate-to-rep distribution | Don't lead with inventory features (most reps don't carry stock) |
-| Standard DSO (future) | `06-positioning-standard-dso-variant.md` (not yet built) | Rep activation + retention + one-stop-shop + Paparazzi proof | Don't over-emphasize FTC unless prospect raises it |
-
-The C&C and Hybrid variants are being built alongside this master file (May 10, 2026). Standard DSO and Non-C&C variants are deferred until segment-specific intelligence accumulates.
+- **Not the paid/new-logo story.** That keeps platform-completeness framing and the Paparazzi proof. Merging them makes the free product sound like a trial.
+- **Not ERP-tier framing.** Reserved for the full paid product. Overclaiming on a deliberately incomplete free app is the fastest way to lose a rep who then finds a locked feature.
+- **Not tested.** Zero rep or prospect validation. Everything here is reasoned from context and the JE launch, not measured.
 
 ---
 
-## Confidence Levels
+# Open Risks
 
-| Element | Confidence | Basis |
-|---------|------------|-------|
-| Category frame ("native end-to-end commerce platform for direct selling") | **MEDIUM-HIGH** | Logically consistent with product scope; needs prospect testing (Phase 6 Task 5) |
-| ERP-tier framing for the rep | **MEDIUM-HIGH** | Cross-checks with product scope; positioning correction noted by Sam Atieh May 9; not yet tested with prospects |
-| Three-pillar FTC compliance argument | **HIGH** | Structural; tested in Color Street May 6 demo at CEO level |
-| Three-way revenue alignment | **HIGH** | Disclosed transparently to Color Street May 6; Brian B (CEO) absorbed and endorsed |
-| Per-rep ProPay merchant differentiator | **HIGH** | Validated at Color Street May 6 (CEO-level chargeback liability shift) |
-| Paparazzi $31M proof point | **HIGH** | Production data; widely citable |
-| Shopify TCO trend | **HIGH** | Numerically provable at any DSO scale |
-| FTC enforcement trend | **HIGH** | Public regulatory posture |
-| Rep-tool category lock-in trend | **MEDIUM** | Aice $15M is real signal; PPS / Thatcher displacement is real; "lock-in" framing needs prospect testing |
-| Master positioning lands across all four DSO segments | **MEDIUM** | Built from 2-prospect data (C&C + Hybrid); Standard and Non-C&C segments untested |
+| Risk | Severity | Note |
+|---|---|---|
+| ~~Addressable base may be far smaller than assumed~~ | ✅ **Closed** | **75,000 Revolution Pro subscribers confirmed (2026-08-13).** Pro *is* the base, not a subset of it. |
+| **Demand counter may not ship** | 🔴 High | Without it the lock is pure friction and beat 3 has no artifact |
+| **The proof base is 0.34% of the audience** | 🟠 Med-High | JE's 254 Pro-and-Wayroo reps are a third of a percent of 75,000. **Every claim here is reasoned from one very small account.** |
+| **First-run may not lead with rep data** | 🔴 High | Destroys USP 1 at the only moment it can be proved |
+| **510 JE reps face store shutoff** | 🟠 Med-High | A live positioning problem — see [`06-messaging-house.md`](06-messaging-house.md) |
+| **"Free" reads as "trial" or "cheap"** | 🟠 Medium | Untested. The reason *included* is used throughout instead of *free*. |
+| **Hustle/Boards feature scope unknown** | 🟠 Medium | Competitive claims not yet safe to make |
 
 ---
 
-## What This Positioning Is NOT
+## Next Steps
 
-- **Not Track 2 (direct-to-rep) messaging.** Everything here targets the DSO corporate buyer (CEO / VP Sales / CTO / Field Ops). Rep-facing messaging for Track 2 has not been developed and should not be extrapolated from this document.
-- **Not finalized for paid campaigns.** Two-prospect validation is not enough for paid spend. Test with 4+ DSO discovery calls before publishing externally (Phase 6 Task 5).
-- **Not the Wayroo-only pitch for accounts that have a custom back office.** Color Street is a Wayroo-only deal (not Wayroo + Freedom). The Wayroo-only positioning still uses the rep-side ERP framing but drops the "native back office ↔ rep app" architectural advantage and instead pitches Path B integration with the prospect's existing commission engine. This nuance lives in the C&C variant.
+1. **Test the locked-state copy with 5–10 JE reps.** Highest-risk, lowest-cost thing to validate — and 764 fresh adopters are available.
+2. **Confirm the demand counter and data-first first-run as product requirements.**
+3. **Size the Revolution Pro population** — this positioning currently has no confirmed audience size.
+4. **Feature-level teardown of Hustle and Boards** before any competitive claim ships.
+5. Copy, sequences, and the shutoff: [`06-messaging-house.md`](06-messaging-house.md).
 
 ---
 
-*Frameworks: April Dunford — Obviously Awesome positioning methodology. GTM Strategist by Maja Voje — Phase 6 (Crafting Positioning).*
-*Created: May 10, 2026.*
+*April Dunford — Obviously Awesome. GTM Strategist by Maja Voje — Phase 6. Created 2026-08-13.*

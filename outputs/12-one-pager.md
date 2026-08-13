@@ -1,3 +1,32 @@
+> # 🔄 FREE-OFFER VARIANT — added 2026-08-13
+>
+> **This asset was built for the paid, new-logo motion. That motion is still live and this document remains valid for it** — but it now needs a variant, because the installed base gets Wayroo Essentials **included** with Revolution Pro at no incremental charge.
+>
+> ## The one answer, used identically everywhere
+>
+> > **"Why would I pay if you're giving it away?"**
+> >
+> > **"We're not giving it away. It's included — for customers who already pay us for a platform."**
+> >
+> > Wayroo Essentials comes with Revolution Pro, which every rep who has it pays for, directly or through their company. A prospect isn't being quoted a price for something others get free — **they're being quoted the price of becoming a platform customer.**
+> >
+> > **"You'd get exactly the same the day you're on the platform."**
+>
+> **This converts the objection into a reason to buy the platform.** Free Wayroo is an acquisition incentive for the back office, not a discount that needs defending.
+>
+> 🚫 **Never use the word *free*.** *Free* invites "then why am I paying?" — ***included*** does not. See the words-we-use table in [`06-messaging-house.md`](06-messaging-house.md).
+>
+> ## ⚠️ AiCE status correction — supersedes the May 18 header below
+>
+> The partnership header on this document is **out of date**. As of 2026-08-13: AiCE term sheets were never signed; the structure is an **acquisition pursued via minority equity in Retail Success or a new entity**; Wayroo and Aice **launch together, both free**, with Wayroo as the front door. **Do not run anti-AiCE positioning.** Current status: `my-gtm-context.md` §2 and §6.
+>
+> ## What changes in this one-pager
+>
+> - **Pricing line:** add *"Wayroo Essentials included with Revolution Pro"* — one line, stated as a fact about the platform, not an offer.
+> - **Differentiator line:** back-office integration, not inventory breadth.
+> - **Proof line:** Paparazzi is ~18,000 non-cancelled reps; $31M from ~20% of the field.
+> - **Do not add the "why pay" answer to the page itself.** A leave-behind that pre-answers a pricing objection raises it. Keep it in the rep's head, not on the paper.
+>
 # Phase 12 — Wayroo + Freedom One-Pager
 
 **Phase:** 12 — Executing Sales, Task 2

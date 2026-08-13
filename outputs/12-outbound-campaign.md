@@ -1,3 +1,41 @@
+> # 🔄 FREE-OFFER VARIANT — added 2026-08-13
+>
+> **This asset was built for the paid, new-logo motion. That motion is still live and this document remains valid for it** — but it now needs a variant, because the installed base gets Wayroo Essentials **included** with Revolution Pro at no incremental charge.
+>
+> ## The one answer, used identically everywhere
+>
+> > **"Why would I pay if you're giving it away?"**
+> >
+> > **"We're not giving it away. It's included — for customers who already pay us for a platform."**
+> >
+> > Wayroo Essentials comes with Revolution Pro, which every rep who has it pays for, directly or through their company. A prospect isn't being quoted a price for something others get free — **they're being quoted the price of becoming a platform customer.**
+> >
+> > **"You'd get exactly the same the day you're on the platform."**
+>
+> **This converts the objection into a reason to buy the platform.** Free Wayroo is an acquisition incentive for the back office, not a discount that needs defending.
+>
+> 🚫 **Never use the word *free*.** *Free* invites "then why am I paying?" — ***included*** does not. See the words-we-use table in [`06-messaging-house.md`](06-messaging-house.md).
+>
+> ## ⚠️ AiCE status correction — supersedes the May 18 header below
+>
+> The partnership header on this document is **out of date**. As of 2026-08-13: AiCE term sheets were never signed; the structure is an **acquisition pursued via minority equity in Retail Success or a new entity**; Wayroo and Aice **launch together, both free**, with Wayroo as the front door. **Do not run anti-AiCE positioning.** Current status: `my-gtm-context.md` §2 and §6.
+>
+> ## What changes in outbound
+>
+> **A new hook is available and it is stronger than anything currently in this campaign** — the installed base is running a free rep app, which is a real, dated, checkable event.
+>
+> **Subject variants:**
+> - *"Your reps are paying $60–100/month for tools you can't see"*
+> - *"What [client]'s field got last month"*
+> - *"The rep app question"*
+>
+> **Opening line:**
+> > *"Most DSOs we talk to have no idea what their reps spend on tools each month. It's $60 to $100, across six to ten apps, and none of it reaches corporate. We just put an app in front of our platform clients' fields that replaces most of it — included, nothing to buy."*
+>
+> ⚠️ **Do not lead outbound with Tap-to-Pay.** It reaches home-office audiences and triggers the ProPay onboarding conversation out of sequence — turning a frictionless ask into a compliance project. Rep-facing channels only. See [`06-messaging-house.md`](06-messaging-house.md).
+>
+> ⚠️ **Do not imply a prospect gets Wayroo free.** They don't. The line is *"included with the platform."*
+>
 > **PARTNERSHIP UPDATE — May 18, 2026:** AiCE has moved from competitor to partner channel. Sam met with Brian (AiCE CEO) May 15; term sheets for Motion 1 (referrals) and Motion 2 (payment processor recommendation switch) target June 2026. **Do not lead with anti-AiCE positioning in live sales conversations until further notice.** Where this doc treats AiCE as a competitive alternative below, treat as background context only, pending re-write after term sheets sign. Treel.ai is now dual-status (competitor AND potential Partner-tier API integrator); confirmed Superpatch-specific signal, do not position against market-wide. See [`strategic-inputs.md`](../strategic-inputs.md) Section 4 and PM-OS `outputs/analyses/strategy-wayroo-aice-integration-2026-05-08.md` for current partnership status.
 
 ---

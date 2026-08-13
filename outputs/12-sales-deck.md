@@ -1,3 +1,35 @@
+> # 🔄 FREE-OFFER VARIANT — added 2026-08-13
+>
+> **This asset was built for the paid, new-logo motion. That motion is still live and this document remains valid for it** — but it now needs a variant, because the installed base gets Wayroo Essentials **included** with Revolution Pro at no incremental charge.
+>
+> ## The one answer, used identically everywhere
+>
+> > **"Why would I pay if you're giving it away?"**
+> >
+> > **"We're not giving it away. It's included — for customers who already pay us for a platform."**
+> >
+> > Wayroo Essentials comes with Revolution Pro, which every rep who has it pays for, directly or through their company. A prospect isn't being quoted a price for something others get free — **they're being quoted the price of becoming a platform customer.**
+> >
+> > **"You'd get exactly the same the day you're on the platform."**
+>
+> **This converts the objection into a reason to buy the platform.** Free Wayroo is an acquisition incentive for the back office, not a discount that needs defending.
+>
+> 🚫 **Never use the word *free*.** *Free* invites "then why am I paying?" — ***included*** does not. See the words-we-use table in [`06-messaging-house.md`](06-messaging-house.md).
+>
+> ## ⚠️ AiCE status correction — supersedes the May 18 header below
+>
+> The partnership header on this document is **out of date**. As of 2026-08-13: AiCE term sheets were never signed; the structure is an **acquisition pursued via minority equity in Retail Success or a new entity**; Wayroo and Aice **launch together, both free**, with Wayroo as the front door. **Do not run anti-AiCE positioning.** Current status: `my-gtm-context.md` §2 and §6.
+>
+> ## What changes in this deck
+>
+> | Slide | Change |
+> |---|---|
+> | Pricing / business model | Add a line: *"Wayroo Essentials is included with Revolution Pro."* Do not present it as a discount or a promotion. |
+> | Competitive | **Retire the Aice-vs-Wayroo feature map.** Aice is a launch partner. Replace with Square / Hustle / Boards — and note that **price does not differentiate against Square** (its free tier is $0 too). Against Square the argument is back-office integration alone. |
+> | Differentiator | Lead with **back-office integration**, not inventory features. Free Square does basic inventory well. **The sync is the differentiator, not the feature.** |
+> | Objections | Insert the "why pay" answer above, verbatim. |
+> | Proof | Paparazzi's field is **~18,000 non-cancelled reps**, not 4,000. $31M came from ~20% of the field — a *stronger* per-rep result. **Say that; never imply full coverage.** |
+>
 > **PARTNERSHIP UPDATE — May 18, 2026:** AiCE has moved from competitor to partner channel. Sam met with Brian (AiCE CEO) May 15; term sheets for Motion 1 (referrals) and Motion 2 (payment processor recommendation switch) target June 2026. **Do not lead with anti-AiCE positioning in live sales conversations until further notice.** Where this doc treats AiCE as a competitive alternative below, treat as background context only, pending re-write after term sheets sign. Treel.ai is now dual-status (competitor AND potential Partner-tier API integrator); confirmed Superpatch-specific signal, do not position against market-wide. See [`strategic-inputs.md`](../strategic-inputs.md) Section 4 and PM-OS `outputs/analyses/strategy-wayroo-aice-integration-2026-05-08.md` for current partnership status.
 
 ---

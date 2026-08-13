@@ -2,7 +2,28 @@
 
 **Type:** Existing ByDesign client · Wayroo prospect · Churn risk · Aice partnership catalyst
 **ByDesign owner:** Sam Atieh (account strategy + Aice trade negotiation) · Daniel Lang (Wayroo co-pitch motion)
-**Last updated:** 2026-05-14
+**Last updated:** 2026-08-13 *(was 2026-05-14)*
+
+> ## 🔄 The play changed on 2026-08-10 — free Wayroo is now a retention lever here
+>
+> Everything below was written when Wayroo was a paid pitch. **It no longer is.** Under the Land-and-Expand reset, **Wayroo Essentials plus all selling tools are included with Revolution Pro at no incremental charge** (`my-gtm-context.md` §3).
+>
+> ### Why this account changes more than most
+>
+> | Prior blocker | Status now |
+> |---|---|
+> | **"Multiple sell attempts failed — Wayroo is C&C-only and only ~20% of Bravenly's reps are C&C"** | **The cost objection is gone.** At $0 incremental, a feature set serving 20% of the field no longer has to justify a price. **This was the only stated reason Bravenly said no.** |
+> | Aice is absorbing Revolution surface area | **Aice is now a partner, launching alongside Wayroo — both free.** The combined story lands natively here because Bravenly is *already an Aice customer*; it does not have to be sold. |
+> | Revolution spend ($11k+/mo) actively being reduced | **Free Wayroo makes Revolution Pro worth more.** It is the most direct available answer to Revolution surface erosion. |
+> | Canada expansion unrecognised as Wayroo-shaped | Unchanged and still true — ProPay-via-Wayroo is one of the few rep-payment paths that works in Canada. |
+>
+> ### How to run it
+>
+> **Retention deployment, not evidence pilot.** Per [`outputs/07-launch-asset-plan.md`](../outputs/07-launch-asset-plan.md), these are different jobs on different scoreboards. Bravenly is a poor measurement account — ~20% C&C under-tests the selling tools, and an account reducing Revolution spend will not produce a clean adoption read. **It is a strong retention account.** Judge it on whether Bravenly stays, not on adoption rate.
+>
+> **The ask is the three permissions** ([`outputs/07-dso-launch-kit.md`](../outputs/07-dso-launch-kit.md)) — not a Wayroo sale. That is a materially easier conversation than the ones that failed, and it does not require reopening a pitch they have already declined twice.
+>
+> ⚠️ **The Aice API trade below predates the partnership and the acquisition.** Its five conditions were designed to extract Wayroo commitments in exchange for API access from a company we now intend to acquire. **Re-read before acting on it** — most of it is superseded.
 
 ---
 

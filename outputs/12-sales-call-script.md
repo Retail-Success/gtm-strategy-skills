@@ -1,3 +1,44 @@
+> # 🔄 FREE-OFFER VARIANT — added 2026-08-13
+>
+> **This asset was built for the paid, new-logo motion. That motion is still live and this document remains valid for it** — but it now needs a variant, because the installed base gets Wayroo Essentials **included** with Revolution Pro at no incremental charge.
+>
+> ## The one answer, used identically everywhere
+>
+> > **"Why would I pay if you're giving it away?"**
+> >
+> > **"We're not giving it away. It's included — for customers who already pay us for a platform."**
+> >
+> > Wayroo Essentials comes with Revolution Pro, which every rep who has it pays for, directly or through their company. A prospect isn't being quoted a price for something others get free — **they're being quoted the price of becoming a platform customer.**
+> >
+> > **"You'd get exactly the same the day you're on the platform."**
+>
+> **This converts the objection into a reason to buy the platform.** Free Wayroo is an acquisition incentive for the back office, not a discount that needs defending.
+>
+> 🚫 **Never use the word *free*.** *Free* invites "then why am I paying?" — ***included*** does not. See the words-we-use table in [`06-messaging-house.md`](06-messaging-house.md).
+>
+> ## ⚠️ AiCE status correction — supersedes the May 18 header below
+>
+> The partnership header on this document is **out of date**. As of 2026-08-13: AiCE term sheets were never signed; the structure is an **acquisition pursued via minority equity in Retail Success or a new entity**; Wayroo and Aice **launch together, both free**, with Wayroo as the front door. **Do not run anti-AiCE positioning.** Current status: `my-gtm-context.md` §2 and §6.
+>
+> ## Where this lands in the call
+>
+> **It surfaces in one of two places.** Handle it differently depending on which.
+>
+> **(a) Prospect raises it — usually mid-pricing, sometimes as a gotcha.**
+> > *"Fair question. It's included with Revolution Pro — so it's not free, it comes with the platform. Every rep who has it is paying for the platform, one way or another. You'd get exactly the same the day you're on it."*
+>
+> Then **stop talking.** Do not stack a second justification; it reads as defensiveness on a point that is simply true.
+>
+> **(b) You raise it deliberately — recommended when the prospect knows an existing client.**
+> > *"You may hear that [client]'s reps got this at no extra cost. They did — it's included with the platform they're on. Worth knowing what's on the other side of the line."*
+>
+> **Pre-empting it converts a discovered inconsistency into a reason to buy.** Discovered on their own, it feels like a price they're overpaying.
+>
+> ## Two corrections to existing script language
+>
+> - 🚫 **Drop any anti-Aice line.** Aice is a launch partner.
+> - 🚫 **Drop "inventory management" as a differentiator.** Free Square does it well and a prospect who has used Square will say so. **Pivot to the sync.**
+>
 > **PARTNERSHIP UPDATE — May 18, 2026:** AiCE has moved from competitor to partner channel. Sam met with Brian (AiCE CEO) May 15; term sheets for Motion 1 (referrals) and Motion 2 (payment processor recommendation switch) target June 2026. **Do not lead with anti-AiCE positioning in live sales conversations until further notice.** Where this doc treats AiCE as a competitive alternative below, treat as background context only, pending re-write after term sheets sign. Treel.ai is now dual-status (competitor AND potential Partner-tier API integrator); confirmed Superpatch-specific signal, do not position against market-wide. See [`strategic-inputs.md`](../strategic-inputs.md) Section 4 and PM-OS `outputs/analyses/strategy-wayroo-aice-integration-2026-05-08.md` for current partnership status.
 
 ---
