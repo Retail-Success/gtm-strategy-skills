@@ -2,8 +2,19 @@
 
 **Phase:** 10 — Building the GTM System (Tasks 5, 6, 7, 8 consolidated)
 **Built by:** Sam Atieh · **Run by:** Cassie Lewis (account) + Autumn Fowers (product/enablement)
-**Pilot account:** Jordan Essentials · **Date:** August 8, 2026 · **Status:** v1.0
+**Pilot account:** Jordan Essentials · **Date:** August 8, 2026 · **Status:** v1.1 — *corrections folded in 2026-08-14; body otherwise unchanged from v1.0*
 **Parent:** [`go-forward-gtm-operating-model-2026-08-08.md`](go-forward-gtm-operating-model-2026-08-08.md) — Motion A
+**Published:** Confluence WSM → *Wayroo + Aice Revolution Launch* → [Transacting Adoption Playbook](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/617086978)
+
+> ### ⚠️ This document predates the launch it now serves. Read this before using the funnel in §2.
+>
+> Written **2026-08-08**, five days before the 08-13 positioning rewrite. It was authored for a **branded, ProPay-live** deployment. The free-Essentials launch introduces a state it does not contain: **an account where the DSO has not onboarded ProPay at all, so the selling tools are dark for the entire field.**
+>
+> **Six corrections are marked inline below** (search `CORRECTION 2026-08-14`). Each names what supersedes it. **If this file is regenerated from the skill, they will be lost — re-apply them or the funnel and Phase 3 will send people at the wrong gate.**
+>
+> **Superseded by [`09-funnel-and-channel-reconciliation.md`](09-funnel-and-channel-reconciliation.md):** the six-stage funnel (§2), and the bottleneck hypothesis (§2), which names gate 3 of three.
+>
+> **What still stands, and is what the launch runs on after T+3:** the revenue arithmetic (§1) · **lever 2** · the instrumentation spec (§3) · **the field growth loop (§4)** · the entire Phase 0–5 SOP (§5) · the sprint cadence and ICE backlog (§6) · the risks (§8). [`09-launch-execution-plan.md`](09-launch-execution-plan.md) hands the launch to this document **at T+3** and deliberately does not restate any of it.
 
 > **Built as one document deliberately.** The methodology would produce four separate artifacts (CRO funnel, growth loops, SOPs, sprint cadence). The people who have to run this need one thing they can open on a Monday, not four.
 
@@ -52,6 +63,10 @@ There are **two** ways to grow that number, and the plan has only ever considere
 
 *(Phase 10, Task 6 — funnel definition and drop-off analysis)*
 
+> 🔴 **CORRECTION 2026-08-14 (1 of 6) — SUPERSEDED. Use the nine-stage merged funnel in [`09-funnel-and-channel-reconciliation.md`](09-funnel-and-channel-reconciliation.md).**
+>
+> The six stages below are correct as far as they go, but they **omit two stages** that only exist once the locked state does: **locked-tool taps** (the launch's only real-time leading indicator) and **DSO ProPay onboarding status**. Retained here because the *value-per-stage* logic and the benchmark table are still the reference.
+
 Six stages. **Revenue begins at Stage 4. Current reporting stops at Stage 2.**
 
 | # | Stage | Definition | Value/rep/yr | Measured today? |
@@ -76,6 +91,22 @@ A rep cannot transact without an approved merchant account. That means identity 
 ⚠️ **This is inference, not observation.** Nobody has measured it. But it is the single highest-value thing to measure first, because if ProPay approval is the drop-off, **no amount of enablement content fixes it** — it is an operations and product problem wearing a marketing costume.
 
 **Validation:** pull ProPay application-start, application-complete, and approval rates for the Jordan Essentials launch cohort. One query. Do it in Week 1.
+
+> 🔴 **CORRECTION 2026-08-14 (2 of 6) — this names the wrong gate for a locked account.**
+>
+> There are **three** gates between a rep and a transaction, not one, and they have three different owners and three different fixes:
+>
+> | Gate | Owner | Failure looks like | The fix |
+> |---|---|---|---|
+> | **1. Feature shipped** | ByDesign Product | Tap-to-Pay doesn't exist yet | A ship date. Nothing else touches it. |
+> | **2. DSO ProPay onboarding** | **The DSO** | Tools dark for the whole field | **Beat-3 demand pressure** — the demand counter |
+> | **3. Rep merchant approval** | The rep | Rep installed, can't take money | Ops unblocking (Phase 3.2) |
+>
+> **Stage 3 above is gate 3.** **Gate 2 sits upstream of it and has a 100% failure rate at a locked account** — no rep can be approved because the DSO has not onboarded. Rep-level enablement before gate 2 clears is wasted effort, and this section cannot tell you that because the locked state did not exist when it was written.
+>
+> **Jordan Essentials is currently stuck at gate 1** — ProPay onboarded, 764 reps installed, waiting on a feature that has not shipped. No amount of adoption work moves that.
+>
+> **Confirm which gate an account is stuck at before running any play in Phase 3.**
 
 ## Benchmarks
 
@@ -107,6 +138,15 @@ Nothing below this line is manageable without this. It is not a reporting nicety
 | **Stage-3 completion** | Merchant approved + inventory synced + storefront live | Per rep | Defines "activated" operationally |
 | **Dormancy** | Transacted previously, zero in trailing 30 days | Per rep | The reactivation list |
 
+> 🔴 **CORRECTION 2026-08-14 (3 of 6) — two metrics missing, and they belong in this same build.**
+>
+> | Metric | Definition | Why |
+> |---|---|---|
+> | **Locked-tool taps** | Taps on a pending selling tool, with the running count per DSO | **The launch's only real-time leading indicator**, and the artifact beat 3 points at. It is also the *sole* evidence that the lock reads as invitation rather than paywall. |
+> | **DSO ProPay onboarding status** | Onboarded / pending / not started, as a funnel stage | Tracked nowhere today. Determines whether an account can produce revenue **at all**. |
+>
+> Both are absent above because the playbook was written before the locked state existed. **Add them to this spec rather than as a second project** — tracked as [WALTRU-9](https://bydesign.atlassian.net/browse/WALTRU-9).
+
 ## The two reports that have to exist
 
 **Internal — the Adoption Scorecard.** One row per live account, refreshed weekly: eligible, downloaded, activated, transacting, transact rate, GMV/rep, monthly residual. This is what Cassie and Autumn run the motion from.
@@ -114,6 +154,12 @@ Nothing below this line is manageable without this. It is not a reporting nicety
 **External — the DSO Adoption Report.** Monthly, to the DSO. Same funnel, plus **their** economics: reps enrolled × $2/month margin, and total field GMV.
 
 > **The DSO earns $2/rep/month at a 67% margin. Most DSOs have never seen that number.** A monthly report that shows a founder they made $1,400 last month and would make $4,250 at 85% adoption converts the customer into a co-owner of the motion. That is the cheapest distribution ByDesign will ever get — the DSO already owns the field's attention.
+
+> 🔴 **CORRECTION 2026-08-14 (4 of 6) — the $2/rep at 67% margin figure is UNVERIFIED and must not go in a DSO-facing report yet.**
+>
+> It circulates in the operating model and the financial model but **has never been checked against Jordan Essentials' actual billing.** See Decision #1 in [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md), tracked as [WALTRU-46](https://bydesign.atlassian.net/browse/WALTRU-46).
+>
+> **The mechanic is solid; the arithmetic is not.** Ship the report with field GMV and *"you set the rep price, you keep the spread"* — hold the margin numbers until it closes. A figure that turns out wrong in a founder's inbox costs more than the figure was worth. **This also gates experiment #4 in §6.**
 
 **Owner:** Product + Data. **Due: before Phase 2 of the playbook can start.**
 
@@ -205,6 +251,18 @@ Slower, but it reaches the whole base at once and costs ByDesign nothing. **It i
 
 > **Step 0.4 is the highest-leverage step in the entire playbook.** A field leader who has personally made a sale on Wayroo is the most persuasive asset available at the launch event, and they start the loop in §4 on day one. Jordan Essentials launched without this and still hit 28% — **with it, the number should be higher.**
 
+> 🔴 **CORRECTION 2026-08-14 (5 of 6) — step 0.4 is not achievable on the current pilot dates.**
+>
+> T−6 weeks for a **2026-09-15** pilot was **2026-08-04 — already passed.** And the cohort is recruited *through* the DSO champion (step 0.4 depends on 0.6), who does not exist until permissions land, currently due **09-12 — three days before go-live.**
+>
+> **The ≥80%-transacting quality gate therefore cannot be met at any of the three pilot accounts.** One of three things has to give, and it is Sam's call ([WALTRU-13](https://bydesign.atlassian.net/browse/WALTRU-13)):
+>
+> 1. **The pilot date moves** — the only option that preserves the gate.
+> 2. **The gate is knowingly dropped for pilot accounts** and reinstated at GA — say so in writing rather than missing it silently.
+> 3. **Jordan Essentials runs first**, as the one account where a Tier-1 cohort already exists among 764 installed reps and needs identifying rather than recruiting.
+>
+> Option 3 is the cheapest and is already the launch's stated plan — JE is *pilot zero*. **Note it does not rescue the other two accounts.**
+
 ## Phase 1 — Launch (T−0, the event)
 
 | # | Step | Owner | Quality check |
@@ -216,6 +274,8 @@ Slower, but it reaches the whole base at once and costs ByDesign nothing. **It i
 | 1.5 | Use the **$60 vs. $5** frame: reps spend ≥$60/mo on Canva, ChatGPT, Square, Boards, Project Broadcast. Wayroo costs $5 incremental. | Autumn | In the deck |
 
 > **⚠️ Tap-to-Pay is not shipped.** It was the strongest single draw at the Jordan Essentials launch. **Do not demo it as available and do not date it publicly** until Product commits. The playbook must produce adoption without it — and §8 treats its eventual ship as a second launch moment.
+>
+> **Still true as written, and the exposure is now larger.** ~2,500 JE reps have carried a convention-dated expectation since July, and **DSU in October promotes the same unshipped feature to an industry audience rather than one client's field.** The contingency is to **change the feature, not the date** — lead with dashboard widgets and back-office-data-on-your-phone, two of the four strongest JE rep reactions, both shipping, both working while ProPay is pending. Decision needed by **2026-09-15**; see [`09-field-leader-activation.md`](09-field-leader-activation.md).
 
 ## Phase 2 — First Transaction Push (T+1 to T+14 days)
 
@@ -229,6 +289,10 @@ Slower, but it reaches the whole base at once and costs ByDesign nothing. **It i
 | 2.4 | Celebrate first transactions publicly in the DSO's field channels | DSO, prompted by Cassie | Weekly recognition running |
 | 2.5 | Collect rep testimonials **now**, while sentiment is at peak | Cassie | 3–5 captured |
 
+> ⚠️ **The capacity risk in §8 now binds harder than when it was written.** That table says Phase 2 is the only labour-intensive phase and to *"sequence one account at a time."* **The launch schedules three pilot accounts within three weeks of each other**, putting three Phase-2 pushes on Cassie and Autumn simultaneously. **Stagger the starts by a week each, or name in advance which account gets the lighter push** — deciding it under load means the busiest account gets neglected by accident.
+>
+> 📌 Step 2.5 is expanded into a full programme in [`09-social-proof-capture.md`](09-social-proof-capture.md), which adds the **consent-at-capture** rule — ask for publication permission in the same conversation as the capture. That omission is why Paparazzi's result has been unpublished since May.
+
 ## Phase 3 — Activation Recovery (T+15 to T+60 days)
 
 | # | Step | Owner | Quality check |
@@ -238,6 +302,14 @@ Slower, but it reaches the whole base at once and costs ByDesign nothing. **It i
 | 3.3 | Segment (b) → a use-case nudge tied to a real selling occasion (vendor event, party, holiday) | Cassie → field leaders | Timed to the DSO's calendar |
 | 3.4 | Segment (c) → inventory sync assist | Autumn | Resolved |
 | 3.5 | Ship the **first monthly DSO Adoption Report** with the margin figure | Cassie | Delivered, and discussed live |
+
+> 🔴 **CORRECTION 2026-08-14 (6 of 6) — a fourth segment exists and this playbook has no play for it.**
+>
+> **(d) The DSO has not onboarded ProPay.** Not a rep-level problem at all, and **not a segment — at a locked account it is 100% of non-transactors.** None of 3.2, 3.3 or 3.4 applies: there is nothing to unblock, no use-case nudge that helps, and syncing inventory changes nothing while the tools are dark.
+>
+> **The intervention is the demand counter and the beat-3 conversation with the home office** — *"47 of your reps have asked for card payments"* — not anything in Phase 3.
+>
+> **Check for segment (d) before segmenting at all.** Running 3.1's three-way split at a locked account produces three lists of reps who are all blocked by the same upstream thing, and burns Autumn's Phase-2/3 capacity on work that cannot succeed. See gate 2 in correction 2 above.
 
 ## Phase 4 — Habituation (T+60 to T+180 days)
 
@@ -285,18 +357,24 @@ Two-week sprints, maximum **3** experiments. Planning Monday of Week 1 (60 min),
 
 **Sprint 1 is #1, #4, #5.** Number 1 because nothing else can be prioritised without it; #4 because it recruits the DSO into the motion at near-zero cost; #5 because it is cheap and tests the loop's core premise that the field trusts the field.
 
+> ⚠️ **Experiment #4 is gated — see correction 4 in §3.** It ships the $2/rep margin figure to a DSO, and that figure is unverified. Run it with the mechanic and the field-GMV number; hold the margin arithmetic until [WALTRU-46](https://bydesign.atlassian.net/browse/WALTRU-46) closes. The experiment is still the right Sprint-1 pick — only the payload changes.
+
 ---
 
 # 7. Generalising Beyond Jordan Essentials
 
 | Account | State | Playbook entry |
 |---|---|---|
-| **Jordan Essentials** | Live, 28% downloaded, transact rate unknown | Full pilot — Phases 2–4 |
+| **Jordan Essentials** | ⚠️ **Out of date — see below** | Full pilot — Phases 2–4 |
 | **Paparazzi** | 4,000 MAUs, ~2,153 transacting (~54%) | **Phase 4 only.** No launch to run — pure transact-rate and dormancy work. **+10pp ≈ $86K/yr.** |
 | **Color Street** | Not closed | Phase 0 at contract |
 | **Future deployments** | — | Phase 0 becomes standard implementation |
 
 **Paparazzi deserves attention it is not getting.** It is the largest Wayroo deployment, has been live for years, and has never had an adoption motion applied to it. It needs no launch event and no new sale — just the measurement and the recovery plays.
+
+> ⚠️ **The Jordan Essentials row was written as "live, 28% downloaded, transact rate unknown." That is no longer the situation.** JE is **blocked at gate 1** — ProPay onboarded, 764 reps installed, waiting on a Tap-to-Pay feature that has not shipped. Phases 2–4 cannot run against a population that has nothing to transact with.
+>
+> **Its role has changed from pilot to leading indicator.** Because adoption is held constant at 764, the Tap-to-Pay unlock **isolates the Tap-to-Pay effect on transact rate** — the single best available predictor for the other 74,000 Revolution Pro subscribers, at zero incremental cost. **Design that read before the unlock lands, not after: it is a one-shot natural experiment and there is no second chance at a clean baseline.** See [`09-launch-execution-plan.md`](09-launch-execution-plan.md).
 
 ---
 
@@ -329,3 +407,5 @@ Two-week sprints, maximum **3** experiments. Planning Monday of Week 1 (60 min),
 ---
 
 *GTM Strategist methodology by Maja Voje — Phase 10, Tasks 5–8. Created August 8, 2026.*
+
+*v1.1, 2026-08-14 — six numbered corrections folded in against the free-Essentials launch, plus alignment notes at §2 (capacity + social proof), §6 (experiment #4 gating) and §7 (the JE row). **The v1.0 body is otherwise untouched: nothing was deleted, only annotated.** Published at [Transacting Adoption Playbook](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/617086978). **If this file is regenerated from the skill, re-apply the corrections** — the funnel in §2 and the segmentation in §5 Phase 3 both point at the wrong gate without them.*
