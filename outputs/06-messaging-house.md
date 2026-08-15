@@ -31,7 +31,7 @@ Every asset below belongs to exactly one beat. Using the wrong beat's language i
 
 ## Rep — 15 seconds
 
-> **Take card payments right on your phone, and your inventory's already in there.** It's the selling app that comes with your back office — no setup, no new bill, it's included in what you already pay for.
+> **Take card payments right on your phone, and your inventory's already in there.** It's the selling app that comes with your back office — no setup, nothing to import. *(Branchable: **"and it's included in what you already pay for"** for RevPro holders · **"it comes with Pro, which is $5 a month"** for everyone else.)*
 
 ## Home office — 30 seconds (Beat 1)
 
@@ -51,7 +51,30 @@ Every asset below belongs to exactly one beat. Using the wrong beat's language i
 
 Three. No more — nothing sticks past three.
 
-## Pillar 1 — It's already yours *(the lead)*
+> ### 🔴 Two audiences, two denominators — get this right before writing any copy (revised 2026-08-14)
+>
+> An earlier version of this rule over-applied Jordan Essentials' 9.7% Pro penetration to the whole launch. **That was wrong.** The denominators are different:
+>
+> | | **Primary — the launch** | **Secondary — the upsell** |
+> |---|---|---|
+> | **Who** | **The 75,000 Revolution Pro subscribers** | Reps who want Wayroo and lack Pro *(JE's 510)* |
+> | **They already hold Pro?** | ✅ **All of them** | ❌ |
+> | **The offer** | **Wayroo Free tier + Aice Free tier, as a value-add** | Pro at $5/mo, Wayroo included |
+> | **"Included, nothing to buy"** | ✅ **True. Say it unqualified.** | ❌ Never |
+>
+> **The launch is aimed at the 75,000. For them there is nothing to hedge** — they hold the subscription, so the pair is genuinely included and the copy should say so plainly.
+>
+> **The 9.7% figure describes JE's *active rep* population, not the launch audience.** It matters for the upsell motion and for anyone answering questions from reps outside the 75,000 — not for the primary campaign.
+>
+> ### Which surfaces need care
+>
+> | Surface | Reaches | Rule |
+> |---|---|---|
+> | **Revolution in-product · rep email · first-run** | **Pro subscribers only** — targeting guarantees it | ✅ **"Included." Unqualified.** |
+> | **DSO corporate FAQ** | DSO support fields questions from *all* reps | ⚠️ **Branch** — see Pillar 3 |
+> | **Landing page · demo video · Aice placement · social** | Unknown mix | ⚠️ **Lead with the data claim**; state the Pro relationship plainly rather than claiming inclusion |
+
+## Pillar 1 — Your inventory's already in it *(the lead)*
 
 > **Your inventory is already in it.**
 
@@ -77,17 +100,41 @@ Three. No more — nothing sticks past three.
 | **Objection it answers** | *"I lose sales when someone doesn't have cash."* |
 | **Audience** | **Rep only. Never the opener with the home office.** |
 
-## Pillar 3 — Nothing extra to pay *(the closer)*
+## Pillar 3 — Nothing extra to pay *(the closer)* — ⚠️ **two versions, and using the wrong one is a credibility problem**
+
+> ### Which version to use
+>
+> **3a is the launch.** Every rep the campaign reaches holds Revolution Pro, so "included" is true and unqualified.
+>
+> **3b is for reps outside the campaign** — those without Pro who encounter Wayroo anyway. At Jordan Essentials that was **510 of 764 downloaders**, so it is a real and sizeable population, but it is a *second* motion with its own list and its own metric.
+>
+> **Who needs 3b:** support and help-centre staff, DSO corporate answering their own field, and any open surface. **Who does not:** the targeted campaign — in-product, email, first-run.
+>
+> 🚫 **Never give 3a to a rep without Pro.** Telling them it's free and then switching access off is the fastest available way to lose this audience.
+
+### 3a — Rep holds RevPro *(the "included" version)*
 
 > **Included with Revolution Pro. You're already paying for it.**
 
 | | |
 |---|---|
 | **Proof** | No incremental charge; selling tools included, never upsold |
-| **Proof** | Replaces tools the rep is currently buying — $60–100/month across 6–10 apps |
+| **Proof** | Replaces tools the rep is buying now — $60–100/month across 6–10 apps |
 | **Proof** | Competitors charge per rep — **Hustle is $5 per active rep** |
-| **Objection it answers** | *"What's the catch?"* |
-| **Audience** | Rep · Home office |
+| **Objection** | *"What's the catch?"* |
+
+### 3b — Rep does not hold RevPro *(the "$5" version)*
+
+> **$5 a month gets you Revolution Pro — and Wayroo comes with it.**
+
+| | |
+|---|---|
+| **The frame** | **$5 against the $60–100/month you're already spending on six to ten apps.** Not "is this worth $5" — "which $5 of your current $60 does this replace?" |
+| **Proof** | Selling tools included at no extra cost once your company completes payment setup |
+| **Proof** | You can turn it on yourself in your back office |
+| **Objection** | *"I thought this was free"* → **"Wayroo comes with Pro. Pro is $5."** Say it plainly and early. |
+
+> **Do not treat 3b as the weaker pitch.** A rep spending $60–100/month who has already used Wayroo is being offered a 12–20x substitution at a price below every alternative in the category. **That is a stronger economic argument than 3a** — it just has a number in it.
 
 > ⚠️ **Use pillar 3 against Hustle and Boards, never against Square.** Square's free tier is also $0 — leading on price there invites the obvious reply. **Against Square, pillar 1 is the entire argument.**
 
@@ -99,7 +146,7 @@ Three. No more — nothing sticks past three.
 |---|---|---|---|
 | **Rep — sells in person** | Not losing a sale at the table | **Tap-to-Pay**, then pre-loaded inventory | Compliance, corporate visibility, anything about "the company can see" |
 | **Rep — catalog/online** | Earning more, getting paid faster | Payment links and invoicing, then storefront | POS, barcode scanning, vendor-event framing |
-| **Rep — skeptical / been burned** | Not being sold something | **Included. Already paid for. Nothing to buy.** | Enthusiasm, feature lists, urgency |
+| **Rep — skeptical / been burned** | Not being sold something | **Branchable.** RevPro holder: *"Included. Already paid for."* · No RevPro: 🔴 **"It's $5 a month, and here's exactly what it replaces."** Naming the price first is what disarms this rep — vagueness confirms their suspicion. | Enthusiasm, feature lists, urgency, **any hedging on price** |
 | **Founder / CEO** | Field productivity and retention | **Costs nothing, pays margin**, better-equipped field | **ProPay onboarding**, implementation, anything resembling a project |
 | **VP Sales / Field Ops** | Visibility and coaching | Every rep sale becomes a record you can see | Payments mechanics, merchant accounts |
 | **Finance / Ops** *(beat 3 only)* | Liability and effort | Rep-owned merchant accounts shift chargeback liability off corporate | Rep excitement, adoption numbers |
@@ -111,6 +158,17 @@ Three. No more — nothing sticks past three.
 # 4. The Locked State — Copy
 
 Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This is the copy.
+
+> ### 🔴 Two locked states, and only one is the DSO's doing
+>
+> **Selling tools release as a set** — Tap-to-Pay, invoicing and POS all arrive together, week of 2026-08-17. So before that date they are dark **because the feature does not exist**, not because the DSO has failed to act.
+>
+> | State | Cause | Copy | Demand counter? |
+> |---|---|---|---|
+> | **Pre-ship** | Feature not released | *"Selling tools are coming — they arrive with our next release. Included in your app, nothing to buy."* | 🚫 **No.** There is nothing for the DSO to do. |
+> | **Post-ship, ProPay pending** | DSO hasn't onboarded | The copy below | ✅ **Yes.** This is what beat 3 was built for. |
+>
+> **Using the ProPay copy pre-ship is a false statement that blames the customer for our delay.** At Jordan Essentials — already onboarded — it would be plainly untrue.
 
 ## In-app
 
@@ -168,7 +226,7 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 | Frames revenue as an absence of cost | Frames it as revenue |
 | Approver has no reason to drive adoption | **Approver has a financial reason to drive adoption** |
 
-> ⚠️ **Pitch the mechanic, not the numbers.** The **$2/rep at 67% margin** figures are unverified against JE's actual billing. Say *"you set the rep price and keep the spread"* until Decision #1 in [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md) closes.
+> ✅ **Confirmed 2026-08-14.** Jordan Essentials charges reps **$5/month and keeps $2**; ByDesign takes $3 — a **67% markup** on cost, or 40% of the rep price. **The figures are production-verified at one account and safe to use.** Still say *"you set the rep price and keep the spread"* to a DSO that sets its own markup.
 
 ---
 
@@ -180,6 +238,16 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 
 > ### The risk in one sentence: these reps adopted something that worked, and it is about to stop working. Handled as an outage, it is a bait-and-switch. Handled as an upgrade, it prices the entire attach motion.
 
+> ### 🔬 This is also an experiment, which raises the bar on the copy
+>
+> **The 510 conversion rate is the only willingness-to-pay signal available before the Wayroo Pro + Aice Pro tier is priced.** That makes these messages an instrument, not just comms.
+>
+> **The confound to design out:** conversion blends *willingness to pay* with *reaction to having something taken away.* Careless copy produces resentment churn, and the resulting number measures our messaging rather than their appetite — **corrupting the only upgrade data available.**
+>
+> **Split the 510 at no extra cost.** Half get the plain restore-access message, half the value-framed one below. That separates messaging effect from underlying appetite. **The population exists once — there is no second run at this.**
+>
+> ⚠️ **Discount the result before extrapolating.** Restoring something you had beats buying something new, so this figure will **overstate** appetite for a genuine upgrade tier.
+
 ## Rules
 
 1. **Tell them before it happens, not after.** A rep who discovers it is a churned rep.
@@ -188,7 +256,49 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 4. **Say they can pay it themselves.** JE reps can self-pay in the back office — that is agency, and it removes the "wait on my upline" stall.
 5. **Lead with what they already experienced.** These reps have used the product. That is the strongest asset in the message.
 
-## Draft — pre-shutoff
+## The trial sequence *(recommended — supersedes the single pre-shutoff email)*
+
+**Frame it as a trial from message one.** Told upfront, a rep has had a trial. Told afterward, they have been baited. **Same mechanics, opposite outcomes.**
+
+### Day 0 — the trial opens
+> **Subject: Tap to Pay is on for you**
+>
+> Card payments are live in your Wayroo app — your customer taps their card on your phone, no reader.
+>
+> **It's yours free for the next 30 days.** After that it runs on Jordan Central Pro, $5/month, and you can turn that on yourself in about a minute — or do nothing and it simply ends.
+>
+> **[ Open Wayroo ]**
+
+### Day 7 — usage nudge *(their number, not ours)*
+> **You've taken $[X] in card payments this week.** Here's what's coming up →
+
+### Day 21 — the ask, in their own numbers
+> **Subject: $[X] in card payments so far**
+>
+> Over the last three weeks you've taken **$[X]** on your phone — sales that used to need cash or a reader.
+>
+> **Nine days left on your trial.** Keeping it is $5/month through Jordan Central Pro.
+>
+> **[ Keep Tap to Pay — $5/month ]**
+
+### Day 28 — last call · Day 30 — converts or ends cleanly
+
+> ### The rep's own card volume is the conversion asset, and it only exists because of the trial.
+>
+> *"You took $340 in card payments in 30 days — keep it for $5/month"* makes the price self-evidently trivial. **No feature list competes with a rep's own number.** Instrument per-rep trial GMV from day one; it is both the pitch and the experimental result.
+
+### Design rules
+
+| | |
+|---|---|
+| 🔴 **Never a silent expiry** | Day 21 and day 28 warnings are mandatory |
+| 🔴 **Never cut off mid-event** | A rep who booked a fair for day 32 on the strength of Tap-to-Pay has a real problem, not an inconvenience. **Offer a short extension over a booked event** — cheap, and it converts. |
+| ⚠️ **Let pending payments settle** | Ending access must not strand a transaction or a payout |
+| ⚠️ **30 days, not 14** | These reps sell at events. **A 14-day window may not contain a single one** — the rep never experiences the value and the trial tests nothing. Match the window to the selling rhythm. |
+
+## Fallback — cold ask, no trial
+
+⚠️ **Both original conditions for this fallback are now closed** — Tap-to-Pay ships the week of 2026-08-17, and all JE reps are already underwritten. **Use the trial.** Keep this only in case the ship date slips.
 
 > **Subject: Keeping your Wayroo store open**
 >
@@ -200,7 +310,7 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 >
 > **[ Turn on Jordan Central Pro — $5/month ]**
 
-**What it does:** no surprise, no loss framing, price stated plainly, self-serve action, and it leans on the product they have already used.
+No surprise, no loss framing, price stated plainly, self-serve action, and it leans on the product they have already used. **Weaker than the trial, and it forfeits the GMV data.**
 
 ## Measure this
 
@@ -212,13 +322,13 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 
 | # | Candidate | Read |
 |---|---|---|
-| 1 | ✅ **"It's already yours."** | **Recommended.** Carries inclusion, pre-loaded data, and no-new-bill in three words. Answers *"what's the catch?"* before it's asked, and works on the locked state without modification. |
+| 1 | ✅ **"It's already yours."** | **Recommended for the launch.** The audience is 75,000 Pro subscribers, for whom it is literally true. Carries inclusion, pre-loaded data, and no-new-bill in three words, and works on the locked state unchanged. |
+| 3 | ✅ **"Your inventory's already in it."** | **Recommended for open surfaces** — landing page, demo, Aice placement, social. A data claim rather than a commercial one, so it holds for any visitor whether or not they hold Pro. Also the sharpest single proof point. |
 | 2 | "The app that comes with your back office" | Clearest, most explanatory. Better as a category descriptor than a tagline. |
-| 3 | "Your inventory's already in it." | Sharpest single proof point. Strong for rep ads; too narrow to carry the brand. |
 | 4 | "Take the card. Keep the sale." | Best pure-Tap-to-Pay hook. **Rep-only** — never home office. |
 | 5 | "Sell like you're already set up. Because you are." | Warmest. Long, and slightly clever at the expense of clear. |
 
-**Recommend #1** — *"It's already yours."* It does the heaviest lifting in the positioning: it makes free sound like ownership rather than a trial, and it is the one line that works identically on an unlocked feature and a pending one.
+**Run #1 on targeted surfaces and #3 on open ones.** They are compatible — both say the setup is done; one adds the entitlement claim where it is safe to make. *(An interim revision demoted #1 on the basis that most reps lack Pro. That applied JE's active-rep denominator to a launch aimed at Pro subscribers — reverted.)*
 
 ---
 

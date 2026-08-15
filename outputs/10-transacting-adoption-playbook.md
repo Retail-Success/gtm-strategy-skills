@@ -104,7 +104,7 @@ A rep cannot transact without an approved merchant account. That means identity 
 >
 > **Stage 3 above is gate 3.** **Gate 2 sits upstream of it and has a 100% failure rate at a locked account** — no rep can be approved because the DSO has not onboarded. Rep-level enablement before gate 2 clears is wasted effort, and this section cannot tell you that because the locked state did not exist when it was written.
 >
-> **Jordan Essentials is currently stuck at gate 1** — ProPay onboarded, 764 reps installed, waiting on a feature that has not shipped. No amount of adoption work moves that.
+> **Jordan Essentials was stuck at gate 1** — ProPay onboarded, 764 reps installed, waiting on a feature that did not exist. **Gate 1 clears the week of 2026-08-17**, and gates 2 and 3 are already clear there (DSO onboarded; all reps underwritten through JE). **JE becomes the first account with all three gates open.**
 >
 > **Confirm which gate an account is stuck at before running any play in Phase 3.**
 
@@ -153,9 +153,9 @@ Nothing below this line is manageable without this. It is not a reporting nicety
 
 **External — the DSO Adoption Report.** Monthly, to the DSO. Same funnel, plus **their** economics: reps enrolled × $2/month margin, and total field GMV.
 
-> **The DSO earns $2/rep/month at a 67% margin. Most DSOs have never seen that number.** A monthly report that shows a founder they made $1,400 last month and would make $4,250 at 85% adoption converts the customer into a co-owner of the motion. That is the cheapest distribution ByDesign will ever get — the DSO already owns the field's attention.
+> **The DSO earns $2/rep/month at a 67% markup. Most DSOs have never seen that number.** A monthly report that shows a founder they made $1,400 last month and would make $4,250 at 85% adoption converts the customer into a co-owner of the motion. That is the cheapest distribution ByDesign will ever get — the DSO already owns the field's attention.
 
-> 🔴 **CORRECTION 2026-08-14 (4 of 6) — the $2/rep at 67% margin figure is UNVERIFIED and must not go in a DSO-facing report yet.**
+> 🔴 **CORRECTION 2026-08-14 (4 of 6) — the $2/rep at a 67% markup figure is UNVERIFIED and must not go in a DSO-facing report yet.**
 >
 > It circulates in the operating model and the financial model but **has never been checked against Jordan Essentials' actual billing.** See Decision #1 in [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md), tracked as [WALTRU-46](https://bydesign.atlassian.net/browse/WALTRU-46).
 >
@@ -275,7 +275,9 @@ Slower, but it reaches the whole base at once and costs ByDesign nothing. **It i
 
 > **⚠️ Tap-to-Pay is not shipped.** It was the strongest single draw at the Jordan Essentials launch. **Do not demo it as available and do not date it publicly** until Product commits. The playbook must produce adoption without it — and §8 treats its eventual ship as a second launch moment.
 >
-> **Still true as written, and the exposure is now larger.** ~2,500 JE reps have carried a convention-dated expectation since July, and **DSU in October promotes the same unshipped feature to an industry audience rather than one client's field.** The contingency is to **change the feature, not the date** — lead with dashboard widgets and back-office-data-on-your-phone, two of the four strongest JE rep reactions, both shipping, both working while ProPay is pending. Decision needed by **2026-09-15**; see [`09-field-leader-activation.md`](09-field-leader-activation.md).
+> ✅ **Resolved 2026-08-14 — Tap-to-Pay ships the week of 2026-08-17.** The expectation ~2,500 JE reps have carried since July closes, and DSU promotes a shipped feature. **The contingency is retired.**
+>
+> **The point the note was making still stands and is now testable:** Tap-to-Pay is a payments-revenue instrument, not a feature request — every transaction through it earns 1.5%. **Its ship is the re-launch moment §8 anticipated**, and the 254-rep cohort makes its revenue effect directly measurable.
 
 ## Phase 2 — First Transaction Push (T+1 to T+14 days)
 
@@ -357,7 +359,9 @@ Two-week sprints, maximum **3** experiments. Planning Monday of Week 1 (60 min),
 
 **Sprint 1 is #1, #4, #5.** Number 1 because nothing else can be prioritised without it; #4 because it recruits the DSO into the motion at near-zero cost; #5 because it is cheap and tests the loop's core premise that the field trusts the field.
 
-> ⚠️ **Experiment #4 is gated — see correction 4 in §3.** It ships the $2/rep margin figure to a DSO, and that figure is unverified. Run it with the mechanic and the field-GMV number; hold the margin arithmetic until [WALTRU-46](https://bydesign.atlassian.net/browse/WALTRU-46) closes. The experiment is still the right Sprint-1 pick — only the payload changes.
+> ✅ **Experiment #4 is un-gated as of 2026-08-14.** Jordan Essentials charges reps **$5/month and keeps $2**; ByDesign takes $3 — a **67% markup** on cost, or 40% of the rep-facing price. **Production-confirmed at one account, so the arithmetic can ship.**
+>
+> Two carry-forwards: **(1)** each DSO sets its own markup, so present JE as a worked example rather than a rate card; **(2)** the term is **markup**, not margin — $2 on a $3 cost. *(Supersedes the gate on [WALTRU-46](https://bydesign.atlassian.net/browse/WALTRU-46) for this experiment; confirm the ticket is closed out.)*
 
 ---
 
@@ -372,7 +376,19 @@ Two-week sprints, maximum **3** experiments. Planning Monday of Week 1 (60 min),
 
 **Paparazzi deserves attention it is not getting.** It is the largest Wayroo deployment, has been live for years, and has never had an adoption motion applied to it. It needs no launch event and no new sale — just the measurement and the recovery plays.
 
-> ⚠️ **The Jordan Essentials row was written as "live, 28% downloaded, transact rate unknown." That is no longer the situation.** JE is **blocked at gate 1** — ProPay onboarded, 764 reps installed, waiting on a Tap-to-Pay feature that has not shipped. Phases 2–4 cannot run against a population that has nothing to transact with.
+> ### ✅ Gate 1 clears the week of 2026-08-17 — this playbook becomes runnable at Jordan Essentials
+>
+> JE was blocked: ProPay onboarded, reps installed, **waiting on a Tap-to-Pay feature that did not exist.** Phases 2–4 cannot run against a population with nothing to transact with. **That ends next week.**
+>
+> **Corrected JE picture:** 2,614 active reps · 764 downloaded · **254 hold Revolution Pro** and get Tap-to-Pay permanently · **510 do not** and enter a 30-day trial-to-paid (`06-messaging-house.md` §6). **All are already underwritten through JE**, so gate 3 is pre-cleared too.
+>
+> **Phase 2 — the First Transaction Push — starts the day the feature lands**, and its window is the same 14 days the playbook already describes as "most valuable and most perishable." **Staff it now.**
+>
+> ⚠️ **One correction to the funnel above.** JE's Stage 4–8 numbers are not merely *unmeasured* — they are **zero by construction.** All selling tools are disabled until Tap-to-Pay ships; reps today have only media library, dashboard widgets and inventory. **There is no transaction baseline to capture, because there are no transactions.**
+>
+> **This makes the read cleaner, not weaker:** whatever transact rate appears after the feature lands is **entirely attributable to it.** The requirement is not a *before* — it is **instrumentation live from hour one**, or the after goes unmeasured too.
+>
+> **Worth pulling cheaply this week:** current app engagement across the 764 — who opens it and which of the three live features they use. It predicts who reaches first transaction fastest, and it is the only evidence available on whether non-transactional features alone held reps through a month of waiting.
 >
 > **Its role has changed from pilot to leading indicator.** Because adoption is held constant at 764, the Tap-to-Pay unlock **isolates the Tap-to-Pay effect on transact rate** — the single best available predictor for the other 74,000 Revolution Pro subscribers, at zero incremental cost. **Design that read before the unlock lands, not after: it is a one-shot natural experiment and there is no second chance at a clean baseline.** See [`09-launch-execution-plan.md`](09-launch-execution-plan.md).
 
@@ -402,7 +418,7 @@ Two-week sprints, maximum **3** experiments. Planning Monday of Week 1 (60 min),
 2. **Convert the adopters you already have.** 54% → 80% on the existing 700 is **+$39K/year with zero new downloads.**
 3. **Start the field loop.** Get field leaders transacting first and give them downline transaction visibility. Direct selling is a pre-built referral network — no other software category gets one for free.
 
-**And recruit the customer.** The DSO earns $2/rep/month at 67% margin and has probably never seen the number. Show it to them monthly and they will drive adoption harder than any campaign, because they own the field's attention and we don't.
+**And recruit the customer.** The DSO earns $2/rep/month at 67% markup and has probably never seen the number. Show it to them monthly and they will drive adoption harder than any campaign, because they own the field's attention and we don't.
 
 ---
 

@@ -26,7 +26,7 @@ Everything else is opportunistic. These four are worth assigning a person to.
 
 | # | Moment | Why it is the best material available | Window |
 |---|---|---|---|
-| **1** | 🔴 **The JE Tap-to-Pay unlock** | **764 reps who have been waiting since July finally get the thing they asked for.** High emotion, entirely authentic, and impossible to manufacture. It is also the cleanest read on Tap-to-Pay's effect on transact rate. | The unlock day + 72 hrs |
+| **1** | 🔴 **The JE Tap-to-Pay unlock — now dated: end of the week of 2026-08-17** | **Reps who have waited since July finally get the thing they asked for.** High emotion, entirely authentic, impossible to manufacture. **Staff it now** — this is roughly a week away and sentiment peaks on day one. | Unlock day + 72 hrs |
 | **2** | **A rep's first transaction** | The money moment. *"I just took a card at my table"* is the sentence that sells this to another rep. | T+1 to T+14, per account |
 | **3** | **The first DSO Adoption Report** | A founder seeing their own margin figure for the first time. **Most DSOs have never seen this number.** Their reaction is the beat-1 proof for every future permission ask. | T+30 |
 | **4** | **Field leaders after their first sale** | Tier 1 reps are articulate, motivated, and trusted by other reps. **The most reusable testimonial source in the field.** | T−3 wks (pre-launch cohort) |

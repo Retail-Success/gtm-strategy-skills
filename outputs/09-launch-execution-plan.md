@@ -68,13 +68,15 @@ Aice checkpoint 1. Coach-mark config loaded. Four red help-centre articles live.
 
 | Account | Role | Why it was chosen | What it measures |
 |---|---|---|---|
-| **Jordan Essentials** | **Pilot zero · leading indicator** | 764 reps already hold Essentials; ProPay onboarded; **waiting on the Tap-to-Pay ship.** | 🔴 **The cleanest read available anywhere.** Adoption is held constant, so when Tap-to-Pay lands it isolates the Tap-to-Pay effect on transact rate. **Not a baseline** — a predictor. |
+| **Jordan Essentials** | **Pilot zero · leading indicator** | 2,614 active reps · 764 downloaded · **only 254 hold RevPro** · ProPay onboarded · **gets all Wayroo features as pilot customer** · waiting on the Tap-to-Pay ship. | 🔴 **Three reads, and JE is the only account that yields any of them.** (1) Tap-to-Pay landing on a fixed 254-rep base **isolates its effect on transact rate.** (2) The 510 shutoff **prices the Wayroo→RevPro attach.** (3) 🔬 That same conversion is **the only willingness-to-pay signal before the Pro tier is priced.** **Not a baseline** — a predictor, three times over. |
 | **Large declining ByDesign client** | **Retention pitch** | Free removes the cost objection at an account already reducing spend | Whether free Wayroo + Aice is a retention lever. Judged on **whether the account stabilises**, not on adoption rate. |
 | **Known Square-leakage client** | **Tap-to-Pay hook** | Reps demonstrably already taking cards — off our rails | Whether Tap-to-Pay converts existing card volume onto our rails. **The purest transact-rate test of the three.** |
 
 > **This selection is better than the ProPay-state split proposed in [`07-launch-asset-plan.md`](07-launch-asset-plan.md), and supersedes it.** That version varied a *mechanical* condition; this one varies the *reason a rep would adopt* — retention, leakage recapture, and pent-up demand. Those map to three different value arguments, which is what actually needs testing.
 >
-> ⚠️ **What it gives up:** none of the three cleanly tests the cold locked state, because JE is already onboarded and engaged. **The lock's demand mechanism gets tested at the other two, and only if their ProPay is genuinely pending.** Confirm ProPay status at both before locking selection — if both are already onboarded, the demand counter goes to GA untested.
+> 🔴 **What it gives up, and this is now sharper:** **the demand counter cannot be tested at Jordan Essentials at all.** JE has ProPay onboarded, so once selling tools ship its reps go straight to unlocked — they never see the "tell your company" state the entire beat-3 mechanism depends on.
+>
+> **Accounts 2 and 3 are the only chance to validate the counter before GA, and only if their ProPay is genuinely pending.** Confirm status at both **before** locking selection. If both turn out to be onboarded, **the core demand mechanism reaches general availability having never been observed working.**
 
 ### 09-15 → 10-06 · Read and correct
 
@@ -86,20 +88,43 @@ GA to the remaining permitted accounts. **DSU and The Juice are the rep-facing m
 
 ---
 
-## 🔴 The DSU risk, stated plainly
+## ✅ The DSU risk is closed — and the critical path moved to next week
 
-**DSU is in October. GA is 06 October. Tap-to-Pay is the promoted feature at DSU — and it has not shipped.**
+**Tap-to-Pay ships end of the week of 2026-08-17.** That is ~6 weeks before DSU and ~7 before GA. **The feature-swap contingency is retired; promote Tap-to-Pay at both events as planned.** Email 3 and the Facebook hero clip are unblocked.
 
-`my-gtm-context.md` §14 already records the cautionary case: Tap-to-Pay drew the strongest rep reaction at the July JE launch, did not ship, and **left ~2,500 reps holding a convention-dated expectation.**
+**And all Jordan Essentials reps are already underwritten through JE**, so the ProPay merchant-account cost objection to the 510 trial does not apply. **They are eligible the day the feature lands.**
 
-> **Promoting Tap-to-Pay at a second rep-facing event without it shipping repeats that mistake at larger scale — and this time in front of an industry audience rather than one client's field.**
+> ### 🔴 The critical path is no longer the September pilot. It is the next seven days.
+>
+> Two one-shot events land the moment Tap-to-Pay ships, and **neither can be re-run:**
+>
+> | # | Event | Why it cannot wait |
+> |---|---|---|
+> | **1** | **The 254 RevPro reps get the selling tools** | 🔬 **A cleaner experiment than a normal before/after.** All selling tools are disabled today, so transact rate is **zero by construction** — **whatever the after is, the feature caused it.** Adoption is fixed at 254, nothing else changes. **It happens once, next week, and the read exists only if instrumentation is live from hour one.** |
+> | **2** | **~2,500 reps who have waited since July finally get it** | The richest proof-capture moment in the plan (`09-social-proof-capture.md` moment 1). **Sentiment is perishable and peaks on day one.** |
+>
+> **Both are measurement and capture problems, not build problems** — which means they are ours, and a week is enough if started now.
 
-| Scenario | Action |
+### What has to be ready by end of the week of 08-17
+
+| Owner | Deliverable |
 |---|---|
-| **Tap-to-Pay ships before DSU** | Promote it. It is the strongest hook available and the events are built around it. |
-| **It does not** | **Change the DSU feature, do not change the date.** Lead with dashboard widgets and back-office-data-on-your-phone — two of the four strongest JE rep reactions, both shipping, both working in the locked state. |
+| **Product + Data** | 🔴 **Instrumentation live from day zero** — per-rep transactions, GMV, and time-to-first-transaction, running the moment the feature lands. ⚠️ **There is no transaction baseline to capture:** all selling tools are disabled today, so transact rate is **zero by construction.** That makes the after fully attributable — but only if it is measured from hour one. **Also pull current app engagement for the 764** (opens, frequency, which of media library / widgets / inventory they use) — it predicts who transacts first. |
+| **Sam + Cassie** | JE sign-off on the 510 trial · trial vs. cold-ask decision · the split design |
+| **Sam** | Trial sequence loaded (copy drafted — [`06-messaging-house.md`](06-messaging-house.md) §6) |
+| **Autumn** | Proof capture staffed for launch day |
+| **Cassie** | The 254 announcement — a fulfilled promise to reps who have waited a month |
 
-**Decision needed by 09-15**, so the event content can be built against reality rather than hope.
+### Suggested sequence
+
+| Date | |
+|---|---|
+| **~08-21** | Tap-to-Pay ships. **254 get it permanently; 510 begin a 30-day trial.** |
+| **~09-20** | Trial converts or ends |
+| **09-15** | Pilot at accounts 2 and 3 — now informed by real JE Tap-to-Pay data |
+| **10-06** | GA, carrying conversion evidence and per-rep card volume |
+
+> **The trial concludes before GA.** That is worth protecting: it means the wider launch ships with a measured transact-rate lift, a real WTP number, and rep testimonials — rather than with projections.
 
 ---
 
@@ -181,7 +206,9 @@ Response targets: **in-app/support < 1 hour · DSO-side < 2 hours · field-leade
 
 | # | Dependency | Owner | Risk |
 |---|---|---|---|
-| 1 | **Tap-to-Pay ship date** | Product | 🔴 Gates the DSU feature call, Email 3, and JE's predictive read |
+| 1 | ~~Tap-to-Pay ship date~~ | ✅ **Closed** | **Ships end of week of 08-17.** DSU contingency retired; Email 3 and the Facebook clip unblocked. |
+| 1b | 🔴 **Transaction instrumentation live from hour one** | Product + Data | 🔴 **One-shot, ~7 days.** No transaction baseline exists to capture — selling tools are disabled, so the before is zero. **The risk is not a missing before; it is an unmeasured after.** |
+| 1c | **Pull current app engagement for the 764** | Data | 🟠 Cheap, and it predicts who transacts first. Also the only read on whether the three live features held reps through a month with no selling tools. |
 | 2 | **Demand counter + data-first first run in the 09-01 build** | Product | 🔴 Launch loses its demand signal |
 | 3 | **3 DSO permissions** | Sam + Daniel | 🔴 No pilot |
 | 4 | **Aice integration build time** | Product + Aice | 🟠 Contingency is decided; the date is not |
@@ -189,6 +216,10 @@ Response targets: **in-app/support < 1 hour · DSO-side < 2 hours · field-leade
 | 6 | **ProPay status at pilot accounts 2 and 3** | Cassie | 🟠 If both onboarded, the lock goes to GA untested |
 | 7 | **The Juice — date and audience** | Sam | 🟠 Cannot be planned; not yet in any sequence |
 | 8 | **Cassie/Autumn capacity across 3 concurrent launches** | Leadership | 🟠 Stagger, or name which account gets less |
+| 9 | 🔬 **Split the 510 before the sends go out** | Sam + Cassie | 🔴 **One-shot.** The population exists once; an unsplit send forfeits the only clean read on upgrade appetite before rung 2 is priced. |
+| 10 | 🔬 **Decide trial vs. cold ask for the 510** | Sam + Cassie + JE | 🔴 **Trial recommended** — it tests the actual rung-2 question and produces per-rep GMV. **Gated on Tap-to-Pay shipping.** |
+| 11 | ~~510 ProPay merchant underwriting~~ | ✅ **Closed** | **All JE reps are already underwritten through Jordan Essentials.** Eligible the day Tap-to-Pay lands. The cost objection to the trial is gone. |
+| 12 | **JE sign-off on the trial** | Cassie | 🟠 It modifies their own fairness requirement. **They must not discover it.** |
 
 ---
 

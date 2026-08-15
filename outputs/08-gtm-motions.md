@@ -54,7 +54,7 @@ The implication is structural, not cosmetic:
 
 **What this document does with that.** It does not rewrite category positioning — `strategic-inputs.md` §9 makes positioning category a joint Unified-Strategy/GTM decision, not a Phase 8 call. What it does is **sequence the Aug–Dec plan so that it tests the Wayroo-led thesis cheaply, using only the product that exists today**, and produces the evidence leadership needs to make the category decision in Q4.
 
-**And it deliberately excludes unshipped product from the plan.** Wayroo Back Office Lite (cloud genealogy + commissions) is in build. Rep-added personal inventory is under consideration and deferred to 2027 per `strategic-inputs.md` §6. Both would strengthen the Wayroo-led case enormously. Neither is in this plan. Tap-to-Pay just demonstrated, at 2,500 reps, what happens when go-to-market gets ahead of shipping.
+**And it deliberately excludes unshipped product from the plan.** Wayroo Back Office Lite (cloud genealogy + commissions) is in build. Rep-added personal inventory is under consideration and deferred to 2027 per `strategic-inputs.md` §6. Both would strengthen the Wayroo-led case enormously. Neither is in this plan. Tap-to-Pay demonstrated, at 2,500 reps, what happens when go-to-market gets ahead of shipping. *(It ships the week of 2026-08-17 — the lesson stands, the exposure closes.)*
 
 ---
 
@@ -262,7 +262,7 @@ The single cheapest way to test the Wayroo-led thesis with the product that exis
 | Content marketing program (2–4 articles/week) | Violates the OPE's explicit constraint; returns land 2027; no content function exists |
 | Building an owned community | 6–12 month audience play against a 4.7-month window |
 | Track 2 / rep-paid PLG launch | Genuine opportunity, wrong window — **product deferred to 2027.** Escalated as a Q4 decision. |
-| **Any GTM built on Back Office Lite or personal inventory** | Both unshipped. Tap-to-Pay just showed the cost of getting ahead of the roadmap — at 2,500 reps. |
+| **Any GTM built on Back Office Lite or personal inventory** | Both unshipped. Tap-to-Pay showed the cost of getting ahead of the roadmap — at 2,500 reps. *(Tap-to-Pay itself ships week of 2026-08-17.)* |
 | Product Hunt / AppSumo | Wrong ICP — enterprise DSO buyers are not there |
 | Broad new-logo cold outbound as 2026 revenue | Cycle math forbids it. Retained only as bounded 2027 seeding (Action 5). |
 | Anti-AiCE competitive positioning | Partnership unsigned as of Aug 8 but still live. Do not re-arm anti-AiCE messaging; do not build on the partnership either. |

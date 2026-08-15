@@ -23,7 +23,7 @@
 > **✅ WAYROO REVENUE MODEL RESOLVED (Aug 8, 2026) — supersedes §5.** Two lines, and the subscription is the minority one:
 > - **SaaS — DSO pays ByDesign: $3.00 / user / month**
 > - **PAYMENTS — ByDesign takes ~1.5% of every transaction** through Wayroo selling tools (tap-to-pay, invoicing, POS)
-> - *DSO charges its reps $5.00/rep/mo on top of the existing $10 (rep total $15/mo) — a $2/rep, **67% margin** for the DSO, which resells Wayroo at a profit rather than absorbing it*
+> - *DSO charges its reps $5.00/rep/mo on top of the existing $10 (rep total $15/mo) — a $2/rep, **67% markup** for the DSO, which resells Wayroo at a profit rather than absorbing it*
 >
 > **Paparazzi 2025 shows the shape:** 4,000 reps, $31M in rep sales ≈ **$7,750 GMV/rep/year**. SaaS $144K vs. **payments $465K — payments is ~76% of account revenue.**
 >
@@ -126,7 +126,7 @@ Current state without Dropship: if a rep doesn't have an item in their personal 
 > | **Rep self-pays** | DSO permits, rep pays directly | Multiple clients |
 > | ✅ **DSO marks up the passthrough** | DSO bills the rep *above* its own cost and keeps the spread | **Jordan Essentials** |
 >
-> **Lead with the markup model.** A DSO that marks up earns margin on every rep who adopts — so **the DSO's revenue interest and ByDesign's point at the same number.** It turns the approver ask from *"this costs you nothing"* into *"this is a margin line for you,"* and the mechanic works identically on the free Wayroo tier and the paid Aice upgrade. Per §12 this appears in **no deck**. ⚠️ The specific JE markup figures ("$10 → $15, $2/rep at 67%") are **unverified against actual billing** — confirm before building the pitch.
+> **Lead with the markup model.** A DSO that marks up earns margin on every rep who adopts — so **the DSO's revenue interest and ByDesign's point at the same number.** It turns the approver ask from *"this costs you nothing"* into *"this is a margin line for you,"* and the mechanic works identically on the free Wayroo tier and the paid Aice upgrade. Per §12 this appears in **no deck**. ⚠️ The specific JE markup figures ("$10 → $15, $2/rep at a 67% markup") are **unverified against actual billing** — confirm before building the pitch.
 
 **The DSO is the approver, not the buyer.** The ask to corporate is *permission and a communications channel*, not budget. **The rep is the adopter.**
 
@@ -236,6 +236,33 @@ Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Directo
 >
 > **This changes what the motion is.** "Included for Revolution reps" reaches only the third of adopters who are already Revolution Pro subscribers. For the other two-thirds it is a **$5 paywall applied after adoption** — and at the flagship account it lands on 510 reps who already downloaded and started using the product.
 >
+> ### The launch audience: 75,000 Revolution Pro subscribers — all of whom already hold Pro
+>
+> **They receive the Wayroo Free tier integrated with the Aice Free tier as a value-add**, because they are already paying for Revolution Pro. **For this audience "included, nothing to buy" is true and needs no qualification.**
+>
+> ⚠️ **Do not apply Jordan Essentials' 9.7% Pro penetration to this audience.** That figure describes JE's *active rep* population (254 of 2,614). The launch is aimed at Pro subscribers, where penetration is by definition 100%. **Two different denominators; conflating them mis-writes every rep-facing string.**
+>
+> **The JE $5 upsell is JE-specific.** JE charges its non-Pro reps $5/month and **keeps $2 of it** — ByDesign takes $3. That confirms the $3 / $5 / $2 structure in production at one account. *(Precision note for any deck: $2 on a $3 cost is a **67% markup**, or **40% of the rep-facing price.** Previously written as "67% margin" — corrected to **markup** throughout on 2026-08-14.)*
+
+> ### 🔴 Wayroo is a Revolution Pro acquisition engine — the biggest finding from the JE launch
+>
+> At Jordan Essentials, **RevPro penetration is 9.7%** (254 of 2,614 active reps) while **Wayroo demand was 29.2%** (764 downloads). **Reps wanted Wayroo at 3x the rate they hold the subscription that carries it.**
+>
+> **The product reps actually want is Wayroo. RevPro is the wrapper it is sold in.** That inverts the assumed direction of value: Wayroo is not merely something we include to make Pro stickier — **it is the reason a rep would buy Pro in the first place**, and it generated 510 pre-qualified upsell candidates at one account without a single sales conversation.
+>
+> **This means there are two motions inside Land-and-Expand, not one:**
+>
+> | | **Included** | **Upsell** |
+> |---|---|---|
+> | **Audience** | The 75,000 RevPro subscribers | Reps who want Wayroo and lack RevPro |
+> | **Price to rep** | $0 incremental | **$5/mo for RevPro, Wayroo included** |
+> | **ByDesign revenue** | Payments only | **Subscription + payments** |
+> | **Sold on** | It's already yours | **Wayroo's own merits** |
+>
+> ⚠️ **The second motion may be larger, and it is untested.** If JE's 3x ratio generalises, demand across the base materially exceeds the 75,000 who can currently be served. **Do not extrapolate from one account** — but do measure the same ratio at pilot accounts 2 and 3, because it would reframe the addressable market.
+>
+> ⚠️ **It also breaks "free" as a blanket claim.** Wayroo is included *if you hold RevPro* — true for 9.7% of JE's field, false for the rest. See the messaging correction in [`outputs/06-messaging-house.md`](outputs/06-messaging-house.md).
+
 > **Revolution Pro is always paid.** Every rep who has it is paying for it — either directly or through their DSO. There is no free Revolution Pro population.
 >
 > **So Wayroo is never free-standing: it is an attach to a paid subscription.** Which means the favourable reading is probably the truer one — **Wayroo is not a giveaway, it is the reason to buy Revolution Pro.** Wayroo becomes the acquisition funnel for a paid subscription, with payments as the second line. Cleaner than "free, monetised on payments," and it means Wayroo adoption is not forgone revenue at all. **But it has to be designed and messaged as an upgrade, not discovered by a rep whose store stopped working.**
@@ -246,7 +273,7 @@ Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Directo
 
 **The approver's own incentive:** it costs them nothing. Wayroo Essentials and the selling tools are **included for reps the DSO already pays a Revolution fee and back-office platform fees for** — better-equipped reps, more field activity, and full transaction visibility, at no incremental line item.
 
-**Payments status:** selling tools run on **ProPay today.** Jordan Essentials is already on ProPay, waiting only on Tap-to-Pay (**expected September 2026**). **Adyen is 3–6 months out and is an improvement, not a prerequisite** — do not gate the motion on it.
+**Payments status:** selling tools run on **ProPay today.** Jordan Essentials is already on ProPay, waiting only on Tap-to-Pay — ✅ **ships end of the week of 2026-08-17 (confirmed 2026-08-14)**. **All JE reps are already underwritten through JE**, so all 764 are eligible the day it lands. **Adyen is 3–6 months out and is an improvement, not a prerequisite** — do not gate the motion on it.
 
 ### The commercial model, resolved (2026-08-13)
 
@@ -259,7 +286,82 @@ Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Directo
 | **Wayroo Essentials + all selling tools** | **Included** at no incremental charge | Typical pricing tiers (§5) |
 | **Aice** | **Free tier** — feature-limited by design | Same |
 | **ByDesign revenue, near-term** | **Payments only (~1.5%)** | Tier + per-user + payments |
-| **ByDesign revenue, later** | **Aice upgrade path** | Same |
+| **ByDesign revenue, later** | **Wayroo Pro + Aice Pro upgrade** (see the ladder below) | Same |
+
+> ### The tier ladder — two rungs today, three planned
+>
+> | Rung | What the rep gets | Rep pays | Status |
+> |---|---|---|---|
+> | **1 — Revolution Pro** | **Wayroo Free tier + Aice Free tier**, integrated | **$5/mo** *(JE keeps $2; ByDesign takes $3 — a 67% markup on cost)* | **Live** |
+> | **2 — Wayroo Pro + Aice Pro** | The paid feature sets of both | **$5 + an additional upgrade fee, TBD** | 🔮 **Future motion** |
+>
+> **The upgrade sits on top of the $5, not instead of it.** A rep who upgrades keeps paying for Revolution Pro and adds the upgrade fee.
+>
+> **This changes an earlier conclusion.** [`outputs/05-aice-bundle-and-free-tier-pricing.md`](outputs/05-aice-bundle-and-free-tier-pricing.md) Q2 held that Wayroo would contribute nothing to a rep-facing upgrade because it had no paid rep tier. **It will have one.** The combined upgrade is genuinely combined — Wayroo Pro features plus Aice Pro features.
+>
+> 🔴 **The design rule survives the change, and it binds harder now.** Whatever goes into **Wayroo Pro must be non-transactional.** Gating a feature that would otherwise produce a transaction costs **~$216/year per suppressed rep** against an upgrade fee that will not approach it. **Tap-to-Pay, invoicing, POS, storefront and Dropship can never move behind this tier.**
+>
+> ✅ **Jordan Essentials is not a carve-out.** As pilot customer, **JE reps get all Wayroo features now.** An Aice upgrade — integrated with Wayroo, at an upgrade fee — may be offered to them later. **First in line, not excluded.**
+>
+> ⚠️ **Upgrade pricing is unset.** Until it exists, the Aice free/paid line question (`05-*` Q1) is still the gating decision — it now defines rung 2 for both products, not just Aice.
+
+> ### 🔬 The 510: run it as a trial-to-paid, not a shutoff
+>
+> **Why the store shutoff is non-negotiable:** JE takes the $5 and keeps $2, so it will not allow non-paying reps to hold an app its paying reps fund. **That is a fairness requirement, and it is legitimate.** The question is only what happens before the cutoff.
+>
+> **The proposal — turn Tap-to-Pay on for all 510, then revoke with a $5 prompt — is right, and it is a better experiment than the cold ask.** A rep who has *used* the thing is being asked the question that actually matters for rung 2: *will you pay more for a capability you have experienced?* The cold ask only tests whether Wayroo core is worth $5.
+>
+> **Three changes to the design:**
+>
+> **1. 🔴 Frame it as a trial from the first message, never retroactively.** A rep told upfront that Tap-to-Pay is free for a period and then billed has had a trial. A rep given it silently and then cut off has been baited. **Same mechanics, opposite outcomes** — and the difference is entirely in message one.
+>
+> **2. Structure it as trial-to-paid, not trial-then-revoke.** *"Free for 30 days, then $5/month, cancel anytime"* converts materially better than *"we are turning this off"* — and it is the same commercial event. **Revocation framing manufactures resentment the trial framing avoids.**
+>
+> **3. ⚠️ 14 days is a SaaS default and probably wrong for this audience.** These reps sell at **vendor events**, which are often weekly or monthly. **A 14-day window may not contain a single event** — meaning the rep never experiences the core value and the trial tests nothing. **Match the window to the selling rhythm: 30 days, or explicitly "your next two events."**
+>
+> ### The trial's real payoff: it produces the rep's own ROI number
+>
+> **The best conversion asset available is the rep's own card volume.** *"You took $340 in card payments in 30 days. Keep it for $5/month."* That argument does not exist without the trial, and it makes the price self-evidently trivial. **Instrument per-rep trial GMV from day one — it is both the conversion asset and the experimental result.**
+>
+> ### ✅ Both blockers are closed — the trial can run next week
+>
+> | | |
+> |---|---|
+> | ✅ **Tap-to-Pay ships end of the week of 2026-08-17** | ~6 weeks before DSU. The event feature-swap contingency is retired. |
+> | ✅ **All JE reps are already underwritten through Jordan Essentials** | No per-rep KYC to run. **All 510 are eligible the day the feature lands.** |
+>
+> **JE must still approve the trial explicitly** — it modifies their own fairness requirement, and they should not discover it.
+>
+> > ### 🔬 The experiment is cleaner than a normal before/after, because the "before" is structurally zero
+> >
+> > **Correction (2026-08-14): there is no transaction baseline to capture.** *All* selling tools — Tap-to-Pay, invoicing, POS — are disabled until Tap-to-Pay ships. JE reps today use only **media library, dashboard widgets, and inventory.** Transact rate, GMV and card-payment share are all **zero by construction.**
+> >
+> > **That is an advantage, not a gap.** A true zero baseline means **whatever the after is, it is entirely attributable to the feature** — no partial-usage confound to control for. **The urgency was never "capture the before." It is "instrument the after from day zero."**
+> >
+> > **What is still worth pulling this week, and it is cheap:** current **app engagement** for the 764 — who opens it, how often, which of the three live features they use. It does not control the experiment; it **predicts who transacts first** and shows whether Tap-to-Pay activates reps who had gone dormant. Segmentation, not a control.
+> >
+> > ⚠️ **It also means JE reps have run a deliberately partial product for a month** — 764 downloaded expecting selling tools and got three non-transactional features. **Whether they stayed engaged is itself unmeasured**, and it is the best available read on how much the locked state alone can hold a rep.
+
+> ### 🔬 What the experiment does and does not measure
+>
+> The reps whose stores deactivate with a prompt to pay are the **only willingness-to-pay signal available before rung 2 is designed.** Free, already running, no instrument to build. But be precise about what it does and does not measure:
+>
+> | | **Cold ask** *(no trial)* | **Trial-to-paid** ✅ |
+> |---|---|---|
+> | **Measures** | Is Wayroo core worth $5 sight-unseen? | **Will a rep pay for a capability they have used?** |
+> | **Proxy for rung 2** | Weak | **Strong — it is the same question** |
+> | **Produces GMV data** | No | **Yes, per rep** |
+> | **Conversion asset** | A feature list | **Their own card volume** |
+>
+> **The trial is the better instrument for the question being asked.** It is a worse instrument for pricing Wayroo core cold — but nobody needs that number.
+>
+> **Two confounds, and both push the number in known directions:**
+>
+> **1. Loss aversion inflates it.** Restoring something you had is a stronger motivator than buying something new. **Expect the 510 conversion rate to overstate true upgrade appetite** — discount it before extrapolating to rung 2.
+>
+> **2. 🔴 Shutoff execution contaminates it.** The conversion rate blends *willingness to pay* with *reaction to having something taken away.* Handled badly, the number measures our messaging rather than their appetite. **The shutoff comms are now an experimental instrument, not just a retention risk** — see [`outputs/06-messaging-house.md`](outputs/06-messaging-house.md) §6.
+>
+> **Make it a cleaner test at no extra cost: split the 510.** Half get a plain restore-access message, half a value-framed one. That separates messaging effect from underlying appetite, and **it is the only chance to run this** — the population exists once.
 
 > **"Free" is the wrong internal word. The word is *included*.** Revolution clients already pay a platform fee; Wayroo rides inside it. That is ordinary software bundling, not a discount — and it is the entire competitive defence when a prospect discovers an existing client isn't paying extra for Wayroo. The fence is **"already a platform customer vs. not,"** and it needs no apology.
 
@@ -267,11 +369,13 @@ Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Directo
 
 **All selling tools are in the free tier.** Tap-to-Pay, invoicing, and POS are never behind a paid upgrade. The ProPay "contact corporate" prompt is a **merchant-account prerequisite, not a commercial gate** — the two are consistent. Gating any transactional feature would cost ~$216/year per suppressed rep against an upgrade worth less than that.
 
+> ⚠️ **Selling tools ship as a set, not individually.** Tap-to-Pay, invoicing and POS are **all disabled until Tap-to-Pay releases** (week of 2026-08-17). Until then a live account runs on **media library, dashboard widgets and inventory only** — which is exactly the Jordan Essentials picture today. **Plan every account's transacting funnel from the Tap-to-Pay date, not the install date.**
+
 **Paid Wayroo surface:** white-labeling / branding, sold to the DSO. **This is now the only one.**
 
 > ⚠️ **International is out of scope.** The Wayroo app is not ready and it is not the starting point. Multi-currency/multilingual and the 2027 international TAM are deferred; do not build pricing, bundle, or forecast work on them.
 
-> ⚠️ **Stranded figures — reconcile before any forecast.** The **$3.00/user/month SaaS** line and the **DSO's $5/rep resale at a $2 / 67% margin** describe the prior paid Wayroo model. They apply to the **new-DSO motion only**, not to the installed-base rollout. They still appear in §5, in [`outputs/go-forward-gtm-operating-model-2026-08-08.md`](outputs/go-forward-gtm-operating-model-2026-08-08.md) (Invariants 2 and 3), and in the financial model — all of which apply them to a base that does not pay them. Residual ambiguity: the earlier "$5/rep on top of the existing $10" framing and Revolution's own ~$5/user/mo fee are not obviously the same $5.
+> ⚠️ **Stranded figures — reconcile before any forecast.** The **$3.00/user/month SaaS** line and the **DSO's $5/rep resale at a $2 / 67% markup** describe the prior paid Wayroo model. They apply to the **new-DSO motion only**, not to the installed-base rollout. They still appear in §5, in [`outputs/go-forward-gtm-operating-model-2026-08-08.md`](outputs/go-forward-gtm-operating-model-2026-08-08.md) (Invariants 2 and 3), and in the financial model — all of which apply them to a base that does not pay them. Residual ambiguity: the earlier "$5/rep on top of the existing $10" framing and Revolution's own ~$5/user/mo fee are not obviously the same $5.
 
 ### Adoption benchmarks — what this motion can realistically deliver
 
@@ -615,19 +719,23 @@ This is the single highest-leverage marketing asset. It is not yet published any
 **Second proof asset (Jordan Essentials — launched July 17–18, 2026):**
 > **700+ downloads in the launch weekend.** Deal closed in ~11 weeks vs. the 4–6 month standard. After the launch, the founder requested the paid contract start be pulled forward to September, cutting short an agreed free period.
 
-> 🔴 **Actuals as of Aug 10, 2026 — publish the launch number, and nothing beyond it.**
+> ### 🔴 Confirmed actuals — 2026-08-14
 >
-> | Metric | Figure |
-> |---|---|
-> | Reps on Wayroo (as of 8/10) | **764** — **all downloaded within 2–3 days of the convention** |
-> | Of those, on Revolution Pro | **254** (33%) |
-> | Not on Revolution Pro — **stores to be turned off** | **510** (67%) |
-> | Stores created (as of 8/7) | **2,618** ⚠️ *unconfirmed whether this reflects total JE reps* |
-> | Post-launch adoption velocity | 🔴 **Unmeasured — no data after the launch window** |
+> | Metric | Figure | Share of field |
+> |---|---|---|
+> | **Active reps in Freedom** | **2,614** | — |
+> | Downloaded Wayroo | **764** — all within 2–3 days of the convention | **29.2%** |
+> | **Hold Revolution Pro** (can keep Wayroo) | **254** | **9.7%** |
+> | **Losing access → $5/mo RevPro prompt** | **510** (67% of downloaders) | **19.5%** |
+> | Never downloaded | 1,850 | 70.8% |
 >
-> **The publishable claim is "764 reps adopted Wayroo within days of the convention."** True, precise, and strong. **Do not attach "and still growing"** — nothing measures that. And do not publish an adoption *rate* until the 510 store-shutoff resolves, because the denominator is unconfirmed and the numerator may fall to 254 before it rises.
+> ### **Wayroo demand ran at 3.0x the RevPro population.**
 >
-> ⚠️ **2,618 stores against 764 Wayroo reps** — a 3.4x gap, and the 2,618 is not yet confirmed to mean total reps. **Do not use it as a denominator for any adoption percentage until it is defined.**
+> **This is the most important number the launch produced.** 764 reps wanted Wayroo; only 254 were entitled to it. The gap is not churn — **it is 510 reps who pre-qualified themselves by actually using the product.**
+>
+> **The publishable claim is "764 reps adopted Wayroo within days of the convention."** Precise and strong. **Do not attach "and still growing"** — nothing measures that.
+>
+> **JE's transacting ceiling as things stand is 254 reps**, not 764: ~137 transacting at the 54% benchmark ≈ **$29.6K/yr**. The 510, if converted, are worth up to **~$90K/yr** (RevPro fees + payments). Full working: [`outputs/09-funnel-and-channel-reconciliation.md`](outputs/09-funnel-and-channel-reconciliation.md).
 
 **Why this may now be the more valuable of the two.** Paparazzi proves *scale* at a client live for years. Jordan Essentials proves **repeatability in the exact segment the 2026 upsell motion sells into, on an 11-week timeline, with a named forcing function** — and it is fresh. A Hybrid DSO prospect recognizes themselves in Jordan Essentials in a way they never will in Paparazzi.
 
@@ -801,7 +909,7 @@ Structured records of what was learned from prospect interactions — confirmed 
 | Prospect | GTM Segment | Key Intel | File |
 |----------|-------------|-----------|------|
 | Color Street | Cash & Carry DSO (ICP 1a) | Left Exigo; custom commission engine + Shopify stack; Wayroo-only deal (no Freedom pitch); "My Stash" concept validated; customer auto-creation in DSO back office named unprompted; blocked on Shopify integration | [prospects/color-street.md](prospects/color-street.md) |
-| Jordan Essentials | Hybrid DSO (ICP 1b) — **may reclassify toward C&C** | ✅ **CLOSED-WON, LIVE since July 17–18, 2026.** 700+ downloads / ~28% of 2,500 reps in 48 hrs. ~11-week cycle. eSuite pass-through live at $15/mo. Founder pulled paid start forward to Sept. Rep-side top reactions were all *selling and visibility* tools: Tap-to-Pay (unshipped), invoicing w/ payment links, downline dashboards, phone access to back-office data. **Media Library rated High by DSO leadership, Low by reps** — persona split. Reps spend $60/mo min on tools. ~20% C&C figure confirmed understated. Repeated rep requests for SMS/Project Broadcast. | [prospects/jordan-essentials.md](prospects/jordan-essentials.md) |
+| Jordan Essentials | Hybrid DSO (ICP 1b) — **may reclassify toward C&C** | ✅ **CLOSED-WON, LIVE since July 17–18, 2026.** 700+ downloads / ~28% of 2,500 reps in 48 hrs. ~11-week cycle. eSuite pass-through live at $15/mo. Founder pulled paid start forward to Sept. Rep-side top reactions were all *selling and visibility* tools: Tap-to-Pay (**ships week of 2026-08-17**), invoicing w/ payment links, downline dashboards, phone access to back-office data. **Media Library rated High by DSO leadership, Low by reps** — persona split. Reps spend $60/mo min on tools. ~20% C&C figure confirmed understated. Repeated rep requests for SMS/Project Broadcast. | [prospects/jordan-essentials.md](prospects/jordan-essentials.md) |
 
 **How skills should use this:**
 - Before any outreach or call prep, read the relevant prospect file
@@ -842,7 +950,7 @@ The current motion sells **Freedom** (a back-office replacement — expensive, h
 - **Wayroo Back Office Lite** — cloud genealogy + commission engine connected to Wayroo. Would make Wayroo a genuinely standalone product. *In build.*
 - **Rep-added personal inventory** — rep buys Wayroo, loads their own inventory, pushes the app up to the DSO, then sells corporate inventory via existing inventory sync. A textbook bottom-up land-and-expand, and the mechanism that would activate the Track 2 (Direct-to-Rep) motion in §2. *Under consideration; deferred to 2027 per `strategic-inputs.md` §6.*
 
-⚠️ **Tap-to-Pay is the cautionary case.** It drew the strongest rep reaction at the Jordan Essentials launch and has not shipped, leaving ~2,500 reps with a dated expectation. Do not repeat this at company-strategy scale.
+✅ **Tap-to-Pay ships the week of 2026-08-17**, closing the expectation ~2,500 JE reps have carried since July. **The lesson stands even though the exposure closes:** it drew the strongest rep reaction at the launch and then went a month undelivered. **Do not repeat that at company-strategy scale** — the rule is unchanged for every feature still in build.
 
 ### How it is being tested
 

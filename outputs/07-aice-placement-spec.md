@@ -70,13 +70,15 @@ Show to reps whose DSO is a ByDesign client. **Do not show to Aice's non-ByDesig
 
 **Tier B prompt:**
 > **Selling something?**
-> Your inventory, orders, and payments live in Wayroo — it's included with your [DSO] subscription.
+> Your inventory, orders, and payments live in Wayroo.
 > **[ Open Wayroo ]**
 
 **Tier C announcement:**
 > **Wayroo is here.**
-> Your inventory's already loaded. Sell at events, send invoices, get paid — included with your subscription, nothing to buy.
+> Your inventory's already loaded. Sell at events, send invoices, get paid.
 > **[ Open Wayroo ]**
+
+> ⚠️ **Unbranchable surface — no commercial claim.** Aice cannot know a rep's Revolution Pro status, and **only ~10% of a typical field holds it.** Copy inside Aice must therefore make **no claim about price or inclusion** — the entitlement conversation happens in Wayroo, where the status is known. **This is a simplification for Aice, not a constraint:** shorter copy, nothing to maintain, and no exposure if our pricing changes.
 
 **Copy rules:** never *download*, *install*, *try*, *free trial*, or *partner*. **Say *open*.** The rep already has access; the language should assume it.
 

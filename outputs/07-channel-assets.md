@@ -17,9 +17,18 @@ A rep inside Revolution is already doing rep-business work. **No other channel r
 | **Persistence** | Dismissible, returns after 14 days until the app is installed |
 | **Dependency** | Permission 2 from the DSO |
 
+**Targeted to Revolution Pro subscribers — so "included" is true and needs no hedging.**
+
 > ### Your inventory's already in the app.
-> Wayroo comes with your Pro subscription — sell at events, send invoices, and let your counts update themselves.
-> **[ Get the app ]** *Included. Nothing to buy.*
+> Wayroo and Aice come with your Pro subscription — sell at events, send invoices, and let your counts update themselves.
+> **[ Get the app ]** *Included with Pro. Nothing extra to buy.*
+
+**Optional secondary placement — reps in Revolution *without* Pro:**
+> ### Your inventory's already in the app.
+> Wayroo comes with Jordan Central Pro — sell at events, send invoices, and let your counts update themselves.
+> **[ Turn on Pro — $5/month ]** *Wayroo, Aice and the selling tools included.*
+
+> **The first is the launch. The second is the upsell** — worth running, and JE suggests the demand is there, but it is a separate campaign with a separate metric. **Do not let it dilute the primary placement.**
 
 **Post-install variant** (rep has Wayroo, hasn't opened it in 7 days):
 > **Your Wayroo inventory is up to date.** Open it before your next event →
@@ -88,11 +97,13 @@ Wayroo is the front door (`my-gtm-context.md` §2). Running both at equal weight
 >
 > Sell at an event and your counts drop on their own. No spreadsheet, no re-entering what [DSO] already knows.
 >
-> **It's included with your Jordan Central Pro subscription.** Nothing extra to buy.
+> **It's included with your Jordan Central Pro subscription — Wayroo and Aice both.** Nothing extra to buy.
 >
 > **[ Get the app ]**
 >
 > — The Wayroo team
+
+*The send list is Revolution Pro subscribers, so no hedging is required. A separate upsell sequence to non-Pro reps uses the $5 framing — see the secondary placement above.*
 
 **Why it opens on inventory rather than payments:** it is the claim only we can make, and it is the one that survives a rep who has heard *"new app"* too many times.
 
@@ -116,9 +127,9 @@ Wayroo is the front door (`my-gtm-context.md` §2). Running both at equal weight
 
 ## Email 3 — Tap-to-Pay teaser *(day 7)*
 
-> ### 🔴 BLOCKED — do not send without a committed Tap-to-Pay ship date
+> ### ✅ UNBLOCKED — Tap-to-Pay ships end of the week of 2026-08-17
 >
-> Tap-to-Pay is the strongest hook we have **and it has not shipped.** ~2,500 JE reps already carry a convention-dated expectation from July. **A second undated promise to a larger audience turns the best asset in the launch into a credibility problem.** Send only against a date Product has committed to — otherwise hold it and send Email 2b (below).
+> The date is committed, so this email can be scheduled against it. **Send after the feature is live, never before** — the July expectation gap is exactly what a pre-announcement would repeat. Email 2b below is retained as a fallback only if the date slips.
 
 **Variant A — selling tools live**
 
@@ -152,7 +163,7 @@ Wayroo is the front door (`my-gtm-context.md` §2). Running both at equal weight
 | **0:25–1:10** | Tap item → sale → count drops | *"Tap what you're selling. Take the payment. Your count updates itself — nothing to write down."* |
 | **1:10–1:40** | Invoice with payment link | *"Someone wants something you don't have on you? Send an invoice they can pay from their phone."* |
 | **1:40–2:05** | Customer list, then back office | *"Everyone you sell to is saved — and it reaches [DSO] on its own, so you're not reporting anything."* |
-| **2:05–2:30** | Close | *"No setup. No spreadsheet. No new bill. It's included with what you already pay for."* |
+| **2:05–2:30** | Close | *"No setup. No spreadsheet. It comes with Revolution Pro — five dollars a month, against the sixty to a hundred most reps are already spending."* **⚠️ Unbranchable — the video reaches a mixed audience, so it states the price rather than claiming inclusion.** |
 
 **Production:** real inventory data, never *Test Product 1*. Captions mandatory — most reps watch on mute. 1080p. Host on YouTube unlisted, embed on the landing page and in the help centre.
 
@@ -170,7 +181,8 @@ Wayroo is the front door (`my-gtm-context.md` §2). Running both at equal weight
 
 | Section | Content |
 |---|---|
-| **Hero** | **"It's already yours."** / Wayroo comes with your Revolution Pro subscription. Your inventory's already in it. / `[ Get the app ]` |
+| **Hero** | 🔴 **"Your inventory's already in it."** / The selling app that comes with Revolution Pro. Nothing to set up. / `[ Get the app ]` **⚠️ Unbranchable surface — a visitor's RevPro status is unknown, so the hero must be the data claim, not "it's already yours."** |
+| **Price line** | Below the fold, plainly: *"Wayroo comes with Revolution Pro. If you have Pro, it's included. If not, Pro is $5/month."* **Do not hide this** — a rep who finds it after downloading feels misled; a rep who reads it first sees $5 against the $60–100 they already spend. |
 | **Hero visual** | **Populated inventory screenshot.** Not a hero illustration, not a phone mockup on a gradient. The populated screen is the argument. |
 | **Proof bar** | 25 years in direct selling · $7B+ in commissions processed · DSA Partner Award · Capterra 4.8 |
 | **Problem** | *"Six apps, $60–100 a month, and none of them know what you ordered."* |

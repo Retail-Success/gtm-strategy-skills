@@ -68,11 +68,35 @@ The rep's state determines what they see. **Get this branching right; it is wher
 > Your customer taps their card on your phone. No reader, nothing to buy.
 > `Show me` · ✕
 
-#### 3b — ProPay pending (locked) 🔴
+#### 3b — locked 🔴 — **two states, and using the wrong one is a lie**
+
+> ### 🔴 There are two reasons selling tools can be dark, and only one of them is the DSO's doing.
+>
+> **Selling tools ship as a set** — Tap-to-Pay, invoicing and POS all release together (week of 2026-08-17). So before that date, tools are dark **because the feature does not exist**, not because the DSO has done anything.
+>
+> **Telling a rep "your company is finishing payment setup" when the truth is "we haven't shipped it" is false, and it points rep pressure at a DSO who is not the blocker.** At Jordan Essentials — ProPay already onboarded — it would be flatly untrue.
+
+**3b-i · Pre-ship: the feature is not out yet**
+
+> **"Selling tools are coming."**
+> *Card payments, invoicing and event checkout arrive with our next release. They're included in your app — nothing to buy.*
+> `Got it` · ✕
+
+🚫 **No demand counter in this state.** There is nothing for the DSO to do, so a "tell your company" button would misdirect pressure and produce a meaningless number.
+
+**3b-ii · Post-ship, DSO ProPay pending**
 
 > **"Card payments are coming."**
 > *[DSO] is finishing payment setup with our processor — a banking requirement. Tap to Pay is included in your app at no cost as soon as it's done.*
 > `Tell [DSO] I want this` · ✕
+
+✅ **Demand counter belongs here and only here.** This is the state the whole beat-3 mechanism was designed for.
+
+**After tapping:**
+> **Got it — we'll let [DSO] know.**
+> You're the 47th rep to ask. We share the count with your home office so they know the field wants it.
+
+> ⚠️ **Consequence for the pilot: the demand counter cannot be tested at Jordan Essentials.** JE has ProPay onboarded, so its reps go from 3b-i straight to unlocked and never see state 3b-ii. **The counter can only be validated at a pilot account with ProPay genuinely pending** — which makes accounts 2 and 3 the only chance to test the core mechanism before GA.
 
 **After tapping:**
 > **Got it — we'll let [DSO] know.**
@@ -94,6 +118,8 @@ The rep's state determines what they see. **Get this branching right; it is wher
 # 2. Locked-Tool Copy — All Three Surfaces
 
 **Full rationale in [`06-positioning-master.md`](06-positioning-master.md).** These are the strings.
+
+> ⚠️ **All three strings below are the *post-ship, ProPay-pending* variant (3b-ii).** Before the week of 2026-08-17, use the pre-ship wording from 3b-i — *"arrives with our next release"* — and **no demand counter.** Selling tools release as a set, so all three surfaces switch states together.
 
 ### Tap to Pay
 > **Tap to Pay**
@@ -156,7 +182,11 @@ The rep's state determines what they see. **Get this branching right; it is wher
 Publish in the help centre and inside the app. Plain language; reps do not read documentation, they search it.
 
 **Is this really free?**
-Yes. Wayroo comes with your Jordan Central Pro subscription. There's nothing extra to buy, and the selling tools are included too.
+Yes. Wayroo and Aice both come with your Jordan Central Pro subscription. There's nothing extra to buy, and the selling tools are included too.
+
+> ⚠️ **This answer is correct for the launch audience** — every rep reached by the campaign holds Revolution Pro. **A rep who does not hold Pro needs the other answer:** *"Wayroo comes with Jordan Central Pro, which is $5/month — you can switch it on yourself in your back office."*
+>
+> **Help-centre and support staff need both**, because they field questions from reps outside the campaign. **In-app and email do not** — targeting guarantees the audience.
 
 **Do I have to set it up?**
 No. Open it and your inventory is already there.
@@ -207,7 +237,7 @@ In-app help, or [support channel]. Wayroo support answers directly — you don't
 > **1. Open it.** Your inventory's already loaded — everything you've ordered from [DSO].
 > **2. Check your counts.** Anything received but not marked? Tap it and mark it received.
 > **3. Make a sale.** Tap an item, add it to a sale, take payment. Your count drops on its own.
-> **4. That's it.** No setup, no spreadsheet, nothing to buy.
+> **4. That's it.** No setup, no spreadsheet.
 >
 > *Card payments, invoices, and event checkout are included — they switch on once [DSO] finishes payment setup with our processor.*
 

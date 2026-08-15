@@ -28,7 +28,17 @@ Because in-app guidance ships through our own config engine rather than custom U
 
 ## Critical path
 
-> ### The DSO deck is the single most urgent asset. Everything downstream waits behind **three** permission conversations that have not started.
+> ### 🔴 Superseded 2026-08-14 — the nearest deadline is now next week, not September
+>
+> **Tap-to-Pay ships the week of 2026-08-17**, and **all Jordan Essentials reps are already underwritten.** That puts two one-shot events roughly seven days out: the **254 getting the selling tools** (a clean natural experiment — transact rate is zero today, so the after is fully attributable) and the **510 trial-to-paid**. Neither can be re-run, and **the requirement is instrumentation live from hour one**, not a baseline — there are no transactions to baseline.
+>
+> **Sequencing and owners: [`09-launch-execution-plan.md`](09-launch-execution-plan.md).** The September path below still holds for the three-DSO pilot — it is simply no longer the first thing due.
+>
+> ⚠️ **The ProPay-state pilot design below is also superseded** by the JE / declining-client / Square-leakage selection in the execution plan.
+
+### The September path — still valid, no longer first
+
+> ### The DSO deck is the most urgent asset for the pilot. Three permission conversations have not started.
 
 Pilot on **09-15** requires **3 DSOs** each granting all three permissions. Each conversation needs the deck, a meeting, and a decision — realistically **3–4 weeks**, and they run in parallel rather than in sequence. Starting after 09-01 means pilot slips.
 
@@ -190,7 +200,7 @@ This objection lands on the **new-logo** motion, and it needs one answer used id
 | 3 | **3 pilot DSOs secured** — approach 4–5 to land 3 | Sam + Daniel | 🔴 Pilot slips; GA compresses. Three parallel conversations, not one. |
 | 3b | **Per-client Pro-subscriber counts** — needed to *select* the 3 | Data | 🔴 Blocks account selection, not just measurement |
 | 4 | **Aice placement accepted** | Sam → Brian | 🟠 Front-door claim fails; cross-promo becomes one-directional |
-| 5 | **Tap-to-Pay ship date** | Product | 🟠 It is the hero hook. Teaser email cannot go out against an uncommitted date. |
+| 5 | ~~Tap-to-Pay ship date~~ | ✅ **Closed** | **Ships week of 2026-08-17.** Teaser email and Facebook clip unblocked; DSU contingency retired. **The critical path is now the pre-ship baseline for the 254** — see [`09-launch-execution-plan.md`](09-launch-execution-plan.md). |
 | 6 | **Per-client Pro-subscriber counts** | Data | 🟠 Cannot size or sequence accounts; cannot measure pilot adoption |
 | 7 | **Legal confirmation** (above) | Legal | 🟠 Cheap to ask, expensive to discover |
 | 8 | **510 JE shutoff sequencing vs. launch** | Cassie + Sam | 🟠 A shutoff landing near GA reads as bait-and-switch |

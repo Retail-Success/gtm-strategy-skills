@@ -69,18 +69,18 @@ Give a field leader everything, ready. They are volunteers with a business to ru
 
 > ⚠️ **The Juice is not plannable yet.** Date and audience unknown, so it appears in no sequence in [`09-launch-execution-plan.md`](09-launch-execution-plan.md). **Supply both and this section applies to it unchanged** — the motion below is event-agnostic.
 
-## 🔴 The dependency that decides both events
+## ✅ The dependency is closed — promote Tap-to-Pay as planned
 
-**Tap-to-Pay is the promoted feature and it has not shipped.** `my-gtm-context.md` §14 records what happened last time: strongest rep draw at the July JE launch, didn't ship, **~2,500 reps left holding a convention-dated expectation.**
+**Tap-to-Pay ships the week of 2026-08-17** — roughly six weeks before DSU. **The feature-swap contingency is retired.** Both events promote it as the hero, which is what they were designed around.
 
-> **Promoting it again at a rep-facing event without it shipping repeats that mistake in front of an industry audience instead of one client's field.**
+> **And it will have been live for weeks, not days.** By DSU there should be real Jordan Essentials reps who have taken card payments at real events. **That is a materially stronger demo than a feature announcement** — bring one of them.
 
-| If | Then |
+| What changes | |
 |---|---|
-| **Ships before DSU** | Promote it. It is the strongest hook available and both events are built around it. |
-| **Does not** | **Change the feature, not the date.** Lead with **dashboard widgets and back-office data on your phone** — two of the four strongest rep reactions at JE, both shipping, both working with ProPay pending. |
-
-**Call it by 09-15**, so content is built against reality.
+| **Event content** | Build against Tap-to-Pay. No fallback needed. |
+| **Booth demo** | Live, on a phone, with a real card — not a screenshot |
+| **Strongest asset** | **A JE rep who has used it in the field.** See the field-leader section above; they are already Tier 1. |
+| **What to still avoid** | **Never give a date for anything else** on a stage. The July lesson holds for every unshipped feature — it just no longer applies to this one. |
 
 ## DSU (October) — the mixed-audience advantage
 
@@ -122,6 +122,7 @@ Adapted from playbook Phase 1. **The playbook's launch steps are the event steps
 | **Rep asks "when?"** | *"It's included and it's coming — I'm not going to give you a date I can't keep."* **Honest beats confident.** ~2,500 reps are already waiting on one. |
 | **A rep's DSO hasn't granted permissions** | Register interest, don't sell. Feed the name to Cassie as an inbound signal — a rep asking for it is the warmest possible opening. |
 | **Their DSO hasn't onboarded ProPay** | Install them anyway. **Locked-tool tap is a leading indicator**; capture it and add them to that account's demand count. |
+| **Asked why the app has no selling tools *(pre-ship only)*** | *"They release as a set on [date] — card payments, invoicing and event checkout together."* 🚫 **Never say their company hasn't set something up** — before ship, the delay is ours and blaming the DSO is both false and damaging. |
 
 ---
 

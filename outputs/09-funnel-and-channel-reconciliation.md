@@ -19,11 +19,17 @@ Merging them surfaces something neither document has on its own.
 >
 > | Gate | Level | Actor | Failure looks like | The fix |
 > |---|---|---|---|---|
-> | **1. Feature shipped** | Product, global | **ByDesign Product** | Tap-to-Pay doesn't exist yet | A ship date. **Nothing else touches it.** |
+> | **1. Feature shipped** | Product, global | **ByDesign Product** | **The entire selling-tool set is dark** — Tap-to-Pay, invoicing and POS release together | ✅ **Ships week of 2026-08-17.** Nothing else touched it. |
 > | **2. DSO ProPay onboarding** | Account | **The DSO** | Tools locked for the whole field | **Beat-3 demand pressure** — the demand counter |
 > | **3. Rep ProPay merchant approval** | Individual rep | **The rep** | Rep installed, can't take money | **Ops unblocking** (playbook 3.2) — not persuasion |
 >
 > **Confusing gates 2 and 3 means running the wrong play.** The playbook hypothesises the bottleneck is gate 3 and is right to — but **gate 2 sits upstream of it and the playbook's funnel does not contain it.** A locked account has a 100% failure rate at gate 2 and the rep-level enablement work is wasted effort until it clears.
+>
+> ### 🔴 Gate 1 is global and it releases as a set
+>
+> **Tap-to-Pay, invoicing and POS all ship together.** Until gate 1 opens, *every* account is at zero transactions regardless of its ProPay status — which is why Jordan Essentials sat at 764 installs and no revenue for a month with gates 2 and 3 already clear.
+>
+> **Operational consequence: plan every account's transacting funnel from the gate-1 date, not the install date.** Onboarding an account into stages 1–3 well ahead of gate 1 produces installed reps with nothing to transact on, which is the exact gap that opened at JE. **Do not repeat it at the pilot accounts** — sequence their launches against the ship date.
 >
 > **Jordan Essentials is currently stuck at gate 1** — ProPay onboarded (gate 2 clear), 764 reps installed, **waiting on a feature that doesn't exist.** No amount of adoption work moves that.
 
@@ -31,6 +37,7 @@ Merging them surfaces something neither document has on its own.
 
 | # | Stage | Actor | Value/rep/yr | Measured? |
 |---|---|---|---|---|
+| 0 | **Wants Wayroo, no Pro** *(upsell entry — new)* | Rep | — | ❌ **New stage** |
 | 1 | **Eligible** — Revolution Pro subscriber | — | $0 | ✅ |
 | 2 | **Install** | Rep | $0 | ✅ |
 | 3 | **Active** — opened, data loaded | Rep | **$36** | ❌ |
@@ -46,6 +53,12 @@ Merging them surfaces something neither document has on its own.
 > That is structurally unusual, and it is the entire reason the demand counter exists: **a mechanism for the user to influence a stage they have no power over.** Stage 4 is not a funnel step in the normal sense — **it is the instrument that moves stage 5.**
 >
 > It is also why stage 4 is the launch's primary real-time metric. It is the earliest signal that predicts revenue, and it is available on day one at every locked account.
+
+> ### Stage 0 is new, and it runs backwards
+>
+> The funnel above assumes a rep starts eligible. **Jordan Essentials produced 510 reps who started at stage 0 — they wanted Wayroo before they were entitled to it.** Their path is *demand first, subscription second*, which is the reverse of the designed motion.
+>
+> **It is a second funnel, not a longer one.** Entry point, actor, price, and success metric all differ, and running it as an extension of the primary funnel would bury a subscription-acquisition motion inside an adoption metric. **Report it separately.**
 
 **Path by account state:**
 
@@ -71,17 +84,29 @@ Merging them surfaces something neither document has on its own.
 
 **Projection basis:** `transacting reps × $216/year` (payments) `+ $36` (SaaS, already collected via Pro).
 
-### Jordan Essentials — the only account that can be projected today
+### Jordan Essentials — corrected 2026-08-14
 
-764 reps installed, ProPay onboarded, waiting on gate 1.
+⚠️ **An earlier version of this projection used 764 as the transacting base. That was wrong by 3x.** Only reps holding Revolution Pro can keep Wayroo, and at JE that is **254 of the 764 who downloaded.**
+
+**Confirmed actuals:** 2,614 active reps in Freedom · 764 downloaded (29.2% of field) · **254 hold RevPro (9.7% of field)** · **510 lose access** and are prompted to pay the $5/month RevPro fee.
+
+**Transacting ceiling as things stand — 254 reps:**
 
 | Scenario | Transacting | Payments/yr |
 |---|---|---|
-| At Paparazzi's derived **54%** transact rate | 413 | **$89,100** |
-| At the playbook's **80%** lever-2 target | 611 | **$132,000** |
-| **Delta from transact-rate work alone** | | **+$42,900** |
+| At Paparazzi's derived **54%** rate | 137 | **$29,600** |
+| At the playbook's **80%** target | 203 | **$43,800** |
 
-**No new installs required for either figure.** This is playbook lever 2, and it is the fastest money available.
+**The 510 are the upside, and they are pre-qualified by actual product use:**
+
+| 510 conversion | RevPro fees/yr | Payments @54% | **Total/yr** |
+|---|---|---|---|
+| 25% | $7,620 | $14,688 | **$22,300** |
+| 50% | $15,300 | $29,592 | **$44,900** |
+| 75% | $22,920 | $44,496 | **$67,400** |
+| 100% | $30,600 | $59,400 | **$90,000** |
+
+⚠️ **The $5 is the rep-facing price.** ByDesign's share depends on JE's markup, which is still unverified. **Treat the RevPro column as gross rep spend, not ByDesign revenue.**
 
 > **JE's read is the launch's most valuable number.** Adoption is held constant at 764, so when Tap-to-Pay lands it **isolates the Tap-to-Pay effect on transact rate.** That single measurement is the best available predictor for the other 74,000 Pro subscribers — and it costs nothing to obtain.
 

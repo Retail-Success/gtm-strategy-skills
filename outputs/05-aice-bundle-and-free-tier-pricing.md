@@ -10,6 +10,23 @@
 
 ---
 
+> ### 🔄 Update 2026-08-14 — the offer and the audience are both now confirmed
+>
+> **Audience: the 75,000 Revolution Pro subscribers.** All of them already hold Pro, so **Wayroo Free tier integrated with the Aice Free tier is a value-add on an existing paid relationship.** "Included" is true for this audience without qualification.
+>
+> **A second, unplanned motion emerged from the JE launch.** 764 reps downloaded Wayroo; only 254 held Pro. **The other 510 wanted Wayroo without being entitled to it** — and are now prompted to buy Pro at $5/month, of which **JE keeps $2 and ByDesign takes $3.**
+>
+> | | **Included** *(the launch)* | **Upsell** *(new)* |
+> |---|---|---|
+> | Audience | 75,000 Pro subscribers | Reps who want Wayroo and lack Pro |
+> | Rep pays | $0 incremental | **$5/mo for Pro** |
+> | ByDesign earns | **Payments only** | **$3 subscription + payments** |
+> | Evidence | — | **510 candidates at one account, zero selling** |
+>
+> **This partially answers Q1 below.** The $3/$5/$2 structure is confirmed in production at JE — it is no longer an unverified figure. ⚠️ Precision for any deck: **$2 on a $3 cost is a 67% markup, or 40% of the rep price.** The operating model said "67% margin"; that was the markup reading, and it is now stated as **markup** throughout.
+>
+> **And it reframes the pricing question.** The subscription line was treated throughout this document as the minority revenue stream to be given away in service of payments. **The upsell motion suggests Wayroo also *sells* the subscription** — which, if the JE 3x demand ratio generalises, makes the subscription line grow *because* of the giveaway rather than despite it. **Untested beyond one account; measure it at pilot accounts 2 and 3.**
+
 ## The model, as resolved
 
 Two motions, two commercial shapes. The earlier ambiguity is closed.
@@ -95,7 +112,7 @@ Your aside deserves promotion to a headline. A DSO that marks up the passthrough
 
 That is the strongest home-office argument available in this motion, and per `my-gtm-context.md` §12 it **appears in no deck.** It also converts the approver conversation from *"this costs you nothing"* (neutral) to *"this is a margin line for you"* (positive) — a materially better ask, and one that survives the shift from free Wayroo to a paid Aice upgrade, because the markup mechanic works identically on both.
 
-⚠️ **Unconfirmed:** the specific JE markup figures. The "$10 → $15, $2/rep at 67% margin" numbers circulating in the operating model and financial model have not been verified against JE's actual billing. **They are the proof point for pitching this model, so they need confirming before the pitch is built.**
+⚠️ **Unconfirmed:** the specific JE markup figures. The "$10 → $15, $2/rep at a 67% markup" numbers circulating in the operating model and financial model have not been verified against JE's actual billing. **They are the proof point for pitching this model, so they need confirming before the pitch is built.**
 
 ### What still holds from rev 1
 
@@ -126,11 +143,32 @@ That is the strongest home-office argument available in this motion, and per `my
 
 # Question 2 — What a "combined Wayroo + Aice upgrade" contains
 
-## The governing rule, now simplified
+> ### 🔄 Superseded 2026-08-14 — Wayroo will have a paid rep tier after all
+>
+> This answer was built on the premise that Wayroo has no rep-facing paid tier, so a "combined" upgrade could only be Aice features. **That premise no longer holds.** The confirmed ladder:
+>
+> | Rung | Rep gets | Rep pays |
+> |---|---|---|
+> | **1 — Revolution Pro** | Wayroo Free + Aice Free, integrated | **$5/mo** |
+> | **2 — Wayroo Pro + Aice Pro** | Paid feature sets of both | **$5 + upgrade fee, TBD** |
+>
+> **The upgrade is additive to the $5, not a replacement.** And it is genuinely combined — **both products contribute paid features**, which retires the "don't call it combined" advice below.
+>
+> ✅ **Jordan Essentials is first in line, not excluded.** As pilot customer JE reps get **all Wayroo features now**; an Aice upgrade integrated with Wayroo may follow at an upgrade fee.
+>
+> 🔬 **And the upgrade-appetite test already exists: the 510.** Reps whose stores deactivate with a pay-to-restore prompt give the only WTP signal available before rung 2 is priced. **It measures $5-for-Wayroo-core directly, proxies paid-tier appetite imperfectly, and says nothing about Pro features nobody has used.** Loss aversion will inflate it, and poor shutoff comms will corrupt it. **Split the population to separate messaging effect from appetite** — details in `my-gtm-context.md` §3.
+>
+> **What does not change is the rule immediately below.** It binds harder now, because there is a real Wayroo tier to put things in.
 
-Since Wayroo gates nothing and international is out of scope, the rule reduces to something clean:
+## The governing rule — unchanged, and now load-bearing
 
-> ### The upgrade is Aice features. Wayroo contributes nothing at the rep tier, by design.
+> ### Whatever goes into **Wayroo Pro** must be non-transactional.
+
+Gating a feature that would otherwise produce a transaction costs **~$216/year per suppressed rep** ($14,400 GMV × 1.5%). Breaking even needs **$18/month** from that rep — above Aice's blended ARPU and above two of its three tiers. **The arithmetic never works.**
+
+🚫 **Tap-to-Pay, invoicing, POS, storefront and Dropship can never move behind the upgrade.** They are the revenue engine, not upgrade bait — and the pressure to move one of them there will arrive the moment the upgrade needs a stronger hook.
+
+**Original Q2 answer, retained below for the reasoning.** Its conclusion — that the rep-tier upgrade is Aice-only — is superseded; its analysis of *why the paywall belongs on non-transactional features* is what carries forward.
 
 Gating a Wayroo feature costs **~$216/year in payments** per rep it stops from transacting ($14,400 GMV × 1.5%). Breaking even would require clearing $18/month from that rep — above Aice's blended ARPU and above two of its three tiers. **The arithmetic never works. There is no version of the bundle where a selling tool moves behind the paywall.**
 
@@ -276,7 +314,7 @@ None change the recommendations; all will be asked about.
 | 1 | **75,000 vs. ~50,000 reps** | §2 says ~75,000 pay for Revolution; TAM analysis says ~50,000 monthly-active commission-receiving. Different denominators, both defensible — **the economics above use 50,000, the conservative one.** |
 | 2 | **Paparazzi — reconciled** | **561,297 gross / 18,075 non-cancelled (~3% active).** Confirms the ~20,000 figure and settles it: ~18K active field, 4,000 Wayroo MAUs, **~22% penetration.** |
 | 3 | **Jordan Essentials — 2,500 or 5,606?** | Launch math uses a **2,500**-rep field; TAM analysis shows **35,472 gross / 5,606 non-cancelled.** If 5,606 is right, **the celebrated 28% adoption is ~12.5%** — and the JE upside is roughly double what the operating model claims. Resolve before the number is used again either way. |
-| 4 | **JE markup figures unconfirmed** | The "$10 → $15, $2/rep at 67% margin" numbers in the operating model and financial model have not been verified against JE's actual billing. **They are the proof point for the markup pitch** — the single most useful thing to confirm in this document. |
+| 4 | **JE markup figures unconfirmed** | The "$10 → $15, $2/rep at a 67% markup" numbers in the operating model and financial model have not been verified against JE's actual billing. **They are the proof point for the markup pitch** — the single most useful thing to confirm in this document. |
 | 5 | ~~Aice free-vs-paid split~~ | ✅ **Closed.** Free tier is a strict subset of existing paid features, and the populations don't overlap — cannibalisation is not a live risk. |
 
 ---

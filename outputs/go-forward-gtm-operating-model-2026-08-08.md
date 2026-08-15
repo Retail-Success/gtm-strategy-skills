@@ -59,7 +59,7 @@ There are two revenue lines, and the smaller one is the subscription.
 |---|---|
 | **SaaS** — DSO pays ByDesign | **$3.00 / user / month** |
 | **Payments** — ByDesign take on transactions through Wayroo selling tools (tap-to-pay, invoicing, POS) | **~1.5% of every transaction** |
-| *DSO charges its reps* | *$5.00 / rep / month, on top of the existing $10 — a **$2/rep 67% margin** for the DSO* |
+| *DSO charges its reps* | *$5.00 / rep / month, on top of the existing $10 — a **$2/rep 67% markup** for the DSO* |
 
 **Paparazzi is the only account with real GMV data, and it shows the shape:**
 
@@ -93,7 +93,7 @@ This is the most consequential fact in the document. It means the metric that ma
 
 ### Invariant 3 — The DSO resells at a profit
 
-Existing positioning calls eSuite pass-through "cost-neutral." The truth is stronger: **the DSO makes money on Wayroo.** $2/rep/month, at 67% margin, growing with every rep who adopts.
+Existing positioning calls eSuite pass-through "cost-neutral." The truth is stronger: **the DSO makes money on Wayroo.** $2/rep/month, at 67% markup, growing with every rep who adopts.
 
 Two effects: cost stops being objection #1 (`my-gtm-context.md` §6 currently lists it as such), and **the DSO acquires its own financial incentive to drive adoption** — which is exactly the lever Invariant 2 identifies as the revenue engine.
 
@@ -197,7 +197,7 @@ A 700-download launch is a good headline and an incomplete result. **The 700th d
 
 > ### 🔴 Tap-to-Pay is not a feature request. It is a revenue line.
 >
-> Tap-to-Pay was the single strongest rep draw at the Jordan Essentials launch **and** it is a payments-revenue instrument — every transaction through it earns 1.5%. It has not shipped, and ~2,500 reps hold a convention-dated expectation.
+> Tap-to-Pay was the single strongest rep draw at the Jordan Essentials launch **and** it is a payments-revenue instrument — every transaction through it earns 1.5%. ✅ **It ships the week of 2026-08-17** (confirmed 2026-08-14), closing an expectation ~2,500 reps have carried since July. **The revenue argument now becomes measurable rather than theoretical** — see the natural-experiment design in [`09-launch-execution-plan.md`](09-launch-execution-plan.md).
 >
 > **Each week it slips costs adoption momentum and transaction revenue simultaneously.** This reclassifies it from "product dependency" to the highest-leverage revenue item on the roadmap. It belongs in the revenue conversation, not just the product one.
 

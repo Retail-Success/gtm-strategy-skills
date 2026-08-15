@@ -77,9 +77,13 @@ Visual: **a real first-run screenshot with populated inventory.** Not a feature 
 
 > ## Nothing.
 >
-> It's included with Revolution Pro — which your reps already have and already pay for.
+> It's included with Revolution Pro. **For every rep who has Pro, it's already paid for. For every rep who doesn't — it's a reason to get it.**
 
 One word on the slide. Let it sit.
+
+> ⚠️ **Corrected 2026-08-14.** This slide previously read *"which your reps already have and already pay for."* **A founder knows their own Pro penetration, and it is rarely the whole field** — at Jordan Essentials it is **254 of 2,614 active reps.** Overstating it costs the room in the first five minutes. **The corrected line is also the stronger one, because it sets up slide 6.**
+>
+> **Look up the account's Pro penetration before the meeting** and say the real number. It is a fact they already have, so quoting it back builds credibility rather than spending it — and the lower it is, the better slide 6 lands.
 
 ### Slide 6 — What you make *(the economic line)*
 
@@ -87,9 +91,16 @@ One word on the slide. Let it sit.
 >
 > Every rep on Pro is paying for it, you or them. **You set the rep price. You keep the spread.** Wayroo is what makes that subscription worth having.
 >
-> *Jordan Essentials does exactly this.*
+> ### At Jordan Essentials, **764 reps downloaded Wayroo. Only 254 had Pro.**
+> ### **510 reps asked for a subscription they didn't have — without anyone selling it to them.**
 
-> ⚠️ **Pitch the mechanic, not the numbers.** The **$2/rep at 67% margin** figures are unverified against JE's actual billing. Say *"you set the rep price and you keep the spread"* until [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md) Decision #1 closes. **A number that turns out wrong in a founder meeting costs more than the number was worth.**
+> 🔴 **This is now the strongest slide in the deck, and it is evidence rather than argument.** Wayroo demand ran at **3x** JE's Revolution Pro population. Every DSO in the room has a Pro penetration number, and it is almost certainly low — **this slide tells them Wayroo will go and sell it for them.**
+>
+> **Ask them their Pro penetration in the room.** Whatever they answer, the JE ratio does the rest of the work. It also opens the follow-up naturally: *"how many more would you have if every rep wanted the thing Pro comes with?"*
+>
+> ✅ **All figures on this slide are now production-confirmed (2026-08-14).** JE charges reps **$5/month and keeps $2**; ByDesign takes $3 — a **67% markup** on cost, or 40% of the rep-facing price. The 764/254/510 numbers are confirmed. **Nothing on this slide needs hedging any more.**
+>
+> **Say it as the worked example, not as their number:** *"Jordan Essentials charges $5 and keeps $2. You set your own price and keep your own spread."* The markup a DSO chooses is theirs — quoting JE's as if it were a rate card invites a negotiation nobody asked for.
 
 ### Slide 7 — Why this holds your field together *(retention)*
 
@@ -165,7 +176,8 @@ Leave with a named person and a date. Not "we'll follow up."
 | **"What if reps don't like it and blame us?"** | Fair. It's free, it's optional, and reps who ignore it lose nothing. **We take the support tickets, not you.** And the pilot exists so you see real reactions before your whole field does. |
 | **"We don't let vendors email our field."** | Understood — then take permission 1 and 2 and skip 3. **You'll get a slower start and you'll carry the comms yourself.** We'd rather have two yeses than lose the launch. *(Never fight permission 3. It is the one most likely to sink the whole meeting.)* |
 | **"What about reps who aren't on Revolution Pro?"** | They'll see it and be prompted to subscribe — **which is margin for you.** We'll give you the numbers so you can decide how hard to push. |
-| **"How long until our reps can take card payments?"** | ⚠️ **Beat-3 trigger. Do not open this door — but answer honestly if they do.** *"Card payments are included and ready. There's a merchant-account setup step on your side with our processor. Happy to walk your ops team through it whenever you want — it isn't needed to get started."* **Then move on.** Never make it a condition of the three permissions. |
+| **"How long until our reps can take card payments?"** | ⚠️ **Beat-3 trigger. Do not open this door — but answer honestly if they do.** *"Card payments, invoicing and event checkout ship together — they're live from [ship date] and included at no cost. There's a merchant-account setup step on your side with our processor whenever you want to switch them on. It isn't needed to get started."* **Then move on.** Never make it a condition of the three permissions. |
+| **"So the app doesn't do much yet?"** | Honest and easy: *"The selling tools release as a set on [date]. Until then your reps get their inventory, their dashboards and your media library — which is what Jordan Essentials' field has been using."* **Do not oversell the pre-ship state**; a DSO who expects selling tools on day one and gets three features has the same experience JE's reps had for a month. |
 
 ---
 
@@ -179,8 +191,15 @@ Leave with a named person and a date. Not "we'll follow up."
 
 ### For your reps
 
-**1. Is this free?**
-Yes. Wayroo Essentials is included with your Jordan Central Pro subscription. There's nothing extra to buy and no upgrade to purchase.
+**1. Is this free?** 🔴 *Two answers — check whether the rep has Jordan Central Pro before answering.*
+
+> **Rep has Pro:** Yes. Wayroo Essentials is included with your Jordan Central Pro subscription. There's nothing extra to buy and no upgrade to purchase.
+>
+> **Rep does not have Pro:** Wayroo comes with Jordan Central Pro, which is $5/month — and you can turn it on yourself in your back office. That covers Wayroo and the selling tools with nothing else to buy on top.
+
+⚠️ **Your support team fields questions from your whole field, not just the reps we campaign to.** We reach Pro subscribers, for whom Wayroo genuinely is included — but **at Jordan Essentials that is 254 of 2,614 active reps**, so most reps asking your team will need the second answer. **Giving the first answer to a rep without Pro means telling them it's free and then taking access away** — the fastest way to turn a free product into a grievance.
+
+*Swap in your own numbers before circulating this internally.*
 
 **2. Do I have to use it?**
 No. It's there if you want it.

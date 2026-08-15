@@ -101,7 +101,9 @@ Test applied: *could a competitor truthfully claim this?*
 | **Dashboard widgets pulling live back-office data** | ✅ | Sales, downline, and performance data **on their phone** — previously only reachable by logging into a browser |
 | **Media library** | ✅ | On-brand product assets to post, instead of unofficial photos |
 | Populated inventory + customer records | ✅ | The USP-1 proof |
-| Tap-to-Pay · invoicing · POS | ❌ Pending ProPay | The hero, and the demand hook |
+| Tap-to-Pay · invoicing · POS | ❌ **Dark as a set** — first pending feature ship (week of 2026-08-17), then pending DSO ProPay | The hero, and the demand hook |
+
+> ⚠️ **Selling tools release together, so an account's "locked" state has two distinct causes** — the feature not existing yet, and the DSO not having onboarded. **They need different copy**, because blaming the DSO for our ship date is untrue and misdirects rep pressure. See [`07-rep-launch-kit.md`](07-rep-launch-kit.md) §1, states 3b-i and 3b-ii.
 
 > ### The Jordan Essentials launch already validated this, and the earlier positioning missed it.
 >
@@ -179,7 +181,7 @@ For the home office: *the rep selling app included with Revolution Pro.*
 ### Audience derivations
 
 **Rep-facing:**
-> Your inventory is already in it. Take card payments on your phone, sell at any event, and let your sales reach the home office on their own — in the app that comes with what you already pay for.
+> Your inventory is already in it. Take card payments on your phone, sell at any event, and let your sales reach the home office on their own — in the app that comes with Revolution Pro.
 
 **Home-office-facing:**
 > The rep selling app included with Revolution Pro. Your reps get the tools they are currently buying themselves, already connected to your back office — and every rep sale becomes a record you can see. **Approving it costs you nothing, and Wayroo is the reason your reps subscribe.**
@@ -190,7 +192,13 @@ For the home office: *the rep selling app included with Revolution Pro.*
 
 ## UVP — Rep
 
+**Launch audience (the 75,000 Pro subscribers) — targeted surfaces:**
 > **Everything you sell, from one app you already pay for — with your inventory already in it.**
+
+**Open surfaces** (landing page, demo, Aice placement, social — visitor's Pro status unknown):
+> **Everything you sell, from one app — with your inventory already in it.**
+
+> The two differ by one clause, and the clause is the entitlement claim. **It is true for every rep the campaign reaches** — they all hold Revolution Pro — so use it wherever targeting guarantees the audience, and drop it where it doesn't. See [`06-messaging-house.md`](06-messaging-house.md) for the surface-by-surface rule.
 
 ## UVP — Home Office
 
@@ -200,7 +208,7 @@ For the home office: *the rep selling app included with Revolution Pro.*
 
 | | **Paid / new-logo Wayroo** | **Free Land-and-Expand** |
 |---|---|---|
-| Promise | Replace the patchwork; run the field on one platform | **Nothing to set up — it's already yours** |
+| Promise | Replace the patchwork; run the field on one platform | **Nothing to set up — your inventory's already in it** |
 | Proof | Paparazzi $31M; platform breadth | **Open the app and your own inventory is there** |
 | Buyer | DSO corporate, budgeted | **Nobody buys.** The rep adopts, the DSO approves. |
 | Hero | Platform completeness | **Tap-to-Pay** |
@@ -277,13 +285,17 @@ Four effects at once, all honest:
 
 ## Live copy
 
+**State 3b-ii only — post-ship, DSO ProPay pending:**
+
 > ### Tap to Pay
 > Take card payments right on your phone. No reader, no extra hardware.
 >
-> *Jordan Essentials is completing payment setup with our processor. It's a banking requirement — Tap to Pay is included in your app at no cost as soon as it's done.*
+> *[DSO] is completing payment setup with our processor. It's a banking requirement — Tap to Pay is included in your app at no cost as soon as it's done.*
 >
-> **[ Tell Jordan Essentials I want this ]**
+> **[ Tell [DSO] I want this ]**
 > *You and 46 other reps have asked.*
+
+> ⚠️ **The example previously named Jordan Essentials. That was the wrong account to illustrate it with** — JE has already onboarded ProPay, so its reps never see this state at all. **Pre-ship, use the "arrives with our next release" wording and show no counter.**
 
 **Check:** no price, no padlock, no upgrade language, a named non-commercial actor, explicit inclusion, an action, social proof. **It cannot be parsed as a paywall because there is nothing to buy.**
 
@@ -327,7 +339,7 @@ This follows directly from the Revolution Pro gate: Wayroo requires a paid Revol
 
 The prior positioning called the passthrough *cost-neutral*. That undersells it and frames a revenue line as an absence of cost. **"It pays you" beats "it doesn't cost you"** — and it turns the approver from a permission-granter into someone with a reason to drive adoption.
 
-> ⚠️ **The $2/rep at 67% margin figures are unverified.** They circulate in the operating model and financial model but have not been checked against Jordan Essentials' actual billing. **The mechanic is confirmed; the numbers are not.** Pitch the mechanic; withhold the figures until Decision #1 in the pricing output closes.
+> ✅ **Confirmed 2026-08-14.** JE charges reps **$5/month and keeps $2**; ByDesign takes $3 — a **67% markup** on cost, or 40% of the rep-facing price. **Production-verified at one account.** The markup a given DSO sets is its own choice, so pitch the mechanic and cite JE as the worked example.
 
 ---
 
