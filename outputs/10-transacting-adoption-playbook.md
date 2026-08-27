@@ -44,6 +44,12 @@ Wayroo earns two ways, and the smaller one is the subscription:
 
 **~$218K/year at one existing account. More than two average new logos, with no sales cycle, no procurement, and no competitor in the room.**
 
+> ⚠️ **The inputs in this table are superseded — 2026-08-14.** Confirmed JE actuals are **2,614 active reps · 764 downloaded (29.2%) · 254 holding Revolution Pro.** Because only Revolution Pro holders can keep Wayroo, **the transacting base is 254, not 700** — roughly a **3× overstatement** here, and every dollar figure in this section scales down with it.
+>
+> **The method is right and the target logic still holds; only the inputs are stale.** The corrected picture is in [`09-funnel-and-channel-reconciliation.md`](09-funnel-and-channel-reconciliation.md) §2 and `my-gtm-context.md` §3 — **use those numbers in any forecast, and this section only for its arithmetic.**
+>
+> ⚠️ **The other 510 are not lost adopters — they are the upsell funnel** (stage 0: wants Wayroo, lacks Pro). They belong to a separate motion with a separate metric, not to the shortfall against target above.
+
 ## The lever nobody is pulling
 
 There are **two** ways to grow that number, and the plan has only ever considered one.
@@ -53,7 +59,9 @@ There are **two** ways to grow that number, and the plan has only ever considere
 | **1. More adopters** | 700 → 2,125 downloads | +$218K | Slow — requires reaching 1,425 more reps |
 | **2. More of the adopters transact** | 54% → 80% of the *existing* 700 | **+$39,312** | **Fast — the reps are already in the app** |
 
-> **Lever 2 adds ~$39K/year at Jordan Essentials without a single new download.** It is faster, cheaper, and completely unworked. Every current metric — downloads, MAU, adoption rate — stops measuring before the point where lever 2 operates.
+⚠️ **The JE-upside column carries the same 3× overstatement as the table above** — it is built on the 700 base, not the confirmed 254. **Read the lever comparison, not the dollar figures.**
+
+> **Lever 2 moves money without a single new download.** It is faster, cheaper, and completely unworked. Every current metric — downloads, MAU, adoption rate — stops measuring before the point where lever 2 operates.
 
 **This playbook optimizes lever 2 first.**
 
