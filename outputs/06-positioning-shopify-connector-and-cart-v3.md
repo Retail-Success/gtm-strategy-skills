@@ -7,6 +7,10 @@
 **Owner:** Sam Atieh
 **Framework:** April Dunford six-step positioning, adapted (GTM Strategist Phase 6)
 
+**Source inputs** (captured 2026-08-28 — both originated in conversation and existed nowhere in the repo):
+- [`inputs/2026-08-26-shopify-demand-data-review.md`](../inputs/2026-08-26-shopify-demand-data-review.md) — Drew Mitchell's three-year search/traffic/deal data. Feeds Step 6 (trends T1, T2).
+- [`inputs/2026-08-purehaven-cart-feedback.md`](../inputs/2026-08-purehaven-cart-feedback.md) — Carlos / PureHaven feedback on cart shortfalls, retained features and return conditions. Feeds Step 2 (U1, U2), Step 4 (Segment D), and the Cart v3 credibility gate.
+
 ---
 
 ## ⚠️ Scope fence — read first
