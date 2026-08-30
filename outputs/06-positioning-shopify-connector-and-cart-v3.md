@@ -297,13 +297,21 @@ PureHaven left over speed and stability — *"a lot of high severity issues"*, f
 | 6 | **Confirm Segment C intent** — are Youngevity and Pomifera evaluating, or researching? | Account owners | Whether C is retention or churn defense |
 | 7 | **Verify the ShapeTech delisting is stated accurately** and agree the exact permitted wording with legal | Legal + Marketing | 🔴 **The lead message of Step 1** |
 
+**Added by Task 3 (2026-08-30) — surfaced while building the messaging:**
+
+| # | Item | Owner | Blocks |
+|---|---|---|---|
+| 8 | 🔴 **AutoShip improvement has no roadmap item** — it is PureHaven's #2 stated return condition *and* the pillar the whole cart pitch leads with | Product | The forward story behind the strongest cart message |
+| 9 | **Connector commercial terms are undefined** — no answer exists to "what does it cost?" | Product Marketing + Finance | Segment A outreach; asked in conversation one |
+| 10 | **Segment C has no asset** — nothing speaks to a client evaluating Shopify | Phase 7 | The most time-critical gap in the motion |
+
 ---
 
 ## Next Steps
 
-**Task 2 — UVP / USP** (`outputs/06-uvp-usp-shopify-connector-and-cart-v3.md`): separate UVPs for connector and cart, USP competitor crosscheck against Shopify / ShapeTech / self-build / status quo, and the differentiation matrix.
+✅ **Task 2 (UVP / USP) and Task 3 (Messaging house) are complete**, delivered together in [`outputs/06-messaging-house-shopify-connector-and-cart-v3.md`](06-messaging-house-shopify-connector-and-cart-v3.md) — UVPs and the USP competitor crosscheck are folded into Part 1 rather than shipped as a separate file, since Steps 2–3 above already did the uniqueness testing.
 
-**Task 3 — Messaging house** (`outputs/06-messaging-house-shopify-connector-and-cart-v3.md`): pitches, three pillars per motion, per-segment messaging for A–E, objection handling, and the words-we-use/avoid table — including the ShapeTech handling rules.
+That document carries a **ship-gate table** marking which messages are usable today and which are blocked on open items 2, 3, 4 and 7. **Segments A, B and D can be worked now; the vendor-risk, TCO and performance messages cannot.**
 
 **Then, outside Phase 6:**
 - Phase 12 — update `outputs/12-battlecard-shopify.md`. It is dated 2026-05-12, carries a stale AiCE header, and is written entirely for the Wayroo rep-commerce matchup. It has **nothing for the Freedom cart-vs-Shopify conversation** this motion requires.
