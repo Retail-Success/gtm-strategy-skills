@@ -2,7 +2,25 @@
 
 **Phase:** 10 — Building the GTM System (Tasks 5, 6, 7, 8 consolidated)
 **Built by:** Sam Atieh · **Run by:** Cassie Lewis (account) + Autumn Fowers (product/enablement)
-**Pilot account:** Jordan Essentials · **Date:** August 8, 2026 · **Status:** v1.1 — *corrections folded in 2026-08-14; body otherwise unchanged from v1.0*
+**Pilot account:** Jordan Essentials · **Date:** August 8, 2026 · **Status:** v1.2 — *2026-08-30 corrections in the header block below; body otherwise unchanged*
+
+> ## 🔴 Revised 2026-08-30 — four corrections, and the first changes the playbook's entry point
+>
+> **1. There is no permission step.** ByDesign reaches reps directly inside Freedom and Revolution — no DSO approval, no DSO comms channel. **The playbook can start at any account without a corporate conversation first.** The only DSO ask is **ProPay approval**, and it is pulled by rep demand rather than pushed by us.
+>
+> **2. Reps get real value at accounts that have done nothing.** Inventory and dashboard widgets work on download. **The playbook's activation steps apply at un-onboarded accounts**, not just ProPay-approved ones — a materially wider surface than v1.1 assumed.
+>
+> **3. ✅ Tap-to-Pay ships in 2–3 weeks.** The instruction at §284 — *"do not demo it as available and do not date it publicly"* — **expires on ship.** Verify with Product before the next field session; running it stale means telling the field not to demo the strongest asset in the product.
+>
+> **4. ⚠️ All dates in this playbook are void.** The launch calendar is being reset. **Sequence holds; calendar does not.**
+>
+> ### What is confirmed rather than changed
+>
+> 🟢 **§4's field-leader growth loop is the most load-bearing section in the library, and the persona evidence backs it.** Downline dashboards were a top-tier JE rep reaction **and** they work in the locked state — so the field leader is the one persona who gets the full product on day one at *every* account. **The recommendation to surface "% of your downline transacting" is now more valuable, not less:** with no permission conversation, field-leader-driven adoption is the primary way an account reaches the demand density that triggers the ProPay ask.
+>
+> **Two additions to fold into the body:**
+> - **Adopt the persona vocabulary** from [`06-persona-positioning.md`](06-persona-positioning.md) so this playbook and the messaging house use the same names (R1 in-person seller, R2 team leader, R3 catalog-only).
+> - 🔴 **Add the hobbyist denominator caution.** The playbook's adoption targets are percentages of a rep base that includes reps who will never transact (Color Street's CEO put it at 80% of his field). **Under a payments-only revenue model that is a forecasting error, not a rounding one.** Derive the real selling cohort from wholesale order data — see [`04-metrics-and-analytics.md`](04-metrics-and-analytics.md).
 **Parent:** [`go-forward-gtm-operating-model-2026-08-08.md`](go-forward-gtm-operating-model-2026-08-08.md) — Motion A
 **Published:** Confluence WSM → *Wayroo + Aice Revolution Launch* → [Transacting Adoption Playbook](https://bydesign.atlassian.net/wiki/spaces/WSM/pages/617086978)
 

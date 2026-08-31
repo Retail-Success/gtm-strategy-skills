@@ -2,8 +2,22 @@
 
 **Phase:** 9 — Executing the Launch
 **Date:** 2026-08-13 · **Owner:** Sam Atieh
-**Dates:** React Native **2026-09-01** · Pilot (3 DSOs) **2026-09-15** · GA **2026-10-06** · DSU **October** · The Juice **TBC** · Adyen **Q1 2027 — improvement, not a gate**
-**Derives from:** [`06-positioning-master.md`](06-positioning-master.md) · [`07-launch-asset-plan.md`](07-launch-asset-plan.md) · `my-gtm-context.md`
+**Dates:** ⚠️ **ALL VOID — launch calendar under reset (2026-08-30).** Sequence below still holds; every date does not. Adyen remains **an improvement, not a gate.**
+
+> ## 🔴 Revised 2026-08-30 — the launch has no permission gate, and one milestone is now real
+>
+> **1. Dates are void.** Do not commit any date externally — to a DSO, a rep, or a stage — until the calendar is reconfirmed. **The sequence in this plan is still correct.**
+>
+> **2. 🔴 The launch no longer waits on DSO approval.** ByDesign advertises Wayroo to reps directly inside Freedom and Revolution. **The go-live gate is the Revolution placement, not a set of signed permissions** — see [`08-channel-strategy.md`](08-channel-strategy.md), which did not exist when this plan was written and is now the top of the funnel.
+>
+> **3. The pilot is defined.** 3 DSOs, free Wayroo **plus free custom branding at a stated $25,000 value.** Selection criteria, portfolio design, and measurement: [`03-alpha-test-results.md`](03-alpha-test-results.md). **ProPay approvability is the hard gate on a pilot slot** — an unapproved pilot measures nothing that matters.
+>
+> **4. ✅ Tap-to-Pay ships in 2–3 weeks**, and the Jordan Essentials trial is approved for **all 764 reps** regardless of Pro status. That is the first real launch moment available and it is not in this plan.
+>
+> ### 🔴 The one milestone that has a deadline not under our control
+>
+> **The JE pre-trial engagement baseline must be captured before Tap-to-Pay ships.** After that the window is gone permanently and the cleanest experiment the business will get loses its segmentation layer. See [`04-metrics-and-analytics.md`](04-metrics-and-analytics.md), step 2.
+**Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md) · [`07-launch-asset-plan.md`](07-launch-asset-plan.md) · `my-gtm-context.md`
 **Hands off to:** [`10-transacting-adoption-playbook.md`](10-transacting-adoption-playbook.md) at **T+3**
 
 ---

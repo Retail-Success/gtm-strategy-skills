@@ -21,7 +21,7 @@
 **Phase:** 6 — Crafting Positioning, Task 3
 **Framework:** GTM Strategist by Maja Voje — Messaging House (working draft, not finalized brand book)
 **Last updated:** May 10, 2026
-**Derives from:** `outputs/06-positioning-master.md`, `outputs/06-positioning-cash-carry-variant.md`, `outputs/06-positioning-hybrid-variant.md`, `outputs/06-uvp-usp.md`
+**Derives from:** `outputs/06-positioning-statement.md`, `outputs/06-positioning-cash-carry-variant.md`, `outputs/06-positioning-hybrid-variant.md`, `outputs/06-uvp-usp.md`
 **Status:** Working draft. Single reference doc for founders, marketing, sales, customer success. Update after Phase 6 Task 5 (messaging testing) with validated language from prospect testing.
 
 ---

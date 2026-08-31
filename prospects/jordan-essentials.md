@@ -1,6 +1,41 @@
 # Prospect: Jordan Essentials
 
-**Last updated:** August 8, 2026
+> ## 🔴 Updated 2026-08-30 — read before the August 8 record below
+>
+> ### 1. The launch cohort is **764**, not "700+ and still growing"
+>
+> All 764 downloaded **within 2–3 days of the convention.** 764 is a precise count of the launch cohort, **not growth on top of the earlier estimate.** 🔴 **No measurement exists after the launch window** — no claim about the curve, up or down, is supportable. The "still growing as of Aug 8" line below is unsupported and should not be repeated.
+>
+> ### 2. 🔴 Only **254 of 764** are on Revolution Pro
+>
+> **510 (67%) are not**, and Wayroo requires Pro at the rep level. This was not known at launch and it reframes the account.
+>
+> **The most important finding it produced:** RevPro penetration is **9.7%** of active reps while Wayroo demand was **29.2%**. **Reps wanted Wayroo at 3x the rate they held the subscription that carries it.** Wayroo is a Revolution Pro *acquisition engine* — 510 pre-qualified upsell candidates generated without a single sales conversation.
+>
+> ### 3. ✅ Tap-to-Pay trial — **DECIDED**, and it covers all 764
+>
+> Ships in **2–3 weeks (~mid-Sept 2026)**. **Every JE rep gets 30 days regardless of Pro status**; non-Pro reps are prompted to pay $5/mo at the end. This closes the "expectation gap" blocker below and **widens the trial from the 510 to the whole account.**
+>
+> 🔴 **Two cohorts, one send — segment on Pro status or it backfires:**
+>
+> | | **254 Pro holders** | **510 non-Pro** |
+> |---|---|---|
+> | What this is | **A launch.** Nothing expires. | **A trial.** Day 30 is a decision. |
+> | Day 21 / 28 warnings | 🚫 **Never** | ✅ **Mandatory** |
+>
+> **Sending an expiry warning to a Pro holder tells them something is ending when it is not.** Most likely execution error at this account.
+>
+> ### 4. 🔬 This is now the cleanest experiment the business will get
+>
+> **The transaction baseline is structurally zero** — all selling tools have been disabled since launch, so JE reps have run on media library, dashboard widgets and inventory only. **Whatever the post-trial number is, it is entirely attributable to the feature.** The Pro cohort acts as a natural control (same product, no expiry); the non-Pro cohort carries the paywall.
+>
+> 🔴 **Capture pre-trial engagement for the 764 before Tap-to-Pay ships.** Who opens the app, how often, which of the three live features they use. **That window closes permanently in 2–3 weeks.** See [`outputs/04-metrics-and-analytics.md`](../outputs/04-metrics-and-analytics.md).
+>
+> ### 5. Commercial structure confirmed
+>
+> **$3 to ByDesign / $5 rep-facing / JE keeps $2** — a **67% markup** on cost (previously written as "67% margin"). Production-verified at this one account.
+
+**Last updated:** August 8, 2026 *(body below; header block above supersedes where they conflict)*
 **Stage:** ✅ **CLOSED-WON — LIVE IN PRODUCTION.** Launched at convention July 17–18, 2026. Customer requested paid contract start be pulled forward to September 2026.
 **Owner:** Cassie Lewis (account) / Autumn Fowers (product/demo). *Note: this is a Wayroo upsell to an existing Freedom client — Daniel Lang sells Freedom and is not the deal owner here.*
 **GTM Segment:** Hybrid DSO (existing Freedom client) — ⚠️ **C&C share under re-measurement; the ~20% figure is confirmed wrong (understated). May reclassify toward C&C.**
@@ -147,7 +182,9 @@ The same feature rates 🔴 High with the DSO buyer and 🔵 Low with the rep us
 | ~~**Pricing/contract structure for an existing Freedom client adding Wayroo.**~~ | Commercial | Cassie Lewis + Autumn Fowers | ✅ **RESOLVED** — eSuite pass-through in production at $15/mo rep-facing (up from $10). Customer requested paid start pulled forward to Sept 2026. |
 | ~~**Wayroo as channel-shift bet is unproven.**~~ | Product / Adoption | Sam Atieh + Cassie Lewis | ✅ **LARGELY RESOLVED** — 28% rep adoption in 48 hours. Vendor-event volume lift still unmeasured. |
 | **No quantified pre-launch baseline on the sales/engagement decline.** 700 downloads proves adoption, not recovery. Without pre-launch sales figures the "Wayroo reversed the decline" claim cannot be evidenced — and that is the claim that sells the other six Hybrid candidates. | Commercial / Proof | Cassie Lewis + Sam Atieh | 🔴 **STILL OPEN — now urgent.** Reconstruct from Freedom historical reports before the comparison window widens. |
-| **Tap-to-Pay expectation gap.** The feature reps were most excited about is not shipped. ~2,500 reps now hold a convention-dated expectation. | **Product** | Sam Atieh | 🔴 **OPEN — new, highest-risk item at this account** |
+| ~~**Tap-to-Pay expectation gap.**~~ | Product | Sam Atieh | ✅ **CLOSED 2026-08-30** — ships in 2–3 weeks; all 764 reps get 30-day access regardless of Pro status. See the header block. |
+| 🔴 **Pre-trial engagement baseline not captured.** The window closes when Tap-to-Pay ships. Without it the cleanest available experiment loses its segmentation layer. | Measurement | Sam Atieh + Product | 🔴 **OPEN — now the most time-critical item at this account** |
+| 🔴 **Cohort segmentation for the trial send.** Pro holders must never receive expiry warnings. | Comms | Sam Atieh | 🔴 **OPEN — before first send** |
 | **Project Broadcast / SMS not available in Wayroo.** Repeated unprompted rep requests. Reps are paying for it separately today as part of the $60/mo stack. | Product | Sam Atieh | 🟡 Open — integration candidate |
 | **C&C share unmeasured.** The ~20% figure is confirmed wrong; true share unknown. Drives segment classification and feature prioritization. | Segmentation | Cassie Lewis + Sam Atieh | 🟡 Open |
 

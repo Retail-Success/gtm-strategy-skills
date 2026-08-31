@@ -1,40 +1,53 @@
-# Phase 7 — DSO Launch Kit: The Three-Permission Ask
+# Phase 7 — DSO Kit: The ProPay Unlock Conversation
 
-**Phase:** 7 — Preparing Launch Assets (skill Task 4, adapted for a permission ask)
-**Date:** 2026-08-13 · **Owner:** Sam Atieh · **Due: 2026-08-22 — critical path**
-**Audience:** Founder / CEO / VP Sales / Field Ops at an existing ByDesign client
-**Derives from:** [`06-positioning-master.md`](06-positioning-master.md) · [`06-messaging-house.md`](06-messaging-house.md)
+**Phase:** 7 — Preparing Launch Assets (skill Task 4, adapted)
+**Date:** 2026-08-13 · **Revised 2026-08-30** · **Owner:** Sam Atieh
+**Audience:** Founder / CEO / VP Sales / Field Ops **+ CTO where one exists** at an existing ByDesign client
+**Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md) · [`06-messaging-house.md`](06-messaging-house.md) · [`06-persona-positioning.md`](06-persona-positioning.md)
 
-> ### 🔴 Beat 1 rules — violate these and the ask stops being frictionless
+> # 🔴 REVISED 2026-08-30 — the three-permission ask has been deleted
 >
-> **Never mention ProPay onboarding. Never lead with Tap-to-Pay.** Both convert a free, no-effort approval into a compliance project. ProPay is beat 3, and it arrives later, pulled by the DSO's own reps. See the three-beat structure in [`06-messaging-house.md`](06-messaging-house.md).
+> **We do not need any of the three permissions this kit was built around.** ByDesign can contact reps directly and advertise Wayroo inside the Freedom and Revolution back offices **without DSO approval**. Permissions 1, 2 and 3 were asks for things we already have.
+>
+> **And rep value no longer waits on corporate at all:** inventory and dashboard widgets work automatically on download with zero DSO involvement.
+>
+> ### There is one ask, and this deck now exists to make it.
+>
+> | | The ask | Unlocks |
+> |---|---|---|
+> | **1** | 🔴 **ProPay approval** | **Selling tools — Tap-to-Pay, invoicing, POS. And therefore 100% of payments revenue.** |
+> | 2 | *(Optional)* Custom branding | White-label — **free to the 3 pilot partners, a $25,000 value** |
+>
+> ### 🔴 The ProPay rule inverted with it
+>
+> The old kit said: **never mention ProPay.** That was correct when the goal was a frictionless permission and ProPay was a later beat.
+>
+> **ProPay is now the entire conversation.** The rule that replaces it: **never open cold.** The opener is the demand count from their own field — *"forty-seven of your reps have asked for card payments"* — which is a materially stronger position than asking permission to give something away.
+>
+> ⚠️ **No demand counter, no meeting.** With permission no longer required, nothing else initiates a DSO conversation. See [`08-channel-strategy.md`](08-channel-strategy.md).
 
 ---
 
-## The frame that makes all three permissions askable
+## The frame that makes the ask land
 
-> ### Every one of the three permissions **removes work from the DSO.** None of them adds any.
->
-> This is not a request for budget, headcount, or a project. It is an offer to do something for their field that they would otherwise have to do themselves. **Lead every permission with what we do, not what they grant.**
+> ### The ask removes work from the DSO and arrives carrying their own field's demand. It is not a request for budget, headcount, or a project.
 
-| Permission | Sounds like an ask | Is actually |
+| | Sounds like | Is actually |
 |---|---|---|
-| **1. Distribute to your field** | "Send our thing to your people" | **We wrote the emails, the FAQ, and the training. You approve and we run it.** |
-| **2. Let us advertise Wayroo and Aice inside Freedom and Revolution** | "Put your banners in our product" | **Reps and your team discover it where they already log in — no campaign required from you.** |
-| **3. Let us market to reps directly** | "Give us your list" | **Your launch doesn't depend on your marketing bandwidth. Run your own campaign too, or don't.** |
+| **ProPay approval** | "Another vendor onboarding project" | **Underwriting paperwork, not a purchase.** It is a banking requirement — the same one that applies to anyone accepting cards. **We do the rest.** |
+| **Why now** | "A vendor is chasing us" | **"Your reps are asking."** The count is theirs, from their own field, and it grows while they decide. |
 
-> ### Permission 2 covers two products and two audiences — say so plainly
->
-> | Surface | Who sees it | What runs there |
-> |---|---|---|
-> | **Freedom** | Home-office staff | Wayroo + Aice, **beat-1 messaging only** — never Tap-to-Pay |
-> | **Revolution** | Reps | Wayroo + Aice, **Tap-to-Pay leads** |
->
-> **Do not bundle Aice in silently.** A DSO discovering later that we advertised a second vendor to their field under a permission they thought covered one is a trust problem that costs more than the placement is worth. **Name both products in the ask.**
->
-> **The Aice line:** *"Aice is the training and team-chat app — free as well, and the two work together. Same placement, same approval."*
+**Lead with what we do, not with what they grant.** The DSO's side of this is a form and a signature; ours is the rollout, the copy, the training, and the support.
 
-**Permission 3 is the hard one and needs the most care.** Do not phrase it as list access. Phrase it as *"so this doesn't sit in your marketing queue."* Most DSO marketing teams are one or two people with a convention to run — **relieving them is the sell.**
+> ### Say plainly that reps already have the app
+>
+> **Do not let them discover it.** A home office that finds out from a rep that we have been advertising to their field has a grievance — and it is the same home office we need for ProPay.
+>
+> **Notify, do not ask.** *"Your Revolution reps can already use Wayroo — inventory and their back-office numbers work today, at no cost to you or them. What's not switched on yet is card payments, and that's the one thing that needs you."*
+>
+> This is honest, it forecloses the grievance, and **it makes the ProPay ask the natural next sentence** rather than a separate approach.
+>
+> **Name Aice too.** *"Aice is the free training and team-chat app; the two work together."* A DSO discovering a second vendor later is a trust problem that costs more than the placement is worth.
 
 ---
 
@@ -114,15 +127,25 @@ Three arguments, in the DSO's order of concern:
 
 **Do not say** that Wayroo raises the DSO's switching cost with ByDesign. True, and it is our benefit, not theirs. Saying it out loud turns a gift into a trap.
 
-### Slide 8 — The three permissions *(the ask)*
+### Slide 8 — The one ask *(revised 2026-08-30)*
 
-> **We're not asking for budget. We're asking for three yeses, and we do the work behind all three.**
+> **[N] of your reps have asked for card payments in Wayroo.**
+> **They're already using the app. This is the one thing that needs you.**
 
-| | The permission | What we do |
-|---|---|---|
-| **1** | **Distribute it to your field** | We wrote the announcement, the how-to, the FAQ and the training. You approve; we run it. |
-| **2** | **Let us advertise Wayroo and Aice inside Freedom and Revolution** | Your reps find it in Revolution where they already log in; your team sees it in Freedom. No campaign needed from you. *(Aice is the free training and team-chat app — same placement, same approval.)* |
-| **3** | **Let us reach your reps directly** | Email and in-product, so your launch isn't waiting on your marketing team. **Run your own campaign too if you want — this just means you don't have to.** |
+| | The ask | What it unlocks | What it takes |
+|---|---|---|---|
+| **1** | **ProPay approval** | **Card payments on your reps' phones, invoicing, event checkout** — free to them, forever | **Underwriting paperwork. Not a purchase, not a project.** |
+
+**Already working for your reps, with nothing from you:** their inventory, pre-loaded from their wholesale orders · their sales and downline numbers on their phone · your media library.
+
+> **Open on the number, not the product.** The count is the reason the meeting exists. If it is low, this is the wrong account to be in front of yet — go back to the channel.
+
+**Pilot variant — for the three founding partners only:**
+
+> **We're taking three companies into a founding pilot.** Everything above, plus **custom branding at no charge — a $25,000 build, free.** Your name, your look, your field's app. **First three partners.**
+> *Full terms:* [`03-alpha-test-results.md`](03-alpha-test-results.md)
+
+**If a CTO is in the room**, the slide after this one is the technical track — Path B, the data flow, and *"we do not become a second source of truth."* See [`06-persona-positioning.md`](06-persona-positioning.md) H2.
 
 ### Slide 9 — Who does what
 
@@ -138,8 +161,11 @@ Three arguments, in the DSO's order of concern:
 
 ### Slide 10 — Timeline
 
-> Pilot mid-September · General availability early October.
-> **Your reps can be selling on it inside a month.**
+> ⚠️ **Dates removed 2026-08-30 — the launch calendar is being reset.** Do not put a date on a slide until it is reconfirmed. **Sequence is safe to show; dates are not.**
+
+> Your reps have the app today. **ProPay approval is the only step between them and taking a card** — and once it clears, the tools switch on for your whole field at once.
+
+**Say the sequence, not the calendar.** A date you miss at the account whose field is already asking costs more than the urgency it buys.
 
 ### Slide 11 — What we'll report back
 
@@ -155,12 +181,14 @@ Field visibility is the quiet second sell, and for VP Sales it is often the firs
 >
 > It also sets up the follow-on conversation honestly: if their real C&C share is higher than they think — and we expect it usually is — **the case for finishing ProPay onboarding writes itself at the next meeting.**
 
-### Slide 12 — The ask
+### Slide 12 — The ask *(revised 2026-08-30)*
 
-> **Three yeses and a date.**
-> Who on your side approves rep communications?
+> **One yes, and a name.**
+> **Who on your side owns the ProPay paperwork?**
 
-Leave with a named person and a date. Not "we'll follow up."
+Leave with a named person and a target date **for the approval**, not for a follow-up call. **The paperwork owner is usually Finance or Ops, not the person in the room** — so the close is an introduction, not a decision.
+
+⚠️ **If a CTO exists at the account, they are the second name to get.** Per [`06-persona-positioning.md`](06-persona-positioning.md) H2, ProPay approval routes through technical review at any account with one, and that review is where deals of this shape have stalled before.
 
 ---
 

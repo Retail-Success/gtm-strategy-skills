@@ -2,7 +2,7 @@
 
 **Phase:** 6 — Crafting Positioning, Task 3
 **Date:** 2026-08-13 · **Owner:** Sam Atieh
-**Derives from:** [`06-positioning-master.md`](06-positioning-master.md)
+**Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md)
 **Status:** v1 — clean slate. Supersedes the May 2026 messaging house (archived at [`archive/06-messaging-house-SUPERSEDED-2026-05.md`](archive/06-messaging-house-SUPERSEDED-2026-05.md)).
 
 > ### 🔴 The one rule that governs this whole document
@@ -13,17 +13,31 @@
 
 ---
 
-# The Three Beats
+# The Beats
+
+> ### 🔴 Revised 2026-08-30 — three beats became two, and the approval beat is gone
+>
+> **DSO permission is not required.** ByDesign advertises Wayroo to reps directly inside the Freedom and Revolution back offices. **The old Beat 1 — "permission + a comms channel" — was an ask for something we do not need.** Every asset written to it needs re-pointing; [`07-dso-launch-kit.md`](07-dso-launch-kit.md)'s "three-permission ask" is the main one.
 
 Every asset below belongs to exactly one beat. Using the wrong beat's language is the most likely way this motion fails.
 
 | Beat | Audience | Ask | Lead with | Never mention |
 |---|---|---|---|---|
-| **1 — Approval** | Home office | Permission + a comms channel | Costs nothing · pays margin · field visibility | **ProPay. Tap-to-Pay. Onboarding.** |
-| **2 — Adoption** | Reps | Download and use it | **Tap-to-Pay** · your inventory's already there · no new bill | Compliance, corporate visibility |
-| **3 — Unlock** | Home office | Complete ProPay onboarding | **"Your reps are asking"** + the demand count | Anything that sounds like a new sale |
+| **1 — Adoption** | **Reps, reached directly** | Download and use it | **Tap-to-Pay** · your inventory's already there · no new bill | Compliance, corporate visibility |
+| **2 — Unlock** | Home office | **ProPay approval** | **"Your reps are asking"** + the demand count | Anything that sounds like a new sale |
+| **Pilot** *(parallel track)* | 3 named DSOs | Pilot participation | **Free Wayroo + free custom branding — a $25,000 value, first three partners only** | — |
 
-**Beat 3 is rep-pulled, not vendor-pushed.** That is the entire design: ProPay onboarding is never requested cold, it arrives as a response to the home office's own field.
+**Beat 2 is rep-pulled, not vendor-pushed** — and now it is the *only* home-office conversation. ProPay approval is never requested cold; it arrives as a response to the home office's own field.
+
+> ### 🔴 The demand counter is now the whole home-office pitch, not a supporting artifact
+>
+> Under the old sequence, beat 3 landed inside a relationship a permission ask had already opened. **There is no such opener any more.** *"Forty-seven of your reps have asked for card payments"* is not a proof point inside the conversation — **it is the reason the conversation happens at all.**
+>
+> **Consequence: shipping the lock without the counter is now worse than not shipping the lock.** It produces rep frustration and generates no artifact, and there is no longer a permission conversation to fall back on. **Escalate to critical path.**
+
+> ### The locked state is milder than this document assumed
+>
+> Confirmed 2026-08-30: **inventory and dashboard widgets work automatically on download, with zero DSO involvement.** A rep at an un-onboarded company gets two of the four capabilities JE reps rated top-tier. **Copy should stop hedging about what a locked rep receives** — they receive something real, and the pending item is an addition to it rather than a hole in it.
 
 ---
 
@@ -157,7 +171,7 @@ Three. No more — nothing sticks past three.
 
 # 4. The Locked State — Copy
 
-Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This is the copy.
+Full rationale in [`06-positioning-statement.md`](06-positioning-statement.md). This is the copy.
 
 > ### 🔴 Two locked states, and only one is the DSO's doing
 >
@@ -230,11 +244,41 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 
 ---
 
-# 6. The 510 — Store Shutoff Messaging
+# 6. The Jordan Essentials Tap-to-Pay Trial — DECIDED
 
-**Not in the original brief; included because it is live, it is a positioning problem, and it lands on the flagship account.** Drop it if it is owned elsewhere.
+> ### ✅ Confirmed 2026-08-30 — the trial is approved, and it covers all 764, not the 510
+>
+> **Tap-to-Pay ships in 2–3 weeks (~mid-September 2026). Every JE rep gets 30 days of access regardless of Revolution Pro status.** Non-Pro reps are prompted to pay at the end of the trial.
+>
+> **Three things this settles**, all of which were open questions in the v1 draft below:
+>
+> | Was | Now |
+> |---|---|
+> | Trial-to-paid *recommended over* a cold shutoff | ✅ **Decided — the trial is the design** |
+> | Scoped to the **510** non-Pro reps | ✅ **All 764.** Pro holders get it as a launch moment; non-Pro get it as a trial |
+> | 30 vs. 14 days debated | ✅ **30 days** — matches the vendor-event selling rhythm |
+>
+> ### 🔴 It is now a launch, not a salvage operation — and that changes the register
+>
+> The v1 framing below treats this as damage control for reps about to lose something. **That is now the minority case.** For the 254 Pro holders this is *"the feature you asked for at convention is live"* — pure good news, and the first real launch moment the account has had since July.
+>
+> **Two audiences inside one send, and conflating them wastes the better one:**
+>
+> | | **254 Pro holders** | **510 non-Pro** |
+> |---|---|---|
+> | What this is | **A launch.** Nothing ends. | **A trial.** Day 30 is a decision. |
+> | Register | Celebratory | **Plain, dated, honest** |
+> | Day 21 / 28 warnings | 🚫 **Never** — there is nothing to warn about | ✅ **Mandatory** |
+>
+> 🔴 **Sending trial-expiry warnings to a Pro holder tells them something is ending when it is not.** Segment on Pro status before the first send. This is the single most likely execution error.
+>
+> ### The experimental design survives intact, and improves
+>
+> Giving all 764 access **adds a natural control group.** Pro holders receive the identical product with no expiry; non-Pro reps face the decision. **Comparing usage across the two isolates the effect of the paywall from the effect of the feature** — a cleaner read than the original single-cohort design, at no extra cost.
+>
+> **Still split the 510** for the day-21 message (plain restore vs. value-framed). The population exists once.
 
-**The situation:** 510 of 764 JE Wayroo adopters are not on Revolution Pro. Their stores get turned off. They are prompted to pay the $5 fee, which restores Revolution Pro + Wayroo + selling tools.
+**The situation (v1, retained — the mechanics still apply to the 510 cohort):** 510 of 764 JE Wayroo adopters are not on Revolution Pro. At the end of the 30-day trial they are prompted to pay the $5 fee, which carries Revolution Pro + Wayroo + selling tools.
 
 > ### The risk in one sentence: these reps adopted something that worked, and it is about to stop working. Handled as an outage, it is a bait-and-switch. Handled as an upgrade, it prices the entire attach motion.
 
@@ -260,7 +304,20 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 
 **Frame it as a trial from message one.** Told upfront, a rep has had a trial. Told afterward, they have been baited. **Same mechanics, opposite outcomes.**
 
-### Day 0 — the trial opens
+### Day 0 — segment on Pro status. Two sends, not one.
+
+**0a — the 254 Pro holders *(a launch, nothing expires)*:**
+> **Subject: Tap to Pay is live**
+>
+> The thing you asked about at convention is here. Card payments in your Wayroo app — your customer taps their card on your phone, no reader, no extra hardware.
+>
+> **It's included in what you already pay for.** Nothing to turn on, nothing to buy.
+>
+> **[ Open Wayroo ]**
+
+🚫 **This cohort never receives a day-21 or day-28 message.** Nothing is ending for them.
+
+**0b — the 510 without Pro *(a trial, dated from message one)*:**
 > **Subject: Tap to Pay is on for you**
 >
 > Card payments are live in your Wayroo app — your customer taps their card on your phone, no reader.
@@ -268,6 +325,8 @@ Full rationale in [`06-positioning-master.md`](06-positioning-master.md). This i
 > **It's yours free for the next 30 days.** After that it runs on Jordan Central Pro, $5/month, and you can turn that on yourself in about a minute — or do nothing and it simply ends.
 >
 > **[ Open Wayroo ]**
+
+**Told upfront, this rep has had a trial. Told afterward, they have been baited.** Same mechanics, opposite outcomes — and the difference is entirely in message one.
 
 ### Day 7 — usage nudge *(their number, not ours)*
 > **You've taken $[X] in card payments this week.** Here's what's coming up →

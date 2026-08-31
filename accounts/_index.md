@@ -36,4 +36,5 @@ Each `accounts/[slug].md` should cover:
 
 ## Active accounts
 
+- [Paparazzi](paparazzi.md) — **flagship Wayroo client (white-labeled "Premiere")**. ~20,000 reps, ~4,000 on Wayroo, $31M GMV 2025. **~16,000 un-adopted = the largest Land-and-Expand target in the base**, ProPay already cleared. Also pays Hustle $5/monthly-active-rep.
 - [Bravenly](bravenly.md) — Revolution client, churn risk, Wayroo prospect, Aice partnership catalyst

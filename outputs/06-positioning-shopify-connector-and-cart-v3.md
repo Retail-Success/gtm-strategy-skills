@@ -24,7 +24,7 @@ This document positions the **Freedom ecommerce layer to existing clients.** It 
 | Ask | Permission, no budget | **Migration decision, real switching cost** |
 | Revenue | Payments only (~1.5%) | **Platform fee retention + payments displacement from Shopify** |
 
-**Do not merge these positioning systems.** `06-positioning-master.md`, `06-messaging-house.md`, and `06-uvp-usp.md` are Wayroo artifacts and are untouched by this document.
+**Do not merge these positioning systems.** `06-positioning-statement.md`, `06-messaging-house.md`, and `06-uvp-usp.md` are Wayroo artifacts and are untouched by this document.
 
 ---
 

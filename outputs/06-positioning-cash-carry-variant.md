@@ -18,7 +18,7 @@
 **Framework:** April Dunford — *Obviously Awesome* positioning methodology
 **Segment:** Cash & Carry DSO (ICP 1a) — sub-dimension: seller-vs-hobbyist ratio
 **Last updated:** May 10, 2026 (rev 2 — incorporates Color Street May 6 technical scoping findings, ERP positioning correction, and corrected lead-differentiator hierarchy)
-**Derives from:** `outputs/06-positioning-master.md`
+**Derives from:** `outputs/06-positioning-statement.md`
 **Inputs:** `outputs/02-cash-carry-dso-icp-intelligence.md`, `outputs/03-cash-carry-customer-archetype.md`, `prospects/color-street.md`
 **Status:** Single account validated across two calls (Color Street May 1 + May 6). Test in next 4+ C&C DSO discovery calls. Update after Phase 6 testing (Task 5).
 

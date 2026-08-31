@@ -3,7 +3,7 @@
 **Phase:** 7 — Preparing Launch Assets
 **Date:** 2026-08-13 · **Owner:** Sam Atieh
 **Launch:** React Native ships **2026-09-01** · Pilot **2026-09-15** · GA **2026-10-06**
-**Derives from:** [`06-positioning-master.md`](06-positioning-master.md) · [`06-messaging-house.md`](06-messaging-house.md) · `my-gtm-context.md` (2026-08-13)
+**Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md) · [`06-messaging-house.md`](06-messaging-house.md) · `my-gtm-context.md` (2026-08-13)
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### 🔴 1. Two product dependencies must land in the 2026-09-01 build
 
-Neither is copy. Neither can be added by config later. Both come out of [`06-positioning-master.md`](06-positioning-master.md).
+Neither is copy. Neither can be added by config later. Both come out of [`06-positioning-statement.md`](06-positioning-statement.md).
 
 | Dependency | Why it is not optional |
 |---|---|

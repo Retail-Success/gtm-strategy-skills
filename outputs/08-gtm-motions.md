@@ -3,7 +3,31 @@
 **Phase:** 8 — Building the Communication Engine, Task 1
 **Planning window:** August 8 – December 31, 2026 (~21 weeks)
 **Owner:** Sam Atieh (strategy + assets) — execution owners named per action
-**Status:** v2.0 — revised August 8, 2026 following the Jordan Essentials launch and confirmation of Wayroo's back-office-agnostic integration capability
+**Status:** v2.1 — 2026-08-30 corrections in the header block below; body otherwise unchanged from v2.0 (August 8)
+
+> ## 🔴 Revised 2026-08-30 — the motion mix changed, and one motion was mis-named
+>
+> **1. This is Product-Led, not Outbound.** The plan has described the installed-base motion as a sales action. **It is not.** Reps are reached in-product, adopt themselves, and there is no sales cycle, no closer, and no contract. **PLG mechanics inside an existing B2B contract** — with one human-gated step (ProPay) in the middle.
+>
+> **2. 🔴 There is no permission beat.** DSO approval is not required to reach reps or advertise inside Freedom and Revolution. **Any action premised on "secure DSO permission first" is obsolete** — the only DSO ask is ProPay approval, and it is rep-pulled.
+>
+> **3. Community-Led is stronger than recorded — and it is the hedge.** Direct selling is a **pre-built referral network**: uplines and downlines with dense comms and financial incentive to spread it. The field-leader loop works at accounts where ProPay is still pending, which makes it the only motion that is not gated. **Now corroborated at two accounts** — JE downline dashboards, and the Paparazzi rank gradient (Director 100% → Consultant 50%).
+>
+> **4. Partner-Led is gated.** Aice is unsigned and the structure is still moving. **Hedge; do not build on it.**
+>
+> **5. Inbound stays deprioritised.** Reps do not search for this.
+>
+> ### Revised motion ranking
+>
+> | Motion | Rank | Note |
+> |---|---|---|
+> | 🔴 **Product-Led** | **1** | Revolution in-product placement — [`08-channel-strategy.md`](08-channel-strategy.md) |
+> | **Community-Led** | **2** | Field leaders. **The hedge if the placement converts poorly.** |
+> | Partner-Led | 3 | Gated on Aice |
+> | Outbound | 4 | Track 1 only, deprioritised and capacity-gated |
+> | Inbound | 5 | Not a rep channel |
+>
+> **The single highest-yield action, and it is in no current plan: point the placement at Paparazzi's ~16,000 un-adopted reps first.** ProPay already cleared, so revenue is possible on day one with no gate — see [`accounts/paparazzi.md`](../accounts/paparazzi.md).
 **Derives from:** `my-gtm-context.md` §7/§8/§9, `strategic-inputs.md` §1/§2/§7, `outputs/01-one-page-endgame.md`, `outputs/12-partnership-program.md`, `prospects/jordan-essentials.md`, `prospects/color-street.md`
 
 > **v2.0 changes:** Jordan Essentials moved from open deal to live reference account (closed, launched July 17–18). Wayroo-led entry motion promoted from observation to the organizing thesis. PLG rescored (10 → 13) on new product direction. Fifth action added — a bounded Exigo-base test.

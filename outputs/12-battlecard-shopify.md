@@ -7,7 +7,7 @@
 **Audience:** Sales reps (Dan, Autumn, Cassie)
 **Format:** 1-page field reference. Print, bookmark, or open before any deal where Shopify is in the picture.
 **Last updated:** 2026-05-12
-**Source material:** `outputs/06-uvp-usp.md`, `outputs/06-positioning-master.md`, `outputs/06-positioning-cash-carry-variant.md`, my-gtm-context.md §6
+**Source material:** `outputs/06-uvp-usp.md`, `outputs/06-positioning-statement.md`, `outputs/06-positioning-cash-carry-variant.md`, my-gtm-context.md §6
 **Related battlecards:** Rallyware (live). Aice (pending partnership confirmation). Exigo (pending rep app feature-scope research).
 
 ---

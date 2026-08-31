@@ -4,6 +4,40 @@
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
+> ### 🔴🔴 2026-08-30 — THE DSO IS NOT A GATE AT THE FRONT. Read this before the August header below.
+>
+> **Five corrections, and the first two change the shape of the motion.**
+>
+> **1. 🔴 DSO permission is NOT required to reach reps.** ByDesign can contact reps directly and advertise Wayroo **inside the Freedom and Revolution back offices** without asking corporate. **Beat 1 of the three-beat sequence — "permission + a comms channel" — does not exist.** There is no approval to win before acquisition can start.
+>
+> **2. 🔴 Inventory and dashboard widgets work automatically on rep download, with zero DSO involvement.** A rep at a company that has done nothing still opens the app and finds their own inventory and their own back-office data. **This is USP 1, delivered with no gatekeeper** — and it is two of the four strongest observed JE rep reactions.
+>
+> **What the DSO is still needed for — the only two things:**
+>
+> | Ask | Unlocks | Nature |
+> |---|---|---|
+> | **ProPay approval** | **Selling tools** (Tap-to-Pay, invoicing, POS) — and therefore **all payments revenue** | Underwriting, not permission |
+> | Custom branding | White-label | Commercial, optional |
+>
+> > ### The motion inverts: the DSO moved from a gate at the front to a gate in the middle.
+> >
+> > **Old:** win permission → reps adopt → reps hit a wall → ask the DSO again.
+> > **New:** **advertise to reps directly → reps adopt and get real value immediately → rep demand accumulates → the DSO ProPay ask arrives with the field already asking for it.**
+> >
+> > **This is strictly better, and it is what beat 3 always wanted.** The ProPay conversation was designed to be rep-pulled; now it is the *only* DSO conversation, and demand can accumulate **before corporate is ever contacted.** The demand counter stops being a nice-to-have and becomes the entire DSO pitch.
+>
+> **3. Media Library is LIVE in Wayroo, and it is the first real answer to Hustle and Boards.** Comparable feature territory, **not full parity**. **Aice has the full Hustle feature set** — so post-merger ByDesign can compete with Hustle head-on. Today: a partial answer, shipped. See §6.
+>
+> **4. JE Tap-to-Pay trial is DECIDED, and it is wider than the 510.** Ships in **2–3 weeks (~mid-September 2026)**. **All 764 JE reps get 30 days of access regardless of Revolution Pro status**; non-Pro reps are prompted to pay at the end. This confirms the trial-to-paid design in [`outputs/06-messaging-house.md`](outputs/06-messaging-house.md) §6 and **widens it from 510 to 764** — the trial is now the launch mechanic for the whole account, not a salvage plan for non-payers.
+>
+> **5. Pilot: 3 DSOs get Wayroo free plus custom branding at no charge — a stated $25,000 value each.** ⚠️ **White-label was "the only remaining paid Wayroo surface."** Giving it to the first three sets a public anchor and makes it a pilot incentive rather than a price. Deliberate, and it needs to be a conscious trade — see §5.
+>
+> **6. All launch dates are pushed back.** Treat every date in the Phase 7 and 9 assets as void pending reset. Sequence still holds; calendar does not.
+>
+> **Superseded by the above:** the "three-permission ask" framing in [`outputs/07-dso-launch-kit.md`](outputs/07-dso-launch-kit.md), Beat 1 in [`outputs/06-messaging-house.md`](outputs/06-messaging-house.md), and "the DSO is the approver" wherever it implies a gate on rep access.
+>
+> ---
+>
 > ### 🔴 August 2026 Status Header — read before using anything below
 >
 > **Jordan Essentials is LIVE.** Launched July 17–18, 2026. ~11-week deal cycle. Founder requested the paid contract start be pulled forward to September 2026. Full record: [`prospects/jordan-essentials.md`](prospects/jordan-essentials.md).
@@ -213,17 +247,38 @@ Independent field seller inside a ByDesign client organization, US-based, alread
 
 > **The locked-tools mechanic is the demand engine, not a limitation.** A rep who can see Tap-to-Pay but cannot use it has a reason to press corporate. That pressure — not a sales call — is what drives DSO ProPay onboarding, which is what unlocks the payments revenue line.
 
-### ICP B — The DSO Approver (Secondary; permission-granter, not budget-holder)
+### ICP B — The DSO ProPay Unlocker (Secondary; not a gate on rep access)
 
-Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Director) at an **existing** ByDesign client. **In this motion they are not being sold to.** Three things are needed from them, in order:
+> ### 🔴 Revised 2026-08-30 — this persona was mis-titled. They are not an approver.
+>
+> **Asks 1 and 2 below have been deleted, not demoted.** ByDesign does not need DSO permission to reach reps, and does not need a DSO comms channel — **Wayroo is advertised to reps directly inside the Freedom and Revolution back offices.** Rep acquisition has no DSO gate.
+
+Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Director) at an **existing** ByDesign client. **They are not being sold to, and they no longer gate adoption.** One thing is needed from them:
 
 | # | The ask | Why it matters |
 |---|---------|----------------|
-| 1 | Permission to offer Wayroo Essentials to the field | Gates any rep access at all |
-| 2 | A communications channel to reps | Determines adoption rate — see benchmarks below |
-| 3 | **ProPay onboarding completion** | **Unlocks selling tools. Until this happens the payments line — ~76% of account revenue — is $0.** |
+| ~~1~~ | ~~Permission to offer Wayroo Essentials to the field~~ | ❌ **Deleted — not required.** Reps are reachable directly. |
+| ~~2~~ | ~~A communications channel to reps~~ | ❌ **Deleted — not required.** Revolution in-product is the channel. |
+| **1** | **ProPay approval** | **Unlocks selling tools. Until this happens the payments line — the entirety of Land-and-Expand revenue — is $0.** |
+| 2 | *(Optional, commercial)* Custom branding | White-label. Free to the 3 pilot DSOs; see §5. |
 
-**#3 is the qualifying criterion that actually matters.** A DSO that grants permission but never completes ProPay onboarding produces adoption with no payments revenue — reps in the app, nothing transacting. **Qualify and sequence accounts on ProPay readiness, not on rep count.**
+**ProPay approval is the only qualifying criterion, and it is now the only DSO conversation.** Reps adopt and get real value without it; nothing transacts until it is done. **Qualify and sequence accounts on ProPay readiness, not on rep count and not on relationship warmth.**
+
+> ### What a rep gets at a DSO that has done literally nothing
+>
+> **Confirmed 2026-08-30: inventory and dashboard widgets work automatically on download.** No DSO involvement, no configuration, no conversation.
+>
+> | Capability | Works with zero DSO action? | JE rep reaction |
+> |---|---|---|
+> | **Populated inventory from the wholesale order** | ✅ | The USP-1 proof |
+> | **Dashboard widgets — sales, downline, performance** | ✅ | 🔴 **Top-tier** |
+> | **Back-office data on the phone** | ✅ | 🔴 **Top-tier** |
+> | **Media library** | ✅ *(live)* | DSO-high / rep-low |
+> | Tap-to-Pay · invoicing · POS | ❌ **Pending DSO ProPay** | 🔴 **Highest of anything shown** |
+>
+> **Two of the four strongest observed rep reactions require nothing from the DSO.** This materially de-risks the locked state: a rep at an un-onboarded account is not holding "an inventory viewer and a reason to be annoyed" — they are holding two capabilities they rated top-tier, plus a visible reason to press corporate.
+>
+> **It also reduces Aice's load as the retention bridge.** Aice still matters for the catalog-only rep, who has no inventory to be impressed by — but Wayroo alone now clears the day-one value bar for anyone who carries stock or leads a team.
 
 > ### 🔴 There are TWO gates, not one (discovered at JE, 2026-08-13)
 >
@@ -372,6 +427,24 @@ Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Directo
 > ⚠️ **Selling tools ship as a set, not individually.** Tap-to-Pay, invoicing and POS are **all disabled until Tap-to-Pay releases** (week of 2026-08-17). Until then a live account runs on **media library, dashboard widgets and inventory only** — which is exactly the Jordan Essentials picture today. **Plan every account's transacting funnel from the Tap-to-Pay date, not the install date.**
 
 **Paid Wayroo surface:** white-labeling / branding, sold to the DSO. **This is now the only one.**
+
+> ### 🔴 The pilot gives it away — 3 DSOs, free Wayroo plus free custom branding, a stated **$25,000 value** each (2026-08-30)
+>
+> **This is a deliberate trade and it should be made consciously, because it spends the only paid Wayroo surface there is.**
+>
+> | What it buys | What it costs |
+> |---|---|
+> | **3 seeded accounts** — the ProPay-approved, branded reference deployments the motion has never had | **The first three sales of the only paid surface**, forgone |
+> | **A public $25,000 anchor.** Naming the value is what makes "free" read as a concession rather than a giveaway | **A precedent.** DSO #4 knows three peers got it free |
+> | **Branded pilots beat unbranded ones** — the JE launch (branded, corporate-announced) is the only 28%-in-48-hours datapoint we have | The unbranded-trust problem stays untested at exactly the accounts best able to test it |
+>
+> **Two rules that preserve the price:**
+> 1. **Always state the $25,000.** A gift with a number is a discount; a gift without one is the new price.
+> 2. **Bound it explicitly — "the first three pilot partners."** Scarcity is what stops it becoming the standard offer, and it is also what makes it worth saying yes to quickly.
+>
+> ⚠️ **Watch what it does to the unbranded positioning.** [`outputs/06-positioning-statement.md`](outputs/06-positioning-statement.md) devotes a section to *The Unbranded Trust Problem* and resolves it with "the product self-authenticates through data, not branding." **Branding the three pilots means that resolution goes untested where it matters most** — and the 55-client rollout is unbranded. Instrument first-run comprehension at a branded pilot and an unbranded account, or the question stays open.
+>
+> ⚠️ Reconcile against [`outputs/05-aice-bundle-and-free-tier-pricing.md`](outputs/05-aice-bundle-and-free-tier-pricing.md), which treats white-label as the retained paid surface.
 
 > ⚠️ **International is out of scope.** The Wayroo app is not ready and it is not the starting point. Multi-currency/multilingual and the 2027 international TAM are deferred; do not build pricing, bundle, or forecast work on them.
 
@@ -646,6 +719,23 @@ Reps currently spend **$60–100/month across 6–10 apps** of their own money. 
 **Hustle** — Charges **$5 per monthly-active-rep.** **Paparazzi pays it across ~20,000 reps.** A live, funded, per-rep-priced competitor already inside a flagship ByDesign account — and direct evidence that DSOs will pay per-rep for rep tooling. Wayroo Essentials being free is a direct answer to Hustle's price.
 
 **Boards** — The incumbent **Jordan Essentials is migrating off.** Displacement is already in motion at the pilot account.
+
+> ### 🔴 Confirmed 2026-08-30 — Wayroo now has a partial answer, and Aice has a complete one
+>
+> **Media Library is LIVE in Wayroo**, and it occupies comparable feature territory to Hustle and Boards — **but not full parity.** It is the first shipped capability that competes with them on their own ground rather than beside it.
+>
+> **Aice has the full Hustle feature set.** So the competitive picture is staged:
+>
+> | | **Today** | **Post-merger** |
+> |---|---|---|
+> | vs. **Hustle** | **Partial** — Media Library covers some of it, free vs. $5/active rep | ✅ **Direct** — Aice's feature set plus Wayroo's transaction layer |
+> | vs. **Boards** | **Partial** — displacement already underway at JE | ✅ Direct |
+>
+> **What this licenses, and what it does not.** ✅ *"Wayroo includes a media library, free, where Hustle charges $5 per active rep"* — true and shipped. 🚫 **Do not claim feature parity with Hustle.** The honest position is **partial coverage today, full coverage after the merger** — and the merger is unsigned, so it is not a claim to make externally at all.
+>
+> ⚠️ **This narrows but does not close the research gap.** [`06-positioning-statement.md`](outputs/06-positioning-statement.md) flags that Hustle and Boards have no feature-level teardown and that competitive claims are unsafe until one exists. **We now know the shape of the overlap without knowing its edges** — which is enough to stop treating them as pure price competitors, and not enough to make a feature-by-feature claim.
+>
+> **The strategic read:** Media Library was rated 🔵 Low by reps and 🔴 High by DSO leadership at Jordan Essentials. **Its value is competitive and DSO-facing, not rep-adoption-driving** — which is exactly the attribution correction still open against `strategic-inputs.md` §1 (WAY-1). Being a Hustle answer is a *better* justification for the feature than being a rep-adoption driver, and it is the one supported by evidence.
 
 > ### 🔴 Confirmed 2026-08-10 — Paparazzi's field is ~20,000 reps, not 4,000
 >

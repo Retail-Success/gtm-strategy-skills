@@ -1,4 +1,4 @@
-# Phase 6 — Master Positioning: Wayroo Essentials (Land-and-Expand)
+# Phase 6 — Positioning Statement: Wayroo Essentials (Land-and-Expand)
 
 **Phase:** 6 — Crafting Positioning
 **Framework:** April Dunford — *Obviously Awesome*, adapted for GTM Strategist by Maja Voje
@@ -134,13 +134,28 @@ Tap-to-Pay remains the strongest hook in **announcement and acquisition** messag
 >
 > **These are not two versions of one message. They are two different messages, sequenced.**
 >
+> ### 🔴 Revised 2026-08-30 — the sequence lost its first beat, and that is an improvement
+>
+> **Beat 1 has been deleted, not reordered.** ByDesign does not need DSO permission to reach reps and does not need a DSO comms channel — **Wayroo is advertised to reps directly inside the Freedom and Revolution back offices.** There is no approval to win before acquisition can begin.
+>
 > | Beat | Audience | Ask | Framing |
 > |---|---|---|---|
-> | **1** | Home office | Permission + a comms channel | Costs nothing, pays margin. **No ProPay mention.** |
-> | **2** | Reps | Adopt | Tap-to-Pay hook; the locked state creates pull |
-> | **3** | Home office | **Complete ProPay onboarding** | *"Your reps are asking"* — rep-pulled, not vendor-pushed |
+> | ~~**1**~~ | ~~Home office~~ | ~~Permission + a comms channel~~ | ❌ **Deleted — no such gate exists** |
+> | **1 — Reach** | **Reps, directly** | Adopt | **Revolution in-product placement.** Tap-to-Pay hook; inventory and dashboards work on download |
+> | **2 — Unlock** | Home office | **ProPay approval** | *"Your reps are asking"* + the demand count |
+> | *(parallel)* | 3 pilot DSOs | Pilot participation | Free Wayroo + free branding, a **$25,000 value** |
 >
-> **Beat 3 is why the sequence exists.** ProPay onboarding never gets asked for cold — it arrives as a response to the home office's own field. **The rep is the channel.**
+> **The DSO moved from a gate at the front to a gate in the middle.** The ProPay conversation was always designed to be rep-pulled; now it is the *only* DSO conversation, and **demand can accumulate before corporate is ever contacted.**
+>
+> ### What this changes for the positioning, in order of consequence
+>
+> **1. 🔴 The demand counter is no longer a mechanism inside the product — it is the entire DSO pitch.** Previously it produced an artifact for a conversation that had already been opened by a permission ask. Now nothing opens that conversation except the counter. **Its instrumentation dependency escalates from High to critical-path.**
+>
+> **2. 🔴 The locked state is materially less risky than this document assumed.** Confirmed 2026-08-30: **inventory and dashboard widgets work automatically on rep download with zero DSO involvement.** A rep at an un-onboarded account holds two of the four strongest observed JE reactions, not a consolation prize. The *"inventory viewer and a reason to be annoyed"* framing was too pessimistic.
+>
+> **3. Aice's load as retention bridge drops — for some reps.** Wayroo alone now clears the day-one bar for anyone carrying stock or leading a team. **The catalog-only rep (R3) is the exception and still needs the pair**, which sharpens rather than removes the Aice free/paid question.
+>
+> **4. Acquisition is now a channel problem, not a permission problem.** The binding constraint moved from "will corporate say yes" to "how well does the Revolution placement convert." That is a **Phase 8 channel question and a creative question**, and it is newly load-bearing.
 
 ## Step 5 — Market Category
 

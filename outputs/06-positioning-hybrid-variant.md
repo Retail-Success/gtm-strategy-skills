@@ -22,7 +22,7 @@
 **Framework:** April Dunford — *Obviously Awesome* positioning methodology
 **Segment:** Hybrid DSO (ICP 1b) — existing Freedom client + minority C&C cohort + Wayroo as channel-shift / decline-reversal play
 **Last updated:** May 10, 2026
-**Derives from:** `outputs/06-positioning-master.md`
+**Derives from:** `outputs/06-positioning-statement.md`
 **Inputs:** `outputs/02-hybrid-dso-icp-intelligence.md`, `outputs/02-hybrid-dso-qualification-questions.md`, `prospects/jordan-essentials.md`
 **Status:** Single confirmed account (Jordan Essentials, May 6, 2026) + 7 minority-C&C candidates identified from existing Freedom client base (May 7, 2026). Promote to confirmed segment when 2+ of those 7 confirm the full pattern (decline + convention + two-EB DMU). Until then, treat as working hypothesis.
 
@@ -372,4 +372,4 @@ Unlike C&C two-person C-suite DMU (CEO + CTO), Hybrid DSO DMUs are typically two
 ---
 
 *Frameworks: April Dunford — *Obviously Awesome* positioning methodology. GTM Strategist by Maja Voje — Phase 6 (Crafting Positioning).*
-*Created: May 10, 2026 — derived from `06-positioning-master.md` and `outputs/02-hybrid-dso-icp-intelligence.md` Part 6 draft.*
+*Created: May 10, 2026 — derived from `06-positioning-statement.md` and `outputs/02-hybrid-dso-icp-intelligence.md` Part 6 draft.*

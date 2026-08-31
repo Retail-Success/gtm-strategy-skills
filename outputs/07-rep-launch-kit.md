@@ -2,8 +2,29 @@
 
 **Phase:** 7 — Preparing Launch Assets
 **Date:** 2026-08-13 · **Owner:** Sam Atieh + Product
-**Due:** first-run + locked copy **2026-09-01** (config; iterable through pilot)
-**Derives from:** [`06-positioning-master.md`](06-positioning-master.md) · [`06-messaging-house.md`](06-messaging-house.md)
+**Due:** ⚠️ **date void — launch calendar under reset (2026-08-30)**
+**Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md) · [`06-messaging-house.md`](06-messaging-house.md) · [`06-persona-positioning.md`](06-persona-positioning.md)
+
+> ## 🔴 Revised 2026-08-30 — the locked state is milder than this kit assumes
+>
+> **Confirmed: inventory and dashboard widgets work automatically on rep download, with zero DSO involvement.** A rep at a company that has done nothing still gets:
+>
+> | Works on download, no DSO action | Pending DSO ProPay |
+> |---|---|
+> | ✅ **Populated inventory** from their wholesale order | ❌ Tap-to-Pay |
+> | ✅ **Dashboard widgets** — sales, downline, performance | ❌ Invoicing |
+> | ✅ **Back-office data on their phone** | ❌ POS |
+> | ✅ **Media library** *(live)* | |
+>
+> **Two of the four strongest observed JE rep reactions require nothing from the DSO.** The locked rep is not holding a consolation prize.
+>
+> **Three edits this implies:**
+>
+> **1. Stop hedging in the locked copy.** The pending tools are an *addition* to a working product, not a hole in a broken one. Current strings are apologetic in a way the facts no longer justify.
+>
+> **2. 🔴 Add a team-leader first-run variant.** Per [`06-persona-positioning.md`](06-persona-positioning.md) R2, the team leader is the **highest-yield persona at a locked account** — they get the full product on day one. Step 2b (dashboard widgets) already exists and is correctly placed; **for a rep with a downline it should lead, not follow inventory.** Derive from downline size, which the back office already knows.
+>
+> **3. The three branches at step 3 are entitlement states, not personas.** Keep them — they are correct — but the persona layer sits above them. A team leader and an in-person seller in the same locked state want different first screens.
 
 > **Why this is new material, not an edit.** Everything that exists assumes a **branded tenant with ProPay already live.** This rep has neither: the app carries no logo they recognise, and their selling tools are dark. Both assumptions have to be replaced, not adjusted.
 
@@ -117,7 +138,7 @@ The rep's state determines what they see. **Get this branching right; it is wher
 
 # 2. Locked-Tool Copy — All Three Surfaces
 
-**Full rationale in [`06-positioning-master.md`](06-positioning-master.md).** These are the strings.
+**Full rationale in [`06-positioning-statement.md`](06-positioning-statement.md).** These are the strings.
 
 > ⚠️ **All three strings below are the *post-ship, ProPay-pending* variant (3b-ii).** Before the week of 2026-08-17, use the pre-ship wording from 3b-i — *"arrives with our next release"* — and **no demand counter.** Selling tools release as a set, so all three surfaces switch states together.
 

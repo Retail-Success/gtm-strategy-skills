@@ -17,7 +17,7 @@
 **Phase:** 6 — Crafting Positioning (consolidated deliverable across Tasks 1–3)
 **Purpose:** Single source of truth for sales enablement, messaging consistency, and battlecard production. Each Wayroo capability is mapped to its primary persona(s), the customer benefit it delivers, the positioning pillar it supports, and the talk-track messaging hook to use in sales conversations.
 **Last updated:** May 10, 2026
-**Derives from:** `outputs/06-positioning-master.md`, `outputs/06-positioning-cash-carry-variant.md`, `outputs/06-positioning-hybrid-variant.md`, `outputs/06-uvp-usp.md`, `outputs/06-messaging-house.md`
+**Derives from:** `outputs/06-positioning-statement.md`, `outputs/06-positioning-cash-carry-variant.md`, `outputs/06-positioning-hybrid-variant.md`, `outputs/06-uvp-usp.md`, `outputs/06-messaging-house.md`
 **Status:** Draft v1. Update after Phase 6 Task 5 (messaging testing with prospects). Becomes foundational input for Phase 12 sales enablement work (sales deck, scripts, battlecards, objection-handling guide).
 
 ---
