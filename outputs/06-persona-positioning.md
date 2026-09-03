@@ -67,7 +67,7 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 | **Their job** | Do not lose the sale standing in front of them |
 | 🔴 **Lead with** | **Tap-to-Pay.** Then pre-loaded inventory. |
 | 🚫 **Never** | Compliance · corporate visibility · "the company can see" · anything about brand control |
-| **The objection** | *"I already have Square and it's free."* → Square does not know your wholesale order, does not fill your inventory from corporate, and does not put your customer into the company's system. **Per the master positioning, price is not the argument against Square — integration is the whole argument.** |
+| **The objection** | *"I already have Square and it's free."* → Square does not know your wholesale order, does not fill your inventory from corporate, and does not put your customer into the company's system. **Integration is the strongest argument.** 🔴 **Updated 2026-09-02 — concede the price, win the capability.** Our rep-facing rate is only *slightly* below Square's, so **say so**: *"Our rate's about the same. The difference is it's connected."* **Square will never have her back-office data or her inventory** — structurally, not as a roadmap gap. 🚫 **Never claim we're cheaper.** A rep who has heard that from four apps this year discounts it automatically; conceding it is what makes the rest credible. |
 | **Confidence** | **HIGH** — two accounts, one directly observed at ~764-rep scale |
 
 > ⚠️ **This persona is systematically undercounted, in both directions, at every account where it has been checked.** JE's ~20% C&C estimate was confirmed understated at launch; Color Street's nominal 20K "active stylists" turned out to be ~4K real sellers. **DSO leadership does not reliably know its own in-person selling share.** Derive it from back-office data where ByDesign holds it (`my-gtm-context.md` §3) rather than accepting a self-report.
@@ -118,6 +118,30 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 
 > ⚠️ **This persona is the load-bearing assumption behind the Aice pairing**, and it has never been observed. The master positioning's case for launching both products together rests on Aice covering the catalog-only field during the ProPay wait. **If Aice's free tier is drawn too thin, the pair does not cover this persona and the retention bridge does not hold** — see [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md) Q1. Validate this persona at pilot accounts 2 and 3.
 
+> ### 🔴 R3 finally has a value proposition of her own — added 2026-09-02
+>
+> **This persona was weak because we were selling her the wrong half of the product.** Everything we led with — pre-loaded inventory, POS, event checkout — serves a rep who carries stock. She doesn't. So the pitch collapsed into *"payment links, and Aice covers the rest,"* which is why the Aice free-tier decision was carrying her.
+>
+> **She has a back office she is tired of logging into. That is the pitch.**
+>
+> | What she gets, with zero DSO involvement | Why it lands |
+> |---|---|
+> | **Sales reports** | Her numbers, on her phone |
+> | **Downline summaries** | If she leads a team, the reason she opens it daily |
+> | **KPIs** | Where she stands against rank, without a browser |
+> | 🔴 **Corporate push notifications** | Promos, rank advancements, announcements — where she'll actually see them |
+> | **Media library assets** | On-brand photos ready to post, not a Dropbox link she can't find |
+>
+> ### 🔴 Revised lead for R3
+>
+> > **"Your back office is in your pocket."**
+>
+> **Not** *"payment links and a storefront"* — which asks a catalog-only rep to become a different kind of seller. **The back-office-in-your-pocket frame asks her to change nothing** and removes the second login she resents.
+>
+> **This materially reduces the Aice dependency.** Aice still matters for training, team and community — but **Wayroo alone now clears the day-one bar for R3**, which it demonstrably did not before. The pair is still better; it is no longer load-bearing.
+>
+> ⚠️ **Evidence is still LOW.** This is a stronger argument, not a tested one. It moves the R3 interview from *"does she exist?"* to *"does the back-office frame land?"* — a better question, and still unasked.
+
 ---
 
 ## R4 — The Hobbyist ⛔ Not a target
@@ -163,6 +187,24 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 | 🚫 **Never** | **ProPay onboarding** (that is beat 3) · implementation detail · anything that resembles a project · **compliance as an opener** |
 | **The objection** | *"Why would we add another rep app?"* → It is not another app. It replaces six to ten your reps already pay $60–100/month for, and it is the only one wired into the back office you already run. |
 | **Confidence** | **HIGH** — two accounts, consistent behaviour |
+
+> ### 🔴 Two DSO benefits this persona never heard — added 2026-09-02
+>
+> **1. A channel to your own field.** Corporate push notifications arrive **in the app the rep opens to run her business** — not an inbox she ignores or a Facebook group she muted. Every DSO struggles to reach its field; **this is the best notification surface they will ever have**, and it has never been in the pitch.
+>
+> ⚠️ The capability needs nothing from them, but **somebody has to actually send.** Ask who owns field comms.
+>
+> **2. Brand consistency, structurally.** The media library means reps post **approved photos and copy** instead of their own. It is the answer to *"my reps go off-brand"* — a complaint most DSO leaders have and few have solved.
+>
+> ⚠️ **Media library is DSO-valued and rep-rated 🔵 Low** — reps at JE were visibly less excited by it than anything else. **Pitch it to H1 and H3 as brand control. Frame it to reps as "assets without a second login," never as brand governance.**
+
+> ### 🔴 The ProPay ask has peer proof now — use it
+>
+> **Jordan Essentials and Paparazzi both completed ProPay onboarding.** That is the single most useful thing to say when the paperwork lands on the table:
+>
+> > *"Jordan Essentials went through it. Paparazzi went through it. It's the same process, and we'll walk whoever owns it through it."*
+>
+> **A first-of-its-kind ask is a risk; a thing two peers already did is a process.** This costs nothing and it is currently in no asset.
 
 > ### Two Color Street corrections that apply directly to this persona
 >

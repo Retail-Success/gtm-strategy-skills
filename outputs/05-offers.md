@@ -116,7 +116,7 @@
 | 🚫 Never | Why |
 |---|---|
 | *"Free"* to a non-Pro rep | **It isn't, and the store shutoff proves it** |
-| *"Cheaper than Square"* | Square is $0 |
+| *"Cheaper than Square"* | Subscription: both $0. **Processing: confirmed 2026-09-02 as only slightly below Square** — not enough to move anyone. **Say "about the same rate, and it does what Square can't."** |
 | *"Replaces all your apps"* | **Canva and SMS survive.** Overclaiming loses the skeptical rep. |
 | *"Upgrade / Premium / Unlock"* | Paywall grammar — banned in rep-facing copy |
 | *"Limited-time"* on the free tier | It isn't limited, and saying so makes it sound like a trial |

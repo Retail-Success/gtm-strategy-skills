@@ -98,10 +98,18 @@ Test applied: *could a competitor truthfully claim this?*
 
 | Capability | Available locked? | Rep value |
 |---|---|---|
-| **Dashboard widgets pulling live back-office data** | ✅ | Sales, downline, and performance data **on their phone** — previously only reachable by logging into a browser |
+| **Dashboard widgets pulling live back-office data** | ✅ | Sales, downline, performance **and KPIs on their phone** — previously only reachable by logging into a browser |
 | **Media library** | ✅ | On-brand product assets to post, instead of unofficial photos |
+| 🔴 **Corporate push notifications** | ✅ | **Added 2026-09-02.** Rank advancements, promos, announcements — delivered in the app rather than an inbox she doesn't read |
 | Populated inventory + customer records | ✅ | The USP-1 proof |
-| Tap-to-Pay · invoicing · POS | ❌ **Dark as a set** — first pending feature ship (week of 2026-08-17), then pending DSO ProPay | The hero, and the demand hook |
+| Tap-to-Pay · invoicing · POS | ❌ **Dark as a set** — first pending feature ship, then pending DSO ProPay | The hero, and the demand hook |
+| 🔴 **Next-day payout card + "Get Paid"** | ❌ **Gated — runs on ProPay** | **Added 2026-09-02.** Earnings on a branded card the next day, spendable anywhere Mastercard is accepted or usable to fund her next wholesale order. |
+
+> ### 🔴 The payout card was missing from this table, and it sharpens the DSO ask
+>
+> Wayroo pays a rep's earnings onto a **branded payout card the following day**, with an in-app wallet and a "Get Paid" button. It runs on ProPay, so it is gated exactly like Tap-to-Pay — **not** a works-on-download capability.
+>
+> **Why it matters for Beat 2:** *"your reps can't take cards until you approve this"* is a weaker sentence than **"your reps can't get paid the next day until you approve this."** Taking a card solves her customer's problem; getting paid solves hers. **The ProPay ask should lead with the payout, not the acceptance.**
 
 > ⚠️ **Selling tools release together, so an account's "locked" state has two distinct causes** — the feature not existing yet, and the DSO not having onboarded. **They need different copy**, because blaming the DSO for our ship date is untrue and misdirects rep pressure. See [`07-rep-launch-kit.md`](07-rep-launch-kit.md) §1, states 3b-i and 3b-ii.
 
@@ -110,6 +118,20 @@ Test applied: *could a competitor truthfully claim this?*
 > `my-gtm-context.md` §13 records the four strongest rep reactions at the JE launch: **Tap-to-Pay, invoicing with payment links, downline dashboards, and phone access to back-office data.**
 >
 > **Two of those four work in the locked state.** The dashboard and back-office-data hooks are not hypothetical — they drew real, observed rep excitement, and they need no merchant account. **Locked Wayroo has proven rep appeal, not merely residual utility.**
+
+> ### 🔴 Push notifications make Wayroo a channel, not just a tool — added 2026-09-02
+>
+> Corporate's notifications arriving **in the app** is a different kind of capability from the rest of this list. It means Wayroo is not only where a rep works — **it is how her company reaches her.**
+>
+> **Three consequences:**
+>
+> **1. It is a DSO benefit we never pitched.** Every DSO struggles to reach its field. Email gets ignored, Facebook groups are noisy. **An app the rep opens to run her business is the best notification surface her company will ever have** — and the DSO deck has never said so.
+>
+> **2. It deepens the relationship structurally.** A company whose field comms run through Wayroo has a harder time removing it than one whose reps merely check stock in it. *(Internal reasoning only — never say this to a DSO. It turns a gift into a trap.)*
+>
+> **3. It strengthens the un-onboarded account.** Notifications need no ProPay. **A rep at a company that has done nothing still gets her reports, her downline, her assets and her company's announcements** — that is a working product, not a waiting room.
+>
+> ⚠️ **One dependency worth naming:** the *capability* works on download, but **the DSO has to actually send something.** A notification surface nobody posts to is dead air. Add "who sends field comms?" to the ProPay conversation.
 
 ### What this changes: lead order at locked accounts
 

@@ -210,6 +210,16 @@ Current state without Dropship: if a rep doesn't have an item in their personal 
 >
 > ⚠️ This raises the stakes on where Aice draws its free/paid line. **Drawn too thin, the pair does not cover the non-C&C field and the bridge does not hold.** No longer only a pricing decision.
 
+> ### ✅ Confirmed 2026-09-02 — what every Revolution Pro rep gets on download
+>
+> **Wayroo Essentials — media library, dashboards, and push notifications — reaches every Revolution Pro rep at every one of the 55 clients, on download, with no DSO involvement.** Selling tools unlock only when that rep's DSO completes ProPay onboarding.
+>
+> **This is the fact the whole Land-and-Expand motion rests on**, and it was previously assumed to be Jordan-Essentials-only. It is not.
+>
+> ⚠️ **It also softens the claim above.** "Wayroo alone is an inventory view with a storefront" understates the locked state: a rep at an un-onboarded account gets **her sales reports, downline summaries, KPIs, her company's notifications and its media library — all without logging into the back office.** That is a working product, not a waiting room.
+>
+> **Consequence: the Aice bridge is a strengthener, not a dependency.** Wayroo alone now holds a catalog-only rep's attention through the ProPay wait. Do not build plans that assume it cannot.
+
 > ### Free tiers to our own installed base are a retention lever for ByDesign
 >
 > Beyond the payments revenue: **every client whose reps run their business on Wayroo + Aice is materially harder to churn.** The two apps deepen the Revolution Pro relationship rather than sitting beside it, and Wayroo bundled into Pro is the most direct available answer to competitors absorbing Revolution surface area.

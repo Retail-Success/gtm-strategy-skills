@@ -49,6 +49,17 @@ She orders wholesale from corporate and enters the SKUs by hand into a spreadshe
 | 🔴 High | Other dashboard widgets | Her numbers, on her phone |
 | 🔴 High | Back-office data without a separate login | Removes the nightly login |
 | 🔴 High *(as an unmet ask)* | **Project Broadcast / SMS** | Unprompted, repeated. **A real product gap.** |
+| ⚠️ **Under-tested** | **Next-day payout card** | 🔴 **Added 2026-09-02.** JE logged "next-day funding" as 🟡 Medium — but that was framed as *replicated-site commission timing*, not as **money on a card she can spend tomorrow.** Different proposition, likely mis-scored. |
+
+> ### 🔴 The payout card is the gap this archetype missed
+>
+> Her financial pains include *"waiting ~30 days for replicated-site commission"* and *"losing sales at the point of purchase."* **Wayroo answers both, and this document only credited the second.**
+>
+> Earnings land on a **branded payout card the next day** — spendable anywhere Mastercard is accepted, moveable to her bank, or usable to buy her next wholesale order. For a rep whose income arrives monthly, that changes how her business runs rather than adding a feature.
+>
+> **No rep has ever been asked about it.** Add to the interview guide: *"How long do you wait to see money from a sale, and what would change if it were tomorrow?"*
+>
+> ⚠️ Gated on ProPay — it belongs with Tap-to-Pay, not with the works-on-download set.
 | 🔵 **Low** | **Media Library** | Corporate's brand-control need, **not hers** |
 
 > ### The finding that should govern all rep-facing work

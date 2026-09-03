@@ -49,10 +49,43 @@
 
 # Two Claims That Do Not Survive Contact
 
-> ### 🚫 Do not compete with Square on price.
-> Square's free tier is **$0**. Wayroo Essentials is **$0 incremental**. Leading on price invites the obvious reply and loses the room. **Against Square, integration is the entire argument.**
+> ### 🚫 Do not compete with Square on **subscription** price.
+> Square's free tier is **$0**. Wayroo Essentials is **$0 incremental**. Leading on the monthly price invites the obvious reply and loses the room. **Against Square, integration is the strongest argument.**
 >
-> ✅ Price *does* differentiate against **Hustle ($5/monthly-active-rep) and Boards.** Use it there, only.
+> ✅ Subscription price *does* differentiate against **Hustle ($5/monthly-active-rep) and Boards.** Use it there.
+
+> ### 🔴 Correction 2026-09-02 — the transaction fee is a real argument we ruled out too broadly
+>
+> "Never compete on price with Square" was written about the **subscription**. It got applied to **everything**, and that cost us a legitimate point.
+>
+> | | Square | Wayroo |
+> |---|---|---|
+> | Monthly subscription | **$0** *(some tiers charge)* | $0 |
+> | 🔴 **Per transaction** | **~2.6% + 10¢ on every sale** | ⚠️ **Rep rate not documented anywhere in this library** |
+>
+> **A rep running $1,500/month through Square pays roughly $40 in fees she has probably never totalled** — and pays it whether or not the month was good.
+>
+> ### ✅ Resolved 2026-09-02 — the rate is roughly level, and that is the better answer
+>
+> **Our rep-facing rate is only slightly below Square's** — not enough to move anyone.
+>
+> **So price is not the argument, and saying so out loud is the argument.**
+>
+> > ## **"Roughly the same rate — and it does what Square can't."**
+>
+> ### Why this beats winning on price
+>
+> A price advantage is temporary, checkable, and puts you in a spreadsheet next to a company with more scale. **A structural capability gap is none of those things.**
+>
+> **Square will never have the rep's back-office data or her inventory** — not as a roadmap gap, but because it has no relationship with the company she sells for. **No amount of Square product investment closes it.**
+>
+> | ✅ Say | 🚫 Don't |
+> |---|---|
+> | *"About the same rate."* | *"We're cheaper."* — technically true, materially not, invites arithmetic |
+> | *"The difference is it's connected to your company."* | *"Square is expensive."* |
+> | *"Square doesn't know what you ordered, and nothing you sell on it reaches your back office."* | Any framing that makes this a price fight |
+>
+> **Conceding the price comparison is what makes the capability argument credible.** A rep who has heard "we're cheaper" from four apps this year discounts it automatically.
 
 > ### 🚫 Do not claim inventory management as a differentiator.
 > **Square does basic inventory well** — spreadsheet upload, categories, tax codes. A rep who has used Square will say so.

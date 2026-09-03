@@ -88,31 +88,57 @@ Three. No more — nothing sticks past three.
 > | **DSO corporate FAQ** | DSO support fields questions from *all* reps | ⚠️ **Branch** — see Pillar 3 |
 > | **Landing page · demo video · Aice placement · social** | Unknown mix | ⚠️ **Lead with the data claim**; state the Pro relationship plainly rather than claiming inclusion |
 
-## Pillar 1 — Your inventory's already in it *(the lead)*
+## Pillar 1 — It's already in it *(the lead)*
 
-> **Your inventory is already in it.**
+> **Your inventory is already in it.** *(carrying stock)*
+> **Your back office is already in it.** *(everyone else)*
 
 | | |
 |---|---|
 | **Proof** | Wholesale order and inventory arrive pre-loaded from the back office. Nothing to import, no spreadsheet, no SKU entry. |
 | **Proof** | Sales flow back to the home office automatically — no reporting, no screenshots. |
+| 🔴 **Proof** | **Sales reports, downline summaries and KPIs — without logging into the back office.** |
+| 🔴 **Proof** | **Corporate's push notifications arrive in the app**, not in an inbox she doesn't check. |
+| 🔴 **Proof** | **On-brand photos and assets from the media library**, ready to post — no hunting through a Dropbox link. |
 | **Proof** | Same system that runs commissions and genealogy. |
 | **Objection it answers** | *"Not another app I have to set up."* |
 | **Audience** | Rep (lead) · Home office (support) |
 
 **This is the pillar that carries the unbranded problem.** The app says Wayroo; the rep's company doesn't. Only the data proves the connection — so the data has to be the first thing they see.
 
-## Pillar 2 — Take a card, anywhere *(the hook)*
+> ### 🔴 Same claim, different payload by persona — added 2026-09-02
+>
+> **"Already in it" is one promise with two contents**, and which one you lead with depends on whether she carries stock:
+>
+> | | **She carries inventory (R1)** | **She sells from the catalog (R3)** |
+> |---|---|---|
+> | **What's already in it** | **Her wholesale order**, counted and priced | **Her reports, her downline, her KPIs, her notifications, her brand assets** |
+> | **Lead line** | *"Your inventory's already in it."* | *"Your back office is in your pocket."* |
+>
+> **This is the value proposition R3 never had.** The catalog-only rep was the weakest-evidenced persona in the library — no inventory to be impressed by, and the Aice pairing carrying the argument. **She does have a back office she's tired of logging into**, and everything in it now travels with her.
+>
+> ⚠️ **All of it works with zero DSO involvement.** No ProPay, no approval. This is the un-onboarded account's entire story, and it is a better one than "an inventory viewer."
 
-> **Card payments on your phone. No reader, no hardware.**
+## Pillar 2 — Take a card, and get paid *(the hook)*
+
+> **Card payments on your phone. Money on your card the next day.**
 
 | | |
 |---|---|
 | **Proof** | Tap-to-Pay — the customer taps their card on the rep's phone |
 | **Proof** | Invoicing with payment links for remote and post-event sales |
 | **Proof** | POS with barcode scanning at vendor events; inventory decrements automatically |
-| **Objection it answers** | *"I lose sales when someone doesn't have cash."* |
+| 🔴 **Proof** | **Her earnings land on a branded payout card the next day** — spendable anywhere Mastercard is accepted, transferable to her bank, or usable to buy her next wholesale order |
+| **Objection it answers** | *"I lose sales when someone doesn't have cash"* — **and** *"I wait a month to see my money."* |
 | **Audience** | **Rep only. Never the opener with the home office.** |
+
+> ### 🔴 The payout half was missing, and it may be the stronger half — added 2026-09-02
+>
+> Taking a card solves *her customer's* problem. **Getting paid the next day solves hers.** For a rep on a monthly commission cycle, money on a card she can spend tomorrow is a different order of benefit from a faster checkout.
+>
+> **Say both, in this order:** take the card → keep the sale → **have the money tomorrow.** The sequence is the story.
+>
+> ⚠️ **The payout card runs on ProPay**, so it is gated exactly like Tap-to-Pay. **It is not a works-on-download capability** — never promise it at an account that has not completed ProPay approval.
 
 ## Pillar 3 — Nothing extra to pay *(the closer)* — ⚠️ **two versions, and using the wrong one is a credibility problem**
 
@@ -150,7 +176,34 @@ Three. No more — nothing sticks past three.
 
 > **Do not treat 3b as the weaker pitch.** A rep spending $60–100/month who has already used Wayroo is being offered a 12–20x substitution at a price below every alternative in the category. **That is a stronger economic argument than 3a** — it just has a number in it.
 
-> ⚠️ **Use pillar 3 against Hustle and Boards, never against Square.** Square's free tier is also $0 — leading on price there invites the obvious reply. **Against Square, pillar 1 is the entire argument.**
+> ### 🔴 Correction to the Square rule — 2026-09-02
+>
+> The rule was *"never compete on price against Square."* **That was too broad, and it cost us a real argument.**
+>
+> | | Square | Wayroo |
+> |---|---|---|
+> | **Subscription** | **$0** — do not fight here | $0 |
+> | 🔴 **Per transaction** | **~2.6% + 10¢ on every sale**, and some tiers add a monthly fee | Rep processing rate — ⚠️ **needs confirming** |
+>
+> ### ✅ Rate confirmed 2026-09-02 — and it settles the argument better than winning on price would have
+>
+> **Our rep-facing rate is only slightly cheaper than Square's.** Close enough that a rep would not switch for the difference.
+>
+> **That is not a weakness — it is the cleanest version of the argument.** It takes price off the table entirely and moves the whole comparison onto ground Square can never contest.
+>
+> > ## **"Roughly the same rate — and it does what Square can't."**
+>
+> **Square will never have her back-office data or her inventory.** Not as a roadmap gap — structurally. It has no relationship with the company she sells for.
+>
+> | Say this | Not this |
+> |---|---|
+> | *"Our rate's about the same as Square's."* | *"We're cheaper."* — technically true, materially not, and it invites a spreadsheet |
+> | *"The difference is it's connected."* | *"Square is expensive."* |
+> | *"Square doesn't know what you ordered, and nothing you sell on it reaches your back office."* | Anything that makes this a price fight |
+>
+> **Conceding the price comparison is what makes the capability argument land.** A rep who has heard "we're cheaper" from four apps this year will trust "about the same, but connected" more than another discount claim.
+
+> ⚠️ **Use pillar 3's per-rep pricing argument against Hustle and Boards, never Square's subscription.** **Against Square, pillar 1 remains the strongest argument** — it is the one no competitor can answer at any price.
 
 ---
 

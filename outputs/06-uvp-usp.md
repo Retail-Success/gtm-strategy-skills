@@ -48,6 +48,15 @@
 | **4** | **Downline data on the rep's phone** | ❌ | ❓ | ❓ | ❌ | ❌ | ✅ |
 | **5** | **Included — no new bill** | **Also $0** | ❌ $5/rep | ❌ paid | ✅ | ✅ | ⚠️ **Not vs. Square** |
 | **6** | **Per-rep ProPay merchant, ~99% approval** | Slow/high decline | ❌ | ❌ | ❌ | ❌ | ⚠️ Qualified |
+| **7** | 🔴 **Next-day earnings on a branded payout card** | Next-day, but no card and no wholesale loop | ❌ | ❌ | ❌ | ❌ | ✅ |
+
+> ### 🔴 USP 7 was missing entirely — added 2026-09-02
+>
+> Wayroo deposits a rep's earnings onto a **branded payout card the following day**, with an in-app wallet and a "Get Paid" button. She can spend it anywhere Mastercard is accepted, move it to her bank, **or use it to buy her next wholesale order.**
+>
+> **The wholesale loop is the genuinely unique part.** Square can deposit money fast; it cannot close the loop back into her supplier. **Sell → get paid tomorrow → restock, without the money ever leaving the system** is something no competitor in this category can offer, because it requires the back-office relationship.
+>
+> ⚠️ **Gated on ProPay** — this is a selling-tool capability, not a works-on-download one.
 
 ⚠️ **The ❓ columns are the open research gap.** Hustle and Boards have no feature-level teardown — see [`02-competitor-experience.md`](02-competitor-experience.md). **Do not ship a claim that depends on those cells.**
 
@@ -106,7 +115,7 @@ UVP: Everything you sell, from one app - with your inventory already in it.
 
 | 🚫 | Why |
 |---|---|
-| **Cheaper than Square** | Both $0. Invites the obvious reply. |
+| **Cheaper than Square** | Subscription: both $0. **Processing rate: confirmed 2026-09-02 as only marginally below** — a price claim invites arithmetic we don't win. ✅ **"Roughly the same rate, and it does what Square can't."** Conceding price is what makes the connection argument credible. |
 | **Replaces all 6–10 apps** | Canva and SMS survive. **A large dent, not a clean sweep.** |
 | **Better inventory management** | Square does it well. **The sync is the differentiator, not the feature.** |
 | **Feature parity with Hustle** | No teardown exists |
