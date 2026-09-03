@@ -4,6 +4,14 @@
 **Date:** 2026-08-13 · **Owner:** Sam Atieh
 **Derives from:** [`06-messaging-house.md`](06-messaging-house.md) · [`07-launch-asset-plan.md`](07-launch-asset-plan.md)
 
+> ## ⚠️ Sections 1 and 3 are superseded — read [`08-revolution-ad-campaign.md`](08-revolution-ad-campaign.md) instead
+>
+> **This file was written 2026-08-13, before the 2026-08-30 inversion.** §1 (Revolution placement) and §3 (rep email sequence) still gate delivery on **"Permission 2" and "Permission 3" from the DSO — permissions that were confirmed unnecessary.** Reps are reachable directly, at all 55 clients, without asking anyone. The Tap-to-Pay date in §3 has also moved.
+>
+> **Still valid and unchanged:** §2 (Freedom placement), §2b (advertising Aice), §4 (demo video — though the campaign doc specifies a shorter 75s cut for the ad-click flow), §5 (landing page), §6 (help centre), §7 (social).
+>
+> Kept in full for the reasoning and the copy, both of which survive the permission change.
+
 ---
 
 # 1. Revolution In-Product Placement — **highest-intent surface we own**

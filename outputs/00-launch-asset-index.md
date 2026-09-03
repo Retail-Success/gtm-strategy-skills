@@ -36,8 +36,9 @@
 
 | File | What it's for |
 |---|---|
+| 🔴 ✨ [`08-revolution-ad-campaign.md`](08-revolution-ad-campaign.md) | **The campaign, written out.** Every piece of copy, the day-by-day sequence, the video page, and the feature-release engine |
 | [`08-channel-strategy.md`](08-channel-strategy.md) | The placement itself — where in Revolution it sits, and why post-wholesale-order-confirmation is the first slot |
-| [`07-channel-assets.md`](07-channel-assets.md) | Creative specs and copy. ⚠️ **Gate the Tap-to-Pay variant on account ProPay status** |
+| [`07-channel-assets.md`](07-channel-assets.md) | Landing page, help centre, social, Freedom placement. ⚠️ **§§1 and 3 superseded** by the campaign doc above |
 | [`09-launch-email.md`](09-launch-email.md) | Includes the notification email to all 55 — 🔴 **the one thing that must go before the ad** |
 | [`07-rep-launch-kit.md`](07-rep-launch-kit.md) | First run, the locked-tools state, rep FAQ, training. What support answers with |
 | ✨ [`12-rep-call-script.md`](12-rep-call-script.md) | Group walkthrough, convention, 1:1. Routes on one question: who carries their own inventory? |
