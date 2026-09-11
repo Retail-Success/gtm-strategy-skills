@@ -25,7 +25,7 @@ Four of the seven open items from Task 1 gate specific messaging. **This section
 | **Cart Pillar 2** — three-party model / shop-on-behalf | ✅ **Ships today** | — |
 | **Cart Pillar 3a** — Branding Studio / self-service customization | ✅ **Ships today** *(as roadmap, dated honestly)* | — |
 | 🔴 **Connector Pillar 2** — vendor risk (the ShapeTech message) | ⛔ **BLOCKED** | Open items **2** (bydesign.com still advertises ShapeTech) **and 7** (legal-agreed wording) |
-| 🔴 **Cart Pillar 3b** — "you stop paying twice" / TCO | ⛔ **BLOCKED** | Open item **3** (no verified TCO model — do not improvise percentages) |
+| 🟡 **Cart Pillar 3b** — "you stop paying twice" / TCO | ⚠️ **SPLIT 2026-09-11** — the *subscription-stack* half **ships**; the *lower-rate* half is **permanently cut** | Rate cards verified in `02-competitor-analysis-shopify-payment-rates.md`. **Stack half:** Shopify's $29–$2,500/mo + 0.35–0.40% GMV (Plus) + 0.2–2.0% gateway surcharge are all verified — use them. **Rate half:** our card rate is **not** below Shopify's above ~$25–40 tickets; never claim it is. Full TCO for *this* motion still needs the Freedom-cart Nuvei rate (**R1**, Sam, 2026-09-25) |
 | 🔴 **Any Cart v3 performance claim** | ⛔ **BLOCKED** | Open item **4** (no published v2-baseline benchmark) |
 | **Cart v3 product name** | ⚠️ **Placeholder** | Open item **5** — "v3" is a version number. Every line below using it needs a find-and-replace at naming |
 
@@ -69,7 +69,7 @@ Tested against the four real alternatives from Task 1, Step 1. **A USP qualifies
 | **One vendor owns cart + connector + comp engine + payments** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ **Yes** |
 | **First-party connector from the back-office vendor** | ✅ | ❌ | ❌ *third-party by definition* | ❌ | ❌ | ✅ **Yes** |
 | **Client-controlled customization, no third party** (Branding Studio) | 🔨 v3 | ✅ **Shopify has more** | ❌ | ✅ | ❌ | ❌ **No — parity, not USP** |
-| **Processing rate + no second subscription** | ✅ | ❌ | ❌ | ❌ | ❌ | ⚠️ **Yes in principle — unpriced, cannot be claimed** |
+| **No second subscription** *(renamed 2026-09-11 — "processing rate" removed)* | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ **Priced and verified** — Shopify stacks $29–$2,500/mo + 0.35–0.40% of GMV (Plus) + 0.2–2.0% gateway surcharge on top of processing. 🛑 **The rate itself is NOT a differentiator** — ours is 2.85% CP / 3.5% + 15¢ CNP vs Shopify's 2.15–2.9% + 30¢; we only win below ~$25–40 tickets. See `02-competitor-analysis-shopify-payment-rates.md` |
 | **Fast, stable cart** | 🔨 | ✅ | — | — | — | ❌ **No — re-entry requirement** |
 | **Modern storefront UX** | ❌ | ✅ | — | — | — | ❌ **No — concede it** |
 
@@ -212,8 +212,12 @@ Three per motion. **Three is the limit — more than three and nothing sticks.**
 - Configured by you. **No ticket, no third party, no quote.**
 - This is the direct answer to the most-cited reason clients left the cart.
 
-**Supporting point — 3b, ⛔ BLOCKED:**
-- ~~You stop paying a platform subscription *and* the category's highest processing rate.~~ **Do not use until the TCO model exists (open item 3). Do not improvise percentages.**
+**Supporting point — 3b, ⚠️ SPLIT 2026-09-11 — one half ships, one half is cut:**
+
+- ✅ **SHIPS — the subscription stack.** *"With Shopify the processing rate is the smallest line on the bill. You also pay the platform subscription — up to $2,300–2,500 a month — plus 0.35–0.40% of your total GMV once you're past about $800K a month, plus another 0.2–2.0% if you ever want to use your own gateway. At $10M a year that's $30–40K before you process a single card. With us there's no second subscription."* Every figure verified — `02-competitor-analysis-shopify-payment-rates.md`.
+- 🛑 **CUT PERMANENTLY — the lower-rate claim.** ~~You stop paying the category's highest processing rate.~~ **This is false.** Our published card rate is 2.85% + $0.00 CP / 3.5% + $0.15 CNP; Shopify Payments is 2.15–2.9% + 30¢ online and 2.4–2.6% + 10¢ in person. **Above a ~$25 online or ~$40 in-person ticket, Shopify is cheaper on the rate line.** Do not claim otherwise in any room — a CFO with a calculator ends the meeting.
+- ✅ **SHIPS — small-ticket economics (new, and it is ours).** *"We charge no fixed per-transaction fee card-present. Shopify charges ten cents, Square fifteen. On a $5 sale at a vendor table that's fourteen cents with us against twenty-three and twenty-eight."* True up to a $40 ticket vs Shopify and **$60 vs Square** — and Square, not Shopify, is the incumbent in that room.
+- ⚠️ **Still gated for THIS motion (R1).** The figures above are **Wayroo/ProPay**. This motion sells the **Freedom cart** (Nuvei-through-us), whose merchant rate is still unobtained — Sam, 2026-09-25. Until then use the *stack* argument, which does not depend on it.
 
 **Objection it addresses:** *"Your cart couldn't be customized without calling someone."* — the #1 recorded complaint.
 
@@ -570,7 +574,7 @@ The connector is a component with a vendor's name on it, and its entire value is
 |---|---|---|
 | 1 | Count Segment A | Sizing the whole connector motion |
 | 2 | 🔴 Fix bydesign.com — still advertises ShapeTech | **Pillar C2 entirely** |
-| 3 | 🔴 Build the TCO model | **Pillar V3b; the cost answer for Segments C and D** |
+| 3 | 🟡 Build the TCO model — **rate half done 2026-09-11** (`02-competitor-analysis-shopify-payment-rates.md`); remaining: the Freedom-cart Nuvei rate (**R1**, Sam, 2026-09-25) and one client's all-in Shopify cost (**R2**, Sam/Finance, 2026-10-02) | **Pillar V3b; the cost answer for Segments C and D.** The subscription-stack half of V3b ships now; the lower-rate half is cut for good |
 | 4 | 🔴 Publish a v3 performance benchmark | **Every performance claim; the Segment D win-back** |
 | 5 | ⚠️ Name Cart v3 | Find-and-replace across this document |
 | 6 | Confirm Segment C intent | Whether C is retention or churn defense |

@@ -29,6 +29,17 @@
 >
 # Phase 12 — Wayroo + Freedom One-Pager
 
+> 🛑 **RATE CORRECTION PENDING — 2026-09-11. Do not use the "3%" Shopify figure in this document.**
+> Rate cards for both sides were verified on 2026-09-11 (`02-competitor-analysis-shopify-payment-rates.md`) and the "~3%" figure is wrong for the accounts this asset targets: **2.9% + 30¢ is Shopify's *Basic* rate**, while mid-market DSOs are on **Advanced (2.5% + 30¢)** or **Plus (2.15% + 30¢)**. Two rules until this document is rewritten:
+> 1. **Never say "Shopify charges 3%."** Argue the **stack** instead — $29–$2,500/mo subscription + **0.35–0.40% of total GMV** above ~$800K/mo on Plus + a **0.2–2.0%** non-Shopify-gateway surcharge, *then* the card rate. A Plus merchant at $10M/yr pays ~$30–40K/yr in platform fees before processing a card. Every figure verified.
+> 2. **Keep Spendback, but scope it.** *"Wholesale processing from ~2.55% to 1%"* on orders paid from a rep's ProPay balance is correct. **"1% on every transaction" is not** — our retail card rate is 2.85% + $0.00 CP / 3.5% + $0.15 CNP, which is *above* Shopify's on tickets over ~$25–40.
+>
+> ✅ **Usable now:** we charge **no fixed per-transaction fee card-present**. On a $5 sale — **us $0.14, Shopify Basic $0.23, Square $0.28** — and we stay ahead to a $40 ticket vs Shopify, $60 vs Square.
+>
+> Corrected already: `12-battlecard-shopify.md`, `06-positioning-shopify-connector-and-cart-v3.md`, `06-messaging-house-shopify-connector-and-cart-v3.md`. **This file still needs its pass** — Sam Atieh, **2026-09-25**.
+
+---
+
 **Phase:** 12 — Executing Sales, Task 2
 **Use:** Sales leave-behind. What a champion shares internally to get budget approval, buy-in from their boss, or alignment from another department. If you don't give them this, they'll write their own — and they'll get your value prop wrong.
 **Last updated:** May 10, 2026
@@ -130,7 +141,7 @@ Designed to fit on a single printed page (8.5" × 11" or A4) when exported to PD
 
 ### Speaker / Champion Notes (Not Printed)
 
-- **Headline numbers are specific and defensible.** 3% Shopify rate, 1% Spendback rate, three-pillar FTC test — all are factual and citable.
+- **Headline numbers are specific and defensible.** ⚠️ **Amended 2026-09-11 — the "3% Shopify rate" is NOT defensible** (it is Shopify's Basic-plan rate; mid-market targets pay 2.15–2.5% + 30¢). The 1% Spendback rate is defensible **on wholesale orders paid from a rep's ProPay balance**, and the three-pillar FTC test is factual and citable. Replace the 3% claim with the verified platform-fee stack — see `02-competitor-analysis-shopify-payment-rates.md`.
 - **The CFO will scan in 30 seconds.** Headline + Key Benefits + Pricing = the bare minimum they need to get to "yes, take a call." Everything else is supporting.
 - **The CEO will scan in 60 seconds.** Same flow + Proof.
 - **The champion sharing this internally should be primed.** They got a 30-45 minute conversation with you. The CFO/CEO they're sharing this with hasn't. Don't expect the one-pager to do the full deck's job — it's an invitation back into the conversation, not a substitute.
