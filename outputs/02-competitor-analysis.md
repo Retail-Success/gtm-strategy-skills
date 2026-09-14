@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|
 | 🔴 **Doing nothing** | Cash, Venmo, memory, a spreadsheet | $0 | **Zero friction, zero learning.** No decision required. | Nothing connects; no record; sales lost at the table | **Highest — this is the majority behaviour** |
 | 🔴 **Square** | Free POS + basic inventory | **$0** | **Genuinely good.** Mature, trusted, spreadsheet upload, categories, tax codes. **📊 Confirmed as the actual substitute: 5 of 7 Paparazzi non-adopters use it.** | **Knows nothing about the company the rep sells for.** No wholesale order, no inventory from corporate, no record reaching the home office. | **High** |
-| 🔴 **TikTok Shop** | Social commerce channel + affiliate marketplace | **8% referral** *(unverified)* | 🔴 **It brings demand. Nothing else in this table does.** | No back-office link, no inventory sync, 8–31 day settlement, MLM is a prohibited category | 🔴 **High — and structurally different: it takes the GMV, not the seat.** [Deep dive](02-competitor-analysis-tiktok-shop.md) |
+| 🔴 **TikTok Shop** | Social commerce channel + affiliate marketplace | **8% referral** *(unverified)* | 🔴 **It brings demand. Nothing else in this table does.** | No back-office link, no inventory sync, 8–31 day settlement, MLM *opportunity* listings prohibited — **not the product; MONAT sells there openly** | 🔴 **High — and structurally different: it takes the GMV, not the seat.** [Deep dive](02-competitor-analysis-tiktok-shop.md) |
 | **Hustle** | Rep tooling | **$5/monthly-active-rep** *(DSO-paid)* | Funded, live, **paid across ~20,000 Paparazzi reps** | No back-office connection, no transaction layer | **High** |
 | **Boards** | Rep tooling | DSO-paid | Incumbency | Same structural limit. **JE is migrating off now.** | Medium |
 | **PayPal / Venmo** | Informal payment | Fees | Everyone has it | Unbranded, no record, no inventory link | Medium |
@@ -155,7 +155,7 @@
 | Gap | Who could take it |
 |---|---|
 | 🔴 **Connected rep commerce** | **Only ByDesign.** Requires the back office. |
-| 🔴 **Reconciling off-platform sales (TikTok Shop, marketplaces) into the back office** | **Nobody holds it.** Only ByDesign can. **Clearest new opportunity.** |
+| 🔴 **Reconciling off-platform sales (TikTok Shop, marketplaces) into the back office** | ⚠️ **MONAT shipped this Feb 2025** — proven, not white space. Still ours to take inside our installed base, but it is a race. |
 | 🔴 **Demand generation for the rep** | **TikTok Shop.** ❌ Not takeable — Wayroo converts demand, it does not create it. |
 | **Rep-to-customer SMS** | ⚠️ **Project Broadcast has it. We don't.** Repeatedly requested, unmet. |
 | **Content and graphics** | Canva. Not worth contesting. |
