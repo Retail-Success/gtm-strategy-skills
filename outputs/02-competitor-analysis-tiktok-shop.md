@@ -194,7 +194,7 @@ TikTok Shop does not compete with Freedom. But it **creates two problems Freedom
 
 A DSO that opens an official TikTok Shop is selling at retail, directly, into the same audience its reps are working. **The order carries no rep attribution, so no rep is paid on it.** That is the oldest fight in direct selling, arriving through a new door. Reps notice, and it is a retention event for the DSO.
 
-**Freedom's angle:** attribute and reconcile those orders back into the comp engine so corporate social-commerce volume **pays the field instead of competing with it.**
+**Freedom's angle:** attribute and reconcile those orders back into the comp engine so corporate social-commerce volume **pays the field instead of competing with it.** ✅ **This is exactly what MONAT did — see the architecture table below.**
 
 ### Problem B — rep TikTok Shop sales never reach the back office
 
@@ -215,7 +215,56 @@ Same gap as §2, one layer up: the DSO cannot see volume, cannot credit rank, an
 > | 🔴 A DSO wanted it badly enough to build and publicise it | **The demand question in §6 is partly answered before we run the search test** |
 > | 🔴 It was worth a press release | **Competitive clock.** Expect ByDesign clients to ask, citing MONAT by name |
 >
-> ⚠️ **Unknown and worth an afternoon:** who built MONAT's integration — in-house, TikTok's own partner programme, or a vendor selling this to other DSOs. **If it is a vendor, that vendor is a new competitor in our category and nobody here has heard of them.** This is the single highest-value open question in this document.
+### 🔴 Who built it — answered 2026-09-14, and the answer is better news than a vendor name
+
+**No vendor is named in any public source.** The press release, the trade coverage and MONAT's own material credit the company, not a supplier. Direct Selling News describes MONAT building the programme **with a pilot group of Market Partners who were already selling on TikTok** — creator co-design, not a procurement decision. MONAT has since extended the model to a **Meta Affiliate Program across the US and Canada**, and the Social Commerce initiative won a **DSA Canada Industry Innovation Award**.
+
+**And the reason no vendor was needed: TikTok publishes the APIs this requires.** TikTok Shop splits its affiliate APIs by role, and the **Affiliate Seller API** — creator marketplace search, target collab links, and **affiliate order search** — is precisely the attribution primitive a comp-plan integration needs.
+
+| What this means | Consequence |
+|---|---|
+| ✅ **No vendor moat, no exclusive partnership, no gatekeeper** | Nobody is selling this into our installed base ahead of us |
+| ✅ **Built on documented public APIs** | Engineering-scoped and de-risked, not R&D |
+| 🔴 **Which also means any DSO can do it, and any competitor can build it** | MONAT's 18-month head start is a head start, not a barrier |
+
+> ⚠️ **Downgraded from "highest-value open question" to answered.** The remaining unknown — whether MONAT used an unnamed integrator — is no longer strategically interesting, because the API path means a vendor would hold no defensible position anyway.
+
+---
+
+## 🔴 The architecture question nobody has asked — and it changes the revenue read
+
+There are **two completely different ways** a DSO meets TikTok Shop, and §2 of this document analysed only one of them.
+
+| | **A — Unmanaged: rep is her own seller** | **B — Managed: corporate shop, reps as affiliates** |
+|---|---|---|
+| Who holds the TikTok shop | Each rep, individually | 🔴 **The DSO — one corporate shop** |
+| Rep's role | Seller | **Affiliate / creator with an attributed link** |
+| Rep registers with SSN, W-9, 1099-K | ✅ Yes | ❌ No |
+| Rep waits 8–31 days for settlement | ✅ Yes | ❌ **No — she is paid through the comp plan** |
+| Sale reaches the back office | ❌ Never | ✅ **Yes — this is the MONAT integration** |
+| Channel conflict with the field | 🔴 Severe | ✅ **Resolved — the corporate shop pays the field** |
+| **This is what MONAT built** | | 🔴 **✅** |
+
+> ### Model B dissolves the problem I posed as Problem A above.
+>
+> A corporate TikTok Shop looks like the DSO competing with its own reps **only if orders carry no rep attribution.** Attach the affiliate link and the same shop becomes a **demand engine that pays the field** — corporate buys the reach, the rep gets credited, the comp plan absorbs it. **That is why MONAT could publicise this without a field revolt.**
+>
+> *(Architecture inferred from TikTok's documented affiliate API roles plus DSN's description of "trackable sales through affiliate links." Confirm the specific mechanism before presenting it as MONAT's implementation.)*
+
+> ### 🔴 And here is the part that matters to ByDesign's P&L
+>
+> **Model B is good for Freedom and bad for Wayroo, and the library has no position on this.**
+>
+> | | Effect |
+> |---|---|
+> | **Freedom** | ✅ **Strengthened.** The comp engine becomes the settlement layer for social commerce. More volume through the plan, more reason the DSO cannot leave. |
+> | 🔴 **Wayroo payments** | 🔴 **Bypassed entirely.** The transaction runs on TikTok's rails. ByDesign earns **$0** of its ~1.5%. |
+>
+> **So the more successful a client's social commerce programme becomes, the more of its GMV routes around the line that `my-gtm-context.md` prices at ~76% of account revenue** — while the SaaS line looks healthy and adoption dashboards stay green.
+>
+> **This is the same blind spot as §3, one layer up, and it is larger:** in Model A we lose a rogue rep's volume. In Model B **the DSO deliberately routes volume off our rails, with corporate ad spend behind it, and we help them do it.**
+>
+> ✅ **The strategic response is not to resist Model B — it is to be the company that builds it.** A DSO that runs social commerce through Freedom attribution is more locked in, not less. **But price it knowing the payments line does not come with it**, and stop treating GMV growth and Wayroo GMV growth as the same number.
 
 > ### ✅ Still run the demand test — but it is now a sizing exercise, not a go/no-go
 >
@@ -244,7 +293,9 @@ Same gap as §2, one layer up: the DSO cannot see volume, cannot credit rank, an
 3. ✅ **Posture is coexistence, exactly as with Shopify.** *"Sell wherever you find customers — settle and record it here."* Asking a rep to choose is a fight we lose on her actual problem.
 4. ✅ **Lead with settlement speed.** Next day versus 8 days standard, 31 days for a new shop, is the most checkable claim we have against any competitor in the library.
 5. 🔴 **Retire "MLMs can't use TikTok Shop" before it is ever said.** The prohibition covers the *opportunity*, not the product, and MONAT disproves the broad claim publicly. Handle the residual as concentration risk on opportunity content only.
-5b. 🔴 **Find out who built MONAT's integration.** If a vendor is selling comp-plan attribution for social commerce, that vendor is an unmapped competitor.
+5b. ✅ **Vendor question closed.** No supplier is named publicly and none is needed — TikTok's Affiliate Seller API supplies the attribution primitive. Nobody is selling this into our base ahead of us, and nobody holds a moat on it.
+8. 🔴 **Separate "client GMV" from "Wayroo GMV" in every forecast.** The managed social-commerce model grows the first while bypassing the second. Treating them as one number will overstate payments revenue precisely in the accounts doing best.
+9. ✅ **Build the attribution connector, but price it as a Freedom product, not a payments product.** It deepens lock-in and carries no ~1.5% with it.
 6. 🔴 **Escalate the recruitment threat to SWOT.** TikTok Shop Affiliate competes with the DSO for the rep. It does not belong in sales enablement, and it should not be silently dropped either.
 7. ✅ **Run the search-demand test before proposing a connector.** Free, one afternoon, and it decides the question.
 
@@ -259,7 +310,9 @@ Same gap as §2, one layer up: the DSO cannot see volume, cannot credit rank, an
 | 3 | Has double-selling of the same units across Wayroo and TikTok Shop caused oversells? | Ask JE field leaders (Hope / Nancy) | Free | High |
 | 4 | Search demand: `tiktok shop mlm` cluster, 3-year | Semrush — Drew's existing method | Free | High |
 | 5 | Do any ByDesign clients run an official corporate TikTok Shop? | Account review | Low | Medium |
-| 7 | 🔴 **Who built MONAT's TikTok Shop integration — in-house, TikTok partner, or a vendor?** | Press coverage, LinkedIn, ask the account team | **Free** | 🔴 **Highest — a vendor here is an unmapped competitor** |
+| 7 | ✅ ~~Who built MONAT's integration?~~ **Closed 2026-09-14** — no vendor named; TikTok's Affiliate Seller API supplies the primitive | Public sources | Free | **Answered** |
+| 9 | 🔴 **Confirm MONAT runs Model B (corporate shop + reps as affiliates), not Model A** | Read the affiliate API docs; ask a MONAT Market Partner | **Free** | 🔴 **Highest — the whole revenue read depends on which model spreads** |
+| 10 | 🔴 **Scope the Affiliate Seller API against Freedom's comp engine** | Engineering, half a day | Low | **High — decides whether this is a quarter or a year** |
 | 8 | Does TikTok's marketplace-facilitator sales tax handling come up as a rep benefit? | Add to rep survey | Free | Medium |
 | 6 | Is DSO rep recruitment measurably slowing industry-wide? | DSA data | Medium | Medium — SWOT input |
 
@@ -288,6 +341,10 @@ Secondary sources, current as of 2026-09-14. **All figures require confirmation 
 - [Sales Tax on TikTok Shop Explained — TaxConnex](https://www.taxconnex.com/blog-/tik-tok-shop-sales-tax)
 - [TikTok Shop Seller Taxes (2026): 1099-K — Keeper](https://www.keepertax.com/posts/tiktok-shop-seller-taxes)
 - [TikTok Shop Chargebacks & Disputes: 2026 Seller Guide — Chargeflow](https://www.chargeflow.io/blog/ultimate-tiktok-shop-chargeback-guide)
+- 🔴 [Affiliate Seller API overview — TikTok Shop Partner Center](https://partner.tiktokshop.com/docv2/page/6697960798b0a502f89e3d00)
+- [TikTok Shop Affiliate APIs: Creator, Partner, and Seller — MomentIQ](https://bemomentiq.com/blog/tiktok-shop-affiliate-apis-explained)
+- 🔴 [Complement, Don't Compete — Direct Selling News, 28 Aug 2026](https://www.directsellingnews.com/2026/08/28/complement-dont-compete/)
+- [MONAT Recognized with DSA Canada Industry Innovation Award — World of Direct Selling](https://worldofdirectselling.com/monat-recognized-with-dsa-canada-industry-innovation-award/)
 - [Getting paid for TikTok Shop orders — Shopify Help Center](https://help.shopify.com/en/manual/online-sales-channels/social-commerce/tiktok/payments)
 
 ---

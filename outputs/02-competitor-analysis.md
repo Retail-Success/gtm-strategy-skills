@@ -155,7 +155,7 @@
 | Gap | Who could take it |
 |---|---|
 | 🔴 **Connected rep commerce** | **Only ByDesign.** Requires the back office. |
-| 🔴 **Reconciling off-platform sales (TikTok Shop, marketplaces) into the back office** | ⚠️ **MONAT shipped this Feb 2025** — proven, not white space. Still ours to take inside our installed base, but it is a race. |
+| 🔴 **Reconciling off-platform sales (TikTok Shop, marketplaces) into the back office** | ⚠️ **MONAT shipped this Feb 2025** on TikTok's public Affiliate Seller API — proven, no vendor moat. Ours to take inside the installed base, but it is a race. 🔴 **Note: it deepens Freedom lock-in while bypassing Wayroo payments entirely.** |
 | 🔴 **Demand generation for the rep** | **TikTok Shop.** ❌ Not takeable — Wayroo converts demand, it does not create it. |
 | **Rep-to-customer SMS** | ⚠️ **Project Broadcast has it. We don't.** Repeatedly requested, unmet. |
 | **Content and graphics** | Canva. Not worth contesting. |
