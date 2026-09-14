@@ -63,6 +63,26 @@ A native commerce layer inside a social feed. A seller lists a catalog; creators
 | **Counts toward volume, rank, commission** | ✅ | 🔴 **No** |
 | **MLM policy exposure** | N/A | 🔴 **Prohibited category** — see §4 |
 
+## 🔴 Who is the merchant — the inverse of Wayroo's model
+
+**TikTok does its own payment processing, and this is the structural fact that organises the whole comparison.**
+
+TikTok powers checkout (cards, PayPal, Apple Pay, Google Pay, Klarna pay-in-4), collects the customer's money, holds it through the settlement cycle, releases it to the seller's linked bank account, and adjudicates disputes internally. It is also a **marketplace facilitator**, so it calculates, collects and remits sales tax on the seller's behalf. The seller registers with an SSN/ITIN and a W-9 and receives a **1099-K from TikTok**.
+
+| | **Wayroo** | **TikTok Shop** |
+|---|---|---|
+| Merchant of record | 🔴 **The rep** — her own ProPay account | **TikTok** |
+| Who holds the funds | Rep, next day | TikTok, through settlement |
+| Chargeback liability | 🔴 **The rep's own merchant** | TikTok's processor adjudicates; **the seller absorbs the loss and appeals within 7 days** |
+| Sales tax | ⚠️ **The rep's problem** | ✅ **TikTok calculates, collects and remits** |
+| Tax record | Per-rep transaction trail | 1099-K from TikTok |
+
+> ### This cuts both ways, and the library should say so.
+>
+> ✅ **In our favour:** the per-rep merchant account is the structural claim the Shopify battlecard is built on — rep owns her merchant, her chargebacks, her 1099. **TikTok Shop is the aggregator model that argument was written against.** The rep does not control the rail, cannot move the settlement clock, and has no relationship with the processor.
+>
+> 🔴 **Against us, and it is not small:** **TikTok handles the rep's sales tax. Wayroo makes her handle her own.** For a rep selling across state lines, marketplace-facilitator status is a genuine, felt benefit that we do not match and cannot easily claim. **Do not raise the tax-and-compliance frame against TikTok Shop without a prepared answer to this** — it is the one place the comparison reverses.
+
 ## The two claims that survive
 
 > ### ✅ Claim 1 — **The rep is paid next day; TikTok Shop's standard tier is eight days after delivery, and a new shop is thirty-one.**
@@ -115,19 +135,27 @@ Proposed insert for the rep-layer table in [`02-competitor-analysis.md`](02-comp
 
 # 4. The MLM policy asymmetry — real, and to be handled carefully
 
-**TikTok prohibits multi-level marketing.** MLM and pyramid-scheme products sit on TikTok Shop's prohibited-products list, and the platform's Community Guidelines bar content that "depicts or promotes Ponzi, multi-level marketing, or pyramid schemes" under Frauds and Scams.
+> ### 🔴 Corrected 2026-09-14 (same day) — the first draft of this section overstated the prohibition
+>
+> **"A traditional MLM company cannot use TikTok Shop" is not what the policy says, and it is contradicted by the facts on the ground.** The corrected reading is below. The original framing would have failed the first time a client named MONAT.
+
+**What the policy actually prohibits.** MLM and pyramid schemes are listed as prohibited on TikTok Shop across the US, UK and EU editions — but they sit under the **financial services** heading, alongside payday loans, get-rich-quick schemes and "too-good-to-be-true" financial offers. The prohibited thing is **the business opportunity offered as a product or service.** TikTok's Community Guidelines separately bar content promoting MLM under Frauds and Scams.
+
+> ## The distinction that matters: **you cannot sell the opportunity. You can sell the shampoo.**
 
 **Three qualifications, all of which matter:**
 
-| ⚠️ | Qualification |
+| | Qualification |
 |---|---|
-| **1** | **Enforcement has historically been weak.** Trade reporting found MLM content thriving on the platform months after the ban. The policy exists; consistent application does not. |
-| **2** | **The prohibition bites the business opportunity, not the shampoo.** A DSO's physical product is an ordinary consumer good. The exposure concentrates in recruitment content and opportunity promotion — which is the rep's *other* job, not her retail job. |
-| **3** | 🔴 **Our sourcing is 2021-era reporting plus a non-US policy page.** The live US policy could not be read. **Verify before this is said to anyone outside the building.** |
+| **1** | ✅ **A DSO's physical product is an ordinary consumer good.** Haircare is haircare. The prohibition targets recruitment and income-opportunity listings — the rep's *other* job, not her retail job. |
+| **2** | 🔴 **Enforcement of the content ban has been weak for years.** Trade reporting found MLM content thriving months after the 2020 ban, with Herbalife and Avon running active accounts. |
+| **3** | 🔴 **The decisive evidence is a live counter-example.** **MONAT — a Tier-1 haircare DSO — has run an official TikTok Shop since February 2025**, publicly, with a press release. It was not removed. See §6. |
 
-> ### How to use it: as a risk the rep carries, never as a gotcha.
+**So the honest answer: the residual risk is real but narrow.** It attaches to *opportunity and income-claim content*, not to the act of a DSO or its reps selling physical product. Reps posting "join my team" alongside their shop are the exposed population.
+
+> ### How to use it: as concentration risk, never as a gotcha — and never as "MLMs are banned."
 >
-> The honest framing is **concentration risk**, and it is the same argument any operator would make about building a business on rented land:
+> 🚫 **Do not say a DSO cannot sell on TikTok Shop.** It is false, MONAT disproves it publicly, and a client who knows the market will discount everything else we said. The defensible argument is building a business on rented land:
 >
 > > *"Your TikTok shop is a channel, not an asset. The policy says MLM is prohibited, enforcement is inconsistent, and the account is theirs to close. Keep the customer list, the inventory record and the payment rail somewhere that's yours."*
 >
@@ -172,13 +200,28 @@ A DSO that opens an official TikTok Shop is selling at retail, directly, into th
 
 Same gap as §2, one layer up: the DSO cannot see volume, cannot credit rank, and cannot produce an FTC- or tax-grade record for sales its reps genuinely made.
 
-**Freedom's angle:** a **TikTok Shop connector** — order ingest, rep attribution, commission mapping — is the Shopify connector thesis applied to the fastest-growing commerce surface in the US. And the strategic framing from that document transfers intact: **position it as vendor-risk removal and a data-pipe consolidation, never as an endorsement of building the business on TikTok.**
+**Freedom's angle:** a **TikTok Shop connector** — order ingest, rep attribution, commission mapping — is the Shopify connector thesis applied to the fastest-growing commerce surface in the US. The strategic framing from that document transfers intact: **position it as vendor-risk removal and data-pipe consolidation, never as an endorsement of building the business on TikTok.**
 
-> ### ✅ Cheapest possible next step, and Drew already owns the method
+> ### 🔴 It already exists, and a competitor shipped it eighteen months ago.
+>
+> **MONAT launched an official TikTok Shop on 27 February 2025** — announced as an **"industry-first TikTok Shop integration"** — and the integration does precisely the thing described above: **US Market Partners see TikTok Shop transactions reflected in their MONAT back office and compensation plan.** Trade press reported it hit milestones in weeks that normally take brands months.
+>
+> **This changes the finding from "white space" to "proven, and we are late."**
+>
+> | What it proves | Consequence for us |
+> |---|---|
+> | ✅ A Tier-1 DSO can operate an official TikTok Shop without removal | The MLM-prohibition argument is settled — **it does not block this** |
+> | ✅ Attributing social-commerce orders into a comp plan is **technically solved** | The build is de-risked; it is not speculative R&D |
+> | 🔴 A DSO wanted it badly enough to build and publicise it | **The demand question in §6 is partly answered before we run the search test** |
+> | 🔴 It was worth a press release | **Competitive clock.** Expect ByDesign clients to ask, citing MONAT by name |
+>
+> ⚠️ **Unknown and worth an afternoon:** who built MONAT's integration — in-house, TikTok's own partner programme, or a vendor selling this to other DSOs. **If it is a vendor, that vendor is a new competitor in our category and nobody here has heard of them.** This is the single highest-value open question in this document.
+
+> ### ✅ Still run the demand test — but it is now a sizing exercise, not a go/no-go
 >
 > Drew Mitchell's three-year review ([`inputs/2026-08-26-shopify-demand-data-review.md`](../inputs/2026-08-26-shopify-demand-data-review.md)) showed the Shopify + MLM search cluster growing **3.5×** while the core `mlm software` term stayed **flat** — and that single chart carried the connector's business case.
 >
-> **Run the identical query set for `tiktok shop mlm`, `tiktok shop direct selling`, `tiktok shop mlm integration`.** Same tool, same three-year window, same analyst. It costs an afternoon and it either produces a second connector business case or closes the question. **Do this before any build conversation.**
+> **Run the identical query set for `tiktok shop mlm`, `tiktok shop direct selling`, `tiktok shop mlm integration`.** Same tool, same three-year window, same analyst. It costs an afternoon. **MONAT already establishes that the demand is real; the search data would size it and date it.**
 
 ---
 
@@ -187,7 +230,8 @@ Same gap as §2, one layer up: the DSO cannot see volume, cannot credit rank, an
 | Gap | Who holds it today | Can ByDesign take it? |
 |---|---|---|
 | 🔴 **Demand generation for the rep** | **TikTok Shop** (algorithmic); Aice Campfire (community, closed) | ❌ **No — and we should stop implying otherwise.** Wayroo converts demand; it does not create it. |
-| 🔴 **Reconciling off-platform sales into the back office** | **Nobody** | ✅ **Only ByDesign.** Same structural moat as USP 1. **Clearest new opportunity in this analysis.** |
+| 🔴 **Reconciling off-platform sales into the back office** | ⚠️ **No longer nobody — MONAT shipped it Feb 2025** | ✅ **Still ours to take for our installed base**, and the moat (owning the comp engine) is unchanged. **But it is a race now, not white space.** |
+| **Sales tax handling on social-commerce orders** | ✅ **TikTok** (marketplace facilitator) | ❌ **Not matched.** Wayroo leaves tax to the rep. |
 | **Rep-to-customer SMS** | Project Broadcast | ⚠️ Still open, still unmet |
 | **Connected rep commerce** | Only ByDesign | ✅ Unchanged |
 
@@ -199,7 +243,8 @@ Same gap as §2, one layer up: the DSO cannot see volume, cannot credit rank, an
 2. 🔴 **Instrument share-of-wallet, not just adoption.** `my-gtm-context.md` already calls for measuring **transacting reps and GMV per rep**. This analysis adds the reason it is urgent: a fully adopted rep selling 70% of her volume on TikTok Shop reads as a success in every dashboard we have.
 3. ✅ **Posture is coexistence, exactly as with Shopify.** *"Sell wherever you find customers — settle and record it here."* Asking a rep to choose is a fight we lose on her actual problem.
 4. ✅ **Lead with settlement speed.** Next day versus 8 days standard, 31 days for a new shop, is the most checkable claim we have against any competitor in the library.
-5. ⚠️ **Handle the MLM prohibition as concentration risk, never as a threat.** And verify the live US policy first.
+5. 🔴 **Retire "MLMs can't use TikTok Shop" before it is ever said.** The prohibition covers the *opportunity*, not the product, and MONAT disproves the broad claim publicly. Handle the residual as concentration risk on opportunity content only.
+5b. 🔴 **Find out who built MONAT's integration.** If a vendor is selling comp-plan attribution for social commerce, that vendor is an unmapped competitor.
 6. 🔴 **Escalate the recruitment threat to SWOT.** TikTok Shop Affiliate competes with the DSO for the rep. It does not belong in sales enablement, and it should not be silently dropped either.
 7. ✅ **Run the search-demand test before proposing a connector.** Free, one afternoon, and it decides the question.
 
@@ -214,6 +259,8 @@ Same gap as §2, one layer up: the DSO cannot see volume, cannot credit rank, an
 | 3 | Has double-selling of the same units across Wayroo and TikTok Shop caused oversells? | Ask JE field leaders (Hope / Nancy) | Free | High |
 | 4 | Search demand: `tiktok shop mlm` cluster, 3-year | Semrush — Drew's existing method | Free | High |
 | 5 | Do any ByDesign clients run an official corporate TikTok Shop? | Account review | Low | Medium |
+| 7 | 🔴 **Who built MONAT's TikTok Shop integration — in-house, TikTok partner, or a vendor?** | Press coverage, LinkedIn, ask the account team | **Free** | 🔴 **Highest — a vendor here is an unmapped competitor** |
+| 8 | Does TikTok's marketplace-facilitator sales tax handling come up as a rep benefit? | Add to rep survey | Free | Medium |
 | 6 | Is DSO rep recruitment measurably slowing industry-wide? | DSA data | Medium | Medium — SWOT input |
 
 ---
@@ -233,6 +280,15 @@ Secondary sources, current as of 2026-09-14. **All figures require confirmation 
 - [TikTok banned MLMs six months ago, but the predatory schemes are still thriving — Media Matters](https://www.mediamatters.org/tiktok/tiktok-banned-mlms-six-months-ago-predatory-schemes-are-still-thriving-platform)
 - [TikTok Shop 2026: The $23B Social Commerce Guide — Digital Applied](https://www.digitalapplied.com/blog/tiktok-shop-2026-social-commerce-guide)
 - [TikTok Shop 2026 Guide: How Sellers & Affiliates Win — Darkroom](https://www.darkroomagency.com/observatory/tiktok-shop-2026-complete-guide-for-sellers-and-affiliates)
+- [Prohibited Products Policy — TikTok Seller University (US)](https://seller-us.tiktok.com/university/essay?knowledge_id=1399532709988097) *(listing only; page body blocked by egress proxy)*
+- [Regulated Goods, Services, and Commercial Activities — TikTok Community Guidelines](https://www.tiktok.com/safety/en/policies-and-engagement/regulated-commercial-activities)
+- 🔴 [MONAT Launches TikTok Shop — Direct Selling News](https://www.directsellingnews.com/2025/03/21/monat-launches-tiktok-shop/)
+- 🔴 [MONAT Launches Industry-First TikTok Shop Integration — Silicon UK](https://www.silicon.co.uk/press-release/monat-launches-industry-first-tiktok-shop-integration-empowering-market-partners-with-cutting-edge-technology)
+- [Monat Launches on TikTok Shop — Happi](https://www.happi.com/breaking-news/monat-launches-tiktok-shop/)
+- [Sales Tax on TikTok Shop Explained — TaxConnex](https://www.taxconnex.com/blog-/tik-tok-shop-sales-tax)
+- [TikTok Shop Seller Taxes (2026): 1099-K — Keeper](https://www.keepertax.com/posts/tiktok-shop-seller-taxes)
+- [TikTok Shop Chargebacks & Disputes: 2026 Seller Guide — Chargeflow](https://www.chargeflow.io/blog/ultimate-tiktok-shop-chargeback-guide)
+- [Getting paid for TikTok Shop orders — Shopify Help Center](https://help.shopify.com/en/manual/online-sales-channels/social-commerce/tiktok/payments)
 
 ---
 
