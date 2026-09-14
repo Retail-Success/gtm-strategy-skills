@@ -3,7 +3,7 @@
 **Phase:** 2 — Collecting Intelligence, Task 6
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
 **Scope:** the alternatives that appear in a **rep's** actual decision, plus the platform layer retained for Track 1
-**Deep dives:** [`02-competitor-analysis-hustle-boards.md`](02-competitor-analysis-hustle-boards.md) · [`02-competitor-analysis-rallyware.md`](02-competitor-analysis-rallyware.md) · [`02-competitor-analysis-aice.md`](02-competitor-analysis-aice.md) *(product facts valid; competitive conclusions retired — Aice is a partner)*
+**Deep dives:** [`02-competitor-analysis-tiktok-shop.md`](02-competitor-analysis-tiktok-shop.md) *(new 2026-09-14)* · [`02-competitor-analysis-hustle-boards.md`](02-competitor-analysis-hustle-boards.md) · [`02-competitor-analysis-rallyware.md`](02-competitor-analysis-rallyware.md) · [`02-competitor-analysis-aice.md`](02-competitor-analysis-aice.md) *(product facts valid; competitive conclusions retired — Aice is a partner)*
 
 > **The reframe that matters.** Under Land-and-Expand the buyer is the rep, so the competitive set is **what a rep does today** — not what a DSO evaluates in an RFP. Most of the old competitive library answers the wrong question.
 
@@ -15,6 +15,7 @@
 |---|---|---|---|---|---|
 | 🔴 **Doing nothing** | Cash, Venmo, memory, a spreadsheet | $0 | **Zero friction, zero learning.** No decision required. | Nothing connects; no record; sales lost at the table | **Highest — this is the majority behaviour** |
 | 🔴 **Square** | Free POS + basic inventory | **$0** | **Genuinely good.** Mature, trusted, spreadsheet upload, categories, tax codes. **📊 Confirmed as the actual substitute: 5 of 7 Paparazzi non-adopters use it.** | **Knows nothing about the company the rep sells for.** No wholesale order, no inventory from corporate, no record reaching the home office. | **High** |
+| 🔴 **TikTok Shop** | Social commerce channel + affiliate marketplace | **8% referral** *(unverified)* | 🔴 **It brings demand. Nothing else in this table does.** | No back-office link, no inventory sync, 8–31 day settlement, MLM is a prohibited category | 🔴 **High — and structurally different: it takes the GMV, not the seat.** [Deep dive](02-competitor-analysis-tiktok-shop.md) |
 | **Hustle** | Rep tooling | **$5/monthly-active-rep** *(DSO-paid)* | Funded, live, **paid across ~20,000 Paparazzi reps** | No back-office connection, no transaction layer | **High** |
 | **Boards** | Rep tooling | DSO-paid | Incumbency | Same structural limit. **JE is migrating off now.** | Medium |
 | **PayPal / Venmo** | Informal payment | Fees | Everyone has it | Unbranded, no record, no inventory link | Medium |
@@ -25,6 +26,10 @@
 ## The honest composite
 
 **A rep runs Square or Venmo for money, her head or a spreadsheet for stock, and logs into the back office when she has to. Nothing connects.**
+
+> ### 🔴 Added 2026-09-14 — one competitor in this table does not fit the frame
+>
+> Every other alternative here competes for the **rep's seat**; losing one costs a $3/user/month line. **TikTok Shop competes for her GMV** — worth ~$216/rep/year against $36 in subscription. **It is the first competitor that can win while we keep the customer, and adoption metrics cannot see it happen.** See [`02-competitor-analysis-tiktok-shop.md`](02-competitor-analysis-tiktok-shop.md).
 
 > ### The competitor is a habit, not a product.
 > Which means the fight is **switching cost and first-run experience**, not feature comparison. A rep does not choose Wayroo over Square — she either changes what she does on Saturday, or she doesn't.
@@ -150,6 +155,8 @@
 | Gap | Who could take it |
 |---|---|
 | 🔴 **Connected rep commerce** | **Only ByDesign.** Requires the back office. |
+| 🔴 **Reconciling off-platform sales (TikTok Shop, marketplaces) into the back office** | **Nobody holds it.** Only ByDesign can. **Clearest new opportunity.** |
+| 🔴 **Demand generation for the rep** | **TikTok Shop.** ❌ Not takeable — Wayroo converts demand, it does not create it. |
 | **Rep-to-customer SMS** | ⚠️ **Project Broadcast has it. We don't.** Repeatedly requested, unmet. |
 | **Content and graphics** | Canva. Not worth contesting. |
 | **Training / community** | Aice's half — and unsigned |
@@ -174,6 +181,7 @@
 | 2 | What does Hustle actually do? | Buy it / rep network | Low |
 | 3 | Would Paparazzi drop Hustle? | Account conversation | Low — **a ~$100K/yr question** |
 | 4 | Exigo rep app scope | Research | Medium |
+| 6 | 🔴 **Are JE / Paparazzi reps already selling on TikTok Shop, and at what share of volume?** | **Two questions on the next rep survey** | **Free — highest value open question in this file** |
 | 5 | Where does Media Library fall short? | Internal | Low |
 
 ---
