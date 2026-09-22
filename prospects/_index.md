@@ -19,6 +19,7 @@ This folder tracks what we've learned from prospect interactions — demo calls,
 | Company | Vertical | Rep Count | Current Stack | Stage | C&C? | Last Interaction | GTM Segment |
 |---------|----------|-----------|---------------|-------|------|-----------------|-------------|
 | [Color Street](color-street.md) | Nail/Cosmetics | 20K–30K nominal / ~4K–6K real sellers | Custom commission engine + Shopify | Technical scoping complete — Path B integration endorsed by CTO; proposal preparation | Yes (~70% of real sellers) | May 6, 2026 | Cash & Carry DSO (hobbyist-heavy: 80/20 split) |
+| [Nuvi Global](nuvi-global.md) | Direct selling (line n/d) | [unknown] | **ByDesign Freedom** + **own custom storefront (~2 yrs, near done)** | Demo complete — **not in play this cycle**; durable feedback channel | [unknown] | **Sep 22, 2026** | Standard DSO — **build-vs-buy / retention-at-risk** (NOT Shopify winback) |
 | [Jordan Essentials](jordan-essentials.md) | Personal care / skincare / bath & body | **~2,500** | ByDesign Freedom + **Wayroo (live)**; reps previously Square/Venmo/PayPal | ✅ **CLOSED-WON — LIVE.** Launched July 17–18, 2026. 700+ downloads in launch weekend (~28%). Paid start pulled forward to Sept 2026 at customer request. | ⚠️ **Under re-measurement — ~20% confirmed understated** | **July 17–18, 2026** | Hybrid DSO (Wayroo upsell to existing Freedom client) — **may reclassify toward C&C** |
 
 ---
