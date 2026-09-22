@@ -6,6 +6,10 @@
 **Derives from:** [`06-positioning-cart-v3.md`](06-positioning-cart-v3.md) · [`06-positioning-enrollment.md`](06-positioning-enrollment.md) · [`06-messaging-enrollment.md`](06-messaging-enrollment.md)
 **Jira:** [GTM-97](https://bydesign.atlassian.net/browse/GTM-97) win-back messaging · [GTM-94](https://bydesign.atlassian.net/browse/GTM-94) Shopify-vs-BDT materials · [GTM-128](https://bydesign.atlassian.net/browse/GTM-128) launch assets
 
+**Published (sales-facing version):** [Cart V3 + Enrollment — Demo Script](https://bydesign.atlassian.net/wiki/spaces/pm/pages/711065603) · parent [Cart V3 & Enrollment — Positioning & Messaging](https://bydesign.atlassian.net/wiki/spaces/pm/pages/710770692)
+> ⚠ The Confluence version is **sales-facing and the client is anonymised** — the internal post-mortem, the pricing figure and the build-state detail are deliberately not there. **This file is the full internal version; keep them in sync deliberately, not automatically.**
+
+
 > ### ⭐ This is a rewrite, not a first draft
 >
 > It is built from **one delivered demo** — Nuvi Global, 2026-09-22, first-party transcript ([`prospects/nuvi-global.md`](../prospects/nuvi-global.md)) — and it **inverts the running order that demo used**, because the transcript shows what landed and what did not.

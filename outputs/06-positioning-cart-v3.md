@@ -6,6 +6,10 @@
 **Created:** 2026-09-22 · **Owner:** Sam Atieh
 **Framework:** April Dunford six-step positioning, adapted
 
+**Published (sales-facing version):** [Shopping Cart V3 — Positioning](https://bydesign.atlassian.net/wiki/spaces/pm/pages/710967298) · parent [Cart V3 & Enrollment — Positioning & Messaging](https://bydesign.atlassian.net/wiki/spaces/pm/pages/710770692)
+> ⚠ The Confluence version is **sales-facing and the client is anonymised** — the internal post-mortem, the pricing figure and the build-state detail are deliberately not there. **This file is the full internal version; keep them in sync deliberately, not automatically.**
+
+
 **Supersedes the Cart V3 half of** [`06-positioning-shopify-connector-and-cart-v3.md`](06-positioning-shopify-connector-and-cart-v3.md).
 
 ---

@@ -4,6 +4,10 @@
 **Positioning:** [`06-positioning-enrollment.md`](06-positioning-enrollment.md) · **Sibling:** [`06-positioning-cart-v3.md`](06-positioning-cart-v3.md)
 **Jira:** [PL-1](https://bydesign.atlassian.net/browse/PL-1)
 
+**Published (sales-facing version):** [New Rep Enrollment — Messaging](https://bydesign.atlassian.net/wiki/spaces/pm/pages/709328934) · parent [Cart V3 & Enrollment — Positioning & Messaging](https://bydesign.atlassian.net/wiki/spaces/pm/pages/710770692)
+> ⚠ The Confluence version is **sales-facing and the client is anonymised** — the internal post-mortem, the pricing figure and the build-state detail are deliberately not there. **This file is the full internal version; keep them in sync deliberately, not automatically.**
+
+
 ---
 
 ## 🚦 Ship gates — read before using any line
