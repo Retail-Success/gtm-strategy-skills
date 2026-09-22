@@ -43,7 +43,7 @@
 |------|------|-----------|---------|
 | Sep 22, 2026 | Product demo (30 min, Teams) | **Jacob Flores** (Nuvi Global) · Jessica Sanchez (demo) · Sam Atieh · Cassie Lewis (organiser) · Annie DeGraff · Brian Mander, Madison Brinn (invited) | Cart V3 storefront + Branding Studio + enrollment walkthrough, framed as feedback not sell. Storefront read as "pretty much the same"; **enrollment-in-cart was the standout**; single-domain requirement surfaced as the real churn driver |
 
-**DMU note:** Jacob is an **Influencer / Technical Gatekeeper**, not the Economic Buyer. He speaks for his boss repeatedly (*"my boss, he says…"*), and **the boss — the actual decision-maker — was not on the call.** Every directional statement below is second-hand on the buyer's intent.
+**DMU note:** Jacob is a **Marketing Director** — an **Influencer**, confirmed by Sam 2026-09-22. **Not the Economic Buyer and not a technical gatekeeper.** He speaks for his boss repeatedly (*"my boss, he says…"*), and **the boss — the actual decision-maker — was not on the call.** Every directional statement below is second-hand on the buyer's intent.
 
 ⚠️ **Transcript caveat:** meeting began 16:00 UTC, transcript starts **16:05:02**. The opening framing and any initial answer from Jacob about their current setup are **not recorded**.
 
@@ -159,3 +159,39 @@
 ---
 
 *Source: first-party Teams transcript, 2026-09-22 (speaker-tagged WEBVTT, 16:05–16:30 UTC). Team OS cross-refs: `customers/accounts/nuviglobal/account-context.md`, `customers/accounts/nuviglobal/calls/summaries/2026-09-22.md`, epic [PL-68](https://bydesign.atlassian.net/browse/PL-68).*
+
+
+---
+
+## Corroboration — Jessica Sanchez's independent analysis (2026-09-22)
+
+Jessica circulated her own read of the call the same day. **It agrees with the transcript analysis on every substantive point**, and adds one observation and three open support questions.
+
+**Adds — category banners (~5:45).** His *first* question of the call: the shop showed only "Category 1, 2, 3, 4" and he asked whether the category banners were gone, **calling them a big deal.** Configurable in the Studio, but **absent from the default storefront view**, which is what a client sees first. Positioning note: the default view is the demo, whatever the Studio can do.
+
+**Her three support questions, answered:**
+
+| # | Question | Answer |
+|---|---|---|
+| 3 | Shareable wishlist | ❌ **Not supported, not in MVP.** PL-93 covers create-and-share; PL-227/228/229 ("multiple named wishlists") is flagged in `ESTIMATE-PL-68` as net-new beyond parity. **The "place this order on my account" behaviour is specified nowhere** — that is an order-on-behalf write path, not wishlist display |
+| 4 | One domain | ⚠️ **Legacy yes, V3 no.** `JSCART_ALLOW_FRAMED_CART` vs a recorded **Gap** in the parity matrix. Config-or-structural is Brian's call — on the 2026-09-24 commerce agenda |
+| 7 | Enrollment linked from the shop | ✅ **Demonstrated, with her own live caveat** — *"just for demo purposes… this will be on your end."* Entry point is **client-placed**, not a product feature. And the MVP **hands off to the existing cart for payment**, where `SRD-WRBDT-60` §9.8 records US-12's hand-off as **wholly unimplemented** (blocked on spike Q4) |
+
+**Her framing of the liked items matches the transcript:** big improvement but *"mostly the same apart from a few changes"*; collapsible sidebar the standout change; enrollment-from-shop *"probably the best thing I've seen so far"*; good use of screen space, especially the promo bar; and *"it isn't one-size-fits-all."*
+
+---
+
+## ⭐⭐ This account IS the custom-build cautionary asset
+
+**Recorded deliberately as a positioning asset, not just account history.**
+
+Nuvi Global is the clearest documented case we have of a DSO choosing to build its own commerce layer and discovering what that costs:
+
+- **~2 years in. Still not live.** Orders tested; working through replicated sites.
+- **They tried Shopify first and rejected it** — so this is not a team that reached for the easy option.
+- **They are a growth account** (147% YoY, +$0.9M) with real capability — not a cautionary tale about a weak team.
+- **The trigger was mundane**: design requests we could not meet. They did not leave over a strategy; **they stopped believing we would ship.**
+
+**Use it as the shape, never the name.** See [`outputs/06-positioning-cart-v3.md`](../outputs/06-positioning-cart-v3.md) Step 4 for the argument and the line.
+
+⚠️ **And carry the honest half:** the trigger was our failure to deliver customization. *"Don't build your own"* is only credible **with the Branding Studio behind it.** Without it, the argument is a plea.

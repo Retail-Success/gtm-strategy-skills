@@ -1,5 +1,19 @@
 # Messaging House — ByDesign Shopify Connector & Shopping Cart v3
 
+> # 🛑 SUPERSEDED IN BOTH HALVES — read this before using any line below
+>
+> **This document positions a two-step motion that no longer exists.** Filed 2026-09-22.
+>
+> **1. The connector half is obsolete — the product was cancelled.** On **2026-09-01** Sam decided we do **not** build a ByDesign Shopify connector; we **partner with Shop IQ** (Roger Smith, ex-Exigo — $2,500–$5,000 one-time, no transaction percentage). "Build now" and "hold and validate" were both dropped; WRBDT-707 and WRBDT-708 were cancelled. Decision: `decisions/2026-09-01-shopify-connector-partner-with-shop-iq-not-build.md`. ⚠ Whether we can resell Shop IQ's fee ourselves is **UNDETERMINED** (Sam, 2026-09-08) — do not assume a margin.
+>
+> **2. The Cart V3 half has moved to its own document** — **[`06-positioning-cart-v3.md`](06-positioning-cart-v3.md)** — and was revised on 2026-09-22 after its first live client test (Nuvi Global) contradicted three of its assumptions.
+>
+> **Why they had to be separated rather than simply updated.** The whole argument here is a *sequence*: connect first so we own the data pipe, then migrate the storefront because "moving is a re-point, not a re-platform." **In the Shop IQ world we do not own the pipe**, so the second step loses its premise. Cart V3 now stands on its own merits; Shopify is one competitive alternative in its Step 1, not a co-headline product.
+>
+> **What is still worth reading here:** Step 1's alternatives table, the segment definitions A–E (revised in the new doc), and the Segment D / Pure Haven analysis. **What must not be quoted:** anything positioning a ByDesign-built connector, and the Cart V3 unique attributes and messaging implications, both revised.
+
+---
+
 **Phase:** 6 (Crafting Positioning) — Task 3, with Task 2 (UVP/USP) folded in
 **Product line:** Freedom ecommerce (Shopping Cart + Shopify Connector). **Not Wayroo.**
 **Audience:** Existing ByDesign Freedom clients
