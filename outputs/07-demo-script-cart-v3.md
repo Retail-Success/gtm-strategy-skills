@@ -86,6 +86,7 @@ Back to the storefront. Move fast — this is reassurance, not persuasion.
 
 - **AutoShip** — *"promo- and price-change-aware on renewal. Third-party carts treat renewal as a catch-all and quietly bill the wrong amount."*
 - **Shop on behalf of a customer** — *"Shopify disallows it. One client still dual-runs our cart just for this."*
+- ⭐⭐ **Embedded enrollment** — *"and the one you just saw: on Shopify, the moment a shopper decides to sell is the moment they have to leave. That isn't a setting — Shopify doesn't know what a distributor is."*
 - Parties, rank pricing, volume, credits, gift certificates — *"native, not plugins."*
 - Country / currency / tax-display strip — *"per-client settings, not a fork of the code."*
 

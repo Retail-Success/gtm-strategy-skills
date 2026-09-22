@@ -67,11 +67,30 @@ And one thing we had not positioned at all produced the best quote of the call:
 | # | Attribute | Evidence | Can a competitor copy it? |
 |---|---|---|---|
 | **U1** | **One configurable storefront across 65 branded clients** — self-serve brand *and* page layout, draft → publish, no developer | Branding Studio, PL-185 | Shopify: yes for theme, no for DSO logic. An in-house build: only for itself, at full cost |
-| **U2** | ⭐⭐ **One brand, one funnel — shop and rep enrollment as a single configured journey** | Shared Branding Studio Style Panel (`2026-08-07`); enrollment entry from the storefront | **Structurally hard for anyone else.** Shopify has no concept of enrolling a distributor; an in-house build must construct the enrollment flow from nothing |
+| **U2** | ⭐⭐ **Embedded enrollment — shop and rep enrollment as one configured journey, on one storefront, under one brand** | Shared Branding Studio Style Panel (`2026-08-07`); enrollment entry from the storefront; validated live 2026-09-22 | ❌ **No — and this is the cleanest structural differentiator we have against Shopify.** See U2a below |
 | **U3** | **AutoShip that honours promotions and price changes on renewal** | Pure Haven: *"the best edge our cart has over Shopify"* | No — Shopify's renewal model is a catch-all |
 | **U4** | **Shop on behalf of a customer, with attribution and commission intact** | Pure Haven *still dual-runs our cart* for exactly this; Shopify disallows it | **No — structurally prohibited on Shopify** |
 | **U5** | **Rep attribution, parties, rank pricing, volume, ~148 per-country settings** | Parity matrix | Only by rebuilding a DSO platform |
 | **U6** | 🆕 **Someone else's site can host the commerce** — one domain, no hand-off | ⚠️ **Legacy only** (`JSCART_ALLOW_FRAMED_CART`). **V3 records this as a Gap** | Shopify: partially, via headless. **We are currently going backwards on this** |
+
+### ⭐⭐ U2a — why embedded enrollment is a *Shopify* differentiator, not just a nice join
+
+**Shopify has no concept of a distributor.** There is no rep object, no sponsor, no genealogy, no enrollment event — so *“become a rep”* on a Shopify storefront is **always** a link out to a different system: a form on the corporate site, a third-party app, or a bespoke build. **The hand-off is not a design choice on Shopify; it is forced by the data model.**
+
+That makes this differentiator the same *shape* as shop-on-behalf (U4) — not a feature Shopify lacks today and might add, but one **its architecture precludes**:
+
+| | Shopify | Us |
+|---|---|---|
+| Where a shopper becomes a rep | **A different system, on a different page, usually a different domain** | The same storefront they are already shopping |
+| Who carries the referring rep through signup | Nobody — attribution is an integration the client builds and maintains | The flow itself (U3/E3) |
+| Brand consistency across shop and signup | Two systems, two theming jobs, drift by default | One Style Panel, set once, both surfaces (U2) |
+| Kit selection at enrollment | No concept of a kit | Native (E4) |
+
+**Client evidence, unprompted, 2026-09-22:** it was the single most praised thing in a demo where the storefront itself was called *“pretty much the same”* — *“probably the biggest up… the best thing that I’ve seen so far”* — and the reasoning given was conversion, not convenience: ***“a click is costly.”***
+
+> **The line:** *“On Shopify, the moment a shopper decides to sell is the moment they have to leave. That’s not a setting they can change — Shopify doesn’t know what a distributor is. For us it’s the same journey, and the rep who referred them is still attached at the end of it.”*
+
+⚠ **Ship gate:** the storefront entry point is **client-placed** today, and the MVP hands off to the existing cart for payment (`SRD-WRBDT-60` §9.8, US-12 unimplemented). **Say “enroll from the shop”, never “without leaving the cart”.**
 
 > 🔴 **U6 is a unique attribute we are in the process of losing.** The stated #1 reason Nuvi Global began a two-year build was a separate shop URL. The legacy cart has the setting; V3 does not. **Do not put U6 in any client-facing message until Thursday's commerce check-in resolves whether it is config or structural.**
 

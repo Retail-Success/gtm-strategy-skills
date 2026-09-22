@@ -68,6 +68,19 @@
 
 ---
 
+### ⭐⭐ Pillar N3a — Shopify cannot do this at all ✅ *ships today*
+
+**Claim:** embedded enrollment is not a feature Shopify lacks — it is one its architecture precludes.
+
+**Proof:** Shopify has no distributor object, no sponsor, no genealogy, no enrollment event. *“Become a rep”* on a Shopify store is always a link to a different system.
+
+**Why it works:** it converts a *join* into a *moat*. Same class as shop-on-behalf, which Shopify **disallows** — permanent, not a roadmap race.
+
+**Say:** *“On Shopify, the moment a shopper decides to sell is the moment they have to leave. That isn’t a setting — Shopify doesn’t know what a distributor is.”*
+**Don’t say:** *“Shopify can’t do enrollment”* flatly — an app or a custom build can bolt something on. **The precise claim is that it is always a hand-off to another system**, and that is the claim that survives a technical challenge.
+
+---
+
 ### Pillar N4 — Signup fields are configuration, not a ticket ⏸ *hold*
 
 **Claim:** required fields, country rules and kit options are per-client settings.

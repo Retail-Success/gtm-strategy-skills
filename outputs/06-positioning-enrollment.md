@@ -58,6 +58,25 @@ And his reasoning was pure funnel economics, unprompted:
 
 ---
 
+### ⭐⭐ E1a — embedded enrollment is a structural differentiator against Shopify
+
+Recorded explicitly because it is easy to file this as *convenience* when it is actually *architecture*.
+
+**Shopify has no concept of a distributor** — no rep object, no sponsor, no genealogy, no enrollment event. So on a Shopify storefront, *“become a rep”* is **always** a link out to something else: a form on the corporate site, a third-party app, or a bespoke build. **That hand-off is not a Shopify design choice — it is forced by the data model, and no theme, app or amount of money removes it.**
+
+| | Shopify | Us |
+|---|---|---|
+| Where a shopper becomes a rep | A different system, usually a different domain | The same storefront they are shopping |
+| The referring rep through signup | Nobody carries it — attribution is an integration the client owns | The flow itself (E3) |
+| Brand across shop and signup | Two systems, two theming jobs | One Style Panel, set once (E2) |
+| Kit selection at enrollment | No concept of a kit | Native (E4) |
+
+**This puts embedded enrollment in the same class as shop-on-behalf** — which Shopify *disallows* — rather than in the class of things a competitor could ship next quarter. Cross-referenced as **U2 / U2a** in [`06-positioning-cart-v3.md`](06-positioning-cart-v3.md).
+
+> **The line:** *“On Shopify, the moment a shopper decides to sell is the moment they have to leave. That isn’t a setting — Shopify doesn’t know what a distributor is.”*
+
+---
+
 ## Step 3 — Value
 
 **For the DSO corporate buyer:**
