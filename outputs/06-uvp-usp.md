@@ -5,6 +5,8 @@
 **Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md)
 **Status:** v2 — **rewritten for the current motion.** The May version (new-logo, paid, Freedom-led) is archived at [`archive/06-uvp-usp-SUPERSEDED-2026-05.md`](archive/06-uvp-usp-SUPERSEDED-2026-05.md).
 
+**Published (RSGTM space):** [UVP and USPs — Wayroo Essentials](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/667320345) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
+
 ---
 
 # UVP — The Rep
@@ -116,8 +118,8 @@ UVP: Everything you sell, from one app - with your inventory already in it.
 | 🚫 | Why |
 |---|---|
 | **Cheaper than Square** | Subscription: both $0. **Processing rate: confirmed 2026-09-02 as only marginally below** — a price claim invites arithmetic we don't win. ✅ **"Roughly the same rate, and it does what Square can't."** Conceding price is what makes the connection argument credible. |
-| **Replaces all 6–10 apps** | Canva and SMS survive. **A large dent, not a clean sweep.** |
-| **Better inventory management** | Square does it well. **The sync is the differentiator, not the feature.** |
+| **Replaces all 6–10 apps** | **A large dent, not a clean sweep.** ✅ **"Replaces Square and nearly every app a rep needs to sell and create content" is true and safe now, independent of Aice** (2026-09-23). Only "every app" stays off-limits. See [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md). |
+| **Better inventory management** | Square does it well. **The sync is the differentiator, not the feature.** ✅ Say *"already loaded, and it updates itself as you sell."* |
 | **Feature parity with Hustle** | No teardown exists |
 | **ERP-tier / rep business operating system** | Overclaims a deliberately incomplete free product. **Reserved for the paid story.** |
 

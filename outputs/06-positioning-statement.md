@@ -6,9 +6,11 @@
 **Scope:** Free, unbranded Wayroo Essentials distributed to reps inside the ByDesign installed base
 **Status:** v1 — clean slate. **Supersedes the May 2026 positioning entirely** (archived at [`archive/06-positioning-master-SUPERSEDED-2026-05.md`](archive/06-positioning-master-SUPERSEDED-2026-05.md)); that work was built for a new-logo, paid, Freedom-led motion and shares no premises with this one.
 
+**Published (RSGTM space):** [Positioning Statement — Wayroo Essentials](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/667648023) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
+
 **Inputs:** `my-gtm-context.md` (2026-08-13) · [`go-forward-gtm-operating-model-2026-08-08.md`](go-forward-gtm-operating-model-2026-08-08.md) — Invariants 1 and 2 · [`05-aice-bundle-and-free-tier-pricing.md`](05-aice-bundle-and-free-tier-pricing.md)
 
-> **This positions one product for one motion.** New-logo/paid Wayroo keeps a separate story — see `my-gtm-context.md` §5. Do not merge them; the free motion's credibility depends on not sounding like a trial.
+> **This positions one product for one motion.** New-logo/paid Wayroo keeps a separate story — now written at [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md) (2026-09-23), which also covers reps at DSOs not on ByDesign. Do not merge them; the free motion's credibility depends on not sounding like a trial. For which story goes to which persona, see [`06-persona-motion-messaging-map.md`](06-persona-motion-messaging-map.md).
 
 ---
 
@@ -56,7 +58,7 @@ Test applied: *could a competitor truthfully claim this?*
 
 **1. Price does not differentiate against Square.** Square's free tier is $0; Wayroo Essentials is $0 incremental. **Against Square the differentiator is integration alone.** Price differentiates against **Hustle ($5/monthly-active-rep) and Boards** — real, and worth using there. Claiming "free" as an advantage over Square invites the obvious reply and loses the room.
 
-**2. Inventory features are not the differentiator.** Square does basic inventory well. **The sync is the differentiator, not the feature.** Never demo inventory management as a capability — demo it as *already populated*.
+**2. Inventory features are not the differentiator.** Square does basic inventory well. **The sync is the differentiator, not the feature.** Never demo inventory management as a capability — demo it as *already populated*, and as **updating itself with every sale** (confirmed 2026-09-23). Both are sync claims Square can't make.
 
 > ### The core unique attribute, stated once
 >
@@ -190,7 +192,7 @@ For the home office: *the rep selling app included with Revolution Pro.*
 | "Rep business operating system" (prior ERP framing) | Overclaims a deliberately incomplete free product. Reserve for the paid story. |
 | "Free rep commerce app" | Leads with free, cheapens it, and hands Square a price-parity reply |
 | "Mobile POS for direct sellers" | Puts us in Square's category, where Square wins on maturity |
-| "All-in-one rep app" | Every competitor says it; means nothing |
+| "All-in-one rep app" | Every competitor says it; means nothing. ⚠️ **Rejected for this motion only.** For enterprise new-logo DSOs, "all-in-one: back office *and* field" is the category — see [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md) |
 | ✅ **"The selling app that comes with your back office"** | Explains why it's free (*included*), makes integration the category rather than a feature, separates it from every bolt-on. A rep understands it instantly — they know they have a back office. |
 
 ## Step 6 — Relevant Trends
@@ -200,6 +202,8 @@ For the home office: *the rep selling app included with Revolution Pro.*
 **2. A phone is now a card reader.** Tap-to-phone is mature and normal in 2026. **This is why Tap-to-Pay generates excitement rather than mild interest** — reps have seen it work everywhere else and expect it. The last hardware dependency for in-person selling is gone; what remains is permission, not equipment.
 
 **3. *(Home office only, supporting)* Contractor payment and income-tracking rules** across 24+ states make the rep-owned merchant structure a compliance asset. **Never a lead.** Use late, and only if raised.
+
+> **Refined 2026-09-23:** FTC protection is a legitimate DSO benefit and may appear in DSO-facing brand assets as *"stay protected"* — the booth ad does, as the third of three corporate benefits. **Still never the opener.** In the ProPay conversation it stays a close move. See [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md) Pillar 3.
 
 ---
 

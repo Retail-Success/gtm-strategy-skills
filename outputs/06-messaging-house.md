@@ -5,6 +5,8 @@
 **Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md)
 **Status:** v1 — clean slate. Supersedes the May 2026 messaging house (archived at [`archive/06-messaging-house-SUPERSEDED-2026-05.md`](archive/06-messaging-house-SUPERSEDED-2026-05.md)).
 
+**Published (RSGTM space):** [Messaging House — Wayroo Essentials](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/667713562) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
+
 > ### 🔴 The one rule that governs this whole document
 >
 > **Reps are led with Tap-to-Pay. The home office is never led with Tap-to-Pay.**
@@ -440,6 +442,8 @@ No surprise, no loss framing, price stated plainly, self-serve action, and it le
 | 4 | "Take the card. Keep the sale." | Best pure-Tap-to-Pay hook. **Rep-only** — never home office. |
 | 5 | "Sell like you're already set up. Because you are." | Warmest. Long, and slightly clever at the expense of clear. |
 
+> **Company-level line (added 2026-09-23), for DSO-facing brand assets only:** ✅ **"Control to the back office. Simplicity to the field."** It comes from the in-house booth ad and belongs to the ByDesign + Wayroo story, not to Essentials rep copy. See [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md).
+
 **Run #1 on targeted surfaces and #3 on open ones.** They are compatible — both say the setup is done; one adds the entitlement claim where it is safe to make. *(An interim revision demoted #1 on the basis that most reps lack Pro. That applied JE's active-rep denominator to a launch aimed at Pro subscribers — reverted.)*
 
 ---
@@ -468,7 +472,9 @@ No surprise, no loss framing, price stated plainly, self-serve action, and it le
 | **Reps** | Users · Distributors · Consultants | *Users* is vendor-speak; the others vary by DSO. **Match the DSO's own word when known** — stylists at Color Street, consultants at JE. |
 | — | Upgrade · Premium · Pro · Unlock | Paywall grammar. **Banned in all rep-facing copy.** |
 | — | Empowering · Revolutionary · Game-changing | `my-gtm-context.md` §10 — outcome-first, no hype |
-| — | "Powered by Wayroo" | The app is unbranded. Don't reintroduce branding through copy. |
+| — | "Powered by Wayroo" | The app is unbranded. Don't reintroduce branding through copy. *(Rep-facing copy only. Company-level DSO assets name ByDesign and Wayroo together, and custom branding is an upsell.)* |
+| **Replaces Square and nearly every app you use to sell and create content** | "Replaces all your apps" · "all-in-one app" | True now and survives follow-up. "All-in-one" is reserved for the enterprise back-office-plus-field story |
+| **Already loaded, updates itself as you sell** | "Manage your inventory" | Management is Square's claim; the self-updating sync is ours |
 
 ---
 

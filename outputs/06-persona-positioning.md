@@ -6,6 +6,8 @@
 **Evidence base:** [`prospects/color-street.md`](../prospects/color-street.md) (May 1 demo + May 6 technical scoping) · [`prospects/jordan-essentials.md`](../prospects/jordan-essentials.md) (July 17–18 convention launch, ~764 adopters observed)
 **Status:** v1. Every persona is grounded in a named, dated reaction from one of two accounts. **Nothing here is message-tested.**
 
+**Published (RSGTM space):** [Persona Positioning — Wayroo Essentials](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/713785346) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
+
 > **What this document adds.** The master positioning resolves the audience asymmetry — reps are led with Tap-to-Pay, the home office never is. That rule is correct and this document does not touch it. But it treats *"the rep"* and *"the home office"* as two undifferentiated blocks, and the evidence from Color Street and Jordan Essentials shows each is at least four distinct people who need different first sentences.
 >
 > **The three findings that motivated it:**
@@ -17,6 +19,8 @@
 ---
 
 # How to use this
+
+> **Added 2026-09-23:** these eight personas now span **two motions**. H-personas are reached through the DSO motion, and R-personas through the product-led motion, which also covers reps at DSOs not on ByDesign. The per-motion first sentences are in [`06-persona-motion-messaging-map.md`](06-persona-motion-messaging-map.md). This doc remains the evidence base for each persona.
 
 Each persona gives you **one first sentence, one thing never to say, and the objection you will actually get.** Find the persona, take the row, then use [`06-messaging-house.md`](06-messaging-house.md) for the full copy.
 
@@ -224,7 +228,7 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 |---|---|
 | **Evidence** | **Color Street, Edmond Kim — the single best-documented technical objection in the library.** May 1: *"I am veering away from an isolated app. It's got to be within the lens of it being integrated into Shopify."* May 6, the reason underneath it: *"some of the data issues that we were having, like mismatches and whatnot, it's because there's two different sources of truth and we need to figure out like the timing issues or syncing issues."* And the resolution: *"we would replicate the API and just have it directed to your endpoint, so that makes sense."* |
 | **Their job** | Not adding a third system of record |
-| 🔴 **Lead with** | **Where the data lives, and how many copies of it exist.** Wayroo consumes from the back office; it does not become a competing source of truth. |
+| 🔴 **Lead with** | **Where the data lives, and how many copies of it exist.** Wayroo consumes from the back office; it does not become a competing source of truth. **Opener (from the booth ad, 2026-09-23):** *"It extends your back office to the field without exposing more complexity."* Then draw Path B. |
 | 🚫 **Never** | Feature breadth · rep enthusiasm · adoption numbers · vague integration promises. **This persona reads "seamless integration" as an evasion.** |
 | **The objection** | *"That's a second source of truth."* → **Path B.** Wayroo integrates at the system-of-record layer and consumes downstream; it does not introduce a parallel record. Edmond endorsed this architecture on May 6 once it was drawn correctly. |
 | **Confidence** | **MEDIUM** — one account, but exceptionally well documented across two calls, and the objection is structural rather than account-specific |
@@ -316,7 +320,7 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 | **Media Library** | H3 (Hope: brand control) | **Reps (observed 🔵 Low)** | DSO deck only. Never rep first-run. |
 | **Tap-to-Pay** | **R1 (highest of anything shown)** | **H1 — actively harmful as an opener** | Rep hero. Home office beat 3 only. |
 | **Downline dashboards** | **R2 and H3** | R4 | The rare feature that lands on both sides. Use it at locked accounts. |
-| **Inventory sync** | R1 | R3, H2 | **Demo it as already populated, never as a capability** — Square does inventory well; the sync is the differentiator, not the feature. |
+| **Inventory sync** | R1 | R3, H2 | **Demo it as already populated and self-updating with every sale, never as a capability** — Square does inventory well; the sync is the differentiator, not the feature. |
 | **Compliance / FTC** | H4 (late) | **Everyone else, including H1** | Supporting structural argument. Never an opener. |
 
 ## 3. What every persona is told identically

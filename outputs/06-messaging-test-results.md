@@ -4,6 +4,8 @@
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
 **Status:** 🔴 **Plan ready. No tests have run. Results sections are empty.**
 
+**Published (RSGTM space):** [Message Test Plan — Wayroo Essentials](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/713523210) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
+
 > ### The gap this closes
 >
 > **No rep or prospect has ever reacted to any of this positioning.** The master positioning says so in its own validation checklist: *"Not tested. Zero rep or prospect validation."*
@@ -111,6 +113,29 @@
 
 ---
 
+# Test 6 — The Booth Ad (company story, in market) 🆕 Added 2026-09-23
+
+**Tests:** the ByDesign + Wayroo company story in [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md), using the in-house booth video ([`inputs/2026-09-booth-ad-bydesign-meet-wayroo.md`](../inputs/2026-09-booth-ad-bydesign-meet-wayroo.md)).
+**Audience:** enterprise DSO home offices at the booth. **Not reps.**
+**Method:** Sales-call feedback loop (Method 5), run at the booth. **Free:** the video is already playing.
+
+**At the booth, log for every real conversation:**
+
+| Capture | Why |
+|---|---|
+| **Which ad line they repeat or ask about** | Resonance, in their words |
+| **Their answer to "what do you think it does?"** after watching | Clarity. Does "all-in-one" read as back office *and* field, or as just another rep app? |
+| **Whether they ask "protected from what?"** | If most do, "stay protected" is too vague for the video and needs a word (FTC) on screen |
+| **Their back office** | Routes the DSO motion (D1) vs. a ByDesign client (D2). See [`06-persona-motion-messaging-map.md`](06-persona-motion-messaging-map.md) |
+
+**Pass:** most visitors describe it as *back office plus rep app, from one vendor*. **Fail:** they describe *a rep app*, which puts us back in the crowded category.
+
+### Results
+
+*Pending.*
+
+---
+
 # Scoring
 
 | Message | Clarity | Resonance | Differentiation | Believability | Total |
@@ -121,6 +146,8 @@
 | *You don't have to set it up* | | | | | |
 | Locked-state copy | | | | | |
 | Home-office economic line | | | | | |
+| *Control to the back office. Simplicity to the field.* (booth) | | | | | |
+| *Extends your back office to the field…* (booth) | | | | | |
 
 Each 1–5. **Believability is the one to watch** — the free offer's largest untested risk is sounding like a trial.
 
@@ -135,6 +162,7 @@ Each 1–5. **Believability is the one to watch** — the free offer's largest u
 | **3** | Comprehension | A week of usage | Free |
 | **5** | Economic line | A DSO call already scheduled | Free |
 | **4** | Tagline A/B | Placement + events | Config |
+| **6** | Booth ad (company story) | The event itself | Free |
 
 > ### Four of five tests are free and unblocked today.
 >

@@ -1,8 +1,19 @@
 # Phase 6 — Cross-Reference Audit: What the Persona Layer Changes
 
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
+
+**Published (RSGTM space):** [Persona Positioning — Update Audit](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/713031702) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
 **Trigger:** [`06-persona-positioning.md`](06-persona-positioning.md)
 **Method:** every claim below was checked against the file named. Line references are current as of 2026-08-30.
+
+> ### Status note, 2026-09-23 — read before acting on this audit
+>
+> This is a point-in-time audit dated 2026-08-30. Two of its claims have since changed:
+>
+> 1. **`06-uvp-usp.md` is current, not superseded.** It was rewritten as v2 on 2026-08-30 for Land-and-Expand. Ignore its listing under Tier 3.
+> 2. **The new-logo motion is documented again.** [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md) covers enterprise DSOs, and [`06-persona-motion-messaging-map.md`](06-persona-motion-messaging-map.md) applies the H1–H4 personas to it, which answers the Phase 12 note in Tier 3.
+>
+> Item 1.1 (Tap-to-Pay ship status) is still unconfirmed in this repo.
 
 > **Read this first.** Three of the findings below are **not** caused by the persona work — they are factual staleness the sweep turned up, and they matter more than the persona edits because live assets are carrying them. They are Tier 1.
 

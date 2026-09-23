@@ -2,6 +2,8 @@
 
 **Phase:** 6 — Crafting Positioning, Task 4
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
+
+**Published (RSGTM space):** [Minimum Viable Visual Identity](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/667287594) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
 **Company standards:** Retail Success / ByDesign / Wayroo brand assets exist — see the `retailsuccess-branding` skill for colours, type, logos, and canonical templates. **This document does not redefine them.**
 
 > ### The Task 4 question does not apply here, and the real question is more interesting
