@@ -6,7 +6,7 @@
 **Created:** 2026-09-22 · **Owner:** Sam Atieh
 **Sibling:** [`06-positioning-cart-v3.md`](06-positioning-cart-v3.md) — **read together; the shared seam is the point**
 
-**Published (sales-facing version):** [New Rep Enrollment — Positioning](https://bydesign.atlassian.net/wiki/spaces/pm/pages/711294977) · parent [Cart V3 & Enrollment — Positioning & Messaging](https://bydesign.atlassian.net/wiki/spaces/pm/pages/710770692)
+**Published (sales-facing version, Retail Success (BDT) Revenue - GTM space):** [New Rep Enrollment — Positioning](https://bydesign.atlassian.net/wiki/spaces/RSRevGTM/pages/712245250) · parent [Cart V3 & Enrollment — Positioning & Messaging](https://bydesign.atlassian.net/wiki/spaces/RSRevGTM/pages/712212482)
 > ⚠ The Confluence version is **sales-facing and the client is anonymised** — the internal post-mortem, the pricing figure and the build-state detail are deliberately not there. **This file is the full internal version; keep them in sync deliberately, not automatically.**
 
 
