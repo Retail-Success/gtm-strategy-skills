@@ -769,6 +769,8 @@ Wayroo Essentials launches **alongside Aice's free tier**, connected by a simple
 
 **Exigo** — Largest player. Enterprise MLM back-office platform. Has a native mobile rep app; the differentiation question is the **scope and tier** of that app versus Wayroo's (inventory + orders + payments + financial records + shipping + storefront). Competitive research outstanding on Exigo rep app feature scope, per-rep merchant account model, and POS depth. **Do not claim "Exigo has no rep app" — that is incorrect.** Wayroo integrates with Exigo and any other back office, so Exigo's installed base is addressable rather than walled off.
 
+> **🔴 Verified 2026-09-24: Exigo AND Pillars both sell custom development.** Exigo runs an in-house Professional Services team (BAs, developers, PMs: *"we build the scalable, secure applications that meet your exact needs"*) plus 200+ open APIs and outside partners. Pillars advertises custom reports, flows and replicated sites, plus outsourced dev resources. Trinity also sells custom programming. **Never claim we're "one of the only" providers of custom dev, or that Exigo or Pillars don't offer it.** Defensible framing and evidence: [`outputs/06-positioning-custom-development.md`](outputs/06-positioning-custom-development.md).
+
 **Shopify** — Competes with Freedom (ecommerce/back-office) and at the rep-facing commerce layer. Integrated with Freedom via a cart integration, so it can appear as a partner while also being a competitor.
 
 - **3% processing rate** — highest of any comparable ecommerce platform; a specific, citable cost differentiator
