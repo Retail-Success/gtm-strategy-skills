@@ -3,8 +3,8 @@
 **Phase:** 6 — Crafting Positioning (persona layer)
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
 **Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md) · [`06-messaging-house.md`](06-messaging-house.md)
-**Evidence base:** [`prospects/color-street.md`](../prospects/color-street.md) (May 1 demo + May 6 technical scoping) · [`prospects/jordan-essentials.md`](../prospects/jordan-essentials.md) (July 17–18 convention launch, ~764 adopters observed)
-**Status:** v1. Every persona is grounded in a named, dated reaction from one of two accounts. **Nothing here is message-tested.**
+**Evidence base:** [`prospects/color-street.md`](../prospects/color-street.md) (May 1 demo + May 6 technical scoping) · [`prospects/jordan-essentials.md`](../prospects/jordan-essentials.md) (July 17–18 convention launch, ~764 adopters observed) · 🆕 [`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md) (Autumn Fowers, **15+ Wayroo DSO demos**, reported 2026-09-28)
+**Status:** v1.1 — revised 2026-09-29. Every persona is grounded in a named, dated reaction. **One rule is now message-tested** (the opener for every H-persona — see *The Extension Frame* below). Everything else remains untested.
 
 **Published (RSGTM space):** [Persona Positioning — Wayroo Essentials](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/713785346) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
 
@@ -171,6 +171,53 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 
 ---
 
+# 🆕 The Extension Frame — the first message-tested finding in this layer
+
+**Added 2026-09-29.** Source: [`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md) §1–2. Reported by **Autumn Fowers** from **15+ Wayroo demos to DSO home offices** — the largest single body of message evidence the library holds, and the only one gathered by running the same pitch repeatedly and changing it.
+
+> **This governs every H-persona below.** It does not replace their individual lead-with rows; it sets the sentence that earns the right to deliver them.
+
+## What was observed
+
+| Frame led with | What happened |
+|---|---|
+| 🔴 **Compliance + selling tools** | *"They don't even respond. Like **that's not really our business**... and then they're **done before the call even ends**."* |
+| ✅ **"An extension of Revolution — Revolution in the palm of your consultant's hands"** | *"Then there's interest. And now they're like, well, **can it do this?** Oh, **it would be great if it could do wholesale ordering**."* |
+
+**The failure mode is not indifference — it is disqualification.** The DSO concludes the product is aimed at a problem they do not own, and the call is over. That is a worse outcome than a weak opener, because it forecloses the conversation rather than slowing it.
+
+**The success signal is feature pull.** The prospect starts asking what else it does. That is the same reaction pattern H1 shows at Color Street (Brian reframing operations into field activation) — this evidence says it generalises across 15+ accounts.
+
+## What changes
+
+**1. The compliance rule is promoted from inference to evidence.** Cross-Persona Rule 2 already said *"Compliance / FTC — low with everyone including H1. Supporting structural argument. Never an opener."* That was inferred from **one** account. It now rests on 15+, with an observed failure mode. Treat it as binding, not advisory.
+
+**2. There is now a tested positive frame, and it belongs before the economic line.** H1's lead-with is *"It costs you nothing, and it pays you."* That line is still **untested** (Test 5, pending). The extension frame is what makes a DSO willing to hear it. Sequence them:
+
+> **First — the category sentence (tested):** *"It's an extension of Revolution. Revolution — or the parts of it that matter in the field — in the palm of your consultant's hands."*
+>
+> **Then — the economic sentence (untested):** *"It costs you nothing, and it pays you."*
+
+**3. It generalises, with one substitution.** *"Extension of Revolution"* is literally true only at a ByDesign client. For a DSO on another back office the same frame is already written — it is H2's opener from the booth ad: *"It extends your back office to the field without exposing more complexity."* **Same frame, different noun.** Use *Revolution* at D2 accounts, *your back office* at D1.
+
+**4. What "field tool" does for the non-cash-and-carry DSO.** Autumn's full line is *"this is a field tool and this helps give data back."* For a DSO that believes it has no in-person selling, Wayroo's POS story is irrelevant and its **data-return** story is the whole product. That is the Essentials pitch, and it is the one that survives with this segment.
+
+## 🔴 The routing variable is *perceived* cash and carry, not actual
+
+> *"If you're talking to someone who has **no cash and carry — or they perceive they have no cash and carry** — then you need to focus hard on Essentials... Now if it's an Amway, then you want to talk about the compliance stuff."*
+
+The ICP work in Phase 2 splits DSOs into Cash & Carry, Non-Cash-and-Carry and Hybrid on **what they actually do**. The pitch must be routed on **what they believe they do**, and the two diverge — a Hybrid DSO that thinks of itself as dropship-only routes to the Essentials pitch, not the C&C one.
+
+**Operationally:** you cannot look this up. Ask early, and take the answer at face value for the purposes of the pitch even if the account data says otherwise. Qualification language belongs in [`02-hybrid-dso-qualification-questions.md`](02-hybrid-dso-qualification-questions.md).
+
+**When compliance *does* lead:** only where the DSO has already been named in an enforcement action or has visibly changed behaviour because of one. Amway is the worked example — a **$225M FTC settlement** over income claims, unprovable retail receipts, and contractor classification. See [`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md) §4, which also records the state-level escalation (WA/CA) and the ~600 Paparazzi reps cut when Paparazzi exited Washington.
+
+## Unprompted demand this surfaced
+
+**Wholesale ordering** — asked for by non-C&C DSOs once the extension frame landed. It appears in no roadmap or positioning artifact in this repo. Logged in Open Items.
+
+---
+
 # ICP B — The Home Office (secondary; **ProPay unlocker**, not approver and not buyer)
 
 > **Revised 2026-08-30. There is one ask, and it is not permission.** ByDesign does not need DSO approval to reach reps or a DSO channel to talk to them. **The only ask is ProPay approval, which unlocks the selling tools and therefore the entire revenue line.** Custom branding is a second, optional, commercial conversation — free to the three pilot DSOs at a stated $25,000 value.
@@ -187,8 +234,8 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 |---|---|
 | **Evidence** | **Two accounts.** Color Street — Brian B reframed the entire product mid-call: *"I see this as a sales tool, ultimately, where, you know, it's how the field's using it and understanding how they can get in front of customers and sell more and make their lives easier."* Jordan Essentials — Nancy requested the paid start be **pulled forward** to September, cutting short her own free period after seeing the field reaction. |
 | **Their job** | Field productivity, activation, retention — and margin |
-| 🔴 **Lead with** | **"It costs you nothing, and it pays you."** The economic line: *Wayroo is the reason your reps buy Revolution Pro, and you make margin on every one of them.* Then better-equipped field. |
-| 🚫 **Never** | **ProPay onboarding** (that is beat 3) · implementation detail · anything that resembles a project · **compliance as an opener** |
+| 🔴 **Lead with** | 🆕 **The extension frame first** — *"It's an extension of Revolution, in the palm of your consultant's hands"* (message-tested, 15+ demos). **Then** the economic line: *Wayroo is the reason your reps buy Revolution Pro, and you make margin on every one of them.* Then better-equipped field. |
+| 🚫 **Never** | **ProPay onboarding** (that is beat 3) · implementation detail · anything that resembles a project · 🔴 **compliance as an opener — now evidenced across 15+ demos as call-ending, not merely weak** |
 | **The objection** | *"Why would we add another rep app?"* → It is not another app. It replaces six to ten your reps already pay $60–100/month for, and it is the only one wired into the back office you already run. |
 | **Confidence** | **HIGH** — two accounts, consistent behaviour |
 
@@ -321,7 +368,7 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 | **Tap-to-Pay** | **R1 (highest of anything shown)** | **H1 — actively harmful as an opener** | Rep hero. Home office beat 3 only. |
 | **Downline dashboards** | **R2 and H3** | R4 | The rare feature that lands on both sides. Use it at locked accounts. |
 | **Inventory sync** | R1 | R3, H2 | **Demo it as already populated and self-updating with every sale, never as a capability** — Square does inventory well; the sync is the differentiator, not the feature. |
-| **Compliance / FTC** | H4 (late) | **Everyone else, including H1** | Supporting structural argument. Never an opener. |
+| **Compliance / FTC** | H4 (late) · **and any DSO already named in an enforcement action** | **Everyone else, including H1** | 🔴 Supporting structural argument. **Never an opener** — 15+ demos, leading with it ends the call. |
 
 ## 3. What every persona is told identically
 
@@ -329,6 +376,18 @@ Two claims are safe with all eight and should not be varied:
 
 - **The wholesale order and inventory arrive already in the app.** USP 1, and the whole position.
 - **Nothing extra is being charged for the selling tools.** True in every direction; the only branch is Pro status.
+
+## 4. 🆕 Route the DSO pitch on *perceived* cash and carry
+
+**Added 2026-09-29.** Before choosing between the Essentials pitch and the compliance pitch, establish what the DSO believes about its own in-person selling — not what its order data shows.
+
+| The DSO believes… | Pitch | Lead sentence |
+|---|---|---|
+| **No cash and carry** (whether or not that's true) | **Essentials** — field tool + data return | *"It's an extension of Revolution. A field tool that gives you data back."* |
+| **Cash and carry is core** | **Essentials + POS** | Per persona row above |
+| **They are an enforcement target** (named in an action, or visibly reacting to one) | **Compliance** — and only here | Amway, $225M, retail receipts |
+
+⚠️ **A Hybrid DSO that thinks of itself as dropship-only gets the Essentials pitch.** Perception governs the opener; the account data governs the qualification, not the first sentence. Full reasoning in *The Extension Frame* above.
 
 ---
 
@@ -353,6 +412,19 @@ Honest accounting of what each persona rests on.
 >
 > Jordan Essentials' 254 Pro-and-Wayroo reps are **0.34% of the 75,000** addressable population.
 
+> ### 🆕 A third source now sits behind the H-block, and it is the strongest one
+>
+> **15+ Wayroo demos to DSO home offices, run by Autumn Fowers, reported 2026-09-28.** It is weaker than the account records in one way and stronger in three:
+>
+> | | |
+> |---|---|
+> | ➖ **Weaker** | Reported in summary, not transcribed. No named accounts, no dated per-account reactions. The sample is not enumerated beyond *"15 plus."* |
+> | ➕ **Stronger** | **It is a comparison, not an observation.** Two frames were run against the same audience type and one was changed because the other failed |
+> | ➕ | **n is 15+ accounts**, against 1–2 for every other persona claim in this document |
+> | ➕ | It comes from the person who ran the calls, describing her own change of approach — the failure is self-reported, which is the direction bias does not usually run |
+>
+> **What it licenses:** raising the H-block opener rule to tested. **What it does not license:** any per-persona claim. It does not tell us whether H2 or H3 were in those rooms, so H2–H4 confidence is unchanged.
+
 ---
 
 # What to Test First
@@ -366,6 +438,7 @@ Ranked by risk × cost. Nothing in this document is validated.
 | 3 | **The seller-vs-hobbyist question** | R4 | *"What share of your reps sell to customers versus buying at the rep discount?"* Cheap, and it corrects a forecasting denominator. |
 | 4 | **Is R3 real, and does Aice cover them?** | R3 | The weakest persona, and the Aice pairing rests on it |
 | 5 | **Path B with a second technical gatekeeper** | H2 | Confirms the pattern is architectural rather than a Color Street one-off |
+| 🆕 6 | **Does the extension frame survive the noun swap?** Run *"extends your back office to the field"* with a **non-ByDesign** DSO | H1, H2 | The frame is tested only where *Revolution* is literally true. D1 is the whole new-logo motion and the substitution is assumed, not tested. **DSU is the venue.** |
 
 ---
 
@@ -376,7 +449,10 @@ Ranked by risk × cost. Nothing in this document is validated.
 - **Growth-and-recovery narrative** for H3 — missing from the library; blocked on the unpublished Paparazzi case study
 - **White-label appetite** — the only remaining paid Wayroo surface, and the only evidence points against it (*"function over fashion"*, one account)
 - **No finance persona has ever been observed** — H4 is constructed
+- 🆕 **Wholesale ordering** — unprompted demand from non-C&C DSOs once the extension frame lands ([`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md) §2). On no roadmap artifact in this repo. Route to Phase 4
+- 🆕 **Perceived-vs-actual cash and carry needs a qualification question** in [`02-hybrid-dso-qualification-questions.md`](02-hybrid-dso-qualification-questions.md). The routing rule exists here; the question that produces the answer does not
+- 🆕 **The extension frame has no written copy set.** It is a tested sentence with no deck slide, email, or call script behind it. Phase 7/12
 
 ---
 
-*April Dunford — Obviously Awesome. GTM Strategist by Maja Voje — Phase 6. Created 2026-08-30.*
+*April Dunford — Obviously Awesome. GTM Strategist by Maja Voje — Phase 6. Created 2026-08-30. Revised 2026-09-29 (v1.1 — the extension frame).*

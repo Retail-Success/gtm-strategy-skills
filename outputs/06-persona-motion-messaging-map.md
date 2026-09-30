@@ -3,7 +3,7 @@
 **Phase:** 6 — Crafting Positioning (reference layer across all motions)
 **Date:** 2026-09-23 · **Owner:** Sam Atieh
 **Derives from:** [`06-persona-positioning.md`](06-persona-positioning.md) (the eight personas) · [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md) (the company story) · [`06-positioning-statement.md`](06-positioning-statement.md) and [`06-messaging-house.md`](06-messaging-house.md) (the installed-base story)
-**Status:** v1. **Nothing here is message-tested.**
+**Status:** v1.1 — revised 2026-09-29. **One rule is message-tested:** the DSO opener (rules 1 and 2 under *DSO Personas × Motion*), from 15+ Wayroo demos — [`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md). **Everything else is untested.**
 
 **Published (RSGTM space):** [Persona × Motion × Messaging Map](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/711950668) · parent [Positioning & Messaging — All Motions (Start Here)](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/713949185). Repo links to docs with no published page appear there as plain names. **This file is the source; republish after changes.**
 
@@ -101,15 +101,28 @@ Each motion has two entry points, split by whether the DSO already runs ByDesign
 
 | Persona | Their job | **D1 — Enterprise new logo** first sentence | **D2 — ProPay unlock** first sentence | 🚫 Never |
 |---|---|---|---|---|
-| **H1 — CEO / Founder** | Field productivity, retention, margin | **"Control to the back office, simplicity to the field, from one vendor."** Then: your reps are paying $60–100/month for apps you can't see | **"It costs you nothing, and it pays you."** Wayroo is the reason reps buy Pro, and you keep the spread | ProPay as an opener · implementation detail · compliance as an opener |
+| **H1 — CEO / Founder** | Field productivity, retention, margin | 🆕 **"It extends the back office you already run out to the field."** Then: control to the back office, simplicity to the field, from one vendor — and your reps are paying $60–100/month for apps you can't see | 🆕 **"It's an extension of Revolution — in the palm of your consultant's hands."** Then: **"It costs you nothing, and it pays you."** Wayroo is the reason reps buy Pro, and you keep the spread | ProPay as an opener · implementation detail · 🔴 compliance as an opener |
 | **H2 — CTO / Technical Gatekeeper** | Not adding another system of record | **"It extends your back office to the field without exposing more complexity."** One vendor, one system of record | **"Wayroo consumes from your system of record. It doesn't become a second one."** Then Path B | Feature breadth · rep enthusiasm · "seamless integration" |
 | **H3 — VP Sales / Field Ops** | See the field, catch struggling reps early | **"Know your customers, see every rep sale, and reach reps where they work."** Rank reporting, alerts, media library | **"Every rep sale becomes a record you can see."** Then spotting the stalled rep in week two | Payments mechanics · merchant accounts · rates |
 | **H4 — Finance / Ops** | Liability, effort, operating cost | **"Stay protected."** Rep-owned merchant accounts support FTC contractor rules and move chargeback liability off corporate | **"The lock is honest. It's underwriting, not billing."** Then the onboarding effort, plainly | Rep excitement · adoption numbers |
 
-> **Two rules that apply across every DSO persona:**
+> **Three rules that apply across every DSO persona:**
 >
-> 1. **FTC protection is a pillar, never the opener.** It leads only with H4, and even there it's paired with chargeback liability.
-> 2. **The media library is a DSO hook.** Use it with H1 and H3 (brand consistency: *"push unified content so your brand stays consistent"*). Keep it out of rep copy, where reps rate it low.
+> 1. 🔴 **FTC protection is a pillar, never the opener** — **message-tested, and the only tested rule on this page.** Across 15+ Wayroo demos, leading with compliance produced *"that's not really our business"* and the prospect was *"done before the call even ends."* It leads only with H4, or with a DSO already named in an enforcement action. Everywhere else it is a supporting argument delivered late.
+> 2. 🆕 **Open with the extension frame.** The tested replacement for the compliance opener: **D2 — *"an extension of Revolution, in the palm of your consultant's hands"*; D1 — *"it extends your back office to the field."*** Same frame, different noun. The success signal is the prospect asking what else it does. Full evidence: [`06-persona-positioning.md`](06-persona-positioning.md) → *The Extension Frame*.
+> 3. **The media library is a DSO hook.** Use it with H1 and H3 (brand consistency: *"push unified content so your brand stays consistent"*). Keep it out of rep copy, where reps rate it low.
+
+> ### 🆕 Which DSO gets which pitch — route on *perceived* cash and carry
+>
+> Added 2026-09-29. Established **before** you pick a persona row, and answered by what the DSO believes about itself rather than by its order data.
+>
+> | The DSO believes… | Pitch | Opener |
+> |---|---|---|
+> | **No cash and carry** — including a Hybrid DSO that thinks of itself as dropship-only | **Essentials: field tool + data return** | *"An extension of Revolution. A field tool that gives you data back."* |
+> | **Cash and carry is core** | **Essentials + POS** | The persona row above |
+> | **They are an enforcement target** (named in an action, or visibly reacting to one) | **Compliance — the only place it leads** | Amway: **$225M**, income claims, unprovable retail receipts |
+>
+> ⚠️ **Perception, not fact, picks the opener.** You cannot look this up before the conversation — ask, and take the answer at face value for pitch-routing purposes.
 
 ---
 
@@ -140,7 +153,8 @@ Each motion has two entry points, split by whether the DSO already runs ByDesign
 | "It costs you nothing, and it pays you" | D2 | D1. A new logo *is* paying |
 | Tap-to-Pay as the opener | P1, P2 | D1, D2 |
 | "Your reps are asking" + demand count | D2 (and D1 once P2 recommendations exist) | Cold outreach with no count behind it |
-| FTC / stay protected | D1, D2 (H4 especially) | Any rep copy |
+| 🆕 "An extension of Revolution" | **D2 only** — it's literally true only where they run Revolution | D1. Swap the noun: *"extends your back office"* |
+| FTC / stay protected | D1, D2 (H4 especially) — 🔴 **as a late supporting argument, never the opener** | Any rep copy · **any DSO opener**, unless they're already named in an enforcement action |
 | Media library / brand consistency | D1, D2 | Rep first-run |
 
 ---
@@ -154,6 +168,8 @@ Each motion has two entry points, split by whether the DSO already runs ByDesign
 | 3 | **Build the P2 recommendation mechanic** (the equivalent of P1's demand counter) and **route recommendations to sales** | Without it, rep demand at non-ByDesign DSOs produces no D1 lead |
 | 4 | **Re-score PLG in [`08-gtm-motions.md`](08-gtm-motions.md)** | That doc still ranks PLG as a 2027 decision (13/25). P2 makes it a live motion now |
 | 5 | **D1 contract terms when a P2 lead is on Exigo** | That is a Wayroo-only deal, still governed by the open Wayroo-led entry decision (`my-gtm-context.md` §14) |
+| 🆕 6 | **Test the extension frame's D1 noun swap** — *"extends your back office"* with a non-ByDesign DSO | The frame is tested only at D2, where *Revolution* is literally true. D1 is the entire new-logo motion. **DSU is the venue** |
+| 🆕 7 | **Write the copy set behind the extension frame** — one deck slide, one email opener, one booth segue | It is a tested sentence with no asset carrying it. Phase 7/12 |
 
 ## Next Steps
 

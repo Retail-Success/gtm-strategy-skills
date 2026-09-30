@@ -3,7 +3,7 @@
 **Phase:** 6 — Crafting Positioning, Task 3
 **Date:** 2026-08-13 · **Owner:** Sam Atieh
 **Derives from:** [`06-positioning-statement.md`](06-positioning-statement.md)
-**Status:** v1 — clean slate. Supersedes the May 2026 messaging house (archived at [`archive/06-messaging-house-SUPERSEDED-2026-05.md`](archive/06-messaging-house-SUPERSEDED-2026-05.md)).
+**Status:** v1.1 — revised 2026-09-29 (the DSO opener is now message-tested; see §3). Supersedes the May 2026 messaging house (archived at [`archive/06-messaging-house-SUPERSEDED-2026-05.md`](archive/06-messaging-house-SUPERSEDED-2026-05.md)).
 
 **Published (RSGTM space):** [Messaging House — Wayroo Essentials](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/667713562) · parent [Phase 6 — Crafting Positioning](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/655261717). The published page is a lightly edited copy: repo links become page links or plain names. **This file is the source; republish after changes.** Last synced 2026-09-23.
 
@@ -216,9 +216,20 @@ Three. No more — nothing sticks past three.
 | **Rep — sells in person** | Not losing a sale at the table | **Tap-to-Pay**, then pre-loaded inventory | Compliance, corporate visibility, anything about "the company can see" |
 | **Rep — catalog/online** | Earning more, getting paid faster | Payment links and invoicing, then storefront | POS, barcode scanning, vendor-event framing |
 | **Rep — skeptical / been burned** | Not being sold something | **Branchable.** RevPro holder: *"Included. Already paid for."* · No RevPro: 🔴 **"It's $5 a month, and here's exactly what it replaces."** Naming the price first is what disarms this rep — vagueness confirms their suspicion. | Enthusiasm, feature lists, urgency, **any hedging on price** |
-| **Founder / CEO** | Field productivity and retention | **Costs nothing, pays margin**, better-equipped field | **ProPay onboarding**, implementation, anything resembling a project |
+| **Founder / CEO** | Field productivity and retention | 🆕 **The extension frame first** — *"an extension of Revolution, in the palm of your consultant's hands"* — **then** costs nothing, pays margin, better-equipped field | **ProPay onboarding**, implementation, anything resembling a project, 🔴 **compliance as an opener** |
 | **VP Sales / Field Ops** | Visibility and coaching | Every rep sale becomes a record you can see | Payments mechanics, merchant accounts |
 | **Finance / Ops** *(beat 3 only)* | Liability and effort | Rep-owned merchant accounts shift chargeback liability off corporate | Rep excitement, adoption numbers |
+
+> ### 🆕 The DSO opener is now message-tested — added 2026-09-29
+>
+> Across **15+ Wayroo demos** ([`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md) §2), the three home-office rows above all depend on one sentence landing first.
+>
+> | Opener | Result |
+> |---|---|
+> | 🔴 Compliance + selling tools | *"That's not really our business"* — **and they're done before the call ends** |
+> | ✅ **"An extension of Revolution, in the palm of your consultant's hands"** | **Interest, then feature pull** — *"well, can it do this?"* |
+>
+> **Use *Revolution* with a ByDesign client and *your back office* with anyone else.** Leading with compliance is not a weak opener — it disqualifies us from the conversation. Full evidence and the perceived-cash-and-carry routing rule: [`06-persona-positioning.md`](06-persona-positioning.md) → *The Extension Frame*.
 
 > **The skeptical-rep row matters more than it looks.** 510 JE reps are about to lose their stores. Enthusiasm is the wrong register for anyone who has just had a product change on them — lead with *what is certain and already paid for*, not with what is exciting.
 
@@ -475,12 +486,14 @@ No surprise, no loss framing, price stated plainly, self-serve action, and it le
 | — | "Powered by Wayroo" | The app is unbranded. Don't reintroduce branding through copy. *(Rep-facing copy only. Company-level DSO assets name ByDesign and Wayroo together, and custom branding is an upsell.)* |
 | **Replaces Square and nearly every app you use to sell and create content** | "Replaces all your apps" · "all-in-one app" | True now and survives follow-up. "All-in-one" is reserved for the enterprise back-office-plus-field story |
 | **Already loaded, updates itself as you sell** | "Manage your inventory" | Management is Square's claim; the self-updating sync is ours |
+| 🆕 **An extension of Revolution** *(ByDesign client)* · **Extends your back office to the field** *(anyone else)* | "A compliance platform" · "A rep app" · leading with FTC | 🔴 **Message-tested, 15+ DSO demos.** The extension frame produces feature pull; the compliance opener ends the call. *DSO-facing only — reps never hear "extension of Revolution"* |
+| 🆕 **A field tool that gives you data back** | "Point of sale" *(to a DSO that believes it has no cash and carry)* | Routes on what the DSO **believes** about its own selling, not on its order data |
 
 ---
 
 # 10. What to Test First
 
-Nothing here is validated. Ranked by risk × cost to test.
+**One thing here is now validated** — the DSO opener (§3, 15+ demos). Everything else is not. Ranked by risk × cost to test.
 
 | # | Test | Why first |
 |---|---|---|
