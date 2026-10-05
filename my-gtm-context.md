@@ -22,6 +22,7 @@
 > - **Goal:** mass rep adoption.
 > - **Revenue:** payments (~1.5% of rep transactions) now; **optional upgrade tiers later.**
 > - **Pitch:** [`outputs/12-sales-pitch-beta-program.md`](outputs/12-sales-pitch-beta-program.md). For beta recruiting it supersedes the paid Wayroo-only pitch in `12-sales-pitch-new-logo-dso.md`.
+> - 🆕 **New-rep economics (field insight, 2026-10-05):** many new reps join because they need income. They're often unemployed and haven't made a first sale. Competing rep apps (Hustle, Fluid, etc.) charge reps a monthly fee from day one. **Wayroo is free, and ByDesign only earns once the rep starts selling.** Reps also spend $60–100+/month on 6–10 apps, and Wayroo takes the place of many of them. ⚠️ "Most are unemployed" is unsourced. Say "many" until there's data.
 > - ✅ **The core app and selling tools stay free** (confirmed 2026-10-05). Upgrade tiers will be optional premium features only.
 > - ✅ **Rep card processing is similar to Square, a little cheaper.** **No limit on beta length or spots.** **Free custom branding** for partners who are really interested (use it as a closer). **Jordan Essentials can be named** to non-clients. (All confirmed 2026-10-05.)
 > - ⚠️ **Open before first call:** the beta integration price, discount and timeline.

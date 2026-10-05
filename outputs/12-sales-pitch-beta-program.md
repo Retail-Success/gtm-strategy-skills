@@ -14,6 +14,8 @@
 
 **Why it works:** the obstacle in the paid new-logo motion was a 4–6 month cycle to get a budget approved. A free beta shrinks the budget question to one small, discounted integration fee with no ongoing license. What's left is mostly **"will you let your reps try this?"** That's a much easier yes, and it fits how this product actually spreads: Jordan Essentials got 764 rep downloads in 2–3 days without a mandate.
 
+**Why reps pick it up — the new-rep angle (added 2026-10-05):** many new reps join because they need income. They're often out of work and haven't made a first sale yet. Other rep apps (Hustle, Fluid and similar) charge a monthly fee from day one, so a rep pays before she's earned anything. **Wayroo is free, and we only make money once the rep starts selling.** On top of that, reps already spend $60–100+ a month on 6–10 apps, and Wayroo takes the place of many of them. For the DSO, that means fewer new reps quit before their first sale.
+
 **What could break it: "free" followed by a surprise bill.** The 510 Jordan Essentials reps whose stores are being switched off show what happens when something people thought they had changes on them. So the pitch says **what stays free forever, and what the future upgrade tier will cost, before anyone asks.** That honesty is what makes "free" believable instead of suspicious.
 
 > ### ✅ The promise to make (confirmed by Sam, 2026-10-05)
@@ -43,7 +45,9 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 > "Here's what we see almost everywhere. Reps run their business on six to ten apps: Square at the table, Venmo or PayPal for everything else, a spreadsheet for inventory, Canva for graphics. That costs them $60 to $100 a month of their own money. *[You mentioned ___.]* None of those apps know what the rep ordered from you, and none of them tell you what she sold."
 >
 > **[3. What it costs them, 30 sec]**
-> "So reps lose sales at the table when they can't take the payment the customer wants. They spend hours on shipping labels and spreadsheets that don't earn them a dollar. And every cash or Venmo sale is a customer you'll never see. One CTO put it bluntly: *'We don't own those customers.'*"
+> "So reps lose sales at the table when they can't take the payment the customer wants. They spend hours on shipping labels and spreadsheets that don't earn them a dollar. And every cash or Venmo sale is a customer you'll never see. One CTO put it bluntly: *'We don't own those customers.'*
+>
+> It's hardest on your newest reps. A lot of them joined because they need the income. They haven't made a first sale yet, and the first thing most rep apps ask for is a monthly fee. They're paying before they've earned a dollar, and that's when people quit."
 >
 > **[4. What Wayroo does, 40 sec]**
 > "Wayroo is one app where your rep:
@@ -62,7 +66,7 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 > "This isn't a prototype. When Jordan Essentials, one of our clients, launched Wayroo at their convention in July, 764 reps downloaded it in two or three days, nearly 30% of their active field. *[Verbal only, until published:]* At Paparazzi, about 4,000 reps on Wayroo did $31 million in sales last year."
 >
 > **[7. How we make money, 20 sec — say it before they ask]**
-> "You'll want to know where the catch is. We earn a small share of the payments your reps take through the app, so we only make money when they sell. That's what lets us give the app away. Later we'll add optional premium features. The core app and the selling tools stay free for beta partners."
+> "You'll want to know where the catch is. Most rep apps charge your reps a monthly fee before they've made a sale. We don't. We earn a small share of the payments your reps take through the app, so **we only make money when your rep starts making money.** That's what lets us give the app away. Later we'll add optional premium features. The core app and the selling tools stay free for beta partners."
 >
 > **[8. The ask, 20 sec]**
 > "Here's what it takes. First, we connect Wayroo to your back office so your reps' data shows up in the app. We integrate with anyone. There's an integration fee, and for beta partners it's heavily discounted. Then a quick payments setup so the selling tools switch on, a push to your field (a convention or field call is perfect), and an honest feedback call every month. When's your next big field event?"
@@ -96,7 +100,7 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 
 | Persona | Their priority | Lead beat 5 with | Avoid |
 |---|---|---|---|
-| **Founder / CEO** | Field productivity and retention | **Reps sell more and spend less time on admin. No license, no per-rep fee.** | Merchant-account mechanics, anything that sounds like a project, compliance |
+| **Founder / CEO** | Field productivity and retention | **New reps don't pay anything before their first sale, so fewer quit early.** Reps sell more and spend less time on admin. No license, no per-rep fee. | Merchant-account mechanics, anything that sounds like a project, compliance |
 | **VP Sales / Field Ops** | Visibility and coaching | **"Every rep sale becomes a record you can see."** Spot the rep with stuck stock before she quits. | Payments plumbing |
 | **CTO / back-office owner** | Integration risk, one source of truth | **Wayroo integrates with any back office, including ours. It reads from your system of record. It doesn't replace it or become a second one.** Scope it together on the technical call. | Promising timelines before scoping |
 | **CFO** | Cost and liability | **No license fee, and a discounted one-time integration fee.** Rep-owned merchant accounts mean chargebacks on rep sales sit with the rep. | Download numbers, enthusiasm, **any suggestion of a payments revenue share** |
@@ -116,6 +120,8 @@ Use their word for reps: stylists, consultants, ambassadors. If they believe the
 | 5 | "Roughly how many of your active reps are real sellers versus buying for themselves?" | Sizing. Payments revenue comes from sellers. |
 | 6 | "When's your next convention or big field event?" | Launch timing. JE launched at its convention and got 764 downloads in 2–3 days. |
 | 7 | "Do your reps carry inventory, sell from the catalog, or both?" | Which features to demo first |
+| 8 | "What does a new rep have to pay for before her first sale? Kit, apps, monthly fees?" | Beats 3 and 7: the pay-before-you-earn problem |
+| 9 | "How many new reps quit before their first sale?" | Sizes the early-churn cost Wayroo reduces |
 
 ---
 
@@ -146,6 +152,7 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | **"Our reps won't adopt another app."** | "What happened last time?" | "This one replaces apps they're already paying for. 764 Jordan Essentials reps downloaded it in days, without a mandate." |
 | **"Exigo already has a rep app."** | "What do your reps use it for?" | "Wayroo works alongside your back office. The question is whether your reps take payments and run inventory in it, or still use Square and Venmo. If it's the latter, that's what we fill." *(Never claim Exigo has no rep app.)* |
 | **"Square is free."** | "Is that what most reps use?" | "Square is good at taking a card, and our processing is a little cheaper than Square's. But Square doesn't know what your rep ordered from you, and it doesn't send the sale or the customer back to you. That connection is what you're getting." |
+| **"We already use Hustle / Fluid."** | "Who pays for it, you or your reps? Before or after their first sale?" | "Those apps charge a monthly fee whether or not the rep has sold anything. Wayroo is free to the rep and free to you, and we only make money once she's selling. It also takes payments, which those apps don't do the same way." *(Don't quote competitor prices you haven't verified. Hustle's $5 per monthly active rep is the only confirmed figure.)* |
 | **"You're a back-office company. Is this a way to sell us one?"** | — | "No. We have our own back office, but Wayroo integrates with anyone's. You don't have to switch anything to be in the beta." |
 | **"Do we get a share of the payments?"** | — | "No. The payments share is how we fund the app, and it's why there's no license or per-rep fee for you." |
 | **"Why is there an integration fee if it's free?"** | — | "The app is free. Connecting it to your back office is real engineering work on our side, and beta partners get it at a deep discount." |
@@ -167,6 +174,9 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | — | "You keep the spread," "margin for you," or any payments revenue share | **ByDesign doesn't share payments revenue with DSOs.** The markup line in `06-messaging-house.md` §5 is for client per-rep fees and doesn't apply here. |
 | "Rep-owned merchant accounts" · "Processing is a little cheaper than Square" | Specific rate numbers, or "much cheaper" / "the cheapest" | Confirmed as slightly cheaper (2026-10-05). Quote exact rates in writing only, once you have them per portfolio. |
 | — | "Limited spots" · "Beta closes soon" | There's no limit and no end date. Don't invent scarcity. |
+| "Many new reps join because they need income" · "Most rep apps charge a monthly fee before the first sale" | "Most new reps are unemployed" stated as a statistic | Field insight, not yet sourced. Say it as an observation until it's backed by data. |
+| "Takes the place of many of the 6–10 apps reps pay for" · "Replaces Square and most of the apps she's paying for" | "Replaces all your apps" · "Saves reps $100 a month" | The savings depend on which apps a rep uses. Keep it to "many." |
+| "We only make money when your reps make money" | "We're cheaper than Hustle/Fluid" with specific numbers | Unverified pricing. Lead with the model (free until she sells), not a price comparison. |
 | — | Leading with free custom branding | It's a closer for a seriously interested partner, not part of the headline offer |
 | "Built by ByDesign, 25 years in direct selling" | "Revolution," "Freedom" as part of the offer | Non-clients don't have them, and the beta doesn't require them |
 
