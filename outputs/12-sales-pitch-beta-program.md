@@ -26,7 +26,7 @@
 
 ## The one sentence
 
-> **"We built a rep app, proved it on our own clients, and now we're opening a free beta to a handful of companies outside our client base. Your reps get one app to sell, get paid and run their business, and every sale comes back to you as data."**
+> **"We built a rep app, proved it on our own clients, and now we're opening a free beta to companies outside our client base. Your reps get one app to sell, get paid and run their business, and every sale comes back to you as data."**
 
 The second half uses the message-tested "extends your back office to the field" idea. **Never open with compliance.** Across 15+ demos that opener ended calls.
 
@@ -37,7 +37,7 @@ The second half uses the message-tested "extends your back office to the field" 
 Deliver after 5–10 minutes of discovery. Bracketed lines are where you use what they just told you.
 
 > **[1. Why I'm calling, 20 sec]**
-> "Quick context. We're ByDesign. We've built back-office software for direct selling for 25 years. For the last couple of years we've been building a rep-facing app called Wayroo and running it with our own clients. It works, and now we want to know whether it works just as well at companies on *other* back offices. Wayroo connects to any of them. So we're opening a small beta, the app is free, and I think you'd be a good fit."
+> "Quick context. We're ByDesign. We've built back-office software for direct selling for 25 years. For the last couple of years we've been building a rep-facing app called Wayroo and running it with our own clients. It works, and now we want to know whether it works just as well at companies on *other* back offices. Wayroo connects to any of them. So we've opened a beta, the app is free, and I think you'd be a good fit."
 >
 > **[2. Their reps' world, 30 sec]**
 > "Here's what we see almost everywhere. Reps run their business on six to ten apps: Square at the table, Venmo or PayPal for everything else, a spreadsheet for inventory, Canva for graphics. That costs them $60 to $100 a month of their own money. *[You mentioned ___.]* None of those apps know what the rep ordered from you, and none of them tell you what she sold."
@@ -77,13 +77,18 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 |---|---|
 | **What you get** | Wayroo for every rep, free: Tap-to-Pay, invoicing with payment links, storefront, vendor-event selling, inventory, rep dashboards, media library. A direct line to the product team. Your feedback shapes the roadmap. |
 | **What it costs you** | **No license and no per-rep fee.** A one-time integration fee to connect your back office, **heavily discounted for beta partners** *([set the beta price, see decisions])*. |
-| **What it costs your reps** | Nothing for the app. Standard processing on card payments they take, the same as with Square or any processor. *(⚠️ Confirm the rep processing rate before the first call, see open items.)* |
+| **What it costs your reps** | Nothing for the app. Card processing on payments they take is **a little cheaper than Square**. |
 | **How we make money** | A share of payments processed through Wayroo, which ByDesign keeps. Later, optional premium features. |
 | **What stays free** | **The core app and every selling tool.** We'll never charge you or your reps to take a payment. |
 | **Integration** | Wayroo connects to any back office. We scope it with your tech lead before you commit. |
 | **What we ask** | 1. Back-office connection (discounted integration fee). 2. Payments onboarding so the selling tools switch on. 3. Introduce Wayroo to your field. 4. A 30-minute feedback call each month. 5. Permission to share results as a case study if it works. |
-| **Length** | *[Set this: recommended 6 months with a review at 90 days, see open items]* |
-| **Spots** | *[Set this: recommended 5–10 companies]* |
+| **Length** | Open-ended. No end date, and nothing switches off. |
+| **Spots** | No limit. |
+| **Custom branding** | Available at no charge for partners who want it *(see the branding note below)*. |
+
+---
+
+> **Using free custom branding as a closer.** When a partner is clearly serious (payments setup agreed, launch event on the calendar), offer it: *"If you're in, we'll put your brand on the app at no charge."* Don't open with it. A stated $25K value is more powerful as a reward for commitment than as part of the headline.
 
 ---
 
@@ -140,7 +145,7 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | **"Will you start charging us later?"** | — | "Not for the core app or the selling tools. If we add premium features, they're optional, and we'll tell you well ahead of time." |
 | **"Our reps won't adopt another app."** | "What happened last time?" | "This one replaces apps they're already paying for. 764 Jordan Essentials reps downloaded it in days, without a mandate." |
 | **"Exigo already has a rep app."** | "What do your reps use it for?" | "Wayroo works alongside your back office. The question is whether your reps take payments and run inventory in it, or still use Square and Venmo. If it's the latter, that's what we fill." *(Never claim Exigo has no rep app.)* |
-| **"Square is free."** | "Is that what most reps use?" | "Square is good at taking a card. It doesn't know what your rep ordered from you, and it doesn't send the sale or the customer back to you. That connection is what you're getting." |
+| **"Square is free."** | "Is that what most reps use?" | "Square is good at taking a card, and our processing is a little cheaper than Square's. But Square doesn't know what your rep ordered from you, and it doesn't send the sale or the customer back to you. That connection is what you're getting." |
 | **"You're a back-office company. Is this a way to sell us one?"** | — | "No. We have our own back office, but Wayroo integrates with anyone's. You don't have to switch anything to be in the beta." |
 | **"Do we get a share of the payments?"** | — | "No. The payments share is how we fund the app, and it's why there's no license or per-rep fee for you." |
 | **"Why is there an integration fee if it's free?"** | — | "The app is free. Connecting it to your back office is real engineering work on our side, and beta partners get it at a deep discount." |
@@ -160,7 +165,9 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | "We integrate with any back office" | "Plug and play," "live in a day," "no setup cost" | There is an integration fee, and the timeline depends on scoping |
 | "No license, no per-rep fee" | "It costs you nothing" | The integration fee is real, even when discounted |
 | — | "You keep the spread," "margin for you," or any payments revenue share | **ByDesign doesn't share payments revenue with DSOs.** The markup line in `06-messaging-house.md` §5 is for client per-rep fees and doesn't apply here. |
-| "Rep-owned merchant accounts" | Specific processing rates | Not confirmed for non-client reps |
+| "Rep-owned merchant accounts" · "Processing is a little cheaper than Square" | Specific rate numbers, or "much cheaper" / "the cheapest" | Confirmed as slightly cheaper (2026-10-05). Quote exact rates in writing only, once you have them per portfolio. |
+| — | "Limited spots" · "Beta closes soon" | There's no limit and no end date. Don't invent scarcity. |
+| — | Leading with free custom branding | It's a closer for a seriously interested partner, not part of the headline offer |
 | "Built by ByDesign, 25 years in direct selling" | "Revolution," "Freedom" as part of the offer | Non-clients don't have them, and the beta doesn't require them |
 
 ---
@@ -181,12 +188,12 @@ These change what you can say. Each has a recommended default.
 | # | Decision | Recommended default | Why it matters |
 |---|---|---|---|
 | 1 | ✅ **Resolved 2026-10-05: the core app and selling tools stay free.** | — | This is the answer to "what's the catch?" Say it on every call. |
-| 2 | **What does the rep pay to process a card?** | Get ProPay's rate and compare it with Square's | Reps fund the payments line. If the rate is higher than Square's, the pitch needs a reason. |
+| 2 | ✅ **Resolved 2026-10-05: rep processing is similar to Square, a little cheaper.** | — | Use it in the Square objection and when a rep asks about cost. |
 | 3 | **Beta integration price and timeline.** ✅ *Resolved: integrates with anyone; the DSO pays a discounted fee.* Still open: the list price, the beta discount, and typical time to go live per back office. | Publish one beta price (for example "X% off list") rather than negotiating each deal. Start with Exigo. | A fixed beta price keeps the offer simple and stops integration from becoming the negotiation. Typical timeline drives when partners can launch to their field. |
-| 4 | **Does custom branding come with the beta?** | **No.** Keep it as the first paid add-on. | The 3 client pilots got it free ($25K stated value). Giving it to every beta partner too means nobody will expect to pay for it. |
-| 5 | **Beta length and number of spots** | 6 months, review at 90 days, 5–10 partners | Scarcity helps the pitch, and support capacity is limited |
-| 6 | **What happens at the end of the beta?** | Partners stay on the free core, with an option to buy premium tiers | Must be written down before anyone signs. "We'll figure it out" is how the JE 510 situation happened. |
-| 7 | **Can Jordan Essentials be named to non-clients?** | Ask JE | It's the main proof point in beat 6 |
+| 4 | ✅ **Resolved 2026-10-05: free custom branding for partners who are really interested.** | Use it as a closer, not in the headline offer | Keep track of who gets it. The 3 client pilots got it free too, at a stated $25K value. If most partners end up with it, it stops being a paid add-on. |
+| 5 | ✅ **Resolved 2026-10-05: no limit on beta length or spots.** | — | Nothing switches off, so the JE-510 risk doesn't apply. Watch support and integration capacity as partners sign. |
+| 6 | ✅ **Resolved by #5: there's no end date.** Partners stay on the free core, with optional premium tiers later. | — | — |
+| 7 | ✅ **Resolved 2026-10-05: Jordan Essentials can be named.** | — | Beat 6 is safe to use as written |
 | 8 | **How does this sit with the Action 5 Exigo test and the Q4 positioning decision?** | Run the beta *as* the Action 5 test: same accounts, better offer | Leadership approved pitching. Confirm they also accept that this changes the test (free vs. paid acceptance rates aren't comparable). |
 
 ---
@@ -208,7 +215,7 @@ The aim is mass adoption that leads to payments revenue. Track the funnel, not j
 
 ## Next Steps
 
-1. **Make the remaining decisions above.** Decisions 2 (rep processing rate) and 3 (beta integration price) block the first call.
+1. **Set the beta integration price** (decision 3). It's the last thing blocking the first call.
 2. **Rehearse the 3-minute version** with Daniel and cut anything that runs over.
 3. **Build the target list** from `12-dream-client-list.md`: US, cash and carry or event-heavy, known back office, convention in the next 90 days.
 4. **Next asset:** turn the beta-partner table into a leave-behind one-pager, and add a beta-recruit outbound sequence to `12-outbound-campaign.md`.
