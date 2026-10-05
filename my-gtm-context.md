@@ -8,11 +8,13 @@
 >
 > **Sam has permission to pitch Wayroo to DSOs outside the ByDesign client base to recruit beta testers.** Framing: "we built a rep app, proved it on our own clients, now opening a beta to companies outside our base."
 >
-> - **Offer:** Wayroo **free** to beta DSOs and their reps.
+> - **Offer:** Wayroo **free** to beta DSOs and their reps: no license, no per-rep fee. The DSO pays a **heavily discounted integration fee**.
+> - **Integration:** Wayroo integrates with **any** back office, ByDesign's own or anyone else's (confirmed 2026-10-05).
+> - 🔴 **Payments revenue is never shared with DSOs.** ByDesign keeps the ~1.5%. Don't use "you keep the spread" or margin framing in beta pitches.
 > - **Goal:** mass rep adoption.
 > - **Revenue:** payments (~1.5% of rep transactions) now; **optional upgrade tiers later.**
 > - **Pitch:** [`outputs/12-sales-pitch-beta-program.md`](outputs/12-sales-pitch-beta-program.md). For beta recruiting it supersedes the paid Wayroo-only pitch in `12-sales-pitch-new-logo-dso.md`.
-> - ⚠️ **Open before first call:** whether core app + selling tools are a permanent free promise; rep processing rate vs. Square; non-client integration scope and who pays for it; whether branding is included; beta length, number of spots, and what happens at the end. See the decisions table in the pitch file.
+> - ⚠️ **Open before first call:** whether core app + selling tools are a permanent free promise; rep processing rate vs. Square; the beta integration price, discount and timeline; whether branding is included; beta length, number of spots, and what happens at the end. See the decisions table in the pitch file.
 >
 > ---
 >
