@@ -4,6 +4,18 @@
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
+> ### 🆕 2026-10-05 — NEW MOTION: Wayroo Beta Program for non-client DSOs
+>
+> **Sam has permission to pitch Wayroo to DSOs outside the ByDesign client base to recruit beta testers.** Framing: "we built a rep app, proved it on our own clients, now opening a beta to companies outside our base."
+>
+> - **Offer:** Wayroo **free** to beta DSOs and their reps.
+> - **Goal:** mass rep adoption.
+> - **Revenue:** payments (~1.5% of rep transactions) now; **optional upgrade tiers later.**
+> - **Pitch:** [`outputs/12-sales-pitch-beta-program.md`](outputs/12-sales-pitch-beta-program.md). For beta recruiting it supersedes the paid Wayroo-only pitch in `12-sales-pitch-new-logo-dso.md`.
+> - ⚠️ **Open before first call:** whether core app + selling tools are a permanent free promise; rep processing rate vs. Square; non-client integration scope and who pays for it; whether branding is included; beta length, number of spots, and what happens at the end. See the decisions table in the pitch file.
+>
+> ---
+>
 > ### 🔴🔴 2026-08-30 — THE DSO IS NOT A GATE AT THE FRONT. Read this before the August header below.
 >
 > **Five corrections, and the first two change the shape of the motion.**
