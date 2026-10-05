@@ -194,7 +194,7 @@ These change what you can say. Each has a recommended default.
 | 5 | ✅ **Resolved 2026-10-05: no limit on beta length or spots.** | — | Nothing switches off, so the JE-510 risk doesn't apply. Watch support and integration capacity as partners sign. |
 | 6 | ✅ **Resolved by #5: there's no end date.** Partners stay on the free core, with optional premium tiers later. | — | — |
 | 7 | ✅ **Resolved 2026-10-05: Jordan Essentials can be named.** | — | Beat 6 is safe to use as written |
-| 8 | **How does this sit with the Action 5 Exigo test and the Q4 positioning decision?** | Run the beta *as* the Action 5 test: same accounts, better offer | Leadership approved pitching. Confirm they also accept that this changes the test (free vs. paid acceptance rates aren't comparable). |
+| 8 | ✅ **Resolved 2026-10-05: Wayroo-led is decided, and Action 5 is retired.** The beta replaces it. | — | Measure the beta by the funnel below, not by meeting acceptance. |
 
 ---
 

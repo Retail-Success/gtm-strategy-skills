@@ -5,6 +5,14 @@
 **Owner:** Sam Atieh (strategy + assets) — execution owners named per action
 **Status:** v2.1 — 2026-08-30 corrections in the header block below; body otherwise unchanged from v2.0 (August 8)
 
+> ## ✅ 2026-10-05 — DECIDED: Wayroo-led. Action 5 RETIRED.
+>
+> **Leadership decision: we lead with Wayroo.** This is the decision Action 5 was set up to inform. Because it's now made, **Action 5 (bounded Exigo-base test) is retired** and will not run.
+>
+> **What replaces it:** the **Wayroo Beta Program** for non-client DSOs. The app is free, the core app and selling tools stay free, there's a discounted integration fee, and it integrates with any back office. Pitch: [`12-sales-pitch-beta-program.md`](12-sales-pitch-beta-program.md). Measure it by partners signed, payments onboarding completed, rep download rate, and **transacting reps**, not by meeting acceptance.
+>
+> Anything below that says "do not reposition to Wayroo-led" or "keep Freedom-led until Q4" is superseded.
+
 > ## 🔴 Revised 2026-08-30 — the motion mix changed, and one motion was mis-named
 >
 > **1. This is Product-Led, not Outbound.** The plan has described the installed-base motion as a sales action. **It is not.** Reps are reached in-product, adopt themselves, and there is no sales cycle, no closer, and no contract. **PLG mechanics inside an existing B2B contract** — with one human-gated step (ProPay) in the middle.
@@ -256,7 +264,9 @@ Fixing supply on a channel converting at 29x the alternative is the highest-leve
 
 **State this caveat to leadership rather than burying it:** a 0% close rate on 5 opportunities cannot statistically distinguish "dead channel" from "unlucky channel." The argument is **opportunity cost against a documented 29x-better alternative in the same budget line** — not proof the channel cannot work. That is defensible; overclaiming is not.
 
-### Action 5 — Bounded Exigo-Base Test (NEW in v2.0)
+### ~~Action 5 — Bounded Exigo-Base Test (NEW in v2.0)~~ — ❌ RETIRED 2026-10-05
+
+> **Retired.** Leadership decided to lead with Wayroo, so this test no longer needs to run. It's replaced by the Wayroo Beta Program (`12-sales-pitch-beta-program.md`). Kept below for the record.
 
 **Motion:** Partner-Led / new-logo outbound · **2026 revenue: NO — deliberately. This buys evidence, not bookings.**
 
@@ -307,7 +317,7 @@ Ranked by damage if wrong.
 | 5 | Paparazzi will approve a public case study | Jordan Essentials becomes the only proof path | Direct ask — Wk 1 |
 | 6 | Tap-to-Pay ships, or expectations are actively managed | Adoption momentum decays at the reference account the whole motion depends on | Product — Wk 1 |
 | 7 | 3–5 consultants accept a 15%/$500 structure | Partner supply problem persists into 2027 | Outreach — Wks 3–7 |
-| 8 | Exigo-based DSOs will take a Wayroo-only meeting | Wayroo-led thesis weakened — which is a valid, cheap result | Action 5 — Wk 15 |
+| 8 | ~~Exigo-based DSOs will take a Wayroo-only meeting~~ | — | ❌ Retired 2026-10-05 (Wayroo-led decided; replaced by the beta program) |
 | 9 | AiCE stays unsigned through Q4 | Upside, not downside — but a ~12-file positioning sweep becomes urgent | Monitor |
 
 ---

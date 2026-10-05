@@ -6,7 +6,9 @@
 **Created:** 2026-10-05
 **Builds on:** `06-messaging-house.md` §3 (message-tested DSO opener) and §9 (words), `06-persona-positioning.md`, `12-sales-deck.md` (Freedom-led master), `prospects/color-street.md` (the closest Wayroo-only analogue), `prospects/jordan-essentials.md`, `my-gtm-context.md` §4–§7 and §14.
 
-> ⚠️ **Positioning boundary.** `my-gtm-context.md` §14 keeps **Freedom-led** as the default positioning in buyer-facing material until leadership makes the Q4 decision. This Wayroo-only pitch is sanctioned as the **Action 5 test asset** (5–10 Exigo-based DSOs, measured on meeting acceptance). Use it there, and with Wayroo-only prospects like Color Street. Don't roll it out as the company pitch until the Q4 decision is made.
+> ❌ **Superseded 2026-10-05.** Wayroo-led is now the company positioning, Action 5 is retired, and new-logo Wayroo outreach uses [`12-sales-pitch-beta-program.md`](12-sales-pitch-beta-program.md). Kept for reference only.
+>
+> ~~⚠️ **Positioning boundary.**~~ `my-gtm-context.md` §14 keeps **Freedom-led** as the default positioning in buyer-facing material until leadership makes the Q4 decision. This Wayroo-only pitch is sanctioned as the **Action 5 test asset** (5–10 Exigo-based DSOs, measured on meeting acceptance). Use it there, and with Wayroo-only prospects like Color Street. Don't roll it out as the company pitch until the Q4 decision is made.
 
 ---
 

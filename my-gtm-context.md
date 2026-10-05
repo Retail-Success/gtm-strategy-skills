@@ -4,6 +4,14 @@
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
+> ### ✅ 2026-10-05 — DECIDED: WE LEAD WITH WAYROO
+>
+> **The §14 open question is closed.** Positioning is **Wayroo-led**: Wayroo is the lead product in buyer-facing material, and Freedom is the expansion or the back-office option, not the opener. **`08-gtm-motions.md` Action 5 (the Exigo test) is retired.** Its role is taken over by the Beta Program below.
+>
+> ⚠️ Freedom-led artifacts (`12-sales-deck.md`, `12-one-pager.md`) are now **out of date as the default pitch** and need a Wayroo-led rewrite.
+>
+> ---
+>
 > ### 🆕 2026-10-05 — NEW MOTION: Wayroo Beta Program for non-client DSOs
 >
 > **Sam has permission to pitch Wayroo to DSOs outside the ByDesign client base to recruit beta testers.** Framing: "we built a rep app, proved it on our own clients, now opening a beta to companies outside our base."
@@ -1036,7 +1044,9 @@ Structured records of what was learned from prospect interactions — confirmed 
 
 ---
 
-## 14. Open Strategic Question — The Wayroo-Led Entry Thesis
+## 14. ~~Open Strategic Question~~ — The Wayroo-Led Entry Thesis — ✅ DECIDED 2026-10-05: WAYROO-LED
+
+> **Decided: we lead with Wayroo.** Action 5 is retired and replaced by the Wayroo Beta Program. The rest of this section is kept as the record of how the decision was reached; the "keep Freedom-led" instruction below is superseded.
 
 **Status as of August 8, 2026: OPEN. Two-account pattern with a confirmed technical basis. Escalated for a Q4 2026 leadership decision. Not yet a positioning change — do not treat as decided.**
 
