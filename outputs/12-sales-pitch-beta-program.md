@@ -16,7 +16,7 @@
 
 **What could break it: "free" followed by a surprise bill.** The 510 Jordan Essentials reps whose stores are being switched off show what happens when something people thought they had changes on them. So the pitch says **what stays free forever, and what the future upgrade tier will cost, before anyone asks.** That honesty is what makes "free" believable instead of suspicious.
 
-> ### The promise to make (recommended, and Sam needs to confirm it before the first call)
+> ### ✅ The promise to make (confirmed by Sam, 2026-10-05)
 >
 > **"The core app and every selling tool stay free for beta partners. We make money when your reps get paid, not when you sign. Later we'll add optional premium features, and nobody has to buy them."**
 >
@@ -137,7 +137,7 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 |---|---|---|
 | **"What's the catch?"** | — | "Fair question. We make money on payments your reps take through the app, so we only earn when they sell. The core app and selling tools stay free for beta partners. Later we'll offer optional premium features." |
 | **"Beta means it's buggy."** | "What happened with the last tool you tested?" | "It's beta for companies outside our client base. The app itself has been live with our clients for a while. Paparazzi has had about 4,000 reps on it, and Jordan Essentials launched it to their field in July." |
-| **"Will you start charging us later?"** | — | "Not for the core app or the selling tools. If we add premium features, they're optional, and we'll tell you well ahead of time." *(Only say this if the promise is confirmed. See open items.)* |
+| **"Will you start charging us later?"** | — | "Not for the core app or the selling tools. If we add premium features, they're optional, and we'll tell you well ahead of time." |
 | **"Our reps won't adopt another app."** | "What happened last time?" | "This one replaces apps they're already paying for. 764 Jordan Essentials reps downloaded it in days, without a mandate." |
 | **"Exigo already has a rep app."** | "What do your reps use it for?" | "Wayroo works alongside your back office. The question is whether your reps take payments and run inventory in it, or still use Square and Venmo. If it's the latter, that's what we fill." *(Never claim Exigo has no rep app.)* |
 | **"Square is free."** | "Is that what most reps use?" | "Square is good at taking a card. It doesn't know what your rep ordered from you, and it doesn't send the sale or the customer back to you. That connection is what you're getting." |
@@ -180,7 +180,7 @@ These change what you can say. Each has a recommended default.
 
 | # | Decision | Recommended default | Why it matters |
 |---|---|---|---|
-| 1 | **Is "core app + selling tools stay free" a permanent promise to beta partners?** | **Yes.** It matches the rule that transactional features are never gated. | It's the answer to "what's the catch?" Without it, "free beta" reads as a trial. |
+| 1 | ✅ **Resolved 2026-10-05: the core app and selling tools stay free.** | — | This is the answer to "what's the catch?" Say it on every call. |
 | 2 | **What does the rep pay to process a card?** | Get ProPay's rate and compare it with Square's | Reps fund the payments line. If the rate is higher than Square's, the pitch needs a reason. |
 | 3 | **Beta integration price and timeline.** ✅ *Resolved: integrates with anyone; the DSO pays a discounted fee.* Still open: the list price, the beta discount, and typical time to go live per back office. | Publish one beta price (for example "X% off list") rather than negotiating each deal. Start with Exigo. | A fixed beta price keeps the offer simple and stops integration from becoming the negotiation. Typical timeline drives when partners can launch to their field. |
 | 4 | **Does custom branding come with the beta?** | **No.** Keep it as the first paid add-on. | The 3 client pilots got it free ($25K stated value). Giving it to every beta partner too means nobody will expect to pay for it. |
@@ -208,7 +208,7 @@ The aim is mass adoption that leads to payments revenue. Track the funnel, not j
 
 ## Next Steps
 
-1. **Make the 8 decisions above.** Decisions 1, 2 and 3 block the first call.
+1. **Make the remaining decisions above.** Decisions 2 (rep processing rate) and 3 (beta integration price) block the first call.
 2. **Rehearse the 3-minute version** with Daniel and cut anything that runs over.
 3. **Build the target list** from `12-dream-client-list.md`: US, cash and carry or event-heavy, known back office, convention in the next 90 days.
 4. **Next asset:** turn the beta-partner table into a leave-behind one-pager, and add a beta-recruit outbound sequence to `12-outbound-campaign.md`.

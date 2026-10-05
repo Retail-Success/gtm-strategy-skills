@@ -14,7 +14,8 @@
 > - **Goal:** mass rep adoption.
 > - **Revenue:** payments (~1.5% of rep transactions) now; **optional upgrade tiers later.**
 > - **Pitch:** [`outputs/12-sales-pitch-beta-program.md`](outputs/12-sales-pitch-beta-program.md). For beta recruiting it supersedes the paid Wayroo-only pitch in `12-sales-pitch-new-logo-dso.md`.
-> - ⚠️ **Open before first call:** whether core app + selling tools are a permanent free promise; rep processing rate vs. Square; the beta integration price, discount and timeline; whether branding is included; beta length, number of spots, and what happens at the end. See the decisions table in the pitch file.
+> - ✅ **The core app and selling tools stay free** (confirmed 2026-10-05). Upgrade tiers will be optional premium features only.
+> - ⚠️ **Open before first call:** rep processing rate vs. Square; the beta integration price, discount and timeline; whether branding is included; beta length, number of spots, and what happens at the end. See the decisions table in the pitch file.
 >
 > ---
 >
