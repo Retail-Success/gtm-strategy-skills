@@ -74,7 +74,7 @@ That launch, combined with confirmation that Wayroo integrates with Exigo and ot
 
 Rep enthusiasm concentrated entirely on **selling and visibility tools**:
 
-1. **Tap-to-Pay** — the strongest single reaction. **Not yet shipped.**
+1. **Tap-to-Pay** — the strongest single reaction. ✅ **Shipped early October 2026** (rebased 2026-09-30).
 2. Invoicing with payment links
 3. Downline dashboard reports
 4. Dashboard widgets
@@ -208,7 +208,7 @@ Jordan Essentials sits at 28% of 2,500 reps after 48 hours, **with zero adoption
 
 **Nothing else in this plan produces users that cheaply.** It was not in the original action list; the funnel math says it should be. **Recommend adding it as a formal workstream.**
 
-⚠️ **And it depends on Tap-to-Pay.** The single strongest rep draw at launch has not shipped. The adoption curve past 700 likely depends on it more than on any enablement campaign we run.
+✅ **And its main dependency just cleared.** The adoption curve past 700 likely depends on Tap-to-Pay more than on any enablement campaign we run — and **it shipped in early October 2026**. The JE cohort has been waiting on it since July, which makes the re-engagement message write itself: *the thing you asked for at convention is live.* **Run the push now, while that is still news.**
 
 ---
 
@@ -332,7 +332,7 @@ Any conversation anchored on the $36,400 annual marketing figure understates act
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
 | **Jordan Essentials baseline is unrecoverable** | Medium | **High** — loses the recovery claim that sells six candidates | Week 1 reconstruction from Freedom reports |
-| **Tap-to-Pay slips further** | Medium | **High** — 2,500 reps hold a dated expectation at our reference account | Commit a date or run expectation-management comms |
+| ~~**Tap-to-Pay slips further**~~ ✅ **Closed 2026-09-30** | — | — | Shipped early Oct 2026. **The residual action is the comms one:** ~2,500 JE reps have held the expectation since July and have not been told it landed |
 | Fewer than 2 Hybrid candidates have a Q4 forcing function | Medium | High — removes the only 2026 revenue motion | Screen in Week 1, not Week 8 |
 | Paparazzi declines the case study | Low–Med | Medium | Jordan Essentials carries it; anonymized fallback available |
 | Open-opportunity count is materially below 40 | Medium | High — directly hits the revenue projection | Week 1 Salesforce refresh |

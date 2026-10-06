@@ -33,7 +33,7 @@
 | **Revolution placement surfaces** | 🔴 **Not built** |
 | 🔴 **Instrumentation** | 🔴 **Not shipped — three events** |
 | 🔴 **Demand counter** | 🔴 **Not shipped** |
-| Tap-to-Pay | ⚠️ **Verify — six files said "not shipped"** |
+| Tap-to-Pay | ✅ **Shipped early October 2026.** Rebased 2026-09-30; the six stale files were swept the same day |
 | JE trial segmentation | 🔴 **Required before first send** |
 | JE pre-trial baseline | 🔴 **Window closes when Tap-to-Pay ships** |
 | Legal verification | ⚠️ Two open questions |

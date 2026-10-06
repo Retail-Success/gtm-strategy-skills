@@ -47,7 +47,7 @@
 | **1** | 🔴 **Nothing was instrumented beyond downloads** | **No adoption curve, no transact rate, no GMV, no activation data.** The flagship account is a black box after day 3. |
 | **2** | 🔴 **No pre-launch baseline captured** | The deal was sold on reversing a 6-month decline. **That claim cannot be evidenced** — only adoption can. |
 | **3** | 🔴 **Nobody knew reps needed Revolution Pro** | **510 of 764 adopters (67%) lack it** and face store shutoff. Discovered weeks later. |
-| **4** | **The hero feature wasn't shipped** | Tap-to-Pay drew the strongest reaction at the launch and still hasn't shipped six weeks later |
+| **4** | **The hero feature wasn't shipped** | Tap-to-Pay drew the strongest reaction at the launch and still hasn't shipped six weeks later. ✅ **Closed 2026-09-30 — it shipped in early October, ~11 weeks after launch.** The finding stands as written: **do not launch on a feature that isn't in production.** |
 | **5** | **Selling tools were entirely dark** | 764 reps adopted a product running on three non-transactional features |
 | **6** | **"700+ and still growing" was reported for weeks** | **Unsupported.** All 764 came in 2–3 days; no post-launch measurement exists. |
 | **7** | **The ~20% C&C estimate was wrong** | Segment classification and feature prioritisation were built on a bad denominator |

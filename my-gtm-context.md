@@ -93,7 +93,17 @@ Reps can sell their personal inventory through three distinct channels, all with
 
 2. **Invoicing with payment links** — the rep creates and sends a branded invoice to a customer with an embedded payment link. The customer clicks the link to pay. This enables remote sales, post-event follow-up, and custom orders without the customer needing to visit the storefront. Every invoice creates an auditable transaction record (customer identity, amount, date) — directly supporting FTC and tax compliance. This replaces informal PayPal/Venmo invoices that leave no corporate-visible record.
 
-3. **Vendor events / POS** — the rep's in-person selling channel. Because all SKUs already exist in Wayroo from the rep's wholesale order, the rep has two modes for tracking sales at a vendor event: (1) **Bluetooth barcode scanning** — as the rep sells each item, they scan the barcode and inventory decrements automatically in real time; (2) **Search + mark sold** — rep searches for the item and marks how many units were sold, no scanner needed. Wayroo also supports fast checkout, guest checkout, and shipping label printing at an event table. **Tap-to-pay (in development, 2026):** the rep's customer taps their credit card directly on the rep's phone to pay securely — no card reader hardware required. When shipped, this removes the last hardware dependency for in-person sales.
+3. **Vendor events / POS** — the rep's in-person selling channel. Because all SKUs already exist in Wayroo from the rep's wholesale order, the rep has two modes for tracking sales at a vendor event: (1) **Bluetooth barcode scanning** — as the rep sells each item, they scan the barcode and inventory decrements automatically in real time; (2) **Search + mark sold** — rep searches for the item and marks how many units were sold, no scanner needed. Wayroo also supports fast checkout, guest checkout, and shipping label printing at an event table. **Tap-to-Pay — ✅ live (early October 2026):** the rep's customer taps their credit card directly on the rep's phone to pay securely — no card reader hardware required. **This removes the last hardware dependency for in-person sales**, and it removes the speed gap against Square: before it, reps had to key cards in by hand, because we do not sell $106 card readers.
+
+> ### 🔴 Tap-to-Pay status — the one place this repo records it. Rebased 2026-09-30.
+>
+> **Treat Tap-to-Pay as shipped and demoable.** The original 2026-08-17 date slipped; as of 2026-09-28 the only outstanding blocker was an iOS issue with ProPay, with successful transactions already recorded on both platforms. **Sam instructed on 2026-09-30 to proceed as if shipped**, since it lands within days.
+>
+> **This is an instructed assumption, not a Product confirmation.** One gate survives it:
+>
+> ⚠️ **Before demoing it live on a stage, in a recorded webinar, or to a DSO home office, confirm it is on in production for that account.** Everywhere else — decks, one-pagers, emails, rep copy, booth conversation, the JE trial — **claim it without hedging**.
+>
+> All previous *"not shipped / do not date it publicly"* instructions in this repo are **withdrawn as of 2026-09-30**. Historical records that describe it as unshipped at a past date (the July JE launch, the launch retrospective) are correct as history and are left alone.
 
 No single competing tool covers all three channels. Square covers POS only. Shopify covers ecommerce only. PayPal covers invoicing/payments only. Wayroo is the only rep-facing app where a single rep can handle an online storefront sale, an invoiced custom order, and an in-person vendor event transaction — all from the same app, all feeding the same inventory and compliance record.
 
@@ -392,7 +402,7 @@ Same titles as the prior motion (VP Sales, Founder/CEO, Field Operations Directo
 >
 > | | |
 > |---|---|
-> | ✅ **Tap-to-Pay ships end of the week of 2026-08-17** | ~6 weeks before DSU. The event feature-swap contingency is retired. |
+> | ✅ **Tap-to-Pay ships early October 2026** | 🔴 **Rebased 2026-09-30. The 2026-08-17 date did not hold** — as of 2026-09-28 the last blocker was an iOS issue with ProPay (Android working, successful transactions on both platforms). **This repo now treats Tap-to-Pay as live** on Sam's instruction, ahead of Product confirmation. Still lands before DSU; the event feature-swap contingency is retired. |
 > | ✅ **All JE reps are already underwritten through Jordan Essentials** | No per-rep KYC to run. **All 510 are eligible the day the feature lands.** |
 >
 > **JE must still approve the trial explicitly** — it modifies their own fairness requirement, and they should not discover it.
@@ -548,7 +558,7 @@ Reps run their business across **6–10 disconnected tools at $60–100/month** 
 
 | Score | Problem |
 |-------|---------|
-| 15 | Reps lose sales in the field due to payment friction (no card reader, wrong payment type) |
+| 15 | Reps lose sales in the field due to payment friction (no card reader, wrong payment type) — ✅ **addressed by Tap-to-Pay, live early Oct 2026** |
 | 15 | No auditable retail transaction record — FTC compliance exposure (universal to all DSOs) |
 | 15 | No tax paper trail for rep earnings (1099) or sales tax jurisdiction tracking |
 | 14 | DSO cannot market to its own customers — rep customer data is invisible to corporate |

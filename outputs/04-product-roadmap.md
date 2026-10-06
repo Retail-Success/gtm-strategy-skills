@@ -72,7 +72,7 @@
 
 | Dependency | Blocks | Status |
 |---|---|---|
-| **Tap-to-Pay ship** | JE trial, all selling tools, half the acquisition creative | ⚠️ **2–3 weeks. Verify — six files still say "not shipped."** |
+| **Tap-to-Pay ship** | JE trial, all selling tools, half the acquisition creative | ✅ **Shipped early October 2026.** Unblocks all three |
 | **The three events** | Every metric, both DSO-facing mechanisms | 🔴 **Not started** |
 | **ProPay approval per account** | 100% of revenue at that account | Per-account |
 | **Aice free/paid line** | Whether the pair covers the catalog-only field | 🔴 **Unsigned deal** |

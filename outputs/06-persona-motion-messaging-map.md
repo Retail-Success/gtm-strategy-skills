@@ -140,7 +140,7 @@ Each motion has two entry points, split by whether the DSO already runs ByDesign
 > **Two rules that apply across every rep persona:**
 >
 > 1. **Lead with Tap-to-Pay** (R1) or the persona's hero capability. **Never lead with anything that benefits corporate.** A rep doesn't care that the home office can see her sales.
-> 2. **Concede price against Square.** *"Roughly the same rate, and it does what Square can't."* Never claim cheaper.
+> 2. **Concede price against Square, but no longer speed.** *"Roughly the same rate, and it does what Square can't."* 🚫 Never claim cheaper. ✅ **Updated 2026-09-30:** with Tap-to-Pay live, **you may claim parity on speed.** Until it shipped, reps had to key cards in by hand — we don't sell $106 readers — which made Wayroo measurably slower at a table. That gap is closed; the tap is the same tap.
 
 ---
 

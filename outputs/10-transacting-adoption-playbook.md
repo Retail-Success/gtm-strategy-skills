@@ -10,7 +10,7 @@
 >
 > **2. Reps get real value at accounts that have done nothing.** Inventory and dashboard widgets work on download. **The playbook's activation steps apply at un-onboarded accounts**, not just ProPay-approved ones — a materially wider surface than v1.1 assumed.
 >
-> **3. ✅ Tap-to-Pay ships in 2–3 weeks.** The instruction at §284 — *"do not demo it as available and do not date it publicly"* — **expires on ship.** Verify with Product before the next field session; running it stale means telling the field not to demo the strongest asset in the product.
+> **3. ✅ Tap-to-Pay is live — demo it. Updated 2026-09-30.** The instruction below at §284 — *"do not demo it as available and do not date it publicly"* — is **withdrawn**. It was the single strongest draw at the JE launch and the field may now lead with it. One gate remains: confirm it is on in production for the account before demoing it **on a stage or in a recorded session**. See `my-gtm-context.md` §3.
 >
 > **4. ⚠️ All dates in this playbook are void.** The launch calendar is being reset. **Sequence holds; calendar does not.**
 >
@@ -299,9 +299,9 @@ Slower, but it reaches the whole base at once and costs ByDesign nothing. **It i
 | 1.4 | Make a **first transaction on-site** the explicit call to action — not "download the app." | Autumn | First-transaction count captured on the day |
 | 1.5 | Use the **$60 vs. $5** frame: reps spend ≥$60/mo on Canva, ChatGPT, Square, Boards, Project Broadcast. Wayroo costs $5 incremental. | Autumn | In the deck |
 
-> **⚠️ Tap-to-Pay is not shipped.** It was the strongest single draw at the Jordan Essentials launch. **Do not demo it as available and do not date it publicly** until Product commits. The playbook must produce adoption without it — and §8 treats its eventual ship as a second launch moment.
+> ~~**⚠️ Tap-to-Pay is not shipped.** Do not demo it as available and do not date it publicly until Product commits.~~ **🔴 Withdrawn 2026-09-30.** Kept visible because it was a binding field instruction for eleven weeks; anyone briefed off an older copy of this playbook is carrying the wrong rule.
 >
-> ✅ **Resolved 2026-08-14 — Tap-to-Pay ships the week of 2026-08-17.** The expectation ~2,500 JE reps have carried since July closes, and DSU promotes a shipped feature. **The contingency is retired.**
+> ✅ **Tap-to-Pay is live (early October 2026).** The 2026-08-17 date slipped — the final blocker was an iOS issue with ProPay — and the repo rebased to early October on 2026-09-30. **Demo it, lead with it, and put it in writing.** The expectation ~2,500 JE reps have carried since July is now met, and DSU promotes a shipped feature.
 >
 > **The point the note was making still stands and is now testable:** Tap-to-Pay is a payments-revenue instrument, not a feature request — every transaction through it earns 1.5%. **Its ship is the re-launch moment §8 anticipated**, and the 254-rep cohort makes its revenue effect directly measurable.
 
@@ -426,7 +426,7 @@ Two-week sprints, maximum **3** experiments. Planning Monday of Week 1 (60 min),
 |---|---|---|
 | **Instrumentation doesn't get built** | **Fatal** — the entire playbook is unmanageable | Decision #1 in the operating model; escalate hard |
 | **ProPay approval is the bottleneck** | High — but knowing it is a win | Experiment #1. If confirmed, this becomes an ops/product project, not a marketing one |
-| **Tap-to-Pay slips further** | High — the top draw stays unavailable at the reference account | Playbook works without it; §8 treats its ship as a re-launch moment |
+| ~~**Tap-to-Pay slips further**~~ ✅ **Closed 2026-09-30** | — | It shipped. **Run §8's re-launch moment now** — that contingency became the plan |
 | **Cassie and Autumn are already fully loaded** | High — a playbook nobody runs is worth nothing | Phase 2 is the only labour-intensive phase. Sequence one account at a time. |
 | **DSO won't promote despite the margin** | Medium | The adoption report is the test. If margin visibility doesn't move them, the DSO loop is weaker than assumed. |
 | **54% transact rate doesn't generalise** | Medium | It is derived from one account. Treat every projection built on it as provisional until measured. |

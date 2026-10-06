@@ -10,7 +10,7 @@
 > 1. **DSN is a publication. Assume everything is on the record.** No Aice. No acquisition. No client names that aren't already public. No revenue numbers.
 > 2. **Never say "free." Say "included."** *Free* invites "then what's the catch." *Included* explains itself.
 > 3. **Never say we're cheaper than Square.** Our rate is roughly level. Concede it — that concession is what makes the integration argument land.
-> 4. ⚠️ **Confirm Tap-to-Pay ship status before you claim it.** It was due ~mid-September. If it hasn't shipped, say *"in release"* — not *"live."*
+> 4. ✅ **Tap-to-Pay is live — claim it plainly.** Shipped early October 2026. Say *"live,"* not *"in release."* It also retires the Square speed concession: before it, reps keyed cards in by hand. **Rule 3 still stands — never claim cheaper than Square. You may now claim just as fast.**
 
 ---
 

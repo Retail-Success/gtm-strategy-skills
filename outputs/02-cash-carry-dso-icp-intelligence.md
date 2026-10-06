@@ -146,7 +146,7 @@ These were not explicitly tested in the Color Street demo but are confirmed stra
 **6. Mobile POS at Vendor Events — Bluetooth Scanning + Manual Mark-Sold**
 - Signal: Confirmed without friction — event-heavy model makes this obvious. Edmond specifically said he liked the bluetooth scanning feature and found it straightforward; his only concern was Shopify integration (architectural, not product skepticism).
 - How it works: Because all SKUs already exist in Wayroo from the rep's wholesale order, two tracking modes are available: (1) bluetooth barcode scan as each item sells → inventory decrements automatically; (2) search for item + mark quantity sold → no scanner needed. Both feed the same inventory count and compliance record.
-- Features validated: Bluetooth barcode scanning, manual search + mark sold, fast checkout, shipping label printing, guest checkout. Tap-to-pay in development 2026 (customer taps card on rep's phone — no hardware).
+- Features validated: Bluetooth barcode scanning, manual search + mark sold, fast checkout, shipping label printing, guest checkout. ✅ **Tap-to-Pay live (early Oct 2026)** — customer taps card on rep's phone, no hardware.
 - Competitive displacement: Square is the incumbent; Wayroo wins by bundling bluetooth inventory tracking + payments + customer data + compliance record in one flow. Square tracks none of the inventory.
 - Cross-account note: See "Admin Time vs. Selling Time" pattern below — this feature is a direct contributor to reducing the non-revenue admin burden confirmed across 4 accounts.
 
@@ -184,7 +184,7 @@ Not call-specific — this is a structural product differentiator relevant to ev
 |---------|-----------|--------------------------|
 | **Ecommerce storefront** | Rep's branded personal online store — their own pricing, discounts, bundles | Shopify (requires separate tool + monthly cost) |
 | **Invoicing with payment links** | Rep creates a branded invoice and sends it with an embedded payment link. Customer clicks to pay. Enables post-event follow-up and remote/custom orders. Every invoice = an auditable transaction record. | PayPal/Venmo invoicing (no corporate record, no brand control) |
-| **Vendor event POS** | Barcode scanner, fast checkout, guest checkout, shipping label printing at an event table. **Tap-to-pay in development (2026):** customer taps credit card on rep's phone — no hardware required. | Square (POS only, no inventory, no customer record to DSO) |
+| **Vendor event POS** | Barcode scanner, fast checkout, guest checkout, shipping label printing at an event table. ✅ **Tap-to-Pay (live, early Oct 2026):** customer taps credit card on rep's phone — no hardware required. | Square (POS only, no inventory, no customer record to DSO) |
 
 **Why this matters for C&C DSOs:** A C&C rep's selling life spans all three modes in a single week — they sell online, follow up with invoices for custom orders, and run a table at a Saturday market. Their current stack is three separate tools with no shared inventory or compliance record. Wayroo collapses all three into one. Every transaction in every channel feeds the same inventory count, the same customer record, and the same compliance audit trail.
 
@@ -276,7 +276,7 @@ Using the April Dunford framework adapted for this segment:
 ### Unique Attributes for This Segment
 | Attribute | Why Unique |
 |-----------|-----------|
-| Three personal inventory sales channels in one app | Ecommerce storefront (branded online store), invoicing with payment links (remote/post-event sales, branded invoice + payment link sent to customer), and vendor event POS (barcode scanner, fast checkout, guest checkout, shipping label printing — tap-to-pay in development 2026). No competing rep tool covers all three. Square = POS only. Shopify = storefront only. PayPal = invoicing/payments only. Wayroo = all three, all feeding the same inventory and compliance record. |
+| Three personal inventory sales channels in one app | Ecommerce storefront (branded online store), invoicing with payment links (remote/post-event sales, branded invoice + payment link sent to customer), and vendor event POS (barcode scanner, fast checkout, guest checkout, shipping label printing, ✅ **Tap-to-Pay live early Oct 2026**). No competing rep tool covers all three. Square = POS only. Shopify = storefront only. PayPal = invoicing/payments only. Wayroo = all three, all feeding the same inventory and compliance record. |
 | Rep physical inventory management + full-channel selling | No other tool ties physical stock to three distinct selling surfaces (storefront, invoice, POS) in one app |
 | Corporate visibility into all rep-held inventory | No competitor offers this — Square/PayPal are invisible to corporate |
 | Customer data capture at point of in-person sale | Venmo/cash transactions leave no record; Wayroo creates one |

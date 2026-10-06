@@ -13,7 +13,7 @@
 > 1. **`06-uvp-usp.md` is current, not superseded.** It was rewritten as v2 on 2026-08-30 for Land-and-Expand. Ignore its listing under Tier 3.
 > 2. **The new-logo motion is documented again.** [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md) covers enterprise DSOs, and [`06-persona-motion-messaging-map.md`](06-persona-motion-messaging-map.md) applies the H1–H4 personas to it, which answers the Phase 12 note in Tier 3.
 >
-> Item 1.1 (Tap-to-Pay ship status) is still unconfirmed in this repo.
+> ~~Item 1.1 (Tap-to-Pay ship status) is still unconfirmed in this repo.~~ ✅ **Resolved 2026-09-30 — see 1.1 below.**
 
 > **Read this first.** Three of the findings below are **not** caused by the persona work — they are factual staleness the sweep turned up, and they matter more than the persona edits because live assets are carrying them. They are Tier 1.
 
@@ -21,7 +21,15 @@
 
 # Tier 1 — Factual staleness (fix regardless of the persona work)
 
-## 1.1 🔴 Six files say Tap-to-Pay has not shipped. The context file says it shipped two weeks ago.
+## 1.1 ✅ **RESOLVED 2026-09-30** — it had not shipped; the context file was wrong, and both are now fixed
+
+> **The answer, when it finally came, was the opposite of the one assumed.** Tap-to-Pay had **not** shipped on 2026-08-17 — an iOS issue with ProPay held it, confirmed in the 2026-09-28 leadership meeting ([`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md) §6). So the six downstream files were **right** for eleven weeks and `my-gtm-context.md` §3 was wrong.
+>
+> **It ships in early October 2026, and on 2026-09-30 Sam instructed the repo to proceed as shipped.** Both sides were then swept in one pass: the context file rebased, and all six field-facing files flipped to *live*. `my-gtm-context.md` §3 is now the single place this status is recorded.
+>
+> **The lesson is worth keeping.** The audit assumed the six files were stale because a single source said so. The six files were the accurate ones. **When one file disagrees with six, the one is not automatically the fresher record.**
+
+### Original finding, for the record
 
 `my-gtm-context.md` §3 states: *"Tap-to-Pay — ✅ **ships end of the week of 2026-08-17 (confirmed 2026-08-14)**. All JE reps are already underwritten through JE, so all 764 are eligible the day it lands."*
 

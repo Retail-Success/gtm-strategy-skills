@@ -131,7 +131,7 @@ Before any sprint content matters:
 | Risk | Contingency |
 |---|---|
 | 🔴 **The two events do not get product capacity** | **Escalate in week 1, not week 4.** Without them the 90 days produce activity and no evidence. This is the plan's single point of failure. |
-| 🔴 **Tap-to-Pay slips again** | The JE trial slips with it. **Do not let the baseline capture slip too** — it is cheap and it is the thing that cannot be recovered. |
+| ✅ ~~**Tap-to-Pay slips again**~~ **— closed 2026-09-30** | It shipped (early Oct 2026). **The JE trial is unblocked and should start now.** The baseline capture point still stands and is still the thing that cannot be recovered — capture it before the trial opens, not after. |
 | **Channel converts poorly** | **That is a finding, not a failure**, and it arrives by day 60 while it is still cheap. Fall back to field-leader activation, which needs no placement. |
 | **Pilot slot 2 cannot be filled** | Run two pilots and say so. **Do not fill slot 2 with a third C&C account** — that produces one finding three times. |
 | **A DSO objects to the campaign** | Courtesy notifications in week 7 are the mitigation. Notify, do not ask. |

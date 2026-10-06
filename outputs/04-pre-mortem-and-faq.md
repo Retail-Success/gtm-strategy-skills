@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | 🔴 **First run shows an empty state or a setup wizard.** Reps download, see another tool to configure, and leave — exactly what 6 of 7 Paparazzi non-adopters described. | **Med** | **High** | **Audit the build this week.** 20 minutes answers it. Then usability-test with 8 reps. | Sam + Product |
 | 🔴 **The three events never ship.** Small enough to lose to bigger work, quarter after quarter. | **High** | **High** | Escalate in week 1, not week 4. **Frame as a revenue dependency, not analytics.** | Sam → Product |
-| **Tap-to-Pay slips again** | Med | High | Six files already carry stale "not shipped" language. **Confirm, then sweep.** | Sam |
+| **Tap-to-Pay slips again** | ~~Med~~ **Closed** | High | ✅ Shipped early Oct 2026. The six stale files were swept 2026-09-30. **The residual risk is the opposite one:** assets now claim it, so a production outage at a single account is a credibility event — confirm it's live for the account before an on-stage demo | Sam |
 | Selling tools ship as a set, so any slip is total | Med | Med | Sequence launches from the ship date, not the install date | Sam |
 
 ## Market risks

@@ -158,7 +158,7 @@ The May 6 record captured pains from DSO leadership only. The convention was ByD
 
 | Feature | Rep Enthusiasm | Signal |
 |---------|---------------|--------|
-| **Tap-to-Pay** | 🔴 **Highest of anything shown** | Strongest single reaction of the launch. ⚠️ **NOT SHIPPED** — in development, 4th in the 2026 Wayroo order per `strategic-inputs.md` §6. |
+| **Tap-to-Pay** | 🔴 **Highest of anything shown** | Strongest single reaction of the launch. ✅ **SHIPPED early October 2026** (rebased 2026-09-30; the earlier 2026-08-17 date slipped on an iOS/ProPay issue). **The expectation ~2,500 JE reps have carried since July is now met** — and nobody has told them. That re-engagement message is the cheapest adoption asset at this account. |
 | **Invoicing with payment links** | 🔴 High | Top reaction tier |
 | **Downline dashboard reports** | 🔴 High | Top reaction tier. Team-leader reps want visibility into their own downlines. |
 | **Other dashboard widgets** | 🔴 High | Top reaction tier |
@@ -235,7 +235,7 @@ Reps previously logged into Freedom after each sale to manage inventory, or kept
 
 **6. Media Library is mis-attributed in the 2026 plan.** See the persona-split note in Features. It is a DSO retention/brand-control feature, not a rep-adoption driver, and `strategic-inputs.md` §1 currently credits it against WAY-1 (Wayroo active users). Flag to Unified Strategy.
 
-**7. Tap-to-Pay now carries customer-committed expectation risk at ~2,500 reps.** The most exciting feature at the launch does not exist yet. Every week of slip erodes the launch's adoption momentum at the reference account the rest of the motion depends on.
+**7. ✅ Tap-to-Pay shipped — and the risk inverted.** ~~The most exciting feature at the launch does not exist yet.~~ It went live in early October 2026, **~11 weeks after the date reps were given**. The expectation risk is closed; what replaces it is a **communication** obligation. ~2,500 reps were excited in July and have heard nothing since. **Announce it as live, never reference the delay, and treat it as the re-launch moment** — it is the cheapest adoption lever at this account and it decays fast.
 
 ---
 
@@ -306,5 +306,5 @@ DMU note: Nancy + Hope are both Economic Buyers. Two-EB accounts move faster tha
 - **Compliance-led pitch is the wrong lead** for this account. FTC/tax was not raised; do not surface it as a primary value driver. Growth, recovery, and customer data ownership lead.
 - ~~**Don't oversell the C&C feature set** to Nancy — only ~20% of the rep base is C&C.~~ ⚠️ **RETIRED July 2026.** The ~20% figure is confirmed understated, and reps reacted most strongly to in-person selling tools (Tap-to-Pay above all). The prior guidance to downplay C&C features was based on a bad denominator. **Do not carry it forward.**
 - ~~**Convention slip is the existential risk.**~~ ✅ Resolved — launched on time.
-- **Do not promise Tap-to-Pay dates that product has not committed to.** The feature drew the strongest reaction at launch and is not shipped. Over-promising here damages the reference account the whole Hybrid motion depends on.
+- ~~**Do not promise Tap-to-Pay dates.**~~ ✅ **Retired 2026-09-30 — it shipped.** The replacement risk runs the other way: **JE reps waited ~11 weeks past the original date.** Announce it as *live now*, never reference the delay, and do not attach a date to anything else at this account without Product's written commitment — this is the reference account the whole Hybrid motion depends on.
 - **Do not publish a "Wayroo reversed the decline" claim without the reconstructed baseline.** The adoption number (700 / 28%) is real and publishable today. The recovery claim is not evidenced yet.

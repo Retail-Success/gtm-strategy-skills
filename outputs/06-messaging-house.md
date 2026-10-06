@@ -423,7 +423,7 @@ Full rationale in [`06-positioning-statement.md`](06-positioning-statement.md). 
 
 ## Fallback — cold ask, no trial
 
-⚠️ **Both original conditions for this fallback are now closed** — Tap-to-Pay ships the week of 2026-08-17, and all JE reps are already underwritten. **Use the trial.** Keep this only in case the ship date slips.
+✅ **Both original conditions for this fallback are now closed** — Tap-to-Pay is live (early Oct 2026; the 2026-08-17 date slipped and was rebased 2026-09-30), and all JE reps are already underwritten. **Use the trial.** This fallback is now dead copy — keep it only as a record of the pre-ship alternative.
 
 > **Subject: Keeping your Wayroo store open**
 >

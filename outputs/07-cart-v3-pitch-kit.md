@@ -23,7 +23,9 @@
 | 6 | [`06-messaging-house-shopify-connector-and-cart-v3.md`](06-messaging-house-shopify-connector-and-cart-v3.md) | — | 🛑 **Superseded.** Cart pillars V1–V3 unrevised (open item, due 2026-10-03) |
 | 7 | [`06-positioning-shopify-connector-and-cart-v3.md`](06-positioning-shopify-connector-and-cart-v3.md) | Historical only | 🛑 **Superseded** — connector cancelled 2026-09-01 (Shop IQ partnership) |
 
-**Evidence behind all of it:** [`prospects/nuvi-global.md`](../prospects/nuvi-global.md) (first-party transcript, 2026-09-22) · [`inputs/2026-08-purehaven-cart-feedback.md`](../inputs/2026-08-purehaven-cart-feedback.md)
+**Evidence behind all of it:** [`prospects/nuvi-global.md`](../prospects/nuvi-global.md) (first-party transcript, 2026-09-22) · ⭐ [`prospects/pomifera.md`](../prospects/pomifera.md) (first-party transcript, **2026-09-29 — the Segment B test**) · [`inputs/2026-08-purehaven-cart-feedback.md`](../inputs/2026-08-purehaven-cart-feedback.md)
+
+> ⚠️ **This kit is now two demos deep, and the second one moved things.** Pomifera (Segment B, legacy cart) reacted to the storefront in the *opposite* direction from Nuvi Global (Segment C, mid-build) — *"you nailed it"* vs. *"it's pretty much the same"* — and surfaced a severity-5 pain that **none of the positioning covers**: a shopper who arrives with no rep has no way to find one. **Read `prospects/pomifera.md` before your next Segment A or B call.** The four 🔴 items in *Open before this kit is finished* are the corrections.
 
 🔴 **Not built yet:** a standalone Cart V3 messaging house, a one-pager, and a client-facing deck. The demo script is currently doing the work of all three.
 
@@ -90,7 +92,11 @@ Then stop driving for ten minutes. Capability gaps are parity-sweep input, not o
 | Resolve U6 (single-domain/framed) — config or structural? | Brian | overdue (2026-09-24 check-in) |
 | Confirm shareable wishlist (PL-227/228/229) as MVP | Sam | 2026-09-29 — **today** |
 | Revise messaging-house Cart V3 pillars V1–V3 into a standalone doc | Sam | 2026-10-03 |
-| Re-test positioning on a **Segment B** client | Sam / Cassie | 2026-10-17 |
+| ~~Re-test positioning on a **Segment B** client~~ | Sam / Cassie | ✅ **Done 2026-09-29 — Pomifera.** See [`prospects/pomifera.md`](../prospects/pomifera.md). **Three corrections fall out of it — see below.** |
+| 🔴 **Add rep discovery ("the orphan shopper") as a Tier-1 unique attribute** to `06-positioning-cart-v3.md` Step 2 + `06-positioning-enrollment.md` | Sam | 2026-10-03 |
+| 🔴 **Qualify "demo the seam, not the surface" by segment** — it holds for C/D, not for A/B | Sam | 2026-10-03 |
+| 🔴 **Restructure the demo script** — cut the Branding Studio opening, lead with the orphan shopper | Sam | 2026-10-03 |
+| Verify whether rep **name search** exists today (conflicting statements made live to a client) | Brian / Sam | **2026-10-02** |
 | Build the one-pager and client deck (GTM-128) | Sam | — |
 
 ---

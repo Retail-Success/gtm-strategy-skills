@@ -118,11 +118,11 @@ Adapted from playbook Phase 1. **The playbook's launch steps are the event steps
 
 | Risk | Handling |
 |---|---|
-| **Tap-to-Pay not shipped** | Feature swap per the call above. **Do not give a date on a stage.** |
-| **Rep asks "when?"** | *"It's included and it's coming — I'm not going to give you a date I can't keep."* **Honest beats confident.** ~2,500 reps are already waiting on one. |
+| ~~**Tap-to-Pay not shipped**~~ | ✅ **Retired 2026-09-30 — it shipped.** No feature swap needed. **Lead with it on stage.** One gate: confirm it's on in production for that account before a live on-stage demo. |
+| ~~**Rep asks "when?"**~~ | ✅ **Retired.** The answer is now *"it's live — let me show you."* Do not use the old holding line; ~2,500 JE reps have been waiting since July and a hedge now reads as though we still don't have it. |
 | **A rep's DSO hasn't granted permissions** | Register interest, don't sell. Feed the name to Cassie as an inbound signal — a rep asking for it is the warmest possible opening. |
 | **Their DSO hasn't onboarded ProPay** | Install them anyway. **Locked-tool tap is a leading indicator**; capture it and add them to that account's demand count. |
-| **Asked why the app has no selling tools *(pre-ship only)*** | *"They release as a set on [date] — card payments, invoicing and event checkout together."* 🚫 **Never say their company hasn't set something up** — before ship, the delay is ours and blaming the DSO is both false and damaging. |
+| **Asked why the app has no selling tools** | 🔴 **Changed 2026-09-30 — the honest answer is now different.** Tap-to-Pay has shipped, so a rep who still can't see selling tools is waiting on **her DSO's ProPay approval**, not on us. Say: *"The tools are built and live. They switch on for your whole company once [DSO] finishes payment setup — and the fastest way to move that is to ask for it."* 🚫 Still never phrase it as the DSO's failure; frame it as a step they can help trigger. |
 
 ---
 
