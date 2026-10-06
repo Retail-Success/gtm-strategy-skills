@@ -119,7 +119,7 @@ RELIEVER: tax records                →  weak pain                          [re
 
 ## Unconnected on the value side
 
-**Media library** relieves no rep pain. It is a DSO brand-control feature and — per [`02-competitor-analysis-hustle-boards.md`](02-competitor-analysis-hustle-boards.md) — **the first partial answer to Hustle and Boards.** That is a better justification than rep adoption, and it is the one the evidence supports.
+**Media library** relieves no rep pain. It is a DSO brand-control feature and — per [`02-competitor-analysis-hustle-boards.md`](02-competitor-analysis-hustle-boards.md) — **the first partial answer to Hussle and Boards.** That is a better justification than rep adoption, and it is the one the evidence supports.
 
 ## Unconnected on the customer side
 

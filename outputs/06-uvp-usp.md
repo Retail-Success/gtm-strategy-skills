@@ -42,7 +42,7 @@
 
 # USPs — Competitor Crosscheck
 
-| # | USP | Square | Hustle | Boards | Back office | Doing nothing | Unique? |
+| # | USP | Square | Hussle | Boards | Back office | Doing nothing | Unique? |
 |---|---|---|---|---|---|---|---|
 | **1** | 🔴 **Wholesale order and inventory arrive pre-loaded** | ❌ | ❓ | ❓ | Data yes, mobile no | ❌ | ✅ |
 | **2** | **Rep sales flow to corporate automatically** | ❌ | ❓ | ❓ | ❌ | ❌ | ✅ |
@@ -60,7 +60,7 @@
 >
 > ⚠️ **Gated on ProPay** — this is a selling-tool capability, not a works-on-download one.
 
-⚠️ **The ❓ columns are the open research gap.** Hustle and Boards have no feature-level teardown — see [`02-competitor-experience.md`](02-competitor-experience.md). **Do not ship a claim that depends on those cells.**
+⚠️ **The ❓ columns are the open research gap.** Hussle and Boards have no feature-level teardown — see [`02-competitor-experience.md`](02-competitor-experience.md). **Do not ship a claim that depends on those cells.**
 
 ## USP 1 is the whole position
 
@@ -98,7 +98,7 @@ UVP: Everything you sell, from one app - with your inventory already in it.
 
 # Competitive Differentiation Matrix
 
-| Dimension | **Wayroo** | Square | Hustle | Doing nothing |
+| Dimension | **Wayroo** | Square | Hussle | Doing nothing |
 |---|---|---|---|---|
 | **Core approach** | **Connected to the company she sells for** | Standalone POS | Standalone rep tooling | Habit |
 | **Key strength** | **The integration** | Free, mature, trusted | Funded, live at scale | Zero friction |
@@ -120,7 +120,7 @@ UVP: Everything you sell, from one app - with your inventory already in it.
 | **Cheaper than Square** | Subscription: both $0. **Processing rate: confirmed 2026-09-02 as only marginally below** — a price claim invites arithmetic we don't win. ✅ **"Roughly the same rate, and it does what Square can't."** Conceding price is what makes the connection argument credible. |
 | **Replaces all 6–10 apps** | **A large dent, not a clean sweep.** ✅ **"Replaces Square and nearly every app a rep needs to sell and create content" is true and safe now, independent of Aice** (2026-09-23). Only "every app" stays off-limits. See [`06-positioning-bydesign-wayroo.md`](06-positioning-bydesign-wayroo.md). |
 | **Better inventory management** | Square does it well. **The sync is the differentiator, not the feature.** ✅ Say *"already loaded, and it updates itself as you sell."* |
-| **Feature parity with Hustle** | No teardown exists |
+| **Feature parity with Hussle** | No teardown exists |
 | **ERP-tier / rep business operating system** | Overclaims a deliberately incomplete free product. **Reserved for the paid story.** |
 
 ---

@@ -43,7 +43,7 @@
 |---|---|---|---|---|
 | **A DSO objects to being advertised to** | Med | Med | **Notify, don't ask.** Courtesy note before the placement, not after. | Cassie |
 | **Aice doesn't sign** | Med | Med-High | **Wayroo never waits on Aice.** Sequence C&C-heavy accounts first. | Sam |
-| **Hustle deepens at Paparazzi** | Med | Med | Track A (re-engagement) needs no merger. Run it now. | Autumn |
+| **Hussle deepens at Paparazzi** | Med | Med | Track A (re-engagement) needs no merger. Run it now. | Autumn |
 | Revolution Pro retirement lands sooner than expected | Low | High | Do not build positioning that permanently depends on it | Sam |
 
 ---

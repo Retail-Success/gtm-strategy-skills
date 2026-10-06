@@ -92,7 +92,7 @@ Everything above stage 5 is a proxy. **Report stages 2–4 as diagnostics and st
 
 Media library usage · dashboard widget engagement · Aice cross-over · support tickets per 100 adopters.
 
-> ⚠️ **Media library usage belongs here, not in Tier 1.** `strategic-inputs.md` §1 credits it against **WAY-1 (Wayroo active users)** — a rep-adoption target — but reps rated it 🔵 Low at JE. It is a **DSO retention and competitive** feature (it is the first partial answer to Hustle and Boards). **Measuring it against rep adoption will make a useful feature look like a failure.** Re-attribution still open with Unified Strategy.
+> ⚠️ **Media library usage belongs here, not in Tier 1.** `strategic-inputs.md` §1 credits it against **WAY-1 (Wayroo active users)** — a rep-adoption target — but reps rated it 🔵 Low at JE. It is a **DSO retention and competitive** feature (it is the first partial answer to Hussle and Boards). **Measuring it against rep adoption will make a useful feature look like a failure.** Re-attribution still open with Unified Strategy.
 
 ---
 

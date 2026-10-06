@@ -19,7 +19,7 @@
 | **ProPay** | ✅ **Cleared.** Selling tools work today. |
 | **Branding** | ✅ White-labeled as Premiere |
 | **Satisfaction** | **4.5/5**, 90% rating 4–5 *(convention sample — see §5)* |
-| 🔴 **Competitor in the stack** | **Hustle, at $5/monthly-active-rep across ~20,000 reps** |
+| 🔴 **Competitor in the stack** | **Hussle, at $5/monthly-active-rep across ~20,000 reps** |
 
 ---
 
@@ -29,7 +29,7 @@
 |---|---|---|
 | ByDesign | **Autumn Fowers** | Runs the convention training. **Named by name in rep survey feedback** — *"Autumn was very thorough and patient."* A genuine account asset. |
 | ByDesign | Cassie Lewis | Account |
-| Paparazzi | *(DMU not documented)* | ⚠️ **Gap — no named client stakeholders in the library.** Fill before the Hustle conversation. |
+| Paparazzi | *(DMU not documented)* | ⚠️ **Gap — no named client stakeholders in the library.** Fill before the Hussle conversation. |
 
 ---
 
@@ -37,7 +37,7 @@
 
 Wayroo/Premiere at ~4,000 MAUs, white-labeled, ProPay live with the **Pink Card** (ProPay prepaid Mastercard) used by 31 of 43 surveyed users. Annual **Break Through Convention** with a recurring live Premiere training workshop — repeat attendees cite returning for a 2nd and 3rd year.
 
-**Also pays Hustle** — $5 per monthly-active-rep, across the full ~20,000 field.
+**Also pays Hussle** — $5 per monthly-active-rep, across the full ~20,000 field.
 
 ---
 
@@ -107,8 +107,8 @@ The pilot buys branded reference accounts and answers the catalog-only question.
 
 **A — Re-engagement.** Survey the ~16,000, then run the onboarding-led placement. See [`outputs/08-channel-strategy.md`](../outputs/08-channel-strategy.md) creative D.
 
-**B — Hustle displacement.** Ask the question nobody has asked:
-> *"Would you drop Hustle if Wayroo + Aice covered it?"*
+**B — Hussle displacement.** Ask the question nobody has asked:
+> *"Would you drop Hussle if Wayroo + Aice covered it?"*
 
 ⚠️ **Track B is gated on the Aice merger, which is unsigned.** Wayroo's Media Library is a *partial* answer today — **do not claim parity.** Track B is a conversation to open, not a claim to make.
 
@@ -122,7 +122,7 @@ The pilot buys branded reference accounts and answers the catalog-only question.
 | 2 | 🔴 **Diagnose Reply to Buy** — usability wall or awareness gap? | Sam + Autumn | Talk to the 3 users and 5 of the 24 |
 | 3 | **Point the Revolution placement here first** | Sam + Product | ProPay cleared — revenue on day one |
 | 4 | Build the simplified onboarding / switch-from-Square path | Product + Sam | The evidenced barrier |
-| 5 | **Ask the Hustle displacement question** | Autumn | **~$100K/yr question, still unasked** |
+| 5 | **Ask the Hussle displacement question** | Autumn | **~$100K/yr question, still unasked** |
 | 6 | 🔴 **Publish the case study** | Sam | **Outstanding since May — the oldest open item in the GTM plan** |
 | 7 | Document the client-side DMU | Cassie | No named stakeholders exist in the library |
 | 8 | Follow up on ShippingEasy | Autumn | Raised unprompted in survey free text |
@@ -133,7 +133,7 @@ The pilot buys branded reference accounts and answers the catalog-only question.
 
 | Risk | Severity | Mitigation |
 |---|---|---|
-| **Hustle deepens before Aice closes** | High | Track B is gated; run track A now — it needs no merger |
+| **Hussle deepens before Aice closes** | High | Track B is gated; run track A now — it needs no merger |
 | **The un-adopted are structurally different** — lower rank, lower volume, possibly hobbyists | **High** | **The survey answers this.** Do not size the opportunity before it runs. |
 | **Onboarding does not get fixed** | High | Then re-engagement spend converts poorly and we relearn the survey's finding at scale |
 | **"86% adoption" gets quoted externally** | **Medium — and easy to do** | The caveat is in every artifact. **Watch for it in decks.** |
@@ -150,7 +150,7 @@ The pilot buys branded reference accounts and answers the catalog-only question.
 | GMV | $31M (2025) | Growth on a measured baseline |
 | Un-adopted surveyed | **0** | 300–500 responses |
 | Reply to Buy usage | **3 of 43** | Diagnosed, then decided |
-| Hustle | Paid across ~20,000 | Displacement conversation opened |
+| Hussle | Paid across ~20,000 | Displacement conversation opened |
 
 ---
 

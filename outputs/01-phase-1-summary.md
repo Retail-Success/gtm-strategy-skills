@@ -37,7 +37,7 @@
 > Tap-to-Pay drew the strongest reaction of the JE launch. **But the pain that stops adoption is "another app I have to set up,"** and only populated first-run kills it. They are sequenced, not competing.
 
 > ### 4. Paparazzi is the highest-yield target in the base, and it is in nobody's plan.
-> ~16,000 un-adopted reps, ProPay already cleared, already paying Hustle $5/rep. **Revenue-ready with no cycle** — a better first move than a new pilot.
+> ~16,000 un-adopted reps, ProPay already cleared, already paying Hussle $5/rep. **Revenue-ready with no cycle** — a better first move than a new pilot.
 
 > ### 5. The library is ~30 documents deep on one measured number.
 > The constraint is not thinking. **It is that almost nothing has been tested.**
@@ -52,7 +52,7 @@
 | **2** | 🔴 **What is the transact rate?** Never measured anywhere | Phase 4 |
 | **3** | 🔴 **Does the catalog-only rep exist as described?** Never observed — **and the Aice pairing depends on her** | Phase 3 |
 | **4** | Does *"included"* read as free, or as trial? | Phase 6 Task 5 |
-| **5** | What do Hustle and Boards actually do? | Phase 2 |
+| **5** | What do Hussle and Boards actually do? | Phase 2 |
 | **6** | Will a rep pay $5 for a capability they have used? | The JE 510 |
 | **7** | Does the unbranded app self-authenticate through data? | Pilot |
 

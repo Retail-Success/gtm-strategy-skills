@@ -176,7 +176,7 @@ If the demo doesn't have a technical scoping session scheduled by the end of the
 
 ## Archetype C: The Cash & Carry Rep (End User — Track 1 Adoption Driver)
 
-**Archetype name:** The Vendor Event Hustler  
+**Archetype name:** The Vendor Event Hussler  
 **Note:** This archetype is inferred from Brick B's descriptions and Cassie Lewis's first-person account during the Color Street demo. Direct rep interviews have not yet been conducted. Do not use this archetype for Track 2 messaging until it is validated with 3+ actual rep interviews.
 
 ### Who They Are

@@ -20,7 +20,7 @@
 | **3** | **Rep interviews** | Problem set, message comprehension, R3 | **10–15**, split by persona | Days | **First** |
 | **4** | **Locked-state copy test** | The whole demand mechanism | 5–10 | Hours | **First** |
 | **5** | **Channel A/B on creative** | Which hook converts | Thousands | Config, once placements ship | Second |
-| **6** | **Buy from competitors** | The outstanding Hustle/Boards teardown | 2–3 products | Days | Second |
+| **6** | **Buy from competitors** | The outstanding Hussle/Boards teardown | 2–3 products | Days | Second |
 | **7** | 🔴 **Survey the ~16,000 un-adopted Paparazzi reps** | **Why they never started** | 300–500 | **A send** | ⬆️ **Promoted to Second — see below** |
 | 8 | Rep survey, broader (tool spend, selling behaviour) | Breadth | 300–500 | Low | Third |
 | **8** | Secondary research | Market sizing | — | — | **Skip** |

@@ -151,7 +151,7 @@ Either way the operational conclusion is the same, and it is the one the playboo
 | **2** | 🔴 **Build the simplified getting-started path**, with a switch-from-Square framing | Product + Sam | Six of seven non-adopters, and it is the barrier that will scale worst |
 | **3** | **Survey the ~16,000 un-adopted Paparazzi reps** | Sam + Autumn | The population that actually matters, reachable in-product |
 | **4** | **Keep the live-training format** | Autumn | The most consistently praised element — Autumn named by respondents |
-| **5** | **Ask Paparazzi the Hustle displacement question** | Autumn | Still unasked. **~20,000 reps × $5/month.** |
+| **5** | **Ask Paparazzi the Hussle displacement question** | Autumn | Still unasked. **~20,000 reps × $5/month.** |
 | **6** | Follow up on ShippingEasy | Autumn | Raised unprompted in free text — *"i need to execute this"* |
 
 ---

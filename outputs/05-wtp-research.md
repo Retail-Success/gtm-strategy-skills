@@ -84,7 +84,7 @@ Both cohorts get an identical product. **Only one faces a price.** The differenc
 | 🔴 **Nancy (JE Founder) pulled the paid start *forward*, cutting her own free period** | **The strongest WTP signal in the library.** A customer shortening their own free trial. | **HIGH** |
 | **JE charges reps $15/mo all-in and reps pay it** | $15 is an accepted rep-facing price point | **HIGH** |
 | **Reps self-fund $60–100/mo across 6–10 apps** | Real budget exists; it is fragmented across small subscriptions | Medium — one account |
-| **Paparazzi pays Hustle $5/monthly-active-rep** | **DSOs pay per-rep for rep tooling** | **HIGH** |
+| **Paparazzi pays Hussle $5/monthly-active-rep** | **DSOs pay per-rep for rep tooling** | **HIGH** |
 | Reps pay Project Broadcast ~$10–30/mo | **The rung-2 anchor** | Medium |
 
 > **Nancy's contract acceleration deserves more weight than it gets.** Voluntarily shortening a free period is behaviour, not opinion, and it is the kind of signal a survey cannot produce. **It belongs in the pricing conversation with every pilot DSO.**

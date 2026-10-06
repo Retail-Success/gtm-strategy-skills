@@ -41,7 +41,7 @@
 |---|---|
 | **No gate** | ProPay is done. **Selling tools work on day one** — the only segment where that is true at scale. |
 | **Revenue-ready immediately** | Every adopter can transact from the first session |
-| **Proven demand** | The account **pays Hustle $5/monthly-active-rep** across ~20,000 reps. They will pay for rep tooling; ours is free. |
+| **Proven demand** | The account **pays Hussle $5/monthly-active-rep** across ~20,000 reps. They will pay for rep tooling; ours is free. |
 | **Reference density** | One company, one field, dense internal comms |
 | **The benchmark lives here** | Paparazzi's ~$7,750 GMV/rep/year is the only real GMV data the business owns |
 
@@ -114,7 +114,7 @@ They have used the product and are about to be asked to pay $5. **Their conversi
 |---|---|---|---|
 | 1 | 🔴 **The Revolution placement converts at all** | All | Ship placements 1–2 and measure |
 | 2 | **Paparazzi reps will adopt a second rep tool** | A | They already run two — but Wayroo penetration is 20%. **Ask why.** |
-| 3 | **Paparazzi would drop Hustle for Wayroo + Aice** | A | Account conversation. **A ~$100K/yr question nobody has asked.** |
+| 3 | **Paparazzi would drop Hussle for Wayroo + Aice** | A | Account conversation. **A ~$100K/yr question nobody has asked.** |
 | 4 | **Team leaders are identifiable from downline data** | C | Query — confirm the field exists |
 | 5 | **The 510 will pay $5** | B | The trial answers it |
 | 6 | **Catalog-only reps get enough value from the pair** | F | Pilot slot 2 |

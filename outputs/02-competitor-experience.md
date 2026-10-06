@@ -6,7 +6,7 @@
 
 > ### This task closes the oldest open competitive gap in the library
 >
-> [`06-positioning-statement.md`](06-positioning-statement.md) states: *"Hustle and Boards are named on price and presence only. Do not ship competitive claims against them until a feature-level teardown exists."*
+> [`06-positioning-statement.md`](06-positioning-statement.md) states: *"Hussle and Boards are named on price and presence only. Do not ship competitive claims against them until a feature-level teardown exists."*
 >
 > **That teardown is this task, and it costs almost nothing.** Two of the three targets are reachable through people already on the phone weekly.
 
@@ -17,7 +17,7 @@
 | # | Target | Why | Access | Cost |
 |---|---|---|---|---|
 | **1** | 🔴 **Boards, via Jordan Essentials** | **A customer mid-migration will tell you exactly what the incumbent failed at** | Cassie → Hope or Nancy | **Free** |
-| **2** | **Hustle, via Paparazzi** | ~20,000 reps use it. **Paparazzi is our own client.** | Cassie/Autumn → account contacts, or a Paparazzi rep | **Free–low** |
+| **2** | **Hussle, via Paparazzi** | ~20,000 reps use it. **Paparazzi is our own client.** | Cassie/Autumn → account contacts, or a Paparazzi rep | **Free–low** |
 | **3** | **Square** | The honest benchmark for Wayroo Essentials | **Sign up. It's free.** | **Free, one afternoon** |
 
 **Square first** — it takes an afternoon and it is the competitor most likely to appear in a rep's actual reply.
@@ -40,14 +40,14 @@ Ask Hope or Nancy:
 
 ---
 
-# 2. Hustle — the $5/active-rep incumbent
+# 2. Hussle — the $5/active-rep incumbent
 
 **Two routes:** ask Paparazzi directly, or get a rep to walk through it on a screen share.
 
 **Capture:** feature list · what reps actually use daily · does it touch inventory, payments, or the back office · how it is sold to the DSO · what reps would miss.
 
 **The commercial question, and it is worth real money:**
-> 🔴 *"Would you drop Hustle if Wayroo + Aice covered it?"*
+> 🔴 *"Would you drop Hussle if Wayroo + Aice covered it?"*
 
 Paparazzi pays ~$5 × ~20,000 monthly-active reps. **Nobody has asked.**
 
@@ -96,10 +96,10 @@ CLAIMS THIS CHANGES (ours):
 
 | Blocked today | Unblocked by |
 |---|---|
-| Any competitive claim vs. Hustle or Boards | Targets 1 + 2 |
+| Any competitive claim vs. Hussle or Boards | Targets 1 + 2 |
 | The "Square does inventory well" concession | Target 3 |
-| Media Library positioned as a Hustle answer | Targets 1 + 2 |
-| A Hustle/Boards battlecard | All three |
+| Media Library positioned as a Hussle answer | Targets 1 + 2 |
+| A Hussle/Boards battlecard | All three |
 | **The Paparazzi displacement question** | Target 2 |
 
 ---
@@ -110,7 +110,7 @@ CLAIMS THIS CHANGES (ours):
 |---|---|---|
 | 1 | **Sign up for Square, run the full flow** | Sam — *this week, one afternoon* |
 | 2 | **Ask JE why they left Boards** | Cassie — *next JE call* |
-| 3 | Route to Hustle via Paparazzi | Cassie + Autumn |
+| 3 | Route to Hussle via Paparazzi | Cassie + Autumn |
 | 4 | Ask Paparazzi the displacement question | Autumn |
 | 5 | Fold findings into `02-competitor-analysis-hustle-boards.md` | Sam |
 

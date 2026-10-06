@@ -6,6 +6,7 @@
 **Integration:** Wayroo integrates with **any** back office: ByDesign's own (Freedom) or anyone else's, such as Exigo, Pillars, or custom (confirmed 2026-10-05).
 **Authorization:** Sam has permission to pitch Wayroo to non-client DSOs to recruit beta testers (confirmed 2026-10-05).
 **Created:** 2026-10-05
+**Competitive context:** `02-competitor-analysis-rep-app-landscape.md` (Fluid, Hussle, NowSite, Aice, 2026-10-06)
 **Supersedes, for beta recruiting only:** `12-sales-pitch-new-logo-dso.md` (that was the paid, Action 5 framing). Messaging rules carried over: `06-messaging-house.md` §3 and §9.
 
 ---
@@ -14,7 +15,7 @@
 
 **Why it works:** the obstacle in the paid new-logo motion was a 4–6 month cycle to get a budget approved. A free beta shrinks the budget question to one small, discounted integration fee with no ongoing license. What's left is mostly **"will you let your reps try this?"** That's a much easier yes, and it fits how this product actually spreads: Jordan Essentials got 764 rep downloads in 2–3 days without a mandate.
 
-**Why reps pick it up — the new-rep angle (added 2026-10-05):** many new reps join because they need income. They're often out of work and haven't made a first sale yet. Other rep apps (Hustle, Fluid and similar) charge a monthly fee from day one, so a rep pays before she's earned anything. **Wayroo is free, and we only make money once the rep starts selling.** On top of that, reps already spend $60–100+ a month on 6–10 apps, and Wayroo takes the place of many of them. For the DSO, that means fewer new reps quit before their first sale.
+**Why reps pick it up — the new-rep angle (added 2026-10-05):** many new reps join because they need income. They're often out of work and haven't made a first sale yet. A lot of tools charge somebody a fee whether or not the rep has sold anything, and some charge the rep directly from day one. **Wayroo is free, and we only make money once the rep starts selling.** On top of that, reps already spend $60–100+ a month on 6–10 apps, and Wayroo takes the place of many of them. For the DSO, that means fewer new reps quit before their first sale.
 
 **What could break it: "free" followed by a surprise bill.** The 510 Jordan Essentials reps whose stores are being switched off show what happens when something people thought they had changes on them. So the pitch says **what stays free forever, and what the future upgrade tier will cost, before anyone asks.** That honesty is what makes "free" believable instead of suspicious.
 
@@ -42,34 +43,39 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 > "Quick context. We're ByDesign. We've built back-office software for direct selling for 25 years. For the last couple of years we've been building a rep-facing app called Wayroo and running it with our own clients. It works, and now we want to know whether it works just as well at companies on *other* back offices. Wayroo connects to any of them. So we've opened a beta, the app is free, and I think you'd be a good fit."
 >
 > **[2. Their reps' world, 30 sec]**
-> "Here's what we see almost everywhere. Reps run their business on six to ten apps: Square at the table, Venmo or PayPal for everything else, a spreadsheet for inventory, Canva for graphics. That costs them $60 to $100 a month of their own money. *[You mentioned ___.]* None of those apps know what the rep ordered from you, and none of them tell you what she sold."
+> "Here's what we see almost everywhere. Reps run their business on six to ten apps: Square at the table, Venmo or PayPal for everything else, a spreadsheet for inventory, Canva for graphics. That costs them $60 to $100 a month of their own money. *[You mentioned ___.]* None of those apps know what the rep ordered from you, and none of them tell you what she sold.
+>
+> And most rep apps out there help your reps *sell*: content, posts, training. That's useful. But nothing helps her actually *run the business*."
 >
 > **[3. What it costs them, 30 sec]**
 > "So reps lose sales at the table when they can't take the payment the customer wants. They spend hours on shipping labels and spreadsheets that don't earn them a dollar. And every cash or Venmo sale is a customer you'll never see. One CTO put it bluntly: *'We don't own those customers.'*
 >
-> It's hardest on your newest reps. A lot of them joined because they need the income. They haven't made a first sale yet, and the first thing most rep apps ask for is a monthly fee. They're paying before they've earned a dollar, and that's when people quit."
+> It's hardest on your newest reps. A lot of them joined because they need the income. They haven't made a first sale yet, and a lot of tools charge a fee whether or not she's sold anything. Paying before you've earned a dollar is when people quit."
 >
 > **[4. What Wayroo does, 40 sec]**
-> "Wayroo is one app where your rep:
+> "Wayroo extends your back office to the field. It's one app where your rep runs her business on the fly:
 > - **takes a card on her phone** with Tap-to-Pay, no reader needed
-> - **sends a branded invoice with a payment link** for remote or follow-up sales
-> - **runs her own storefront** for the stock she carries
 > - **sells at a vendor event**, where inventory counts down as she sells
+> - **has her inventory loaded from her wholesale order**, so she never touches a spreadsheet
+> - **sends a branded invoice with a payment link** for remote or follow-up sales
 > - **sees her own sales, team and rank numbers** without logging into a back office
+> - and **runs her own storefront** for the stock she carries
 >
-> It replaces Square and most of the apps she's paying for. And every rep has her own merchant account, so she gets paid fast and chargebacks are hers, not yours."
+> It replaces Square and most of the apps she's paying for. And every rep has her own merchant account, so she gets paid fast."
+>
+> *[Note: on a non-ByDesign back office, "inventory loaded from her wholesale order" depends on what the integration pulls. Confirm it in scoping before promising it.]*
 >
 > **[5. What you get, 30 sec — tailor to who's in the room, see routing below]**
-> "On your side, every sale becomes a record you can see: who's selling, what's moving, who's stuck. Customers your reps sell to stop being invisible. As a beta partner, the app and the selling tools are free for you and your reps. No license, no per-rep fee."
+> "On your side, every sale becomes a record you can see: who's selling, what's moving, who's stuck. Customers your reps sell to stop being invisible. Every rep is her own merchant, so chargebacks are hers, not yours. As a beta partner, the app and the selling tools are free for you and your reps. No license, no per-rep fee."
 >
 > **[6. Proof, 30 sec]**
 > "This isn't a prototype. When Jordan Essentials, one of our clients, launched Wayroo at their convention in July, 764 reps downloaded it in two or three days, nearly 30% of their active field. *[Verbal only, until published:]* At Paparazzi, about 4,000 reps on Wayroo did $31 million in sales last year."
 >
 > **[7. How we make money, 20 sec — say it before they ask]**
-> "You'll want to know where the catch is. Most rep apps charge your reps a monthly fee before they've made a sale. We don't. We earn a small share of the payments your reps take through the app, so **we only make money when your rep starts making money.** That's what lets us give the app away. Later we'll add optional premium features. The core app and the selling tools stay free for beta partners."
+> "You'll want to know where the catch is. A lot of tools charge a fee whether or not your reps sell. We don't. We earn a small share of the payments your reps take through the app, so **we only make money when your rep starts making money.** That's what lets us give the app away. Later we'll add optional premium features. The core app and the selling tools stay free for beta partners."
 >
 > **[8. The ask, 20 sec]**
-> "Here's what it takes. First, we connect Wayroo to your back office so your reps' data shows up in the app. We integrate with anyone. There's an integration fee, and for beta partners it's heavily discounted. Then a quick payments setup so the selling tools switch on, a push to your field (a convention or field call is perfect), and an honest feedback call every month. When's your next big field event?"
+> "Here's what it takes. First, we connect Wayroo to your back office so your reps' data shows up in the app. We integrate with anyone. There's an integration fee, and for beta partners it's heavily discounted. Then a quick payments setup so the selling tools switch on, a push to your field (a convention or field call is perfect), and an honest feedback call every month. And if you already use a content or coaching tool, keep it. Wayroo sits next to it and handles the selling. When's your next big field event?"
 
 **Pacing:** after beat 3, ask *"does that sound like your field?"* If they say yes, keep going. If not, go back to discovery, because you haven't found their problem yet.
 
@@ -152,7 +158,9 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | **"Our reps won't adopt another app."** | "What happened last time?" | "This one replaces apps they're already paying for. 764 Jordan Essentials reps downloaded it in days, without a mandate." |
 | **"Exigo already has a rep app."** | "What do your reps use it for?" | "Wayroo works alongside your back office. The question is whether your reps take payments and run inventory in it, or still use Square and Venmo. If it's the latter, that's what we fill." *(Never claim Exigo has no rep app.)* |
 | **"Square is free."** | "Is that what most reps use?" | "Square is good at taking a card, and our processing is a little cheaper than Square's. But Square doesn't know what your rep ordered from you, and it doesn't send the sale or the customer back to you. That connection is what you're getting." |
-| **"We already use Hustle / Fluid."** | "Who pays for it, you or your reps? Before or after their first sale?" | "Those apps charge a monthly fee whether or not the rep has sold anything. Wayroo is free to the rep and free to you, and we only make money once she's selling. It also takes payments, which those apps don't do the same way." *(Don't quote competitor prices you haven't verified. Hustle's $5 per monthly active rep is the only confirmed figure.)* |
+| **"We already pay for Hussle."** | "What does your team use it for most?" | "Keep it if your team likes it. Hussle is great for content and training. It doesn't take payments or track inventory, and that's what Wayroo does. And we only make money once your reps are selling." *(Hussle's ~$5 per monthly active rep is the only confirmed competitor price.)* |
+| **"We're looking at Fluid."** | "What would you use it for: storefronts, content, checkout?" | "Fluid is strong on storefronts, content and AI. The question is what happens at a vendor table, or when a rep needs to invoice a customer or know what's in her inventory. That's where Wayroo lives. Ask them to show you Tap-to-Pay and per-rep merchant accounts." *(Verify before saying Fluid can't.)* |
+| **"Fluid is free too."** | — | "So is Wayroo for beta partners. The difference is what each one is built to do. Fluid's free tier gets you their commerce front end. Ours gets your reps taking payments and running their business." |
 | **"You're a back-office company. Is this a way to sell us one?"** | — | "No. We have our own back office, but Wayroo integrates with anyone's. You don't have to switch anything to be in the beta." |
 | **"Do we get a share of the payments?"** | — | "No. The payments share is how we fund the app, and it's why there's no license or per-rep fee for you." |
 | **"Why is there an integration fee if it's free?"** | — | "The app is free. Connecting it to your back office is real engineering work on our side, and beta partners get it at a deep discount." |
@@ -174,9 +182,12 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | — | "You keep the spread," "margin for you," or any payments revenue share | **ByDesign doesn't share payments revenue with DSOs.** The markup line in `06-messaging-house.md` §5 is for client per-rep fees and doesn't apply here. |
 | "Rep-owned merchant accounts" · "Processing is a little cheaper than Square" | Specific rate numbers, or "much cheaper" / "the cheapest" | Confirmed as slightly cheaper (2026-10-05). Quote exact rates in writing only, once you have them per portfolio. |
 | — | "Limited spots" · "Beta closes soon" | There's no limit and no end date. Don't invent scarcity. |
-| "Many new reps join because they need income" · "Most rep apps charge a monthly fee before the first sale" | "Most new reps are unemployed" stated as a statistic | Field insight, not yet sourced. Say it as an observation until it's backed by data. |
+| "Many new reps join because they need income" · "A lot of tools charge a fee whether or not the rep has sold anything" | "Most new reps are unemployed" stated as a statistic | Field insight, not yet sourced. Say it as an observation until it's backed by data. |
 | "Takes the place of many of the 6–10 apps reps pay for" · "Replaces Square and most of the apps she's paying for" | "Replaces all your apps" · "Saves reps $100 a month" | The savings depend on which apps a rep uses. Keep it to "many." |
-| "We only make money when your reps make money" | "We're cheaper than Hustle/Fluid" with specific numbers | Unverified pricing. Lead with the model (free until she sells), not a price comparison. |
+| "We only make money when your reps make money" | "We're cheaper than Hussle/Fluid" with specific numbers | Unverified pricing. Lead with the model (free until she sells), not a price comparison. |
+| — | "Fluid charges your reps a monthly fee" · "Most rep apps charge reps a monthly fee" | Fluid says its We-Commerce platform is free, and NowSite (a partner) is the main rep-paid app. Don't single out competitors on fees. |
+| "Fluid is strong on storefronts and content" | "Fluid doesn't do payments" · "Fluid can't do Tap-to-Pay / inventory / per-rep merchant" | Fluid does checkout and payments. The rest isn't verified, so say "ask them to show you." |
+| "Keep Hussle / NowSite / your content tool. Wayroo sits next to it." | Anything negative about NowSite or Aice | Partners. NowSite generates leads, Aice creates content, Wayroo runs the sale. |
 | — | Leading with free custom branding | It's a closer for a seriously interested partner, not part of the headline offer |
 | "Built by ByDesign, 25 years in direct selling" | "Revolution," "Freedom" as part of the offer | Non-clients don't have them, and the beta doesn't require them |
 

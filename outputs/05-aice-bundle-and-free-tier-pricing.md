@@ -291,9 +291,9 @@ The market is tight-knit; a prospect will learn that JE's reps have Wayroo at no
 
 **Inclusion becomes an acquisition incentive for the platform** — the higher-value, stickier product.
 
-### ✅ Against Hustle, Boards and Square — a weapon
+### ✅ Against Hussle, Boards and Square — a weapon
 
-Hustle charges **$5 per monthly-active rep**, and Paparazzi pays it across ~18,000 non-cancelled reps. Included-plus-back-office-sync against $5/rep is not a close comparison.
+Hussle charges **$5 per monthly-active rep**, and Paparazzi pays it across ~18,000 non-cancelled reps. Included-plus-back-office-sync against $5/rep is not a close comparison.
 
 ### ⚠️ The DSO that wants Wayroo without the platform — deferred, not solved
 
