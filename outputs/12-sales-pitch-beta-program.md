@@ -3,6 +3,7 @@
 **Phase:** 12 — Executing Sales (sales call framework → spoken pitch)
 **Audience:** Home-office leader at a direct selling organization that is **not** a ByDesign client: Founder/CEO, VP Sales, or Field Ops, with the CTO or back-office owner joining for the second call.
 **Motion:** 🆕 **Wayroo Beta Program.** The app is free to beta DSOs and their reps. The DSO pays a **heavily discounted one-time integration fee**. The goal is mass rep adoption. Revenue comes from payments (~1.5% of rep transactions, **kept by ByDesign and never shared with the DSO**) now, and from optional upgrade tiers later.
+**DSO resale option (confirmed 2026-10-06):** the DSO gets the core app and selling tools free and decides how to distribute them. It can **give them to reps free**, or **charge reps a fee and keep all of it** (Jordan Essentials already charges its reps for app access). When upgrade tiers launch, the DSO can **mark those up too**. Payments revenue is still never shared.
 **Integration:** Wayroo integrates with **any** back office: ByDesign's own (Freedom) or anyone else's, such as Exigo, Pillars, or custom (confirmed 2026-10-05).
 **Authorization:** Sam has permission to pitch Wayroo to non-client DSOs to recruit beta testers (confirmed 2026-10-05).
 **Created:** 2026-10-05
@@ -24,6 +25,28 @@
 > **"The core app and every selling tool stay free for beta partners. We make money when your reps get paid, not when you sign. Later we'll add optional premium features, and nobody has to buy them."**
 >
 > This isn't a sales line. It follows from an existing design rule: Tap-to-Pay, invoicing, POS, storefront and Dropship **can never sit behind a paid tier**, because gating something that produces transactions costs ~$216 per rep per year in payments to win a much smaller upgrade fee (`my-gtm-context.md` §3). The promise and the business model point the same way, so say it plainly.
+
+---
+
+## The DSO's choice: give it away, or resell it
+
+This gives the DSO a reason to push Wayroo to its field, not just allow it.
+
+| | **Option A: give it free** | **Option B: charge a fee** |
+|---|---|---|
+| **What reps pay** | Nothing | Whatever the DSO sets, e.g. a monthly tech fee |
+| **What the DSO earns** | Nothing directly. Better-equipped reps and full sales visibility. | **100% of the fee.** ByDesign charges the DSO nothing for the core app. |
+| **Upgrade tiers (later)** | DSO can pass them through at our price | **DSO can mark them up** |
+| **Best for** | Recruiting, new-rep activation, beating rep-paid tools | DSOs that already charge a tech or eSuite fee |
+| **Proof it works** | — | Jordan Essentials charges its reps for app access today |
+
+> **How to present it:** both options, DSO's choice, no recommendation pushed. *"It's free to you. You can give it to your reps free, or charge for it like you do other tools and keep every dollar."*
+
+> ⚠️ **Option B weakens the new-rep argument.** Beats 3 and 7 say new reps shouldn't pay before their first sale. If the DSO charges a monthly fee, that's exactly what happens. Two ways to keep both:
+> - **Suggest a free start:** free until the rep's first sale, or free for the first 60–90 days, then the DSO's fee kicks in.
+> - **Charge only on the upgrade tier:** core free to every rep, and the DSO earns its markup on the premium features.
+>
+> Offer these as suggestions. It's the DSO's call. And when you're talking to a DSO you know will charge, lead beat 7 with *"we only make money when your reps make money"* and drop the new-rep fee line.
 
 ---
 
@@ -66,7 +89,7 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 > *[Note: on a non-ByDesign back office, "inventory loaded from her wholesale order" depends on what the integration pulls. Confirm it in scoping before promising it.]*
 >
 > **[5. What you get, 30 sec — tailor to who's in the room, see routing below]**
-> "On your side, every sale becomes a record you can see: who's selling, what's moving, who's stuck. Customers your reps sell to stop being invisible. Every rep is her own merchant, so chargebacks are hers, not yours. As a beta partner, the app and the selling tools are free for you and your reps. No license, no per-rep fee."
+> "On your side, every sale becomes a record you can see: who's selling, what's moving, who's stuck. Customers your reps sell to stop being invisible. Every rep is her own merchant, so chargebacks are hers, not yours. As a beta partner, the app and the selling tools are free to you. No license, no per-rep fee. You can give it to your reps free, or charge for it like you do other tools and keep every dollar."
 >
 > **[6. Proof, 30 sec]**
 > "This isn't a prototype. When Jordan Essentials, one of our clients, launched Wayroo at their convention in July, 764 reps downloaded it in two or three days, nearly 30% of their active field. *[Verbal only, until published:]* At Paparazzi, about 4,000 reps on Wayroo did $31 million in sales last year."
@@ -87,9 +110,10 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 |---|---|
 | **What you get** | Wayroo for every rep, free: Tap-to-Pay, invoicing with payment links, storefront, vendor-event selling, inventory, rep dashboards, media library. A direct line to the product team. Your feedback shapes the roadmap. |
 | **What it costs you** | **No license and no per-rep fee.** A one-time integration fee to connect your back office, **heavily discounted for beta partners** *([set the beta price, see decisions])*. |
-| **What it costs your reps** | Nothing for the app. Card processing on payments they take is **a little cheaper than Square**. |
+| **What it costs your reps** | **Your choice.** Give it free, or charge a fee and keep 100% of it. Card processing on payments they take is **a little cheaper than Square**. |
+| **What you can earn** | Any fee you charge reps for the app (we charge you nothing for it). When upgrade tiers launch, you can mark those up too. |
 | **How we make money** | A share of payments processed through Wayroo, which ByDesign keeps. Later, optional premium features. |
-| **What stays free** | **The core app and every selling tool.** We'll never charge you or your reps to take a payment. |
+| **What stays free** | **The core app and every selling tool, from us to you.** We'll never charge you or your reps to take a payment. |
 | **Integration** | Wayroo connects to any back office. We scope it with your tech lead before you commit. |
 | **What we ask** | 1. Back-office connection (discounted integration fee). 2. Payments onboarding so the selling tools switch on. 3. Introduce Wayroo to your field. 4. A 30-minute feedback call each month. 5. Permission to share results as a case study if it works. |
 | **Length** | Open-ended. No end date, and nothing switches off. |
@@ -109,7 +133,7 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 | **Founder / CEO** | Field productivity and retention | **New reps don't pay anything before their first sale, so fewer quit early.** Reps sell more and spend less time on admin. No license, no per-rep fee. | Merchant-account mechanics, anything that sounds like a project, compliance |
 | **VP Sales / Field Ops** | Visibility and coaching | **"Every rep sale becomes a record you can see."** Spot the rep with stuck stock before she quits. | Payments plumbing |
 | **CTO / back-office owner** | Integration risk, one source of truth | **Wayroo integrates with any back office, including ours. It reads from your system of record. It doesn't replace it or become a second one.** Scope it together on the technical call. | Promising timelines before scoping |
-| **CFO** | Cost and liability | **No license fee, and a discounted one-time integration fee.** Rep-owned merchant accounts mean chargebacks on rep sales sit with the rep. | Download numbers, enthusiasm, **any suggestion of a payments revenue share** |
+| **CFO** | Cost and liability | **No license fee, and a discounted one-time integration fee. Option to charge reps and keep the revenue.** Rep-owned merchant accounts mean chargebacks on rep sales sit with the rep. | Download numbers, enthusiasm, **any suggestion of a payments revenue share** |
 
 Use their word for reps: stylists, consultants, ambassadors. If they believe they have no cash and carry, skip "point of sale" and lead with invoicing, payment links and the storefront.
 
@@ -162,7 +186,8 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | **"We're looking at Fluid."** | "What would you use it for: storefronts, content, checkout?" | "Fluid is strong on storefronts, content and AI. The question is what happens at a vendor table, or when a rep needs to invoice a customer or know what's in her inventory. That's where Wayroo lives. Ask them to show you Tap-to-Pay and per-rep merchant accounts." *(Verify before saying Fluid can't.)* |
 | **"Fluid is free too."** | — | "So is Wayroo for beta partners. The difference is what each one is built to do. Fluid's free tier gets you their commerce front end. Ours gets your reps taking payments and running their business." |
 | **"You're a back-office company. Is this a way to sell us one?"** | — | "No. We have our own back office, but Wayroo integrates with anyone's. You don't have to switch anything to be in the beta." |
-| **"Do we get a share of the payments?"** | — | "No. The payments share is how we fund the app, and it's why there's no license or per-rep fee for you." |
+| **"Do we get a share of the payments?"** | — | "No. The payments share is how we fund the app, and it's why there's no license or per-rep fee for you. Where you can earn is the app itself: charge your reps for it if you want, and keep all of it." |
+| **"Can we charge our reps for it?"** | "How do you charge reps for tools today?" | "Yes, it's your call. We give it to you free; you can give it to your reps free or charge a fee and keep all of it. Jordan Essentials charges its reps for access today. When we add upgrade tiers, you can mark those up too. If you want to keep new reps on board, a lot of DSOs make it free until the first sale." |
 | **"Why is there an integration fee if it's free?"** | — | "The app is free. Connecting it to your back office is real engineering work on our side, and beta partners get it at a deep discount." |
 | **"Integration sounds like a project."** | "What made the last one hard?" | "That's what the technical call is for. We scope it with your tech lead before you commit to anything." |
 
@@ -179,7 +204,8 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 | Tap-to-Pay, invoicing, storefront, vendor-event selling, dashboards, media library | **Dropship**, **Back Office Lite**, or Aice features as available | Unshipped, or unresolved (Aice) |
 | "We integrate with any back office" | "Plug and play," "live in a day," "no setup cost" | There is an integration fee, and the timeline depends on scoping |
 | "No license, no per-rep fee" | "It costs you nothing" | The integration fee is real, even when discounted |
-| — | "You keep the spread," "margin for you," or any payments revenue share | **ByDesign doesn't share payments revenue with DSOs.** The markup line in `06-messaging-house.md` §5 is for client per-rep fees and doesn't apply here. |
+| "You can charge reps for the app and keep 100% of it" · "You can mark up the upgrade tiers" | Any payments revenue share · "you earn on every transaction" | **The DSO can earn on the app fee, never on payments.** ByDesign keeps the payments share. |
+| "Free to you; your choice what to charge reps" | "Free for your reps" as a promise from us | Whether reps pay is the DSO's decision, not ours |
 | "Rep-owned merchant accounts" · "Processing is a little cheaper than Square" | Specific rate numbers, or "much cheaper" / "the cheapest" | Confirmed as slightly cheaper (2026-10-05). Quote exact rates in writing only, once you have them per portfolio. |
 | — | "Limited spots" · "Beta closes soon" | There's no limit and no end date. Don't invent scarcity. |
 | "Many new reps join because they need income" · "A lot of tools charge a fee whether or not the rep has sold anything" | "Most new reps are unemployed" stated as a statistic | Field insight, not yet sourced. Say it as an observation until it's backed by data. |

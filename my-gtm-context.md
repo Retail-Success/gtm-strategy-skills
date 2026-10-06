@@ -27,7 +27,8 @@
 >
 > - **Offer:** Wayroo **free** to beta DSOs and their reps: no license, no per-rep fee. The DSO pays a **heavily discounted integration fee**.
 > - **Integration:** Wayroo integrates with **any** back office, ByDesign's own or anyone else's (confirmed 2026-10-05).
-> - 🔴 **Payments revenue is never shared with DSOs.** ByDesign keeps the ~1.5%. Don't use "you keep the spread" or margin framing in beta pitches.
+> - ✅ **DSO resale option (2026-10-06):** the core app and selling tools are free *to the DSO*. The DSO chooses to give them to reps free or **charge reps a fee and keep 100% of it** (as Jordan Essentials does). When upgrade tiers launch, the DSO can **mark them up**. ⚠️ If the DSO charges, the "new reps don't pay before their first sale" argument weakens. Suggest free-until-first-sale or charging only on the upgrade tier.
+> - 🔴 **Payments revenue is never shared with DSOs.** ByDesign keeps the ~1.5%. The DSO can earn on the app fee and upgrade markup, never on payments.
 > - **Goal:** mass rep adoption.
 > - **Revenue:** payments (~1.5% of rep transactions) now; **optional upgrade tiers later.**
 > - **Pitch:** [`outputs/12-sales-pitch-beta-program.md`](outputs/12-sales-pitch-beta-program.md). For beta recruiting it supersedes the paid Wayroo-only pitch in `12-sales-pitch-new-logo-dso.md`.
