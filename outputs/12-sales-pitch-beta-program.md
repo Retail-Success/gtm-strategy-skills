@@ -2,7 +2,7 @@
 
 **Phase:** 12 — Executing Sales (sales call framework → spoken pitch)
 **Audience:** Home-office leader at a direct selling organization that is **not** a ByDesign client: Founder/CEO, VP Sales, or Field Ops, with the CTO or back-office owner joining for the second call.
-**Motion:** 🆕 **Wayroo Beta Program.** The app is free to beta DSOs and their reps. The DSO pays a **heavily discounted one-time integration fee**. The goal is mass rep adoption. Revenue comes from payments (~1.5% of rep transactions, **kept by ByDesign and never shared with the DSO**) now, and from optional upgrade tiers later.
+**Motion:** 🆕 **Wayroo Beta Program.** The app is free to beta DSOs, which choose whether to pass it to reps free or charge for it. The DSO pays a **heavily discounted one-time integration fee**. The goal is mass rep adoption. Revenue comes from payments (~1.5% of rep transactions, **kept by ByDesign and never shared with the DSO**) now, and from optional upgrade tiers later.
 **DSO resale option (confirmed 2026-10-06):** the DSO gets the core app and selling tools free and decides how to distribute them. It can **give them to reps free**, or **charge reps a fee and keep all of it** (Jordan Essentials already charges its reps for app access). When upgrade tiers launch, the DSO can **mark those up too**. Payments revenue is still never shared.
 **Integration:** Wayroo integrates with **any** back office: ByDesign's own (Freedom) or anyone else's, such as Exigo, Pillars, or custom (confirmed 2026-10-05).
 **Authorization:** Sam has permission to pitch Wayroo to non-client DSOs to recruit beta testers (confirmed 2026-10-05).
