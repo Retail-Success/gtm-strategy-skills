@@ -104,7 +104,7 @@
 |---|---|
 | **Pilot account onboarding** | Three simultaneous implementations |
 | **Rep research cadence** | Interviews and copy tests keep getting deferred because nothing schedules them |
-| **Competitive monitoring** | Hustle and Boards teardowns have been outstanding since May |
+| **Competitive monitoring** | Hussle and Boards teardowns have been outstanding since May |
 
 ---
 

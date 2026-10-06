@@ -77,7 +77,7 @@ Keep it to five or six. Each answer feeds a specific beat.
 | 4 | "When a rep sells to someone outside your site, does that customer ever show up on your side?" | Beat 4 (customer records) |
 | 5 | "Of your active reps, roughly how many are real sellers versus buying for themselves?" | Sizing. Color Street said 80/20. Price against real sellers. |
 | 6 | "When's your next convention or big field event?" | The close. JE closed in about 11 weeks against a convention date. |
-| 7 | "Are you paying for a rep app today, like Hustle or Boards?" | Objection prep plus a budget signal (Hustle charges $5 per monthly active rep) |
+| 7 | "Are you paying for a rep app today, like Hussle or Boards?" | Objection prep plus a budget signal (Hussle charges $5 per monthly active rep) |
 
 ---
 
@@ -87,7 +87,7 @@ Keep it to five or six. Each answer feeds a specific beat.
 |---|---|---|
 | **"Exigo already has a rep app."** | "What do your reps use it for today?" | "Right, and Wayroo works alongside Exigo. The question is whether your reps take a card, invoice, and run their inventory in it, or whether they're still on Square and Venmo. If it's the latter, that's the gap we fill." *(Never claim Exigo has no rep app.)* |
 | **"Square is free and does this."** | "Is that what most of your reps use?" | "Square is good at POS and basic inventory. What it doesn't do is know your rep's wholesale order, load her inventory automatically, or send the customer and the sale back to you. **The connection to your back office is the product.**" |
-| **"We already pay for Hustle / Boards."** | "What do you get out of it, and what's missing?" | "Wayroo has a media library too, but that isn't why people buy it. Hustle and Boards don't transact. Wayroo is where the rep actually sells and gets paid. Jordan Essentials is moving off Boards now." *(Don't claim feature parity with Hustle.)* |
+| **"We already pay for Hussle / Boards."** | "What do you get out of it, and what's missing?" | "Wayroo has a media library too, but that isn't why people buy it. Hussle and Boards don't transact. Wayroo is where the rep actually sells and gets paid. Jordan Essentials is moving off Boards now." *(Don't claim feature parity with Hussle.)* |
 | **"Our reps won't adopt another app."** | "What happened last time you rolled one out?" | "764 Jordan Essentials reps downloaded it within days of the convention, without a mandate. Reps adopt it because it replaces apps they're already paying for themselves." |
 | **"What does it cost?"** | "How do you charge your reps for tech today?" | "There's a per-rep fee and a small share of payments. Most companies fold the per-rep fee into the tech fee they already charge reps. **You set the rep price and keep the spread**, so it becomes a margin line, not a cost line. We'll model it on your real-seller count in the proposal." |
 | **"Integration sounds like a big project."** | "What made the last integration painful?" | "That's exactly what the technical call is for. Wayroo reads from your system of record. It doesn't replace it or compete with it. We'll come back with a scoped plan, not a guess." |

@@ -33,20 +33,20 @@ What a rep actually does today instead of using Wayroo.
 | Alternative | What it does well | Where it stops |
 |---|---|---|
 | **Square (free tier)** | **Genuinely good.** Free POS, card reader, and basic inventory — spreadsheet upload, categories, tax codes. Mature and trusted. | Knows nothing about the company the rep sells for. No wholesale order, no inventory from corporate, no customer record reaching the home office, no connection to commissions. |
-| **Hustle** | Live rep tooling, funded, already inside the installed base — **Paparazzi pays $5/monthly-active-rep across ~18,000 reps** | Priced per active rep. ⚠️ Feature scope not researched — see gap below. |
+| **Hussle** | Live rep tooling, funded, already inside the installed base — **Paparazzi pays $5/monthly-active-rep across ~18,000 reps** | Priced per active rep. ⚠️ Feature scope not researched — see gap below. |
 | **Boards** | Incumbent at Jordan Essentials | JE is migrating off it. ⚠️ Feature scope not researched. |
 | **The DSO's own back office** | Authoritative — it *is* the system of record. The rep can log in and see everything. | Browser, not pocket. Not at the vendor table, not at the point of sale, not a card reader. |
 | **Doing nothing** | Zero friction, zero cost, zero learning | Cash and Venmo, inventory tracked by memory, no customer record, no reconciliation. **This is the majority behaviour and the real competitor.** |
 
 **The honest composite:** a rep runs Square or Venmo for money, their head or a spreadsheet for stock, and logs into the back office when they have to. Nothing connects. **The competitor is not a product — it is a habit.**
 
-> ⚠️ **Research gap:** Hustle and Boards are named on price and presence only. Neither has a feature-level teardown. **Do not ship competitive claims against them until one exists** — this entire positioning rests on integration, and it is possible one of them integrates with something.
+> ⚠️ **Research gap:** Hussle and Boards are named on price and presence only. Neither has a feature-level teardown. **Do not ship competitive claims against them until one exists** — this entire positioning rests on integration, and it is possible one of them integrates with something.
 
 ## Step 2 — Unique Attributes
 
 Test applied: *could a competitor truthfully claim this?*
 
-| Attribute | Square | Hustle | Boards | Back office | Nothing | Unique? |
+| Attribute | Square | Hussle | Boards | Back office | Nothing | Unique? |
 |---|---|---|---|---|---|---|
 | **Wholesale order and inventory arrive already in the app** | ❌ | ❓ | ❓ | Data yes, mobile no | ❌ | ✅ |
 | **Rep sales flow back to corporate automatically** | ❌ | ❓ | ❓ | ❌ | ❌ | ✅ |
@@ -56,7 +56,7 @@ Test applied: *could a competitor truthfully claim this?*
 
 ### Two honesty corrections that make everything else credible
 
-**1. Price does not differentiate against Square.** Square's free tier is $0; Wayroo Essentials is $0 incremental. **Against Square the differentiator is integration alone.** Price differentiates against **Hustle ($5/monthly-active-rep) and Boards** — real, and worth using there. Claiming "free" as an advantage over Square invites the obvious reply and loses the room.
+**1. Price does not differentiate against Square.** Square's free tier is $0; Wayroo Essentials is $0 incremental. **Against Square the differentiator is integration alone.** Price differentiates against **Hussle ($5/monthly-active-rep) and Boards** — real, and worth using there. Claiming "free" as an advantage over Square invites the obvious reply and loses the room.
 
 **2. Inventory features are not the differentiator.** Square does basic inventory well. **The sync is the differentiator, not the feature.** Never demo inventory management as a capability — demo it as *already populated*, and as **updating itself with every sale** (confirmed 2026-09-23). Both are sync claims Square can't make.
 
@@ -213,7 +213,7 @@ For the home office: *the rep selling app included with Revolution Pro.*
 >
 > **Wayroo Essentials is the selling app that comes with your back office.**
 >
-> **Unlike** Square, Hustle, Boards, or anything else a rep bolts on and maintains, **Wayroo is already connected to the company the rep sells for** — the wholesale order, the inventory, the customer, and the commission all live in one system.
+> **Unlike** Square, Hussle, Boards, or anything else a rep bolts on and maintains, **Wayroo is already connected to the company the rep sells for** — the wholesale order, the inventory, the customer, and the commission all live in one system.
 >
 > **Which means** the rep sets up nothing and the home office sees everything — and neither pays anything extra, because it is **included with a Revolution Pro subscription the rep already holds.**
 >
@@ -262,7 +262,7 @@ For the home office: *the rep selling app included with Revolution Pro.*
 | 1 | **Wholesale order and inventory arrive pre-loaded** | ✅ | Everything — this is the lead |
 | 2 | **Rep sales flow back to corporate automatically** | ✅ | Square, doing nothing |
 | 3 | **Same system as commissions and genealogy** | ✅ | All bolt-ons |
-| 4 | **Included — no new bill** | ⚠️ Not vs. Square ($0 too) | **Hustle ($5/rep) and Boards only** |
+| 4 | **Included — no new bill** | ⚠️ Not vs. Square ($0 too) | **Hussle ($5/rep) and Boards only** |
 | 5 | **Per-rep ProPay merchant, ~99% approval via two-tier underwriting** | ⚠️ Qualified | Square, on approval rates only |
 
 **USP 1 is the whole position.** If a rep opens the app and their own inventory is there, every other claim becomes credible. If it is empty, none of them survive.
@@ -389,8 +389,8 @@ The prior positioning called the passthrough *cost-neutral*. That undersells it 
 | Criterion | Status | Note |
 |---|---|---|
 | **Specific target** | ✅ | US reps on Revolution Pro inside ByDesign clients who sell in person |
-| **Real alternatives** | ✅ | Square, Hustle, Boards, the back office, doing nothing — and doing-nothing is named as the true competitor |
-| **Provable claims** | ⚠️ | Integration is demonstrable on first open. **Hustle/Boards claims are not yet provable.** |
+| **Real alternatives** | ✅ | Square, Hussle, Boards, the back office, doing nothing — and doing-nothing is named as the true competitor |
+| **Provable claims** | ⚠️ | Integration is demonstrable on first open. **Hussle/Boards claims are not yet provable.** |
 | **Differentiated** | ✅ | No competitor can claim back-office connection without building to ByDesign |
 | **Category clarity** | ✅ | A rep knows what a back office is; the frame lands without explanation |
 | **Trend-backed** | ✅ | Rep tool spend and tap-to-phone are both real and dated |
@@ -416,7 +416,7 @@ The prior positioning called the passthrough *cost-neutral*. That undersells it 
 | **First-run may not lead with rep data** | 🔴 High | Destroys USP 1 at the only moment it can be proved |
 | **510 JE reps face store shutoff** | 🟠 Med-High | A live positioning problem — see [`06-messaging-house.md`](06-messaging-house.md) |
 | **"Free" reads as "trial" or "cheap"** | 🟠 Medium | Untested. The reason *included* is used throughout instead of *free*. |
-| **Hustle/Boards feature scope unknown** | 🟠 Medium | Competitive claims not yet safe to make |
+| **Hussle/Boards feature scope unknown** | 🟠 Medium | Competitive claims not yet safe to make |
 
 ---
 
@@ -425,7 +425,7 @@ The prior positioning called the passthrough *cost-neutral*. That undersells it 
 1. **Test the locked-state copy with 5–10 JE reps.** Highest-risk, lowest-cost thing to validate — and 764 fresh adopters are available.
 2. **Confirm the demand counter and data-first first-run as product requirements.**
 3. **Size the Revolution Pro population** — this positioning currently has no confirmed audience size.
-4. **Feature-level teardown of Hustle and Boards** before any competitive claim ships.
+4. **Feature-level teardown of Hussle and Boards** before any competitive claim ships.
 5. Copy, sequences, and the shutoff: [`06-messaging-house.md`](06-messaging-house.md).
 
 ---

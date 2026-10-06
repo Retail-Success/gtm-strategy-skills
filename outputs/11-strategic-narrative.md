@@ -51,7 +51,7 @@ She opens an app and her wholesale order is there, counted. She takes a card on 
 
 ## The enemy
 
-**Not Square. Not Hustle.** The enemy is **the assumption that the rep is a distribution channel rather than a business** — which is what produces a back office the company logs into and a patchwork the rep pays for herself.
+**Not Square. Not Hussle.** The enemy is **the assumption that the rep is a distribution channel rather than a business** — which is what produces a back office the company logs into and a patchwork the rep pays for herself.
 
 ## Why it is inevitable
 

@@ -20,7 +20,7 @@
 
 **Transaction volume** aligns perfectly — we earn only when the rep earns — but a DSO cannot forecast it, and **a rep who never transacts pays nothing.**
 
-**Monthly-active rep** is what Hustle charges and what DSOs demonstrably pay. Predictable, easy to budget. **But it charges for presence rather than production**, and it puts a per-rep cost between the DSO and universal rollout.
+**Monthly-active rep** is what Hussle charges and what DSOs demonstrably pay. Predictable, easy to budget. **But it charges for presence rather than production**, and it puts a per-rep cost between the DSO and universal rollout.
 
 > ### The recommendation is transaction volume, and the reason is strategic rather than arithmetic
 >

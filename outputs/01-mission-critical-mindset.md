@@ -43,7 +43,7 @@ Things that feel productive here and are not.
 | **Writing another strategy document** | 🔴 **The most likely trap, and this session produced several.** The library is ~30 docs deep on one measured number. |
 | **Reconciling superseded artifacts** | The SUPERSEDED headers already do the job. Rewriting void documents is tidying, not progress. |
 | **Perfecting positioning before testing it** | Nothing has been shown to a rep. **Another revision has less value than one conversation.** |
-| **Building competitive claims against Hustle and Boards** | No teardown exists. **Ask JE why they left Boards** — that is the work; the battlecard is not. |
+| **Building competitive claims against Hussle and Boards** | No teardown exists. **Ask JE why they left Boards** — that is the work; the battlecard is not. |
 | **Planning around the Aice merger** | Unsigned, and the structure is still moving. Hedge, do not build. |
 | **Chasing new-logo Track 1 deals** | Deprioritised and capacity-gated. Year-0 sits inside accounts already signed. |
 | **Standing up GA4, pixels, and tag manager** | No web funnel in this motion. See [`01-analytics-setup.md`](01-analytics-setup.md). |

@@ -46,9 +46,9 @@
 >
 > **Confidence MEDIUM, and it deserves a conscious re-look after pilot 1** rather than drifting into being the standard offer.
 
-> ### 2. ⚠️ We conceded the metric Hustle proved works
+> ### 2. ⚠️ We conceded the metric Hussle proved works
 >
-> **Hustle charges $5 per monthly-active rep and Paparazzi pays it across ~20,000 reps.** That is direct evidence DSOs will pay per-rep — **and we chose not to charge it.**
+> **Hussle charges $5 per monthly-active rep and Paparazzi pays it across ~20,000 reps.** That is direct evidence DSOs will pay per-rep — **and we chose not to charge it.**
 >
 > **The rationale holds:** a per-rep fee makes the DSO ration access, which kills the motion. **But it should be recorded as a deliberate trade rather than an oversight**, because it is a real forgone revenue line and someone will ask.
 

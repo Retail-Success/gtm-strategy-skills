@@ -94,7 +94,7 @@
 - 🚫 **Gate any transactional feature behind a paid tier.** Suppressing a transacting rep costs ~$216/year against an upgrade worth less.
 - 🚫 **Charge reps for selling tools.** Ever.
 - 🚫 **Lead with compliance.** With no budget ask, regulatory framing reads as a threat rather than an offer.
-- 🚫 **Claim feature parity with Hustle** before the merger and before a teardown exists
+- 🚫 **Claim feature parity with Hussle** before the merger and before a teardown exists
 - 🚫 **Claim "included" to a rep without Revolution Pro**, then switch their store off
 - 🚫 **Promise Tap-to-Pay where the DSO is not ProPay-approved**
 - 🚫 **Run another launch without instrumentation.** One 764-shaped number with no denominator was enough.

@@ -18,7 +18,7 @@
 | **S5** | **Per-rep ProPay merchants with two-tier underwriting** | ~99% approval on a population Square declines |
 | **S6** | **Direct selling is a pre-built referral network** | Uplines and downlines with financial incentive to spread it. No other software category gets one free. |
 | **S7** | **Paparazzi at $31M / LuLaRoe lineage** | Production proof no competitor can dispute |
-| **S8** | **Media Library shipped** | First partial answer to Hustle and Boards on their own ground |
+| **S8** | **Media Library shipped** | First partial answer to Hussle and Boards on their own ground |
 
 ## Weaknesses — internal, and mostly self-inflicted
 
@@ -39,20 +39,20 @@
 
 | | Opportunity | Why now |
 |---|---|---|
-| **O1** | 🔴 **~16,000 un-adopted Paparazzi reps** | Densest addressable concentration in the base. **ProPay already cleared**, and they are paying Hustle $5/rep for adjacent tooling. |
+| **O1** | 🔴 **~16,000 un-adopted Paparazzi reps** | Densest addressable concentration in the base. **ProPay already cleared**, and they are paying Hussle $5/rep for adjacent tooling. |
 | **O2** | **Wayroo is a Revolution Pro acquisition engine** | JE showed rep demand at **3x** Pro penetration — 510 pre-qualified upsell candidates with zero selling |
 | **O3** | **A phone is now a card reader** | Tap-to-phone is normal in 2026. **This is why Tap-to-Pay excites rather than interests** — the last hardware dependency is gone. |
 | **O4** | **Rep tool spend has stacked to a felt number** | $60–100/month across 6–10 apps. The strongest economic argument available. |
 | **O5** | **Wayroo integrates with Exigo and any back office** | Turns the largest competitor's installed base into an addressable market — the Wayroo-led entry thesis |
 | **O6** | **Party Platform Solutions price hikes + Thatcher bankruptcy** | Active migration window in the party-plan segment |
-| **O7** | **Aice post-merger gives full Hustle parity** | Direct competition with a funded incumbent already inside our flagship account |
+| **O7** | **Aice post-merger gives full Hussle parity** | Direct competition with a funded incumbent already inside our flagship account |
 
 ## Threats — external
 
 | | Threat | Severity |
 |---|---|---|
 | **T1** | **Square is free and genuinely good** | High — and price is not a defence here |
-| **T2** | **Hustle is funded, live, and paid across ~20,000 Paparazzi reps** | High |
+| **T2** | **Hussle is funded, live, and paid across ~20,000 Paparazzi reps** | High |
 | **T3** | 🔴 **Revolution Pro is expected to be retired** | Medium now, **structural later** — it puts a shelf life on both the category frame and the commercial frame |
 | **T4** | **Aice is unsigned**, and the pairing is load-bearing | Medium-High |
 | **T5** | **A DSO discovers the rep campaign and objects** | Medium — mitigated by notify-don't-ask |
