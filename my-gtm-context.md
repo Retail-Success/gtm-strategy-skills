@@ -4,6 +4,41 @@
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
+> ### ✅ 2026-10-05 — DECIDED: WE LEAD WITH WAYROO
+>
+> **The §14 open question is closed.** Positioning is **Wayroo-led**: Wayroo is the lead product in buyer-facing material, and Freedom is the expansion or the back-office option, not the opener. **`08-gtm-motions.md` Action 5 (the Exigo test) is retired.** Its role is taken over by the Beta Program below.
+>
+> ⚠️ Freedom-led artifacts (`12-sales-deck.md`, `12-one-pager.md`) are now **out of date as the default pitch** and need a Wayroo-led rewrite.
+>
+> ---
+>
+> ### 🔴 2026-10-06 — Competitive landscape update (full analysis: [`outputs/02-competitor-analysis-rep-app-landscape.md`](outputs/02-competitor-analysis-rep-app-landscape.md))
+>
+> - **Category frame:** most rep apps help the rep *sell* (content, coaching). **Wayroo extends the back office to the field, so the rep runs her business on the fly.**
+> - **Fluid is the primary competitor**, not just an enablement tool. It has storefronts, checkout, payments, CRM and AI; integrates with Exigo, ByDesign and Pillars; raised $15M (2026); and **says We-Commerce is free.** It's reportedly at **Color Street**. Don't claim Fluid charges reps or lacks payments.
+> - **"Hustle" is spelled Hussle** (hussle.tech): DSO-paid, usage-based enablement. Fixed repo-wide.
+> - **NowSite is a partner** (rep-paid social selling and leads). Confirm it's unrelated to Fluid's 2024 NOW Tech acquisition. **Aice** is a partner (content).
+>
+> ---
+>
+> ### 🆕 2026-10-05 — NEW MOTION: Wayroo Beta Program for non-client DSOs
+>
+> **Sam has permission to pitch Wayroo to DSOs outside the ByDesign client base to recruit beta testers.** Framing: "we built a rep app, proved it on our own clients, now opening a beta to companies outside our base."
+>
+> - **Offer:** Wayroo **free** to beta DSOs and their reps: no license, no per-rep fee. The DSO pays a **heavily discounted integration fee**.
+> - **Integration:** Wayroo integrates with **any** back office, ByDesign's own or anyone else's (confirmed 2026-10-05).
+> - ✅ **DSO resale option (2026-10-06):** the core app and selling tools are free *to the DSO*. The DSO chooses to give them to reps free or **charge reps a fee and keep 100% of it** (as Jordan Essentials does). When upgrade tiers launch, the DSO can **mark them up**. ⚠️ If the DSO charges, the "new reps don't pay before their first sale" argument weakens. Suggest free-until-first-sale or charging only on the upgrade tier.
+> - 🔴 **Payments revenue is never shared with DSOs.** ByDesign keeps the ~1.5%. The DSO can earn on the app fee and upgrade markup, never on payments.
+> - **Goal:** mass rep adoption.
+> - **Revenue:** payments (~1.5% of rep transactions) now; **optional upgrade tiers later.**
+> - **Pitch:** [`outputs/12-sales-pitch-beta-program.md`](outputs/12-sales-pitch-beta-program.md). For beta recruiting it supersedes the paid Wayroo-only pitch in `12-sales-pitch-new-logo-dso.md`.
+> - 🆕 **New-rep economics (field insight, 2026-10-05):** many new reps join because they need income. They're often unemployed and haven't made a first sale. A lot of tools charge a fee whether or not the rep has sold anything; some (e.g. NowSite) bill the rep directly. **Wayroo is free, and ByDesign only earns once the rep starts selling.** Reps also spend $60–100+/month on 6–10 apps, and Wayroo takes the place of many of them. ⚠️ "Most are unemployed" is unsourced. Say "many" until there's data.
+> - ✅ **The core app and selling tools stay free** (confirmed 2026-10-05). Upgrade tiers will be optional premium features only.
+> - ✅ **Rep card processing is similar to Square, a little cheaper.** **No limit on beta length or spots.** **Free custom branding** for partners who are really interested (use it as a closer). **Jordan Essentials can be named** to non-clients. (All confirmed 2026-10-05.)
+> - ⚠️ **Open before first call:** the beta integration price, discount and timeline.
+>
+> ---
+>
 > ### 🔴🔴 2026-08-30 — THE DSO IS NOT A GATE AT THE FRONT. Read this before the August header below.
 >
 > **Five corrections, and the first two change the shape of the motion.**
@@ -26,7 +61,7 @@
 > >
 > > **This is strictly better, and it is what beat 3 always wanted.** The ProPay conversation was designed to be rep-pulled; now it is the *only* DSO conversation, and demand can accumulate **before corporate is ever contacted.** The demand counter stops being a nice-to-have and becomes the entire DSO pitch.
 >
-> **3. Media Library is LIVE in Wayroo, and it is the first real answer to Hustle and Boards.** Comparable feature territory, **not full parity**. **Aice has the full Hustle feature set** — so post-merger ByDesign can compete with Hustle head-on. Today: a partial answer, shipped. See §6.
+> **3. Media Library is LIVE in Wayroo, and it is the first real answer to Hussle and Boards.** Comparable feature territory, **not full parity**. **Aice has the full Hussle feature set** — so post-merger ByDesign can compete with Hussle head-on. Today: a partial answer, shipped. See §6.
 >
 > **4. JE Tap-to-Pay trial is DECIDED, and it is wider than the 510.** Ships in **2–3 weeks (~mid-September 2026)**. **All 764 JE reps get 30 days of access regardless of Revolution Pro status**; non-Pro reps are prompted to pay at the end. This confirms the trial-to-paid design in [`outputs/06-messaging-house.md`](outputs/06-messaging-house.md) §6 and **widens it from 510 to 764** — the trial is now the launch mechanic for the whole account, not a salvage plan for non-payers.
 >
@@ -736,30 +771,30 @@ Reps currently spend **$60–100/month across 6–10 apps** of their own money. 
 
 **Square** — Free tier, and it is genuinely good. Basic inventory (spreadsheet upload, categories, tax codes) and mobile POS at no cost. **This is the most honest competitive benchmark for Wayroo Essentials.** Where Square cannot follow: no connection to the DSO's back office, no wholesale order sync, no customer record flowing to corporate, no commission engine, no compliance loop.
 
-**Hustle** — Charges **$5 per monthly-active-rep.** **Paparazzi pays it across ~20,000 reps.** A live, funded, per-rep-priced competitor already inside a flagship ByDesign account — and direct evidence that DSOs will pay per-rep for rep tooling. Wayroo Essentials being free is a direct answer to Hustle's price.
+**Hussle** — Charges **$5 per monthly-active-rep.** **Paparazzi pays it across ~20,000 reps.** A live, funded, per-rep-priced competitor already inside a flagship ByDesign account — and direct evidence that DSOs will pay per-rep for rep tooling. Wayroo Essentials being free is a direct answer to Hussle's price.
 
 **Boards** — The incumbent **Jordan Essentials is migrating off.** Displacement is already in motion at the pilot account.
 
 > ### 🔴 Confirmed 2026-08-30 — Wayroo now has a partial answer, and Aice has a complete one
 >
-> **Media Library is LIVE in Wayroo**, and it occupies comparable feature territory to Hustle and Boards — **but not full parity.** It is the first shipped capability that competes with them on their own ground rather than beside it.
+> **Media Library is LIVE in Wayroo**, and it occupies comparable feature territory to Hussle and Boards — **but not full parity.** It is the first shipped capability that competes with them on their own ground rather than beside it.
 >
-> **Aice has the full Hustle feature set.** So the competitive picture is staged:
+> **Aice has the full Hussle feature set.** So the competitive picture is staged:
 >
 > | | **Today** | **Post-merger** |
 > |---|---|---|
-> | vs. **Hustle** | **Partial** — Media Library covers some of it, free vs. $5/active rep | ✅ **Direct** — Aice's feature set plus Wayroo's transaction layer |
+> | vs. **Hussle** | **Partial** — Media Library covers some of it, free vs. $5/active rep | ✅ **Direct** — Aice's feature set plus Wayroo's transaction layer |
 > | vs. **Boards** | **Partial** — displacement already underway at JE | ✅ Direct |
 >
-> **What this licenses, and what it does not.** ✅ *"Wayroo includes a media library, free, where Hustle charges $5 per active rep"* — true and shipped. 🚫 **Do not claim feature parity with Hustle.** The honest position is **partial coverage today, full coverage after the merger** — and the merger is unsigned, so it is not a claim to make externally at all.
+> **What this licenses, and what it does not.** ✅ *"Wayroo includes a media library, free, where Hussle charges $5 per active rep"* — true and shipped. 🚫 **Do not claim feature parity with Hussle.** The honest position is **partial coverage today, full coverage after the merger** — and the merger is unsigned, so it is not a claim to make externally at all.
 >
-> ⚠️ **This narrows but does not close the research gap.** [`06-positioning-statement.md`](outputs/06-positioning-statement.md) flags that Hustle and Boards have no feature-level teardown and that competitive claims are unsafe until one exists. **We now know the shape of the overlap without knowing its edges** — which is enough to stop treating them as pure price competitors, and not enough to make a feature-by-feature claim.
+> ⚠️ **This narrows but does not close the research gap.** [`06-positioning-statement.md`](outputs/06-positioning-statement.md) flags that Hussle and Boards have no feature-level teardown and that competitive claims are unsafe until one exists. **We now know the shape of the overlap without knowing its edges** — which is enough to stop treating them as pure price competitors, and not enough to make a feature-by-feature claim.
 >
-> **The strategic read:** Media Library was rated 🔵 Low by reps and 🔴 High by DSO leadership at Jordan Essentials. **Its value is competitive and DSO-facing, not rep-adoption-driving** — which is exactly the attribution correction still open against `strategic-inputs.md` §1 (WAY-1). Being a Hustle answer is a *better* justification for the feature than being a rep-adoption driver, and it is the one supported by evidence.
+> **The strategic read:** Media Library was rated 🔵 Low by reps and 🔴 High by DSO leadership at Jordan Essentials. **Its value is competitive and DSO-facing, not rep-adoption-driving** — which is exactly the attribution correction still open against `strategic-inputs.md` §1 (WAY-1). Being a Hussle answer is a *better* justification for the feature than being a rep-adoption driver, and it is the one supported by evidence.
 
 > ### 🔴 Confirmed 2026-08-10 — Paparazzi's field is ~20,000 reps, not 4,000
 >
-> Hustle is paid across **~20,000 Paparazzi reps.** Wayroo counts **4,000 MAUs** there — **~20% penetration, not full coverage.** Every prior artifact treats "Paparazzi = 4,000 reps," including §7, the flagship case study framing, and the GMV-per-rep benchmark.
+> Hussle is paid across **~20,000 Paparazzi reps.** Wayroo counts **4,000 MAUs** there — **~20% penetration, not full coverage.** Every prior artifact treats "Paparazzi = 4,000 reps," including §7, the flagship case study framing, and the GMV-per-rep benchmark.
 >
 > **Two consequences.** The case study headline changes meaning: $31M was generated by ~20% of the field, which is a *stronger* per-rep result and a *weaker* coverage claim — say the former, never imply the latter. And **~16,000 un-adopted Paparazzi reps are the largest single Land-and-Expand target in the installed base**, sitting inside an account that already runs Wayroo and already pays a competitor $5/monthly-active-rep for adjacent tooling.
 >
@@ -807,7 +842,7 @@ The old objection list led with **cost**. That objection largely disappears when
 | **"Why would we add another rep app?"** (approver) | Not another app — a free one that replaces 6–10 the rep already pays $60–100/month for, and the only one wired into the back office they already run. |
 | **"What does this cost us?"** (approver) | **Nothing.** Essentials and the selling tools are free to your Revolution reps. The only paid Wayroo tier is white-labeling, and that is optional and separate. |
 | **"Square already does this and it's free."** (rep) | Square does POS and basic inventory. It does not know your wholesale order, does not sync your inventory from corporate, and does not put your customer into the company's system. |
-| **"We already pay Hustle / use Boards."** | Hustle is $5/monthly-active-rep. Essentials is free, and it is the only option integrated with the back office. Jordan Essentials is migrating off Boards now. |
+| **"We already pay Hussle / use Boards."** | Hussle is $5/monthly-active-rep. Essentials is free, and it is the only option integrated with the back office. Jordan Essentials is migrating off Boards now. |
 | **ProPay onboarding effort** (approver) | The real gate. Selling tools stay locked until it is done — and locked tools mean no payments revenue and a field asking why. Sequence this first. |
 | **Outdated shopping cart UI vs. Shopify** | Acknowledge, then surface the 3% processing rate and single-merchant liability. Pivot to the Party 2.0 / cart upgrade roadmap. |
 
@@ -1030,7 +1065,9 @@ Structured records of what was learned from prospect interactions — confirmed 
 
 ---
 
-## 14. Open Strategic Question — The Wayroo-Led Entry Thesis
+## 14. ~~Open Strategic Question~~ — The Wayroo-Led Entry Thesis — ✅ DECIDED 2026-10-05: WAYROO-LED
+
+> **Decided: we lead with Wayroo.** Action 5 is retired and replaced by the Wayroo Beta Program. The rest of this section is kept as the record of how the decision was reached; the "keep Freedom-led" instruction below is superseded.
 
 **Status as of August 8, 2026: OPEN. Two-account pattern with a confirmed technical basis. Escalated for a Q4 2026 leadership decision. Not yet a positioning change — do not treat as decided.**
 

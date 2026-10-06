@@ -162,7 +162,7 @@ Three. No more — nothing sticks past three.
 |---|---|
 | **Proof** | No incremental charge; selling tools included, never upsold |
 | **Proof** | Replaces tools the rep is buying now — $60–100/month across 6–10 apps |
-| **Proof** | Competitors charge per rep — **Hustle is $5 per active rep** |
+| **Proof** | Competitors charge per rep — **Hussle is $5 per active rep** |
 | **Objection** | *"What's the catch?"* |
 
 ### 3b — Rep does not hold RevPro *(the "$5" version)*
@@ -205,7 +205,7 @@ Three. No more — nothing sticks past three.
 >
 > **Conceding the price comparison is what makes the capability argument land.** A rep who has heard "we're cheaper" from four apps this year will trust "about the same, but connected" more than another discount claim.
 
-> ⚠️ **Use pillar 3's per-rep pricing argument against Hustle and Boards, never Square's subscription.** **Against Square, pillar 1 remains the strongest argument** — it is the one no competitor can answer at any price.
+> ⚠️ **Use pillar 3's per-rep pricing argument against Hussle and Boards, never Square's subscription.** **Against Square, pillar 1 remains the strongest argument** — it is the one no competitor can answer at any price.
 
 ---
 

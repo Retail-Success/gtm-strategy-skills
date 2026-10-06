@@ -1,4 +1,4 @@
-# Phase 2 — Competitor Analysis: Hustle & Boards (Rep-Layer)
+# Phase 2 — Competitor Analysis: Hussle & Boards (Rep-Layer)
 
 **Phase:** 2 — Collecting Intelligence, Task 4
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
@@ -7,7 +7,7 @@
 
 > ### The gap this addresses
 >
-> [`06-positioning-statement.md`](06-positioning-statement.md) flags Hustle and Boards as *"named on price and presence only"* and instructs: **"Do not ship competitive claims against them until a feature-level teardown exists."**
+> [`06-positioning-statement.md`](06-positioning-statement.md) flags Hussle and Boards as *"named on price and presence only"* and instructs: **"Do not ship competitive claims against them until a feature-level teardown exists."**
 >
 > **2026-08-30 gave us the shape of the overlap without giving us its edges.** That is enough to stop treating them as pure price competitors. **It is not enough to make a feature-by-feature claim**, and this document does not license one.
 
@@ -17,9 +17,9 @@
 
 | # | Fact | Consequence |
 |---|---|---|
-| **1** | **Media Library is LIVE in Wayroo** and occupies comparable territory to Hustle and Boards — **not full parity** | Wayroo has its **first shipped capability** competing on their ground rather than beside it |
-| **2** | **Aice has the full Hustle feature set** | **Post-merger, ByDesign competes with Hustle head-on** |
-| **3** | Hustle charges **$5 per monthly-active-rep**; Paparazzi pays it across **~20,000 reps** | A funded per-rep competitor **inside a flagship ByDesign account** — and proof DSOs will pay per-rep for rep tooling |
+| **1** | **Media Library is LIVE in Wayroo** and occupies comparable territory to Hussle and Boards — **not full parity** | Wayroo has its **first shipped capability** competing on their ground rather than beside it |
+| **2** | **Aice has the full Hussle feature set** | **Post-merger, ByDesign competes with Hussle head-on** |
+| **3** | Hussle charges **$5 per monthly-active-rep**; Paparazzi pays it across **~20,000 reps** | A funded per-rep competitor **inside a flagship ByDesign account** — and proof DSOs will pay per-rep for rep tooling |
 
 ---
 
@@ -27,14 +27,14 @@
 
 | | **Today** | **Post-merger (Aice, unsigned)** |
 |---|---|---|
-| **vs. Hustle** | **Partial.** Media Library covers some of it. **Free vs. $5/active rep.** | ✅ **Direct.** Aice's feature set + Wayroo's transaction layer |
+| **vs. Hussle** | **Partial.** Media Library covers some of it. **Free vs. $5/active rep.** | ✅ **Direct.** Aice's feature set + Wayroo's transaction layer |
 | **vs. Boards** | **Partial.** Displacement already underway at Jordan Essentials. | ✅ Direct |
 
 ## What can and cannot be claimed
 
 | ✅ Safe to say | 🚫 Do not say |
 |---|---|
-| *"Wayroo includes a media library — free, where Hustle charges $5 per active rep"* | *"Wayroo replaces Hustle"* — **not true today** |
+| *"Wayroo includes a media library — free, where Hussle charges $5 per active rep"* | *"Wayroo replaces Hussle"* — **not true today** |
 | *"Jordan Essentials is migrating off Boards"* | Any feature-by-feature comparison — **no teardown exists** |
 | *"Wayroo is the only one connected to your back office"* — the durable claim | Anything premised on the Aice merger — **it is unsigned** |
 
@@ -44,7 +44,7 @@
 
 # Where Each Competitor Actually Wins
 
-## Hustle
+## Hussle
 
 | | |
 |---|---|
@@ -56,7 +56,7 @@
 
 > ### The Paparazzi situation is the most important competitive fact in the library
 >
-> **Paparazzi pays Hustle across ~20,000 reps while running Wayroo at 4,000 MAUs.** Two readings, both true:
+> **Paparazzi pays Hussle across ~20,000 reps while running Wayroo at 4,000 MAUs.** Two readings, both true:
 >
 > - **Bad:** a competitor is monetising 5x more of our flagship account's field than we are.
 > - 🔴 **Good: ~16,000 un-adopted Paparazzi reps are the largest single Land-and-Expand target in the installed base** — inside an account that already runs Wayroo, already has ProPay, and has already demonstrated willingness to pay per-rep for rep tooling.
@@ -80,15 +80,15 @@
 
 # The Argument That Does Not Depend on the Teardown
 
-**The rep spends $60–100/month across 6–10 apps.** That is the number to displace, and it is the strongest rep-facing economic argument available — and it **does not require knowing Hustle's feature list.**
+**The rep spends $60–100/month across 6–10 apps.** That is the number to displace, and it is the strongest rep-facing economic argument available — and it **does not require knowing Hussle's feature list.**
 
 | | Rep pays |
 |---|---|
 | Current stack (Canva, ChatGPT, Square, Boards, Project Broadcast…) | **$60–100/mo** |
 | **Wayroo Essentials** | **$0** *(included with Revolution Pro)* |
-| Hustle *(DSO-paid)* | $5/active rep |
+| Hussle *(DSO-paid)* | $5/active rep |
 
-> ⚠️ **Use price against Hustle and Boards. Never against Square.** Square's free tier is also $0 — leading on price there invites the obvious reply and loses the room. **Against Square, the integration claim is the entire argument.**
+> ⚠️ **Use price against Hussle and Boards. Never against Square.** Square's free tier is also $0 — leading on price there invites the obvious reply and loses the room. **Against Square, the integration claim is the entire argument.**
 
 ---
 
@@ -100,7 +100,7 @@
 |---|---|
 | A rep-adoption driver | ❌ **No.** Reps were visibly less excited by it than by anything else at the JE launch. |
 | A DSO brand-control feature | ✅ Yes — Hope's explicit requirement |
-| 🔴 **The first shipped answer to Hustle and Boards** | ✅ **Yes, and this is the strongest justification for it** |
+| 🔴 **The first shipped answer to Hussle and Boards** | ✅ **Yes, and this is the strongest justification for it** |
 
 > ### This resolves the open WAY-1 attribution question
 >
@@ -115,9 +115,9 @@
 | # | Question | Method | Cost |
 |---|---|---|---|
 | **1** | 🔴 **Why is JE leaving Boards?** | **Ask Hope or Nancy** | **Free — do this first** |
-| **2** | **What does Hustle actually do?** | Paparazzi field contacts; Cassie's rep network; public marketing | Low |
+| **2** | **What does Hussle actually do?** | Paparazzi field contacts; Cassie's rep network; public marketing | Low |
 | **3** | Where exactly does Media Library fall short of both? | Internal — Product | Low |
-| **4** | Would Paparazzi drop Hustle for Wayroo + Aice? | Account conversation | Low — **and it is a $100K/yr question** |
+| **4** | Would Paparazzi drop Hussle for Wayroo + Aice? | Account conversation | Low — **and it is a $100K/yr question** |
 | **5** | Exigo rep app scope | Outstanding since May | Medium |
 
 > **Questions 1 and 4 are conversations with people already on the phone weekly.** Neither has been asked.
@@ -126,7 +126,7 @@
 
 # Positioning Implications
 
-1. **Stop describing Hustle and Boards as price competitors only.** They are feature competitors we have partially answered and have not measured.
+1. **Stop describing Hussle and Boards as price competitors only.** They are feature competitors we have partially answered and have not measured.
 2. **The durable claim is unchanged:** *the only selling app already connected to the company the rep sells for.* Neither competitor can reach it without building to ByDesign. **Lead there, not on features.**
 3. **Media Library is a DSO-deck asset, not a rep-first-run asset.** Already correct in [`06-positioning-statement.md`](06-positioning-statement.md); this document supplies the competitive reason.
 4. **Paparazzi is a pilot candidate.** ~16,000 addressable reps, ProPay cleared, and a competitor to displace.

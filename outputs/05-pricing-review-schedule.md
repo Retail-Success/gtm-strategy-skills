@@ -25,7 +25,7 @@
 | 🔴 **The first transact rate is measured** | Determines whether 1.5% of GMV is a business at achievable adoption |
 | **A DSO asks for per-rep pricing or a discount** | Someone testing whether $0 is really $0 |
 | **DSO #4 asks for free white-label** | The pilot precedent under pressure — **the rules exist for this moment** |
-| **Hustle or Boards changes price** | Our price argument is relative to theirs |
+| **Hussle or Boards changes price** | Our price argument is relative to theirs |
 | **Square adds back-office integrations** | Would attack the one durable differentiator |
 | **SMS ships** | **Rung 2 becomes definable** |
 | **Aice deal signs or dies** | Rung 2 is half Aice |
@@ -41,7 +41,7 @@
 - [ ] Accounts ProPay-approved (of 55)
 - [ ] 510 conversion / Pro attach rate
 - [ ] Support tickets per 100 adopters
-- [ ] Competitor price changes — Hustle, Boards, Square
+- [ ] Competitor price changes — Hussle, Boards, Square
 - [ ] Any DSO pricing pushback
 - [ ] Rung-2 readiness — is SMS on the roadmap?
 

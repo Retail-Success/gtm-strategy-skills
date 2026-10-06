@@ -43,7 +43,7 @@
 | Alternative | What it does well | Where it stops |
 |---|---|---|
 | **Exigo + its native rep app** | The incumbent at most enterprise DSOs. It has a real mobile rep app. | ⚠️ **Never claim Exigo lacks a rep app.** The difference is scope: ERP-tier rep tooling vs. a likely lighter app. The feature-scope teardown is still outstanding. |
-| **A back office plus a stitched rep stack** | Each tool is good at its job: Square for payments, Hustle or Boards for rep tools, Dropbox for content, Shopify for ecommerce | **Nothing connects.** The company can't see rep sales, customers or inventory. Reps pay $60–100/month out of pocket across 6–10 apps. |
+| **A back office plus a stitched rep stack** | Each tool is good at its job: Square for payments, Hussle or Boards for rep tools, Dropbox for content, Shopify for ecommerce | **Nothing connects.** The company can't see rep sales, customers or inventory. Reps pay $60–100/month out of pocket across 6–10 apps. |
 | **Shopify as the commerce layer** | Mature storefront | One DSO merchant account absorbs every fee and every chargeback. No commissions, no genealogy, no field app. |
 | **Stay put** | No migration risk | The field stays invisible, and rep tool spend keeps climbing |
 
@@ -55,7 +55,7 @@
 | **Per-rep merchant accounts through ProPay.** Each rep is her own merchant | ❌ Shopify and Square-at-the-DSO can't |
 | **Inventory that loads itself and updates as reps sell** | ❌ Square does inventory, but it can't fill it from the wholesale order |
 | **Rep sales and customers flow back to corporate automatically** | ❌ No bolt-on can |
-| **Corporate reaches the field inside the app they sell from.** Push alerts, media library, rank reporting | ⚠️ Partial. Hustle and Aice cover content and alerts; neither is the rep's selling app |
+| **Corporate reaches the field inside the app they sell from.** Push alerts, media library, rank reporting | ⚠️ Partial. Hussle and Aice cover content and alerts; neither is the rep's selling app |
 | **25 years in direct selling, $7B+ in commissions processed** | ⚠️ Exigo has comparable tenure. **Proof, not a differentiator** |
 
 ## Step 3 — Value

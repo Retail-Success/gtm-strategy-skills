@@ -25,7 +25,7 @@
 > | Slide | Change |
 > |---|---|
 > | Pricing / business model | Add a line: *"Wayroo Essentials is included with Revolution Pro."* Do not present it as a discount or a promotion. |
-> | Competitive | **Retire the Aice-vs-Wayroo feature map.** Aice is a launch partner. Replace with Square / Hustle / Boards — and note that **price does not differentiate against Square** (its free tier is $0 too). Against Square the argument is back-office integration alone. |
+> | Competitive | **Retire the Aice-vs-Wayroo feature map.** Aice is a launch partner. Replace with Square / Hussle / Boards — and note that **price does not differentiate against Square** (its free tier is $0 too). Against Square the argument is back-office integration alone. |
 > | Differentiator | Lead with **back-office integration**, not inventory features. Free Square does basic inventory well. **The sync is the differentiator, not the feature.** |
 > | Objections | Insert the "why pay" answer above, verbatim. |
 > | Proof | Paparazzi's field is **~18,000 non-cancelled reps**, not 4,000. $31M came from ~20% of the field — a *stronger* per-rep result. **Say that; never imply full coverage.** |

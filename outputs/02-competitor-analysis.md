@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|
 | 🔴 **Doing nothing** | Cash, Venmo, memory, a spreadsheet | $0 | **Zero friction, zero learning.** No decision required. | Nothing connects; no record; sales lost at the table | **Highest — this is the majority behaviour** |
 | 🔴 **Square** | Free POS + basic inventory | **$0** | **Genuinely good.** Mature, trusted, spreadsheet upload, categories, tax codes. **📊 Confirmed as the actual substitute: 5 of 7 Paparazzi non-adopters use it.** | **Knows nothing about the company the rep sells for.** No wholesale order, no inventory from corporate, no record reaching the home office. | **High** |
-| **Hustle** | Rep tooling | **$5/monthly-active-rep** *(DSO-paid)* | Funded, live, **paid across ~20,000 Paparazzi reps** | No back-office connection, no transaction layer | **High** |
+| **Hussle** | Rep tooling | **$5/monthly-active-rep** *(DSO-paid)* | Funded, live, **paid across ~20,000 Paparazzi reps** | No back-office connection, no transaction layer | **High** |
 | **Boards** | Rep tooling | DSO-paid | Incumbency | Same structural limit. **JE is migrating off now.** | Medium |
 | **PayPal / Venmo** | Informal payment | Fees | Everyone has it | Unbranded, no record, no inventory link | Medium |
 | **Excel** | Inventory | $0 | Free, familiar | Abandoned within two events | Low |
@@ -52,7 +52,7 @@
 > ### 🚫 Do not compete with Square on **subscription** price.
 > Square's free tier is **$0**. Wayroo Essentials is **$0 incremental**. Leading on the monthly price invites the obvious reply and loses the room. **Against Square, integration is the strongest argument.**
 >
-> ✅ Subscription price *does* differentiate against **Hustle ($5/monthly-active-rep) and Boards.** Use it there.
+> ✅ Subscription price *does* differentiate against **Hussle ($5/monthly-active-rep) and Boards.** Use it there.
 
 > ### 🔴 Correction 2026-09-02 — the transaction fee is a real argument we ruled out too broadly
 >
@@ -100,7 +100,7 @@
 
 | Alternative | Can claim it? |
 |---|---|
-| Square · Hustle · Boards · PayPal · Excel · doing nothing | ❌ **None** |
+| Square · Hussle · Boards · PayPal · Excel · doing nothing | ❌ **None** |
 | The DSO's own back office | Has the data — **not in her pocket, not at the table, not a card reader** |
 
 **No competitor reaches this without building an integration to ByDesign.** Everything else in the positioning is downstream of it, which is why USP 1 is the whole position.
@@ -118,7 +118,7 @@
                                 |
    NARROW  <---------------------+---------------------> BROAD
    (one job)                     |                    (many jobs)
-                        Square ● |  ● Hustle
+                        Square ● |  ● Hussle
                         PayPal ● |  ● Boards
                                  |
                        Excel   ● |  ● Doing nothing
@@ -160,7 +160,7 @@
 
 1. **The real target is inertia.** Budget is not the barrier; changing Saturday behaviour is. **First-run is the whole battle.**
 2. **Square is the honest benchmark.** Any claim that would not survive a rep saying *"Square does that free"* should be cut.
-3. **Hustle and Boards are feature competitors we have partially answered and never measured.** Media Library is a shipped partial answer; **the teardown is still outstanding.**
+3. **Hussle and Boards are feature competitors we have partially answered and never measured.** Media Library is a shipped partial answer; **the teardown is still outstanding.**
 4. **Paparazzi is both the biggest opportunity and the clearest competitive loss** — ~16,000 un-adopted reps at an account paying a competitor $5/rep.
 5. **SMS is the clearest product gap.**
 
@@ -171,8 +171,8 @@
 | # | Question | Method | Cost |
 |---|---|---|---|
 | 1 | 🔴 **Why is JE leaving Boards?** | **Ask Hope or Nancy** | **Free — overdue** |
-| 2 | What does Hustle actually do? | Buy it / rep network | Low |
-| 3 | Would Paparazzi drop Hustle? | Account conversation | Low — **a ~$100K/yr question** |
+| 2 | What does Hussle actually do? | Buy it / rep network | Low |
+| 3 | Would Paparazzi drop Hussle? | Account conversation | Low — **a ~$100K/yr question** |
 | 4 | Exigo rep app scope | Research | Medium |
 | 5 | Where does Media Library fall short? | Internal | Low |
 

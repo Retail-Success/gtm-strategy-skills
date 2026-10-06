@@ -156,7 +156,7 @@ Color Street **left Exigo** approximately 2 months before the May 1 demo (March 
 | Expiration date / freshness tracking per SKU | Already validated May 1. |
 | Reply to Buy — Facebook comment catcher | **Medium-High potential.** Brian: *"we could train"* — Color Street stylists don't currently live-sell. Positioned as **rep capability expansion**, not current-pain reliever. Different framing from active live-seller DSOs. |
 | DSO-integrated push notifications | **Phase 2 — explicitly de-prioritized by CEO.** Brian: *"we don't even have that internal right now... we're so far from that."* |
-| Wayroo Media Library | **Phase 2 — explicitly de-prioritized by CEO.** Brian: *"how do we use what you guys have simply for stats to sell? We don't want that to become our data management."* Replacement opportunity for Hustle / Fluid (not relevant for Color Street — they're rolling Dropbox-based — but reusable for other prospects). |
+| Wayroo Media Library | **Phase 2 — explicitly de-prioritized by CEO.** Brian: *"how do we use what you guys have simply for stats to sell? We don't want that to become our data management."* Replacement opportunity for Hussle / Fluid (not relevant for Color Street — they're rolling Dropbox-based — but reusable for other prospects). |
 | Host rewards (Party v2) | Color Street has active host rewards. Not raised either call. Flag for Party v2 launch outreach. |
 
 ### ✅ Acceptable / Neutral for MVP

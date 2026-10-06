@@ -57,7 +57,7 @@
 |---|---|
 | **3 × white-label at $25,000** | **~$75,000** |
 | **Wayroo Essentials free to 75,000 reps** | The whole rep-facing SaaS line, permanently |
-| **Not charging Hustle's $5/monthly-active-rep** | ⚠️ **Paparazzi alone: ~20,000 reps.** At Hustle's rate that is a very large annual number we chose not to pursue. |
+| **Not charging Hussle's $5/monthly-active-rep** | ⚠️ **Paparazzi alone: ~20,000 reps.** At Hussle's rate that is a very large annual number we chose not to pursue. |
 
 **All three are deliberate.** Free removes the cost objection, transaction pricing stops DSOs rationing access, and branded pilots buy reference accounts the motion has never had.
 

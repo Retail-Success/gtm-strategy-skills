@@ -63,10 +63,10 @@ Secondary: the field-leader growth loop (direct selling is a pre-built referral 
 |---|---|
 | **The real one** | 🔴 **Doing nothing.** Cash, Venmo, inventory tracked by memory. The majority behaviour. **The competitor is a habit, not a product.** |
 | **Square** | Free, genuinely good, mature. **Never compete on price here** — Square is $0 too. |
-| **Hustle** | $5/monthly-active-rep. **Paparazzi pays it across ~20,000 reps.** |
+| **Hussle** | $5/monthly-active-rep. **Paparazzi pays it across ~20,000 reps.** |
 | **Boards** | Incumbent at JE, being displaced now |
 
-**Confidence: HIGH on Square and the status quo** · ⚠️ **MEDIUM-LOW on Hustle and Boards** — Media Library is a partial answer, Aice is a full one post-merger, but **no feature-level teardown exists.**
+**Confidence: HIGH on Square and the status quo** · ⚠️ **MEDIUM-LOW on Hussle and Boards** — Media Library is a partial answer, Aice is a full one post-merger, but **no feature-level teardown exists.**
 
 ## 8. Differentiation
 
@@ -83,7 +83,7 @@ One claim, structural, and no competitor reaches it without building an integrat
 **Already have them** — that is what makes this motion different from every other Power Hour.
 
 1. **Jordan Essentials** — live, 764 adopters, ProPay done, Tap-to-Pay trial in 2–3 weeks
-2. **Paparazzi** — 4,000 on Wayroo, **~16,000 un-adopted, ProPay cleared, and paying Hustle $5/rep.** The densest addressable concentration in the base.
+2. **Paparazzi** — 4,000 on Wayroo, **~16,000 un-adopted, ProPay cleared, and paying Hussle $5/rep.** The densest addressable concentration in the base.
 3–5. **The three pilot DSOs** — free Wayroo + free branding, selected on ProPay-approvability across a deliberate three-slot portfolio
 6–10. Ranked by **demand-counter density**, once the counter ships
 
