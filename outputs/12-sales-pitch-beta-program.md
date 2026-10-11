@@ -58,12 +58,18 @@ The second half uses the message-tested "extends your back office to the field" 
 
 ---
 
-## The pitch: ~3 minutes, spoken
+## The pitch: ~3½ minutes, spoken
 
 Deliver after 5–10 minutes of discovery. Bracketed lines are where you use what they just told you.
 
-> **[1. Why I'm calling, 20 sec]**
-> "Quick context. We're ByDesign. We've built back-office software for direct selling for 25 years. For the last couple of years we've been building a rep-facing app called Wayroo and running it with our own clients. It works, and now we want to know whether it works just as well at companies on *other* back offices. Wayroo connects to any of them. So we've opened a beta, the app is free, and I think you'd be a good fit."
+> **[1. Why I'm calling, 45 sec]**
+> "Quick context. We're ByDesign. We've built back-office software for direct selling for 25 years. For the last couple of years we've been building a rep-facing app called Wayroo and running it with our own clients, and it's working.
+>
+> At one of our clients, reps using Wayroo did over $30 million in sales last year. Another, Jordan Essentials, launched it at their convention this summer. There were about 1,000 reps in the room, and more than 700 downloaded Wayroo in the first two days. That's over 70%. Reps were excited because they're tired of juggling Square, Venmo, PayPal and spreadsheets that don't connect to their back office or their inventory.
+>
+> Now we want to know if it works just as well at companies on *other* back offices. Wayroo connects to any of them. So we've opened a beta, the app is free, and I think you'd be a good fit."
+>
+> *[⚠️ Confirm the ~1,000 convention attendance before using the 70% figure. Our records show 764 downloads against 2,614 active reps (29% of the whole field). If attendance can't be confirmed, say "more than 700 reps downloaded it in the first two days."]*
 >
 > **[2. Their reps' world, 30 sec]**
 > "Here's what we see almost everywhere. Reps run their business on six to ten apps: Square at the table, Venmo or PayPal for everything else, a spreadsheet for inventory, Canva for graphics. That costs them $60 to $100 a month of their own money. *[You mentioned ___.]* None of those apps know what the rep ordered from you, and none of them tell you what she sold.
@@ -91,8 +97,10 @@ Deliver after 5–10 minutes of discovery. Bracketed lines are where you use wha
 > **[5. What you get, 30 sec — tailor to who's in the room, see routing below]**
 > "On your side, every sale becomes a record you can see: who's selling, what's moving, who's stuck. Customers your reps sell to stop being invisible. Every rep is her own merchant, so chargebacks are hers, not yours. As a beta partner, the app and the selling tools are free to you. No license, no per-rep fee. You can give it to your reps free, or charge for it like you do other tools and keep every dollar."
 >
-> **[6. Proof, 30 sec]**
-> "This isn't a prototype. When Jordan Essentials, one of our clients, launched Wayroo at their convention in July, 764 reps downloaded it in two or three days, nearly 30% of their active field. *[Verbal only, until published:]* At Paparazzi, about 4,000 reps on Wayroo did $31 million in sales last year."
+> **[6. What reps reacted to, 20 sec]**
+> "That launch also told us what reps actually want. The biggest reactions were to taking a card on their phone, sending an invoice with a payment link, and seeing their own sales and team numbers without logging into the back office. They didn't get excited about another content library. They got excited about running their business."
+>
+> *[The headline numbers moved to beat 1, so don't repeat them here. If they ask who the $30M client is, it's Paparazzi: about 4,000 reps on Wayroo, $31M in 2025. Verbal only until the case study is published.]*
 >
 > **[7. How we make money, 20 sec — say it before they ask]**
 > "You'll want to know where the catch is. A lot of tools charge a fee whether or not your reps sell. We don't. We earn a small share of the payments your reps take through the app, so **we only make money when your rep starts making money.** That's what lets us give the app away. Later we'll add optional premium features. The core app and the selling tools stay free for beta partners."
@@ -199,8 +207,8 @@ Free doesn't mean anyone. Each beta partner costs integration and support time, 
 |---|---|---|
 | "Free for beta partners: core app and selling tools" | "Free forever for everyone" or "Free" with no detail | Name what stays free. Being vague is what creates suspicion. |
 | "We make money on payments your reps take" | Leaving out how we make money | Say it before they ask. It's the trust moment. |
-| "764 reps downloaded within 2–3 days of the convention" | "...and still growing" | Nothing after the launch window has been measured |
-| "~4,000 reps on Wayroo did $31M in 2025" *(verbal only)* | Paparazzi on slides or in email; "Paparazzi's whole field" | Case study unpublished; the field is ~20,000 |
+| "More than 700 reps downloaded it in the first two days" · "Over 70% of the reps at the convention" *(once attendance is confirmed)* | "...and still growing" · "70% of their field" | Nothing after the launch window has been measured. 70% is of convention attendees (~1,000, unconfirmed), not the field: 764 of 2,614 active reps is 29%. |
+| "Reps using Wayroo did over $30 million in sales last year" · "~4,000 reps on Wayroo did $31M in 2025" *(verbal only)* | "$30M ran through Wayroo" · Paparazzi on slides or in email · "Paparazzi's whole field" | The share of the $31M that ran through Wayroo's payment rails isn't confirmed. Case study unpublished; the field is ~20,000. |
 | Tap-to-Pay, invoicing, storefront, vendor-event selling, dashboards, media library | **Dropship**, **Back Office Lite**, or Aice features as available | Unshipped, or unresolved (Aice) |
 | "We integrate with any back office" | "Plug and play," "live in a day," "no setup cost" | There is an integration fee, and the timeline depends on scoping |
 | "No license, no per-rep fee" | "It costs you nothing" | The integration fee is real, even when discounted |
@@ -240,7 +248,7 @@ These change what you can say. Each has a recommended default.
 | 4 | ✅ **Resolved 2026-10-05: free custom branding for partners who are really interested.** | Use it as a closer, not in the headline offer | Keep track of who gets it. The 3 client pilots got it free too, at a stated $25K value. If most partners end up with it, it stops being a paid add-on. |
 | 5 | ✅ **Resolved 2026-10-05: no limit on beta length or spots.** | — | Nothing switches off, so the JE-510 risk doesn't apply. Watch support and integration capacity as partners sign. |
 | 6 | ✅ **Resolved by #5: there's no end date.** Partners stay on the free core, with optional premium tiers later. | — | — |
-| 7 | ✅ **Resolved 2026-10-05: Jordan Essentials can be named.** | — | Beat 6 is safe to use as written |
+| 7 | ✅ **Resolved 2026-10-05: Jordan Essentials can be named.** | — | Beat 1 uses it. Still confirm the ~1,000 convention attendance behind the "over 70%" figure. |
 | 8 | ✅ **Resolved 2026-10-05: Wayroo-led is decided, and Action 5 is retired.** The beta replaces it. | — | Measure the beta by the funnel below, not by meeting acceptance. |
 
 ---
