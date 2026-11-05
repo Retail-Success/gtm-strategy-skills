@@ -22,6 +22,8 @@ This folder tracks what we've learned from prospect interactions — demo calls,
 | [Nuvi Global](nuvi-global.md) | Direct selling (line n/d) | [unknown] | **ByDesign Freedom** + **own custom storefront (~2 yrs, near done)** | Demo complete — **not in play this cycle**; durable feedback channel | [unknown] | **Sep 22, 2026** | Standard DSO — **build-vs-buy / retention-at-risk** (NOT Shopify winback) |
 | [Jordan Essentials](jordan-essentials.md) | Personal care / skincare / bath & body | **~2,500** | ByDesign Freedom + **Wayroo (live)**; reps previously Square/Venmo/PayPal | ✅ **CLOSED-WON — LIVE.** Launched July 17–18, 2026. 700+ downloads in launch weekend (~28%). Paid start pulled forward to Sept 2026 at customer request. | ⚠️ **Under re-measurement — ~20% confirmed understated** | **July 17–18, 2026** | Hybrid DSO (Wayroo upsell to existing Freedom client) — **may reclassify toward C&C** |
 | [Pomifera](pomifera.md) | Skincare / personal care | [TBC] | **ByDesign Freedom** + legacy cart + **DSOL** front page; Nuvei gateway | Demo complete — **self-nominated beta candidate.** Storefront landed (*"you nailed it"*); one severity-5 gap dominates | [TBC] | **Sep 29, 2026** | **Segment B — Freedom ecommerce (Cart V3).** 🔴 Not Wayroo |
+| [Sciteria Health Sciences](sciteria-health-sciences.md) | Topical health/wellness skincare (lotions, creams; health claims) | **Undisclosed** (a group following the founder from a former company) | Pre-launch. **Freedom in proposal** + **Wayroo Essentials evaluated**; Nuvei gateway | **Proposal (50%), verbal commitment on Freedom.** Wayroo demo Nov 2. SOW due week of Nov 2; close forecast ~Nov 16 | Not confirmed (selling tools judged "not a fit", by Autumn) | **Nov 2, 2026** | **New-logo startup DSO, edge case.** First new-logo Freedom + Wayroo bundle |
+| [Total Life Changes](total-life-changes.md) | Wellness / weight management (Iaso tea; ingestible) | [unknown]; ships to ~190 countries | **Exigo** (~$30K/mo, commissions + order count) + **Shopify** (~3 yrs, liked) + **TLC-owned middleware** | **Discovery complete (no demo).** Full platform demo for Richard Berg next. **Former ByDesign client.** Aice-warmed | [unknown] | **Nov 5, 2026** | **Exigo displacement, keep Shopify.** Land on Freedom via re-pointed middleware → field app → Cart V3 |
 
 ---
 
@@ -82,6 +84,32 @@ This folder tracks what we've learned from prospect interactions — demo calls,
 | **Abandoned-cart rate is a derivable proof point the client cannot see** | Pomifera (VP Sales: *"I can only imagine how many abandoned carts we have"*) | Mirrors the **Jordan Essentials** lesson that self-reported client figures are unreliable where ByDesign holds the back-office data. **We can compute the no-referrer drop-off from Freedom.** Converting a felt pain into a number is the strongest possible follow-up to this call — and reusable across the base. |
 | **The client hands you the spec if you stop demoing** (probationary) | Pomifera (Christina produced the display fields, the privacy constraint and the failure mode unprompted) | Single account, but a clean sales-motion signal consistent with the pitch kit's *"then stop driving for ten minutes."* The presenter's *"feel free to interrupt"* was the highest-yield sentence in the call. **Book 60 minutes, not 30, for beta-track sessions** — this call ran out of time exactly when it became valuable. |
 
+### Patterns added from the Sciteria Health Sciences Wayroo demo (November 2, 2026)
+
+> ⚠️ Source is an **internal debrief** (Autumn and Dan, Revenue Leadership Meeting), not a first-party transcript. Every pattern here is probationary until the prospect's own words confirm it.
+
+| Pattern | Accounts | GTM Implication |
+|---------|----------|----------------|
+| **White-label appetite depends on the segment** | **Color Street** (established C&C DSO, CEO: *"function over fashion"*) vs. **Sciteria** (startup founder: "didn't love anything branded Wayroo", wants full branding) | **Two accounts, opposite readings.** `06-persona-positioning.md` H1 says the only evidence points *against* white-label appetite, and that is now out of date. Founders building a brand want it, and established operators want function. **Neither will pay now:** one doesn't care, the other can't afford it. Price white-label as a growth path for startups, not an entry fee. |
+| **Startups remove the adoption fight** | Sciteria (Autumn, and the room agreed) | The installed base's core Wayroo problem (~20–28% adoption) doesn't exist at a company that launches with the app. A **startup row** is missing from Wayroo positioning. The trade-off: a tiny field means near-zero payments revenue in year one, so Wayroo acts as a Freedom deal-closer here, not a revenue line. |
+| **Automated field communication (notification center + autoresponders) is unpositioned** | Sciteria ("her favorite part") | No positioning doc mentions autoresponders or the notification center. Current copy says "corporate reaches the field", but the hook was **automation**: the field hears from the home office without anyone sending it. Test it as the lead Essentials benefit for lean and startup home offices. |
+| **Media Library needs a condition to win the buyer** | Jordan Essentials (buyer high, reps low) + Sciteria (wants it only with an AI layer) | Media Library on its own doesn't carry a buyer conversation. The AI-layer request overlaps with the Aice partnership and with Fluid's AI positioning. Log it to product. Don't promise it. |
+| **The Wayroo prospect price ladder is used live but not written down** | Sciteria ($5K / $10–15K gray label / ~$100K own app quoted or held back) | The repo anchor for white-label is $25K, and the prospect pitch still says [PRICING]. Write the ladder down before a second seller quotes different numbers. |
+
+
+### Patterns added from the Total Life Changes call (November 5, 2026)
+
+> ⚠️ Source is **internal paraphrased notes** (Confluence "TLC Meeting"), not a transcript. Treat quotes as paraphrase.
+
+| Pattern | Accounts | GTM Implication |
+|---------|----------|----------------|
+| ⭐ **Re-point the client's own Shopify middleware** | **Color Street** (CTO: *"replicate the API and just have it directed to your endpoint"*) + **TLC** (own webhook middleware to Exigo; would *"likely scrap it and use ours"*) | **Two-account pattern.** It's a third integration path besides the cancelled connector and Shop IQ. It lets a DSO swap the back office without leaving Shopify. New discovery question: *"Who built your Shopify integration, and who maintains it?"* Full note: [`outputs/shopify-middleware-repoint-intelligence.md`](../outputs/shopify-middleware-repoint-intelligence.md) |
+| **"Keep Shopify" buyers: land on the back office, not the cart** | TLC (*"it's great"*; credits Shop Pay with a conversion lift) | The "offer both / all-in-one" default and the three-Shopify-bills argument fail with a buyer who likes Shopify. Land on commissions + back office; the cart is a later expansion that has to prove conversion parity |
+| **Data trust in the vendor (probationary)** | TLC (CEO, severity 5: believes Exigo shared TLC's sales with suppliers) | A positioning pillar no `06-*` doc covers. Back it with contract terms (including ByDesign ↔ Aice data flows) before saying it. 🛑 Never repeat TLC's allegation |
+| **Exigo's ownership change is souring relationships (probationary)** | TLC (*"now it's investment bankers"*) | A why-now trigger for the Exigo base. Pairs with the "real people" ask. Watch for it in other Exigo accounts |
+| **Aice is sourcing pipeline** | TLC (heard from Bryan before the call; Bryan co-pitched) | The first record of the partnership producing a new-logo Freedom opportunity. Track partner-sourced deals separately |
+| **Commissions-only land (probationary)** | TLC (Exigo used *"mainly for commission calculation"*) + the EllieMD note (genealogy + commissions only) | A narrower first contract than a full back-office move. Package and price it |
+
 ---
 
-*Updated: September 29, 2026*
+*Updated: November 5, 2026*

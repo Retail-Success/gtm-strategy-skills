@@ -2,6 +2,7 @@
 
 **Phase:** 11 — Running Marketing, Task 1
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
+**Audience:** the **rep**. The home-office companion (ByDesign + Wayroo + Aice) is [`11-strategic-narrative-home-office.md`](11-strategic-narrative-home-office.md) (2026-11-05).
 
 > **Not a tagline, not a pitch.** The story about where this industry is going and why Wayroo is the obvious answer in that future. Everything else — decks, copy, a podcast answer, a board conversation — derives from it.
 
