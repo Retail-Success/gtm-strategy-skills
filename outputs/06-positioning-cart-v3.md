@@ -4,6 +4,7 @@
 **Product:** Freedom ecommerce — **Shopping Cart V3 + Branding Studio**. Not Wayroo.
 **Audience:** Existing ByDesign Freedom clients (~65 branded storefronts)
 **Created:** 2026-09-22 · **Owner:** Sam Atieh
+**Revised 2026-11-12** — PureHaven demo recap: the promotion engine is added as **U7**, Step 1 gains a breakdown of the Shopify app stack (alternative 3), Segment D is now "in beta", and open items 5–7 are new. ⚠ **Source is Sam's recap, not a transcript** — see [`inputs/2026-11-12-purehaven-cart-v3-demo-recap.md`](../inputs/2026-11-12-purehaven-cart-v3-demo-recap.md). The Confluence copy (below) was **not** updated; that needs a draft → confirm.
 **Framework:** April Dunford six-step positioning, adapted
 
 **Published (sales-facing version, Retail Success (BDT) Revenue - GTM space):** [Shopping Cart V3 — Positioning](https://bydesign.atlassian.net/wiki/spaces/RSRevGTM/pages/711950643) · parent [Cart V3 & Enrollment — Positioning & Messaging](https://bydesign.atlassian.net/wiki/spaces/RSRevGTM/pages/712212482)
@@ -56,6 +57,23 @@ And one thing we had not positioned at all produced the best quote of the call:
 | **4** | **Split the stack** | Shopify for retail, our cart for DSO-specific flows, permanently. | **Pure Haven does this today** — still on our cart for shop-on-behalf |
 | **5** | **Do nothing / defer** | Ecommerce is live revenue. Nobody touches it without a reason. | Default for most of the base |
 
+### Alternative 3 in detail — what the Shopify stack costs a DSO *(Pure Haven; 2026-06-25 and 2026-11-12 recap)*
+
+Pure Haven ran this alternative and stopped half-way: it left our cart for Shopify but kept our cart for what Shopify cannot do. What the record says about each leg of the stack:
+
+| Leg | What they hit | Evidence |
+|---|---|---|
+| **AutoShip** | Shopify's auto-renewal is a catch-all: every item renewable, and promotions and price changes may not be caught. The plugins they tried did not close it. **The market for DSO-grade AutoShip apps is thin — "only one or two companies" in Carlos's count** — so a DSO picks a partner from a narrow set and then depends on it. | 2026-06-25 (relayed); 2026-11-12 (recap) |
+| **Promotions** | Promotion capability beyond the basics needed a paid third-party app. | 2026-11-12 (recap) — ⚠ scope to verify |
+| **Customization** | Deeper than ours, with no third party needed. The one leg where Shopify wins. | 2026-06-25 (relayed) |
+| **Rep-managed ordering** | Not possible on Shopify; they kept our cart for it. | 2026-06-25 (relayed) |
+
+**Why Pure Haven left in the first place (the record):** **(1) speed and stability** — frequent high-severity issues, field complaints about speed, and API-call remediation that never reached a satisfactory level; **(2) customization depth without a third party.** Cost is why they want to return, not why they left: they pay a Shopify premium they would rather not pay.
+
+**The line against alternative 3** is not "Shopify can't do promotions." It is: *the two things a DSO's recurring revenue depends on — AutoShip and promotions — sit with a small set of third-party vendors on Shopify, and with one vendor, the one that also runs your comp plan, on ours.*
+
+⚠ **Never say "Shopify has no promo codes."** Shopify has native discount codes. What Carlos said, as Sam recalls it, was about *his* Shopify setup; which part failed (AutoShip renewals, DSO-style promotions, stacking) is not captured. Open item 5.
+
 ### 🔴 The alternative we have been under-weighting
 
 **Alternative 2 — build your own — is not a fringe case.** It is what a PROTECT-tier growth account (147% YoY, +$0.9M) chose, and the trigger was mundane: they asked for design changes we could not deliver, and eventually stopped asking.
@@ -76,6 +94,9 @@ And one thing we had not positioned at all produced the best quote of the call:
 | **U4** | **Shop on behalf of a customer, with attribution and commission intact** | Pure Haven *still dual-runs our cart* for exactly this; Shopify disallows it | **No — structurally prohibited on Shopify** |
 | **U5** | **Rep attribution, parties, rank pricing, volume, ~148 per-country settings** | Parity matrix | Only by rebuilding a DSO platform |
 | **U6** | 🆕 **Someone else's site can host the commerce** — one domain, no hand-off | ⚠️ **Legacy only** (`JSCART_ALLOW_FRAMED_CART`). **V3 records this as a Gap** | Shopify: partially, via headless. **We are currently going backwards on this** |
+| **U7** | 🆕 ⭐ **Promotion engine — automatic and by code, evaluated by the back office that also runs AutoShip and the comp plan**, so a renewal catches the promotion and the price change | Pure Haven, 2026-11-12 (Sam's recap): a "powerful component"; Shopify "super limited," paid apps fill the gaps. Freedom `EvaluateCartPromotions` and the legacy cart | **Partly.** Shopify has native discount codes and apps add more. What a retail stack does not copy cheaply is promotions that feed AutoShip renewals and commission. ⚠️ **V3 is not wired yet:** PL-88 In Progress; promo-code field, automatic-promotions panel and redemption limits in Development (Jira read 2026-11-12); parity matrix 2026-09-04: code entry Partial, automatic promotions Gap |
+
+> ⚠️ **U7 ship gate.** Say "our promotion engine" about the *platform*; do not say Cart V3 does it until PL-88 ships. And U7 is a capability advantage, not a structural one like U2a and U4 — Shopify can narrow it with apps, so the claim has to be scoped (open item 5) before it appears in anything a client reads.
 
 ### ⭐⭐ U2a — why embedded enrollment is a *Shopify* differentiator, not just a nice join
 
@@ -125,6 +146,7 @@ That makes this differentiator the same *shape* as shop-on-behalf (U4) — not a
 | Catalog, cart, checkout, payments | ✅ |
 | **Rep attribution that survives to commission** | ✅ U5 |
 | **AutoShip with promo- and price-change-aware renewals** | ✅ U3 |
+| **Promotion engine (automatic and by code)** | ⚠️ Freedom has it; V3 not wired yet (PL-88) — U7 |
 | **Shop on behalf of a customer** | ✅ U4 |
 | Parties, rank pricing, volume, gift certificates, credits | ✅ U5 |
 | Per-country tax, currency, address layouts | ✅ |
@@ -148,7 +170,7 @@ That makes this differentiator the same *shape* as shop-on-behalf (U4) — not a
 | **A — On the legacy cart, no third-party plans** | 🔴 **1** | The largest group and the easiest win. They need modernization, not rescue |
 | **B — On the legacy cart, evaluating Shopify or a build** | 🔴 **1 — time-critical** | The Nuvi Global trigger is live here right now. **Intercept before the build starts** |
 | **C — Mid-build on their own** | **4** | ⚠️ **Largely unwinnable once started.** Nuvi Global is 2 years in. Keep the feedback relationship; do not spend selling |
-| **D — Left for Shopify, partially retained** | 3 | Pure Haven. Gated on the performance and customization proof |
+| **D — Left for Shopify, partially retained** | 3 | Pure Haven. Gated on the performance and customization proof. ⭐ **2026-11-12: Pure Haven agreed to join the beta** (Sam's recap; scope not captured) — D is now "in beta," and the dependencies are V3 promotions (PL-88) and AutoShip enhancement |
 | **E — Fully on Shopify** | 5 | Shop IQ partnership territory now, not ours |
 
 ⭐ **The segment shift:** we built this positioning for D (Shopify winback). **The volume is in A and B**, and B has a clock on it.
@@ -171,6 +193,7 @@ The 2026-09-22 evidence says the visual frame does not survive contact with a cl
 | 🔻 Studio feature/control lists | ⭐ **"Not one-size-fits-all"** — the posture, with controls as proof |
 | 🔻 Extensibility as a concept | ⏸ **Hold until there is an artifact to show.** Drop the agentic mention entirely |
 | 🔻 Speed as a headline | ⏸ **Hold until measured.** No benchmark exists |
+| 🔻 *"Shopify has no promo codes"* — false as stated; Shopify has native discount codes | ⭐ **"Your promotions follow your customers into AutoShip"** (U3 + U7) — **only** once PL-88 ships and the Shopify scope is verified |
 | — | ⭐ **The custom-build cost argument** (Step 4) — new, evidenced, and aimed at Segment B |
 
 **Full messaging:** [`06-messaging-house-shopify-connector-and-cart-v3.md`](06-messaging-house-shopify-connector-and-cart-v3.md) — Cart V3 pillars V1–V3 need revision per the table above.
@@ -186,6 +209,14 @@ The 2026-09-22 evidence says the visual frame does not survive contact with a cl
 | Revise messaging-house Cart V3 pillars V1–V3 | Sam | 2026-10-03 |
 | Re-test this positioning on a **Segment B** client (evaluating, not yet building) | Sam / Cassie | 2026-10-17 |
 
+**Added 2026-11-12 (proposed — owners and dates not yet agreed):**
+
+| # | Item | Owner | Due |
+|---|---|---|---|
+| 5 | Verify what Shopify does natively with promo codes and AutoShip renewals, which apps fill the gap, and at what price — then scope the Pure Haven claim | Sam | 2026-11-19 |
+| 6 | Get the transcript or recording of the 2026-11-12 demo; re-check the recap, the "one or two companies" figure and the beta scope against it | Sam | 2026-11-13 |
+| 7 | Raise PL-88 (V3 promotions) as a beta dependency at the Weekly Commerce Check-In | Sam | 2026-11-19 |
+
 ---
 
-*Inputs: [`prospects/nuvi-global.md`](../prospects/nuvi-global.md) (first-party transcript, 2026-09-22) · [`inputs/2026-08-purehaven-cart-feedback.md`](../inputs/2026-08-purehaven-cart-feedback.md) · Team OS `PRDs/cart/prd-cart-v3-2026-05-17.md`, epic [PL-68](https://bydesign.atlassian.net/browse/PL-68), parity matrix 2026-09-04.*
+*Inputs: [`prospects/nuvi-global.md`](../prospects/nuvi-global.md) (first-party transcript, 2026-09-22) · [`inputs/2026-08-purehaven-cart-feedback.md`](../inputs/2026-08-purehaven-cart-feedback.md) · [`inputs/2026-11-12-purehaven-cart-v3-demo-recap.md`](../inputs/2026-11-12-purehaven-cart-v3-demo-recap.md) (Sam's recap, no transcript) · Team OS `PRDs/cart/prd-cart-v3-2026-05-17.md`, epic [PL-68](https://bydesign.atlassian.net/browse/PL-68), parity matrix 2026-09-04.*

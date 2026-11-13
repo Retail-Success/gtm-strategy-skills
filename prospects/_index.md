@@ -24,6 +24,7 @@ This folder tracks what we've learned from prospect interactions — demo calls,
 | [Pomifera](pomifera.md) | Skincare / personal care | [TBC] | **ByDesign Freedom** + legacy cart + **DSOL** front page; Nuvei gateway | Demo complete — **self-nominated beta candidate.** Storefront landed (*"you nailed it"*); one severity-5 gap dominates | [TBC] | **Sep 29, 2026** | **Segment B — Freedom ecommerce (Cart V3).** 🔴 Not Wayroo |
 | [Sciteria Health Sciences](sciteria-health-sciences.md) | Topical health/wellness skincare (lotions, creams; health claims) | **Undisclosed** (a group following the founder from a former company) | Pre-launch. **Freedom in proposal** + **Wayroo Essentials evaluated**; Nuvei gateway | **Proposal (50%), verbal commitment on Freedom.** Wayroo demo Nov 2. SOW due week of Nov 2; close forecast ~Nov 16 | Not confirmed (selling tools judged "not a fit", by Autumn) | **Nov 2, 2026** | **New-logo startup DSO, edge case.** First new-logo Freedom + Wayroo bundle |
 | [Total Life Changes](total-life-changes.md) | Wellness / weight management (Iaso tea; ingestible) | [unknown]; ships to ~190 countries | **Exigo** (~$30K/mo, commissions + order count) + **Shopify** (~3 yrs, liked) + **TLC-owned middleware** | **Discovery complete (no demo).** Full platform demo for Richard Berg next. **Former ByDesign client.** Aice-warmed | [unknown] | **Nov 5, 2026** | **Exigo displacement, keep Shopify.** Land on Freedom via re-pointed middleware → field app → Cart V3 |
+| [PureHaven](purehaven.md) | [Not yet confirmed] | [unknown] | **ByDesign Freedom** + **Shopify** (split stack; our cart kept for shop-on-behalf) | **Churned → beta agreed** (Cart V3 demo delivered) — scope unconfirmed | [unknown] | **Nov 12, 2026** | **Segment D — Freedom ecommerce (Cart V3 win-back).** 🔴 Not Wayroo |
 
 ---
 
@@ -110,6 +111,16 @@ This folder tracks what we've learned from prospect interactions — demo calls,
 | **Aice is sourcing pipeline** | TLC (heard from Bryan before the call; Bryan co-pitched) | The first record of the partnership producing a new-logo Freedom opportunity. Track partner-sourced deals separately |
 | **Commissions-only land (probationary)** | TLC (Exigo used *"mainly for commission calculation"*) + the EllieMD note (genealogy + commissions only) | A narrower first contract than a full back-office move. Package and price it |
 
+### Patterns added from the PureHaven Cart V3 demo (November 12, 2026)
+
+> 🔴 **Freedom ecommerce (Cart V3)** patterns, not Wayroo. ⚠️ Source is **Sam's recap, not a transcript** — every pattern is probationary until the recording confirms it.
+
+| Pattern | Accounts | GTM Implication |
+|---------|----------|----------------|
+| **The Shopify stack's AutoShip leg depends on a narrow vendor set (probationary)** | PureHaven (*"only one or two companies"* — their count, paraphrased) | Sharpens the Cart V3 positioning's alternative 3: a DSO on Shopify picks AutoShip and promotions partners from a few third-party vendors. Verify the count and name the vendors before using it. |
+| **Promotion engine as a second AutoShip-class argument (probationary)** | PureHaven (*"powerful component"*; Shopify *"super limited"*, paid apps) | Added as U7 in `06-positioning-cart-v3.md`. A capability advantage, not a structural one: Shopify has native discount codes, so scope the claim. 🔴 **V3 does not use the engine yet (PL-88)** — gate any "V3 has this" claim. |
+| **Win-back lands as a beta, not a migration (probationary)** | PureHaven (agreed to the beta in the demo session, after four weeks of rescheduling) | Make the beta the ask in the first demo for Segment D. Pairs with BYD-221's counting rule (a client that joins the beta counts). |
+
 ---
 
-*Updated: November 5, 2026*
+*Updated: November 12, 2026*
