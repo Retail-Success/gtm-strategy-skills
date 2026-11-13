@@ -279,6 +279,24 @@ Present the complete file content in a code block and say: "This is the complete
 
 ---
 
+## Task 6b: Shopify Evidence (only when Shopify came up) (~5–10 min)
+
+**Output:** new rows in `outputs/shopify-intelligence.md`
+
+**Trigger:** anyone on the call mentioned Shopify, Shop Pay, a Shopify connector or middleware, or a Shopify app (AutoShip/subscription, promotions, theme). Skip this task otherwise and say so.
+
+**What to do:**
+1. Read `outputs/shopify-intelligence.md` first: the pain register (§2) and the newest evidence rows (§8).
+2. **§8 Evidence log:** one row per distinct statement, newest first. Verbatim quote with transcript timestamp; mark anything paraphrased `[paraphrase]`. Never edit or delete existing rows.
+3. **§2 Pain register:** map each statement to a pain ID. For a known pain, update the account count and max severity. For a new pain, add the next ID (P11, P12…).
+4. **§4 Our advantage / §7 Gaps:** if a pain had no good answer on the call, or a claim was made we can't back, add or update a §7 gap row. If a gap now has 2+ accounts or severity 5 from an economic buyer, tell the user to take it to Team OS with `/feature`.
+5. **§0 Current answer:** if what we said about a connector differs from §0, flag it. Never update §0 from a call alone; it follows the Team OS vendor file.
+6. Bump "Accounts so far".
+
+Present the rows inline and write them after confirmation, together with the Task 6 prospect file.
+
+---
+
 ## Task 7: Update `_index.md` and Cross-Skill Callout (~10 min)
 
 **Output:** `prospects/_index.md` (updated) + cross-skill callout presented inline
@@ -353,6 +371,7 @@ Named: `outputs/[descriptive-slug]-intelligence.md` — no phase number prefix (
 | 4. Map to GTM Context | Structured analysis (inline) | ~10–15 min |
 | 5. Surface GTM Signals | Signal list + 4 questions (inline) | ~10 min |
 | 6. Create or Update Prospect File | `prospects/[company-slug].md` | ~10–15 min |
+| 6b. Shopify Evidence (if Shopify came up) | `outputs/shopify-intelligence.md` | ~5–10 min |
 | 7. Update Index + Cross-Skill Callout | `prospects/_index.md` + inline | ~10 min |
 
 **Total per call:** ~65–80 min (most of that is reading and reasoning — the actual writing is 20–30 min of active output)
