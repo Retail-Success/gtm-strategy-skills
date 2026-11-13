@@ -2,6 +2,10 @@
 
 **Type:** cross-account intelligence (pattern-level) · **Created:** 2026-11-05 · **Owner:** Sam Atieh
 **Accounts:** Color Street (2026-05-06) + Total Life Changes (2026-11-05)
+
+> **Part of [`shopify-intelligence.md`](shopify-intelligence.md)**, the single Shopify hub (pain register, current connector answer, evidence log). Add new Shopify evidence there; this file stays the detailed write-up of one pattern.
+>
+> **2026-11-12 update (TLC demo transcript):** Rick Berg **declined** our offer to port or take over the middleware twice (*"I'm not interested in going down that path… I can do that myself"*). The 2026-11-05 note that TLC would *"likely scrap it and use ours"* no longer holds. TLC will re-point its own middleware at our API. The "turns a maintenance burden into our service" point below is unproven for TLC.
 **Status:** two-account pattern. **Probationary as a sales motion**: no deal has closed on it yet.
 
 ---
