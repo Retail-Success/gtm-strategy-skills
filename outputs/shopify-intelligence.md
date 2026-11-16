@@ -2,7 +2,7 @@
 
 **Type:** cross-account intelligence hub, **the single home for what calls tell us about Shopify** · **Created:** 2026-11-13 · **Owner:** Sam Atieh
 **Accounts so far:** Total Life Changes, Color Street, PureHaven, Nuvi Global, plus the Aug 2026 demand-data review
-**Confluence copy (read-only mirror, re-sync after edits):** [Shopify Intelligence — Pains, Our Advantage, Discovery](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/829030402), synced 2026-11-13 from `cacb13f`
+**Confluence copy (read-only mirror, re-sync after edits):** [Shopify Intelligence — Pains, Our Advantage, Discovery](https://bydesign.atlassian.net/wiki/spaces/RSGTM/pages/829030402), synced 2026-11-16 from `1a445c6` (Confluence v2)
 **Fed by:** `analyzing-call-transcripts` Task 6b (sales calls) and Team OS `/customer-call` (existing-client calls). See [How to add a call](#how-to-add-a-call).
 
 > **What lives here and what doesn't.** Field evidence (what prospects and clients said about Shopify, and what it means) lives **here**. **Company decisions and vendor contracts live in RS-Product-Team-OS** and are linked, never copied, because they change week to week:
