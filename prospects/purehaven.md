@@ -1,7 +1,7 @@
 # Prospect: PureHaven
 
 **Last updated:** November 15, 2026
-**Stage:** Churned → demo done, engaged (Cart V3). Their condition for returning is **checkout performance**. The beta is **unconfirmed** (not in the captured transcript).
+**Stage:** Churned → demo done, **beta agreed** (Sam, 2026-11-16; scope not captured). Their condition for returning is **checkout performance**. A follow-up meeting will happen.
 **Owner:** Sam Atieh (Cassie Lewis and Cody Poslusny on outreach)
 **GTM Segment:** Freedom ecommerce — Cart V3 **Segment D** (left for Shopify, partially retained). Not Wayroo.
 
@@ -42,7 +42,7 @@
 | Date | Type | Attendees | Summary |
 |------|------|-----------|---------|
 | 2026-06-25 | Win-back / product feedback (relayed) | ByDesign account contact; Carlos | Why they left, what they kept, what would bring them back. Would return "in a partial or full capacity" if the cart improves. Source: [`inputs/2026-08-purehaven-cart-feedback.md`](../inputs/2026-08-purehaven-cart-feedback.md) |
-| 2026-11-12 | Cart V3 demo | Sam Atieh; Cody Poslusny (organizer), Jessica Sanchez (presented), Brian Mander (invite); Carlos and two other PureHaven invitees (no captured speech) | Took the demo after the 2026-10-20 slot did not hold; long, specific feedback; left early. Performance is why they left and the condition for returning; the promotion engine is admired but slowed checkout; a DSO on Shopify has two expensive AutoShip vendors plus a promo app covering ~80%. Asks: AutoShip at the product page, a JavaScript code block, tags, tabs, accessibility. **Beta not in the captured transcript.** Source: [`inputs/2026-11-12-purehaven-cart-v3-demo-recap.md`](../inputs/2026-11-12-purehaven-cart-v3-demo-recap.md) |
+| 2026-11-12 | Cart V3 demo | Sam Atieh; Cody Poslusny (organizer), Jessica Sanchez (presented), Brian Mander (invite); Carlos and two other PureHaven invitees (no captured speech) | Took the demo after the 2026-10-20 slot did not hold; long, specific feedback; left early. Performance is why they left and the condition for returning; the promotion engine is admired but slowed checkout; a DSO on Shopify has two expensive AutoShip vendors plus a promo app covering ~80%. Asks: AutoShip at the product page, a JavaScript code block, tags, tabs, accessibility. **Beta agreed per Sam (2026-11-16); not audible in the captured transcript.** Source: [`inputs/2026-11-12-purehaven-cart-v3-demo-recap.md`](../inputs/2026-11-12-purehaven-cart-v3-demo-recap.md) |
 
 ---
 
@@ -79,7 +79,7 @@
 | Speed and stability unproven on V3 — no published benchmark | Engineering + Product | Open |
 | **V3 promotions not wired** — PL-88 In Progress; promo field, automatic promotions panel and redemption limits in Development (read 2026-11-12) | Product (Brian Mander for PL-88) | Open |
 | AutoShip improvement: no roadmap item as of 2026-08-30 (their #2 return condition); not re-checked | Product | Open |
-| **Beta agreement unconfirmed** — not in the captured transcript; the GTM-93 `[CoS]` comment (270942) says agreed | Sam Atieh | Open |
+| Beta scope not captured: integrations, custom features and timing; PureHaven's GTM-143 requirement row is not recorded | Sam Atieh | Open |
 | Which two AutoShip apps and which promotions app (names, price) — unnamed | Sam Atieh | Open |
 | Accessibility statement made in the demo (*"100%. It'll be ready for that out of the gate."*) unverified | Sam Atieh with Engineering | Open |
 
@@ -98,7 +98,7 @@
 ## GTM Implications
 
 ### Which ICP/segment does this account confirm or challenge?
-Confirms **Segment D** in [`outputs/06-positioning-cart-v3.md`](../outputs/06-positioning-cart-v3.md): engaged and demo-complete, with **checkout performance as the condition**. It is not "in beta" until the beta is confirmed. Still a split stack, so the win-back is an expansion of an existing footprint.
+Confirms **Segment D** in [`outputs/06-positioning-cart-v3.md`](../outputs/06-positioning-cart-v3.md): engaged and demo-complete, with **checkout performance as the condition**. The beta is agreed (Sam, 2026-11-16), so Segment D is in the beta, but that is **not** a commitment to migrate back (BYD-222). Still a split stack, so the win-back is an expansion of an existing footprint.
 
 ### What does this tell us about positioning?
 - **The promotion engine is a second AutoShip-class argument.** Both are the platform's strengths. They are commercial rather than structural: Shopify and its apps can cover part of this, so the claim needs a verified scope. Added as U7.
@@ -109,7 +109,7 @@ Confirms **Segment D** in [`outputs/06-positioning-cart-v3.md`](../outputs/06-po
 V3's storefront does not use the promotion engine yet (PL-88), and the same engine is what slowed this client's old checkout, so a measured checkout time is a dependency too. AutoShip at the product page is the longest ask; AutoShip enhancement is still unplanned.
 
 ### What does this tell us about the sales motion?
-The account took four weeks and a rebooking to reach a demo, then gave a long, specific feedback session; the beta is unconfirmed, so ask for it explicitly next time. The decision-maker volunteers the competitive argument himself; let him make it.
+The account took four weeks and a rebooking to reach a demo, then gave a long, specific feedback session; they agreed to the beta (Sam, 2026-11-16), though not audibly in the captured part, so confirm its scope in writing at the follow-up meeting. The decision-maker volunteers the competitive argument himself; let him make it.
 
 ---
 
@@ -117,9 +117,8 @@ The account took four weeks and a rebooking to reach a demo, then gave a long, s
 
 | Action | Owner | Due |
 |--------|-------|-----|
-| Confirm the beta agreement and its scope | Sam Atieh | 2026-11-17 |
-| Add PureHaven to the beta group (GTM-143) only if confirmed; re-read BYD-221 | Sam Atieh | 2026-11-17 |
-| Send the follow-up email (draft in the Team OS call summary) | Sam Atieh | 2026-11-17 |
+| Record the beta scope and PureHaven's GTM-143 requirement row | Sam Atieh | not set |
+| Hold the follow-up meeting Sam confirmed (AutoShip feedback session, Revolution code-block re-demo with their developer, their Shopify walkthrough) | Sam Atieh | not set |
 | Verify what Shopify does natively for promotions and AutoShip renewals; name the two AutoShip apps and the promo app, with prices | Sam Atieh | 2026-11-19 |
 | Raise PL-88 and checkout performance as beta dependencies at the Weekly Commerce Check-In | Sam Atieh | 2026-11-19 |
 | AutoShip add-to-subscription feedback session with Carlos (Jessica has the dev build) | Jessica Sanchez with Cody Poslusny | 2026-11-20 |

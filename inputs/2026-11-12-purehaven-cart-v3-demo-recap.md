@@ -40,9 +40,9 @@
 
 **What was NOT said in the captured part:** any request for promo codes, any claim that Shopify lacks them, any beta ask or acceptance, any pricing, any commitment to move back.
 
-## Beta: unconfirmed
+## Beta: agreed (Sam, 2026-11-16)
 
-The first version of this file said PureHaven agreed to join the beta, citing Sam's GTM-93 note. That note is a `[CoS]` comment (270942, posted from Sam's account 2026-11-12 17:41 EST, while the call was still running). The captured transcript has no beta discussion; the first 8 minutes, or a separate exchange, could account for it. **Treat the beta as unconfirmed until Sam confirms**, and do not count it toward BYD-221.
+The first version of this file said PureHaven agreed to join the beta, citing a GTM-93 `[CoS]` comment (270942, posted from Sam's account 2026-11-12 17:41 EST, while the call was still running). The captured transcript has no beta discussion, and its first 8 minutes are missing. **Sam confirmed on 2026-11-16 that PureHaven did agree, and that a follow-up meeting will happen.** The source is Sam, not the transcript; the scope (partial or full, integrations, timing) is not captured. It counts toward BYD-221; it is not a commitment to migrate back (BYD-222).
 
 ## Why they left, the full record
 
@@ -75,11 +75,11 @@ Shown: Branding Studio shop view, product detail, enrollment switch, and a **dev
 
 - The promotion engine (U7) is a real but **conditional** advantage: it wins only if V3 pairs it with Shopify-grade checkout speed.
 - Step 1 alternative 3 (Shopify plus an app stack): the AutoShip leg is a choice of **two** expensive vendors; the promotion leg is a paid app covering ~80% with ~20% custom-coded.
-- Segment D (PureHaven) is "engaged, demo done, condition = performance". It is **not** "in beta" until confirmed.
+- Segment D (PureHaven) is "engaged, demo done, in the beta, condition = performance". The beta is not a commitment to migrate back.
 
 ## Open verification
 
-1. Beta: did PureHaven agree, and to what scope? (Sam)
+1. Beta scope: partial or full, which integrations and custom features (the GTM-143 row), and timing. (Sam)
 2. Which two AutoShip apps did Carlos evaluate, and at what price?
 3. What does Shopify do natively for promotions and AutoShip renewals, and which paid app covers the 80%?
 4. First 8 minutes of the call: what was said?
@@ -91,7 +91,7 @@ Shown: Branding Studio shop view, product detail, enrollment switch, and a **dev
 
 | First version said | Transcript says |
 |---|---|
-| PureHaven agreed to join the beta (fact) | Not in the captured transcript; source is a GTM-93 `[CoS]` comment. Unconfirmed. |
+| PureHaven agreed to join the beta (fact) | Not audible in the captured transcript; Sam confirmed it 2026-11-16, so it stands. The source is Sam. |
 | "only one or two companies" support AutoShip on Shopify | "There are only two … and they're both expensive." |
 | Shopify has no working promo codes without a paid app | No promo-code claim; he misses promotion *flexibility*, a paid app covers ~80%, ~20% is custom-coded. |
 | They left over speed and stability, then customization depth | Performance only; theming "wasn't what made me move". |

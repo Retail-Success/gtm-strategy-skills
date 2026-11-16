@@ -90,7 +90,7 @@ Cassie, 2026-11-12: *"90% of their sales are going through Shopify, but for the 
 
 ### Path C: Cart V3 replaces Shopify (win-back, or for buyers who don't love Shopify)
 
-Check the status in Team OS `feature-index/shopping-cart-v3.yaml` first (status `build` on 2026-11-13; PureHaven demo done, beta unconfirmed). Unique attributes, from [`06-positioning-cart-v3.md`](06-positioning-cart-v3.md):
+Check the status in Team OS `feature-index/shopping-cart-v3.yaml` first (status `build` on 2026-11-13; PureHaven agreed to the beta, per Sam 2026-11-16). Unique attributes, from [`06-positioning-cart-v3.md`](06-positioning-cart-v3.md):
 
 | Attribute | Answers | Can Shopify copy it? |
 |---|---|---|

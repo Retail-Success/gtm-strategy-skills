@@ -4,7 +4,7 @@
 **Product:** Freedom ecommerce — **Shopping Cart V3 + Branding Studio**. Not Wayroo.
 **Audience:** Existing ByDesign Freedom clients (~65 branded storefronts)
 **Created:** 2026-09-22 · **Owner:** Sam Atieh
-**Revised 2026-11-12, corrected 2026-11-15** — PureHaven demo: the promotion engine is added as **U7** (a real but *conditional* advantage), Step 1 gains a breakdown of the Shopify app stack (alternative 3), Segment D is "engaged, demo done" (not "in beta"), and open items 5–7 are new. Source: the demo **transcript**, read 2026-11-15 (it starts 8 minutes in) — see [`inputs/2026-11-12-purehaven-cart-v3-demo-recap.md`](../inputs/2026-11-12-purehaven-cart-v3-demo-recap.md). The first version, written from Sam's recap, said the beta was agreed, "one or two" AutoShip vendors and a promo-code gap; the transcript supports none of those. The sales-facing Confluence copy (page 711950643, v2, published 2026-11-13) still carries some recap-based wording; its corrections are drafted and wait on Sam's confirm.
+**Revised 2026-11-12, corrected 2026-11-15** — PureHaven demo: the promotion engine is added as **U7** (a real but *conditional* advantage), Step 1 gains a breakdown of the Shopify app stack (alternative 3), Segment D is "engaged, demo done, in the beta" (Sam, 2026-11-16), and open items 5–7 are new. Source: the demo **transcript**, read 2026-11-15 (it starts 8 minutes in) — see [`inputs/2026-11-12-purehaven-cart-v3-demo-recap.md`](../inputs/2026-11-12-purehaven-cart-v3-demo-recap.md). The first version, written from Sam's recap, said the beta was agreed (Sam confirmed it 2026-11-16, though it is not audible in the transcript), "one or two" AutoShip vendors and a promo-code gap; the transcript supports neither of the last two. The sales-facing Confluence copy (page 711950643) was corrected on 2026-11-16 (v3).
 **Framework:** April Dunford six-step positioning, adapted
 
 **Published (sales-facing version, Retail Success (BDT) Revenue - GTM space):** [Shopping Cart V3 — Positioning](https://bydesign.atlassian.net/wiki/spaces/RSRevGTM/pages/711950643) · parent [Cart V3 & Enrollment — Positioning & Messaging](https://bydesign.atlassian.net/wiki/spaces/RSRevGTM/pages/712212482)
@@ -170,7 +170,7 @@ That makes this differentiator the same *shape* as shop-on-behalf (U4) — not a
 | **A — On the legacy cart, no third-party plans** | 🔴 **1** | The largest group and the easiest win. They need modernization, not rescue |
 | **B — On the legacy cart, evaluating Shopify or a build** | 🔴 **1 — time-critical** | The Nuvi Global trigger is live here right now. **Intercept before the build starts** |
 | **C — Mid-build on their own** | **4** | ⚠️ **Largely unwinnable once started.** Nuvi Global is 2 years in. Keep the feedback relationship; do not spend selling |
-| **D — Left for Shopify, partially retained** | 3 | Pure Haven. Gated on the performance and customization proof. ⭐ **2026-11-12: Pure Haven took the demo** (transcript) — engaged; the condition for returning is **checkout performance**; the beta is **unconfirmed** (not in the captured transcript). Dependencies: V3 promotions (PL-88), a measured checkout time, and AutoShip at the product page |
+| **D — Left for Shopify, partially retained** | 3 | Pure Haven. Gated on the performance and customization proof. ⭐ **2026-11-12: Pure Haven took the demo** (transcript) — engaged; the condition for returning is **checkout performance**; the beta is **agreed** (Sam, 2026-11-16; not audible in the captured transcript, scope open). Dependencies: V3 promotions (PL-88), a measured checkout time, and AutoShip at the product page |
 | **E — Fully on Shopify** | 5 | Shop IQ partnership territory now, not ours |
 
 ⭐ **The segment shift:** we built this positioning for D (Shopify winback). **The volume is in A and B**, and B has a clock on it.
@@ -214,7 +214,7 @@ The 2026-09-22 evidence says the visual frame does not survive contact with a cl
 | # | Item | Owner | Due |
 |---|---|---|---|
 | 5 | Verify what Shopify does natively for promotions and AutoShip renewals; name the two AutoShip apps and the promo app Carlos used, with prices | Sam | 2026-11-19 |
-| 6 | ~~Get the transcript~~ **Done 2026-11-15** (starts 8 minutes in). Still open: confirm the beta agreement and scope; check what was said in the first 8 minutes | Sam | 2026-11-17 |
+| 6 | ~~Get the transcript~~ **Done 2026-11-15** (starts 8 minutes in). Beta **agreed per Sam 2026-11-16**; still open: record its scope and PureHaven's GTM-143 requirement row | Sam | not set |
 | 7 | Raise PL-88 (V3 promotions) **and checkout performance** as beta dependencies at the Weekly Commerce Check-In | Sam | 2026-11-19 |
 
 ---
