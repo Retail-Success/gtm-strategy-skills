@@ -76,6 +76,12 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 
 > ⚠️ **This persona is systematically undercounted, in both directions, at every account where it has been checked.** JE's ~20% C&C estimate was confirmed understated at launch; Color Street's nominal 20K "active stylists" turned out to be ~4K real sellers. **DSO leadership does not reliably know its own in-person selling share.** Derive it from back-office data where ByDesign holds it (`my-gtm-context.md` §3) rather than accepting a self-report.
 
+> ### 🆕 LivePURE adds an in-office variant — 2026-11-19 (one demo, Sam's notes)
+>
+> **A practitioner at the counter of her own office.** LivePURE's products are already barcoded; scanning with the phone camera drew *"Perfect,"* and the buyer then **inferred the point-of-sale use himself** (*"it seems like this is for being at the point of sale"*). Sam's own note is to lead with that scene next time.
+>
+> This widens R1 from *the stylist at the vendor table* to **any seller with the customer in front of her.** **Confidence stays HIGH:** the record is one demo's notes ([`inputs/2026-11-19-livepure-wayroo-demo-notes.md`](../inputs/2026-11-19-livepure-wayroo-demo-notes.md)), and Wayroo is not live at LivePURE.
+
 ---
 
 ## R2 — The Team Leader 🔴 NEW
@@ -146,6 +152,12 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 >
 > ⚠️ **Evidence is still LOW.** This is a stronger argument, not a tested one. It moves the R3 interview from *"does she exist?"* to *"does the back-office frame land?"* — a better question, and still unasked.
 
+> ### 🆕 A first adjacent signal — LivePURE, 2026-11-19 (Sam's notes)
+>
+> Practitioners who take orders **without stock on hand** (telehealth, dropship) reacted to invoicing with payment links (*"this peaks my interest"* `[sic]`, Sharif) and to the answer to *"do I have to have physical inventory to send an invoice?"* (**no**). That is the first reaction in the library from a seller who **doesn't carry stock.**
+>
+> **It is not R3.** A dropship practitioner is not a catalog-only rep earning commission on a replicated site, and this is the buyer's account of the seller, not the seller. **Confidence stays LOW.** What it changes: the invoicing lead has now been *heard*, not only inferred. **Dropship is still unshipped. Do not promise it.** (Sam said "yes" to a corporate-set dropship price on this call: see [`prospects/livepure.md`](../prospects/livepure.md), Blockers.)
+
 ---
 
 ## R4 — The Hobbyist ⛔ Not a target
@@ -168,6 +180,24 @@ Each persona gives you **one first sentence, one thing never to say, and the obj
 > > *"What share of your reps sell to customers, versus buying at the rep discount for themselves?"*
 >
 > Pair it with the back-office-derived C&C measurement (§3) rather than trusting either self-report on its own. **Both self-reported rep figures have been wrong at both accounts where they could be checked.**
+
+---
+
+## R5 — The Practitioner 🆕 *candidate, not adopted*
+
+**A professional who sells products to patients or clients as part of a practice**: a doctor, chiropractor or similar. LivePURE's field is **~500 medical professionals** in the northeast.
+
+| | |
+|---|---|
+| **Evidence** | **One account, notes only:** the LivePURE demo, 2026-11-19 ([input](../inputs/2026-11-19-livepure-wayroo-demo-notes.md)). No practitioner has been in a room |
+| **Their job** | Give the patient what they need **during the visit**, with no stock if necessary, and keep the patient |
+| 🔴 **Lead with** | **The sale in the office:** scan the barcode with the phone camera, take payment. Then **invoice with a payment link** when there's no stock or the patient is remote |
+| 🚫 **Never** | "The company owns the customer" · compliance framing · anything that implies the patient has to deal with corporate |
+| **What differs from R1** | Sells **with no stock** (telehealth, dropship) · the **patient belongs to the practitioner** (*"not a good experience for the patient to have to create an account with LivePURE instead of the doctor"*) · **bundles** (*"a huge thing for practitioners"*) · a **practice name** on the receipt, not the company's (the two-level branding ask in [`04-product-roadmap.md`](04-product-roadmap.md)) |
+| **The objection** | None observed. *Unasked:* "does my patient need a new account?" |
+| **Confidence** | 🔴 **LOW: one account, secondhand.** Hold as a candidate. Promote only if a second professional-channel account repeats it |
+
+> ⚠️ **A standing line conflicts with this persona.** Pillar 1 (`06-positioning-bydesign-wayroo.md`) says rep sales become *"a customer record you own"*, meaning the company. A practitioner's field wants the relationship to stay with the practitioner. **Both can be true** (the record flows to corporate and the relationship stays put), but the copy has to say so before anything is written for this audience.
 
 ---
 
@@ -399,8 +429,9 @@ Honest accounting of what each persona rests on.
 |---|---|---|---|
 | **R1** In-Person Seller | Color Street + JE | ✅ ~764 reps at JE convention | **HIGH** |
 | **R2** Team Leader | JE | ✅ Convention floor | **MEDIUM** |
-| **R3** Catalog-Only | — | ❌ **None** | 🔴 **LOW** |
+| **R3** Catalog-Only | LivePURE (adjacent only, notes) | ❌ **None directly.** One adjacent reaction: dropship practitioners to invoicing | 🔴 **LOW** |
 | **R4** Hobbyist | Color Street | ❌ CEO self-report | LOW (ratio) / HIGH (exists) |
+| 🆕 **R5** Practitioner *(candidate)* | LivePURE | ❌ Notes of one demo; no practitioner observed | 🔴 **LOW** |
 | **H1** CEO / Founder | Color Street + JE | ✅ Both calls | **HIGH** |
 | **H2** CTO | Color Street | ✅ Two calls | **MEDIUM** |
 | **H3** VP Sales / Field Ops | JE | ✅ May 6 + convention | **MEDIUM** |
@@ -438,7 +469,7 @@ Ranked by risk × cost. Nothing in this document is validated.
 | 3 | **The seller-vs-hobbyist question** | R4 | *"What share of your reps sell to customers versus buying at the rep discount?"* Cheap, and it corrects a forecasting denominator. |
 | 4 | **Is R3 real, and does Aice cover them?** | R3 | The weakest persona, and the Aice pairing rests on it |
 | 5 | **Path B with a second technical gatekeeper** | H2 | Confirms the pattern is architectural rather than a Color Street one-off |
-| 🆕 6 | **Does the extension frame survive the noun swap?** Run *"extends your back office to the field"* with a **non-ByDesign** DSO | H1, H2 | The frame is tested only where *Revolution* is literally true. D1 is the whole new-logo motion and the substitution is assumed, not tested. **DSU is the venue.** |
+| 🆕 6 | **Does the extension frame survive the noun swap?** Run *"extends your back office to the field"* with a **non-ByDesign** DSO | H1, H2 | The frame is tested only where *Revolution* is literally true. D1 is the whole new-logo motion and the substitution is assumed, not tested. **DSU is the venue.** 🆕 **LivePURE (2026-11-20 call) is a second one:** a non-ByDesign DSO on its own back office. The 2026-11-19 notes do not show the frame was used. |
 
 ---
 
@@ -447,12 +478,16 @@ Ranked by risk × cost. Nothing in this document is validated.
 - **Formalise Path B** as a supported Wayroo integration pattern — flagged in May, still living only in a prospect file
 - **Media Library target attribution** — `strategic-inputs.md` §1 credits it against WAY-1 (rep active users); it is a DSO feature. Flagged July, still open
 - **Growth-and-recovery narrative** for H3 — missing from the library; blocked on the unpublished Paparazzi case study
-- **White-label appetite** — the only remaining paid Wayroo surface, and the only evidence points against it (*"function over fashion"*, one account)
+- **White-label appetite** — the only remaining paid Wayroo surface, and the only evidence points against it (*"function over fashion"*, one account). 🆕 Sciteria (2026-11-02) wants full branding; **LivePURE (2026-11-19) asked for a grey company logo with each distributor's own name**, and was quoted Wayroo-branded first, then grey
 - **No finance persona has ever been observed** — H4 is constructed
 - 🆕 **Wholesale ordering** — unprompted demand from non-C&C DSOs once the extension frame lands ([`inputs/2026-09-28-rs-management-meeting.md`](../inputs/2026-09-28-rs-management-meeting.md) §2). On no roadmap artifact in this repo. Route to Phase 4
 - 🆕 **Perceived-vs-actual cash and carry needs a qualification question** in [`02-hybrid-dso-qualification-questions.md`](02-hybrid-dso-qualification-questions.md). The routing rule exists here; the question that produces the answer does not
 - 🆕 **The extension frame has no written copy set.** It is a tested sentence with no deck slide, email, or call script behind it. Phase 7/12
+- 🆕 **Practitioner candidate (R5)**: watch for a second professional-channel account, and settle the Pillar 1 "the company owns the customer" tension before any copy is written for it
+- 🆕 **Corporate control of what the rep charges is a gated claim.** Dropship is unshipped, Change Price has no floor, and the Square comparison is unverified (Team OS D&P positioning brief P-2/P-3; hands-on check owed by Sam, 2026-11-24, proposed). **Don't write it as a current capability, and don't say "Square can't…"**
+- 🆕 **Wayroo over a DSO-owned back office** (Color Street + LivePURE): integration cost is the first money question, and the *"manual first, automate later"* path offered on 2026-11-19 is undefined. Fold into the Path B formalisation above
+- 🆕 **Demo order.** Sam's 2026-11-19 debrief (talk for five minutes first, lead with outcomes, name the persona, open on the in-person scene) is not yet reflected in the home-office demo in [`07-demo-script.md`](07-demo-script.md). Not changed here
 
 ---
 
-*April Dunford — Obviously Awesome. GTM Strategist by Maja Voje — Phase 6. Created 2026-08-30. Revised 2026-09-29 (v1.1 — the extension frame).*
+*April Dunford — Obviously Awesome. GTM Strategist by Maja Voje — Phase 6. Created 2026-08-30. Revised 2026-09-29 (v1.1 — the extension frame). Revised 2026-11-19 (v1.2 — LivePURE demo: R1 in-office variant, R3 adjacent signal, R5 candidate).*

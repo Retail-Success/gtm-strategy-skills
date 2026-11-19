@@ -34,6 +34,14 @@
 >
 > ⚠️ When a Story B lead's DSO is on Exigo, the resulting deal is Wayroo-only. **Contract terms for that are still governed by the open Wayroo-led entry decision** (`my-gtm-context.md` §14).
 
+> ### 🆕 Field evidence, 2026-11-19: LivePURE, a DSO that keeps its back office
+>
+> Story A's pitch is *"ByDesign runs the back office, Wayroo runs the field."* LivePURE sits on the DSO side of the table but runs a **homegrown back office on Concordia, a vendor the DSO owns**, and is *"likely not going to switch."* **The all-in-one claim is not available there.** It is only true where ByDesign is the back office.
+>
+> What fits is the **Wayroo-led entry** (`my-gtm-context.md` §14, decided 2026-10-05) and the **extension frame** (*"extends your back office to the field"*). The 2026-11-19 notes don't show the frame was used. The 2026-11-20 follow-up is the next non-ByDesign room to test it (`06-persona-positioning.md`, What to Test First #6). **No Story A copy exists for a DSO that keeps its back office** (Open Items 5).
+>
+> Source: [`prospects/livepure.md`](../prospects/livepure.md). One account, Sam's notes only.
+
 ---
 
 # The Dunford Canvas — Story A (Enterprise DSO)
@@ -57,6 +65,7 @@
 | **Rep sales and customers flow back to corporate automatically** | ❌ No bolt-on can |
 | **Corporate reaches the field inside the app they sell from.** Push alerts, media library, rank reporting | ⚠️ Partial. Hussle and Aice cover content and alerts; neither is the rep's selling app |
 | **25 years in direct selling, $7B+ in commissions processed** | ⚠️ Exigo has comparable tenure. **Proof, not a differentiator** |
+| 🆕 ⚠️ **Corporate control of what the rep charges** (a price ceiling, a price floor, a locked dropship price) | **Provisional, and not claimable yet.** It drew LivePURE's strongest reaction (*"I like the autonomy for the person to decide the price point"*), but dropship is unshipped, Change Price has no floor today, and the Square comparison is unverified (Open Items 4) |
 
 ## Step 3 — Value
 
@@ -164,6 +173,7 @@ The standard Wayroo app is unbranded. **Custom branding is sold separately.** Co
 | **Replaces Square and nearly every app a rep needs to sell and create content** | "Replaces all their apps" | True now, and it survives a follow-up question |
 | **Extends your back office to the field** | "Syncs to" · "integrates with" | Vendor-speak. *Extends* says it's the same system |
 | **Stay protected** (then name FTC and brand) | Leading with FTC or compliance | Third pillar, not the opener |
+| 🆕 **Company-set pricing rules**, once shipped | "Square can't do this" · "reps can't change the price" | The first is unverified (absence in Square's docs is not a no). The second is false today: Change Price has no floor |
 
 ---
 
@@ -191,6 +201,8 @@ The standard Wayroo app is unbranded. **Custom branding is sold separately.** Co
 | 1 | **Write the Story B (P2) rep copy and recommendation mechanic** | See [`06-persona-motion-messaging-map.md`](06-persona-motion-messaging-map.md) Open Items |
 | 2 | **Exigo rep-app feature teardown** | Story A's differentiation against Exigo is scope. Unproven until someone looks |
 | 3 | **Test the booth lines** | See Test 6 in [`06-messaging-test-results.md`](06-messaging-test-results.md) |
+| 🆕 4 | **Corporate price control: keep it out of copy until it is true** | LivePURE's strongest reaction, and the claim with the least support. Open in Team OS: the Square hands-on check (Sam, 2026-11-24, proposed), the Change Price floor decision (Q26, Sam, 2026-11-20) and a dropship delivery slot. Source: `wayroo-discounts-promos-positioning-brief-2026-11-17.md` P-2, P-3 |
+| 🆕 5 | **A Story A variant for a DSO that keeps its back office** | The all-in-one line doesn't apply and no copy exists. Color Street and LivePURE both need it. See the field-evidence note above |
 
 ## Next Steps
 
@@ -200,4 +212,4 @@ The standard Wayroo app is unbranded. **Custom branding is sold separately.** Co
 
 ---
 
-*April Dunford, Obviously Awesome. GTM Strategist by Maja Voje, Phase 6. Created 2026-09-23.*
+*April Dunford, Obviously Awesome. GTM Strategist by Maja Voje, Phase 6. Created 2026-09-23. Revised 2026-11-19 (LivePURE field evidence; Confluence copy not yet republished).*

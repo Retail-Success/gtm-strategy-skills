@@ -60,11 +60,26 @@
 | Item | Theme | Note |
 |---|---|---|
 | **SMS / Project Broadcast integration** | T4 | 🔴 **The clearest unmet job.** Repeatedly requested, unprompted, and reps pay for it separately today. |
-| **Dropship** | T4 | Unshipped. The real answer for the catalog-only rep. **Do not promise it.** |
+| **Dropship** | T4 | Unshipped. The real answer for the catalog-only rep. **Do not promise it.** 🆕 **LivePURE (2026-11-19) tied it to a purchase reason:** corporate sets the price and the rep can't change it, and corporate decides whether it fulfils (*"a digital marketplace for the leaders in the field"*). Sam answered "yes" on the call. Team OS (read 2026-11-19): `prd-approved`, #4 in the working order, no committed delivery slot in the feature file, and Change Price has no floor today |
 | **Aice integration + hand-off** | T5 | Gated on an unsigned deal |
 | **Wayroo Pro tier** | — | ⚠️ **Design rule: must be non-transactional.** Gating a transacting feature costs ~$216/rep/yr against an upgrade worth less. |
 | **AI report builder** | — | Real customer signal (Hope, JE), currently deprioritised |
-| **Multi-currency / international** | — | Explicitly out of scope |
+| **Multi-currency / international** | — | Explicitly out of scope. 🆕 LivePURE earns half its revenue in South Korea but asked for the US only (2026-11-19): no international ask |
+
+---
+
+# Asks Logged from Prospect Calls — not yet prioritised
+
+> 🆕 Added 2026-11-19 from the LivePURE demo ([`prospects/livepure.md`](../prospects/livepure.md)). **None of these has a tier.** A single account's ask doesn't enter Now, Next or Later until a second source or a decision places it. Source is Sam's call notes, not a transcript.
+
+| # | Ask | Evidence | What exists today | Status |
+|---|---|---|---|---|
+| **A1** | **Two-level branding:** a neutral (grey) company logo, plus each distributor's own company name (the name the practitioner sells under) | LivePURE. Sam's note: *"add this to the backlog"* | A custom logo at the top: *yes*, per the call. Two-level naming isn't described anywhere in this repo | [WRBDT-955](https://bydesign.atlassian.net/browse/WRBDT-955), created 2026-11-19. Unprioritised |
+| **A2** | **Accounting export or integration (QuickBooks)** | LivePURE: *"Can I integrate it with my QuickBooks?"* Sam's note: *"roadmap item"* | No accounting integration. Manual sales-report export, then import | [WRBDT-956](https://bydesign.atlassian.net/browse/WRBDT-956), created 2026-11-19. No matching item in the Team OS feature index or Jira (searched 2026-11-19). Not placed |
+| **A3** | **Inventory-sync API and a stock-update webhook for a non-ByDesign back office** (Concordia first), so a practitioner's bulk purchase appears in Wayroo | LivePURE pilot notes. This is the wholesale-order-to-inventory sync that `my-gtm-context.md` §6 names as the real differentiator | "Wayroo integrates with any back office" (confirmed 2026-10-05). **No Concordia API has been reviewed**, and the head of IT (Dallas) hasn't been engaged | [WRBDT-957](https://bydesign.atlassian.net/browse/WRBDT-957), created 2026-11-19. Prerequisite for the LivePURE pilot. Pilot timing was relayed as *mid-first-quarter 2027, gated on the Adyen contract* (Team OS, Revenue Leadership digest 2026-11-16, secondhand) |
+| **A4** | **Load a prospect's catalog into inventory** (84 SKUs, 100+ with variations) | LivePURE: *"we need to be able to load the prospect's product into inventory"* | *"Manual first, then automate"* was offered live. The manual path is undefined | [WRBDT-958](https://bydesign.atlassian.net/browse/WRBDT-958), created 2026-11-19. Open: does it mean the pilot tenant, the next demo, or both? |
+
+**Not new items, but evidence added above:** corporate-set dropship price (the **Dropship** row in *Later*), and no international ask (the **Multi-currency** row).
 
 ---
 
@@ -107,4 +122,4 @@ Not Tap-to-Pay — a rep can wait for that, and two of the four strongest observ
 
 ---
 
-*GTM Strategist methodology by Maja Voje — Phase 4, Task 2. Created 2026-08-30.*
+*GTM Strategist methodology by Maja Voje — Phase 4, Task 2. Created 2026-08-30. Revised 2026-11-19 (asks logged from the LivePURE demo; the tiers above were not re-checked).*
