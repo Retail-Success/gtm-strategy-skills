@@ -1,3 +1,7 @@
+> # ⚠️ SUPERSEDED for 2027 (2026-11-27): use [`12-sales-decks-2027.md`](12-sales-decks-2027.md)
+>
+> Wayroo leads in 2027, and Revolution merges into Wayroo mid to late Q2, leaving Freedom as ByDesign's product. The 2027 file has two decks: **ByDesign + Wayroo** for DSOs that need a back office, and **Wayroo, powered by ByDesign** for DSOs that keep theirs. This Freedom-led deck stays as history.
+
 > # 🔄 FREE-OFFER VARIANT — added 2026-08-13
 >
 > **This asset was built for the paid, new-logo motion. That motion is still live and this document remains valid for it** — but it now needs a variant, because the installed base gets Wayroo Essentials **included** with Revolution Pro at no incremental charge.
