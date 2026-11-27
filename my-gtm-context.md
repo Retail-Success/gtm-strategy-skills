@@ -9,6 +9,7 @@
 > - **Wayroo 2027 launches in two beats:** soft early access from January (in-product only, no paid), **full launch in Q2** (target week of 2027-05-11) once the POS features (all of Q1, some into Q2) and Adyen rep onboarding are ready. Q1 carries the merged-app preview and the **LivePURE** launch.
 > - **Aice is a partnership, not a JV.** Merged app done in Q1; we choose when to launch it, probably Q2.
 > - **Brand by who owns the relationship:** Wayroo with Aice inside for our clients and prospects we find; Aice with Wayroo inside for Aice's clients and prospects. **LivePURE is not an Aice client; Ellie MD is.**
+> - 🆕 **Revolution merges into Wayroo in Q2 2027, leaving Freedom as ByDesign's product.** Brand architecture: ByDesign runs the business, Wayroo runs the field; ByDesign is the endorser, inbound and client-relationship brand. See [`outputs/06-brand-architecture-2027.md`](outputs/06-brand-architecture-2027.md).
 > - **No DSU in 2027;** The Juice is a maybe; **we run our own Wayroo/Aice launch event.**
 > - **Sales capacity:** Dan Lang and Cassie Lewis, Sam assisting. **No 2027 new-client target yet.** 2026 won 2 of 85 opportunities.
 > - **Open:** the six free months for non-Pro reps vs. paid betas with credit back; the 2027 paid budget (little was spent in 2026).
