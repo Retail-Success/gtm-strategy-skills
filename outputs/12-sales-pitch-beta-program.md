@@ -1,5 +1,7 @@
 # Phase 12 — Wayroo Beta Program Pitch: Non-Client DSOs (Spoken Pitch + Talk Track)
 
+> ⚠️ **2026-11-27: the "free to beta DSOs" offer below is under review.** The 2027 options include a paid beta credited back on go-live (decision D8, Sam + Morgan, due 2027-01-15). Until D8 is decided, don't promise "free"; say "pilot terms in the proposal." Use [`12-sales-call-script-2027.md`](12-sales-call-script-2027.md) and the Wayroo deck for 2027 calls.
+
 **Phase:** 12 — Executing Sales (sales call framework → spoken pitch)
 **Audience:** Home-office leader at a direct selling organization that is **not** a ByDesign client: Founder/CEO, VP Sales, or Field Ops, with the CTO or back-office owner joining for the second call.
 **Motion:** 🆕 **Wayroo Beta Program.** The app is free to beta DSOs, which choose whether to pass it to reps free or charge for it. The DSO pays a **heavily discounted one-time integration fee**. The goal is mass rep adoption. Revenue comes from payments (~1.5% of rep transactions, **kept by ByDesign and never shared with the DSO**) now, and from optional upgrade tiers later.
