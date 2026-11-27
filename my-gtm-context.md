@@ -4,6 +4,17 @@
 **Owner:** Sam Atieh — Product Marketing, Retail Success / ByDesign Technologies  
 **Focus:** Wayroo (rep-facing mobile app) + Freedom Back Office (DSO management platform)
 
+> ### 🆕 2026-11-27 — 2027 direction (Sam). Plan: [`outputs/08-bydesign-2027-gtm-plan.md`](outputs/08-bydesign-2027-gtm-plan.md)
+>
+> - **Wayroo 2027 launches in two beats:** soft early access from January (in-product only, no paid), **full launch in Q2** (target week of 2027-05-11) once the POS features (all of Q1, some into Q2) and Adyen rep onboarding are ready. Q1 carries the merged-app preview and the **LivePURE** launch.
+> - **Aice is a partnership, not a JV.** Merged app done in Q1; we choose when to launch it, probably Q2.
+> - **Brand by who owns the relationship:** Wayroo with Aice inside for our clients and prospects we find; Aice with Wayroo inside for Aice's clients and prospects. **LivePURE is not an Aice client; Ellie MD is.**
+> - **No DSU in 2027;** The Juice is a maybe; **we run our own Wayroo/Aice launch event.**
+> - **Sales capacity:** Dan Lang and Cassie Lewis, Sam assisting. **No 2027 new-client target yet.** 2026 won 2 of 85 opportunities.
+> - **Open:** the six free months for non-Pro reps vs. paid betas with credit back; the 2027 paid budget (little was spent in 2026).
+>
+> ---
+>
 > ### ✅ 2026-10-05 — DECIDED: WE LEAD WITH WAYROO
 >
 > **The §14 open question is closed.** Positioning is **Wayroo-led**: Wayroo is the lead product in buyer-facing material, and Freedom is the expansion or the back-office option, not the opener. **`08-gtm-motions.md` Action 5 (the Exigo test) is retired.** Its role is taken over by the Beta Program below.
