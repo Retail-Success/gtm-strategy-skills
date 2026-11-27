@@ -34,7 +34,7 @@
 | Rep inventory tracking | **None.** Dropship | *"Our visibility ends. We can't see what all inventory they sell."* |
 | Accounting | **QuickBooks** (Sharif's question) | No Wayroo integration. Manual sales-report export and import |
 | CRM | Not discussed | |
-| Other | **Aice client** | Sam, [WRBDT-948](https://bydesign.atlassian.net/browse/WRBDT-948), 2026-11-13: "they are already an aice client." |
+| Other | ~~Aice client~~ **Not an Aice client** (Sam, 2026-11-27, correcting the 2026-11-13 note in [WRBDT-948](https://bydesign.atlassian.net/browse/WRBDT-948)) | A Wayroo-led prospect we found ourselves (theJuice), so Wayroo leads the brand (2026-11-27 brand rule) |
 
 **Competitive context:** No competitor was named by the prospect. Sam raised **Square** as the comparison. The incumbent is the DSO's **own back office**, which is not being replaced, so Wayroo goes in beside it (the Wayroo-led entry, `my-gtm-context.md` §14, decided 2026-10-05). No Fluid, Exigo or Hussle signal in the notes.
 

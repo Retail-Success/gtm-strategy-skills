@@ -1,5 +1,32 @@
 # Case Studies
 
+> ## 🆕 2027 plan (added 2026-11-27): three stories for the two decks and the Q2 launch
+>
+> The decks and one-pagers (`12-sales-decks-2027.md`, `12-one-pagers-2027.md`) have one proof slot each that nobody has approved. The launch gate on 2027-04-01 needs proof to quote. Three stories, in priority order:
+>
+> | # | Story | For | What it proves | Status | Owner | Due |
+> |---|---|---|---|---|---|---|
+> | 1 | **Paparazzi** (draft below) | Both decks | Scale: reps selling on a connected app | 🔴 Approval never requested | Autumn Fowers | **Ask by 2026-12-11**; approved copy by 2027-01-15 |
+> | 2 | **LivePURE** (new) | Wayroo deck | A DSO that kept its back office and added Wayroo | Pilot not started; **capture the baseline now** | Sam Atieh + Cassie Lewis | Baseline by 2027-01-15; story by 2027-04-15 |
+> | 3 | **An early-access client** (new) | Both decks, launch event | Reps replacing Square with Wayroo | Pick from Pomifera, Magnolia, Super Patch by first sales | Cassie Lewis | Pick by 2027-02-12; story by 2027-04-15 |
+>
+> **Changes to the drafts below:**
+> - **Paparazzi:** don't say the $31M went "through Wayroo." `my-gtm-context.md` notes the share on Wayroo's payment rails is unconfirmed; say "reps on Wayroo, about a fifth of the field, sold $31M in 2025." Also, **don't claim 2026 growth:** stores with a login fell from 4,592 (August) to 3,237 (October) per the GTM Tracker. The 2025 result stands; a 2026 trend claim doesn't.
+> - **Jordan Essentials: hold.** The tracker shows stores with a login down from 764 to 332 since July and no rep sale on record as of 2026-11-01. Revisit after early access, if activity recovers.
+>
+> **LivePURE baseline questions (ask before the pilot, so the story has a "before"):**
+> 1. How many practitioners are active today, and how many would join the pilot?
+> 2. What do practitioners use now to take payment and track product?
+> 3. What can the home office see today about practitioner sales? (Their words in November: "Our visibility ends.")
+> 4. How long does a practitioner wait to get paid on a sale today?
+> 5. What would make the pilot a success to you, in numbers?
+>
+> Then at 60 days: the same five, plus the pull-quote question (#8 below) and a 60-second phone video.
+>
+> ⚠️ **LivePURE risk to the story and to the Q1 launch:** the pilot is "gated on the Adyen contract," and Adyen restricts nutraceuticals, LivePURE's category (Revenue Leadership, 2026-11-16, secondhand; `prospects/livepure.md`). Confirm the Adyen position before the pilot is dated: Philip Beedle (suggested owner), by 2026-12-18.
+>
+> ---
+
 **Phase:** 12 — Executing Sales, Task 3
 **Date:** 2026-08-30 · **Owner:** Sam Atieh
 **Status:** 🔴 **Drafts. Neither is approved for publication.**
