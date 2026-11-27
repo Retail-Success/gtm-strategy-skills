@@ -1,3 +1,7 @@
+> # ⚠️ SUPERSEDED for 2027 (2026-11-27): use [`12-one-pagers-2027.md`](12-one-pagers-2027.md)
+>
+> Two one-pagers now match the two 2027 decks: ByDesign + Wayroo, and Wayroo powered by ByDesign. This Freedom-led one-pager stays as history.
+
 > # 🔄 FREE-OFFER VARIANT — added 2026-08-13
 >
 > **This asset was built for the paid, new-logo motion. That motion is still live and this document remains valid for it** — but it now needs a variant, because the installed base gets Wayroo Essentials **included** with Revolution Pro at no incremental charge.

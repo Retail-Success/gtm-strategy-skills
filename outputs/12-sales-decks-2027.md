@@ -170,7 +170,7 @@
 
 - `12-sales-deck.md` stays as history for the Freedom-led pitch. Its Paparazzi coverage guardrail and the Spendback slide are reused only after checking their current status.
 - **Next tasks (skill):** the one-pager for each deck (Task 2) and the LivePURE case study (Task 3, due 2027-04-15).
-- **Production:** build both decks as Slides artifacts after review (owner Sam; designer pass optional).
+- **Production:** built as Slides decks on 2026-11-27 in the Charm (Wayroo) design system: [ByDesign + Wayroo Deck](https://claude.ai/artifact/SGRjQRHcm1cyt6zAtXAgtY) and [Wayroo Deck](https://claude.ai/artifact/DWPdY9vP8zfvHxaYtbdcbY) (private until shared). One-pagers: [`12-one-pagers-2027.md`](12-one-pagers-2027.md).
 
 ## Open items
 
