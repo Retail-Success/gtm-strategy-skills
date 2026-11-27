@@ -18,7 +18,7 @@ Sam, 2026-11-27:
 
 So the line from the September company story stops being a pitch and becomes the product map: **ByDesign runs the business. Wayroo runs the field.** Before Q2 it is a description of two integrated products. After Q2 there is no rep-facing ByDesign product left to blur it.
 
-**The Q2 launch and the Revolution merge are one event.** Beat 3 (target week of 2027-05-11) is when reps meet Wayroo as their back office, not only their selling app. Plan one launch, not two.
+**The merge lands mid to late Q2, with no exact date** (Sam, 2026-11-27). The Beat 3 launch (target week of 2027-05-11) announces it, and the merge itself is the next release moment when it lands. **The $5 continues** after the merge (Sam, 2026-11-27).
 
 ---
 
@@ -166,7 +166,7 @@ Buyer-facing copy avoids em dashes and the words in `strategic-inputs.md` §3 (l
 - **One rep message:** "Revolution is now part of Wayroo." Reps keep their data and log in to one app.
 - **One home-office message:** "Your reps' back office and selling app are now one product." Sent ahead of the reps, the same way as the 2026 DSO-first sequence.
 - **Name retirement:** remove "Revolution" from bydesign.com, the help center and rep emails at the merge date; keep a redirect page for search.
-- ⚠️ **Open:** what happens to the Revolution Pro subscription and its $5 price after the merge, and whether July charging becomes Wayroo charging. This belongs to D8 (Sam + Morgan, due 2027-01-15).
+- ✅ **The $5 continues after the merge** (Sam, 2026-11-27). Still open: what the subscription is called once Revolution's name retires (part of D8, Sam + Morgan, due 2027-01-15).
 
 ---
 
@@ -175,8 +175,8 @@ Buyer-facing copy avoids em dashes and the words in `strategic-inputs.md` §3 (l
 | # | Item | Owner | Due |
 |---|---|---|---|
 | 1 | Confirm the public client count (55) and which client logos we may show | Cassie Lewis | 2027-01-15 |
-| 2 | Revolution Pro pricing and naming after the merge (part of D8) | Sam Atieh + Morgan Purvis | 2027-01-15 |
-| 3 | Revolution-merge date inside Q2, and whether it is the Beat 3 date | Sam Atieh | 2027-02-12 |
+| 2 | The subscription's name after the merge ($5 continues, decided 2026-11-27) (part of D8) | Sam Atieh + Morgan Purvis | 2027-01-15 |
+| 3 | Revolution merge: mid to late Q2, no exact date (Sam, 2026-11-27). Set the rep and home-office notice dates once engineering names a week | Sam Atieh | when dated |
 | 4 | Exigo, Pillars and Direct Scale field-tool teardown, so pillar 2 can be compared | Sam Atieh | 2027-03-05 |
 | 5 | Where Wayroo lives online: bydesign.com/wayroo for DSOs, wayroo.com for reps (recommended) | Drew Mikkelson | 2027-01-08 |
 | 6 | Test the positioning in 5 sales calls (Dan) before the deck rewrite | Dan Lang | 2027-01-29 |
