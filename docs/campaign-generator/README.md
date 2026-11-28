@@ -3,6 +3,8 @@
 **Status: ON HOLD. Do not deploy.** (Sam, 2026-11-28)
 Nothing has been added to the RS Strategy & GTM Tracker or its database. Pick this up only when Sam says to.
 
+> **Direction change (2026-11-28):** instead of generating campaign copy and materials, the launch should produce an **outline of what marketing needs to do**, taken from the GTM skills. See `launch-marketing-outline.md`. The mock-up below still shows the earlier copy-generation design.
+
 ## What it is
 
 A **"✨ Generate launch"** button on each launch card in the tracker, next to "+ Add campaign". It produces two things for a launch:
@@ -17,6 +19,7 @@ A **"✨ Generate launch"** button on each launch card in the tracker, next to "
 | `original-prompt.md` | The full brief: phases 1–6 and the constraints |
 | `phase-1-skills-report.md` | What the skills and the repo say a launch produces; side-by-side against the first sketch |
 | `campaign-generator-mockup.html` | Current mock-up, POS example (motion 14, T0 = Mar 15 2027) |
+| `launch-marketing-outline.md` | **Current direction.** The marketing checklist for a launch campaign, by phase, citing skill and task |
 | `handoff-prompt.md` | Long prompt for continuing in a new chat (a short version is below) |
 
 ## Design as it stands (mock-up v2)
