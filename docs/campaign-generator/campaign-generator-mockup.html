@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Campaign Generator Mock-up</title>
+<style>
+:root{
+  --bg:#0a1330; --panel:#111d44; --panel2:#16245a; --line:#26366f; --text:#e8edff; --muted:#9aa8d6;
+  --blue:#4c7dff; --blue2:#2f5ee8; --yellow:#ffd23f; --green:#3ccf91; --red:#ff6b6b; --purple:#b58cff; --chip:#1d2c66;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.mock{background:var(--yellow);color:#1a1300;font-weight:600;padding:10px 16px;font-size:13px}
+.wrap{max-width:1080px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:22px;margin:4px 0 4px}
+h2{font-size:16px;margin:0 0 10px}
+h3{font-size:14px;margin:0 0 6px}
+.sub{color:var(--muted);margin:0 0 16px}
+.stages{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.stages button{background:var(--panel);color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:7px 14px;cursor:pointer;font:inherit}
+.stages button.on{background:var(--blue);color:#fff;border-color:var(--blue)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:14px}
+.launch-top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;align-items:flex-start}
+.launch-title{font-size:18px;font-weight:700}
+.pill{display:inline-block;background:var(--chip);color:var(--muted);border-radius:999px;padding:2px 9px;font-size:12px;margin:2px 4px 2px 0}
+.pill.y{background:#3a3210;color:var(--yellow)}
+.pill.g{background:#0f3b2b;color:var(--green)}
+.pill.b{background:#1a2f75;color:#a9c0ff}
+.pill.p{background:#2e2058;color:var(--purple)}
+.pill.r{background:#4a1d26;color:#ffb3b3}
+.measure{margin-top:10px;padding:10px;background:var(--panel2);border-radius:8px}
+.measure .k{color:var(--muted);font-size:11px;letter-spacing:.06em;text-transform:uppercase}
+.btns{display:flex;flex-wrap:wrap;gap:8px}
+.btn{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:7px 12px;cursor:pointer;font:inherit}
+.btn.pri{background:var(--blue);border-color:var(--blue);color:#fff;font-weight:600}
+.btn:hover{filter:brightness(1.15)}
+.stage{display:none}.stage.on{display:block}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:760px){.grid2{grid-template-columns:1fr}}
+label{display:block;font-size:12px;color:var(--muted);margin-bottom:4px}
+.field{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:8px 10px;min-height:36px}
+.field.typed{border-color:var(--blue)}
+.src{font-size:11px;color:var(--muted);margin-top:3px}
+.legend{display:flex;flex-wrap:wrap;gap:12px;font-size:12px;color:var(--muted);margin:6px 0 12px}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:middle}
+.checks{display:flex;flex-wrap:wrap;gap:6px}
+.check{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-size:13px}
+.check.on{border-color:var(--green)}
+.check.new::after{content:" · new channel";color:var(--yellow);font-size:11px}
+.timeline{position:relative;margin-left:8px;padding-left:20px;border-left:2px solid var(--line)}
+.step{position:relative;margin-bottom:18px}
+.step::before{content:"";position:absolute;left:-28px;top:4px;width:12px;height:12px;border-radius:50%;background:var(--blue);border:2px solid var(--bg)}
+.step-h{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline;margin-bottom:6px}
+.off{font-weight:700;color:#a9c0ff}
+.date{color:var(--muted);font-size:12px}
+.purpose{color:var(--muted);font-size:13px;margin-bottom:8px}
+.dels{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.del{background:var(--panel2);border:1px solid var(--line);border-left:4px solid var(--purple);border-radius:8px;padding:9px 10px;cursor:pointer}
+.del.camp{border-left-color:var(--green)}
+.del.sel{outline:2px solid var(--blue)}
+.del .t{font-weight:600}
+.del .m{font-size:12px;color:var(--muted)}
+.editor{position:sticky;top:10px}
+.copy{background:#0d1838;border:1px solid var(--line);border-radius:8px;padding:10px;white-space:pre-wrap;font-size:13px;margin:6px 0}
+.copy[contenteditable]:focus{outline:2px solid var(--blue)}
+.count{font-size:12px;color:var(--muted)}
+.count.bad{color:var(--red)}
+.note{font-size:12px;color:var(--muted);border-left:3px solid var(--yellow);padding:4px 8px;margin:8px 0;background:#1a1a2e}
+.ph{background:#3a3210;color:var(--yellow);border-radius:4px;padding:0 3px}
+.layout{display:grid;grid-template-columns:1.5fr 1fr;gap:14px}
+@media (max-width:860px){.layout{grid-template-columns:1fr}.editor{position:static}}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:7px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:500;font-size:12px}
+.tablewrap{overflow-x:auto}
+details{background:var(--panel2);border-radius:8px;padding:6px 10px;margin-top:6px}
+summary{cursor:pointer;color:#a9c0ff;font-size:12px}
+.kit li{margin-bottom:6px}
+.badge{display:inline-flex;align-items:center;gap:6px;background:#1a2f75;color:#cfe0ff;border-radius:999px;padding:3px 10px;font-size:12px}
+.badge.warn{background:#3a3210;color:var(--yellow)}
+.small{font-size:12px;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="mock">MOCK-UP · Motion 14 · POS launch. Copy marked <span class="ph" style="background:#1a1300;color:var(--yellow)">[placeholder]</span> is not final. Rep copy, the in-app guide and the Square comparison come from <code>/feature</code>, which isn't connected yet. Nothing in the live tracker has changed.</div>
+
+<div class="wrap">
+  <h1>Generate a launch from a launch card</h1>
+  <p class="sub">Built from the GTM skills and the repo's feature-release engine. See <code>phase-1-skills-report.md</code>. Click through the four stages.</p>
+
+  <div class="stages" role="tablist">
+    <button class="on" data-s="1">1 · Launch card today</button>
+    <button data-s="2">2 · Generate form</button>
+    <button data-s="3">3 · Generated launch</button>
+    <button data-s="4">4 · Saved: campaigns + launch kit</button>
+  </div>
+
+  <!-- Launch card, always on top -->
+  <div class="card" id="launchCard">
+    <div class="launch-top">
+      <div>
+        <div class="launch-title">🚀 POS <span class="pill">Late Q1 2027</span> <span class="pill">Motion 14 · Wayroo POS &amp; Payments</span> <span class="pill">product</span></div>
+        <div class="small" style="margin-top:4px">Prep <b id="prep">0/11</b> · O 0/3 · M 0/8 · key <code>reps|POS</code></div>
+      </div>
+      <div class="btns">
+        <button class="btn">+ Add campaign</button>
+        <button class="btn pri" data-go="2">✨ Generate launch</button>
+      </div>
+    </div>
+    <div class="measure">
+      <div class="k">Did it work?</div>
+      Reps making their first in-person sale · POS payment volume<br>
+      <span class="small">[placeholder] reps · $[placeholder] a month → [placeholder] reps · $[placeholder] a month</span>
+    </div>
+    <div id="cardExtra"></div>
+  </div>
+
+  <!-- Stage 1 -->
+  <section class="stage on" id="s1">
+    <div class="card">
+      <h2>Today</h2>
+      <p class="small">The launch card has a measure and manual campaigns only. <b>✨ Generate launch</b> sits beside <b>+ Add campaign</b>. It produces the <b>campaigns</b> that run on a channel (tracked with results) and a <b>launch kit</b> (everything else, kept on the card).</p>
+      <p class="small">On the quarterly view the POS badge shows a yellow “!” until the launch has campaigns.</p>
+    </div>
+  </section>
+
+  <!-- Stage 2: form -->
+  <section class="stage" id="s2">
+    <div class="card">
+      <h2>Generate form</h2>
+      <div class="legend"><span><span class="dot" style="background:var(--line)"></span>Prefilled from the launch</span><span><span class="dot" style="background:var(--blue)"></span>You type or confirm</span></div>
+      <div class="grid2">
+        <div><label>Launch</label><div class="field">POS · <code>reps|POS</code> · Motion 14</div><div class="src">Launch object</div></div>
+        <div><label>Launch type</label><div class="field">Feature release <span class="small">(from kind: product)</span></div><div class="src">Sets the sequence. Client go-live and event use other sequences (adoption playbook, executing-launch Task 5).</div></div>
+        <div><label>Launch date (T0)</label><div class="field typed">Mon, Mar 15 2027</div><div class="src">Launch shows only “Late Q1 2027”, so you pick the day</div></div>
+        <div><label>Goal</label><div class="field">Reps making their first in-person sale · POS payment volume</div><div class="src">“Did it work?” measure</div></div>
+        <div><label>Segment</label><div class="field typed">P1 · Reps at our ByDesign clients <span class="small">(home offices always get the DSO email)</span></div><div class="src">06-persona-motion-messaging-map · Motion 14 = P1</div></div>
+        <div><label>Needs payment setup (ProPay) to use?</label><div class="field typed">Yes</div><div class="src">Release checklist Q1. <b>Yes</b> adds the “locked” rep email and the un-onboarded DSO paragraph; ad goes to variant C only.</div></div>
+        <div><label>Launch moment</label><div class="field typed">None. Release date only.</div><div class="src">Adoption playbook 0.1: a DSO event beats a campaign. If you name one, the event plan is added.</div></div>
+        <div><label>Owners</label><div class="field typed">Sam (comms) · Cassie (CSM briefing) · Autumn (field leaders) · Product (help article)</div><div class="src">executing-launch Task 4 roles</div></div>
+        <div><label>Baseline before launch</label><div class="field">[placeholder] reps · $[placeholder] a month</div><div class="src">Launch “before”. Playbook 0.3: file it before T0.</div></div>
+        <div><label>Feature facts</label><div class="field"><span class="ph">/feature output: not connected</span></div><div class="src">In-app guide + Square comparison from RS-Product-Team-OS. Nothing is invented without it.</div></div>
+      </div>
+      <div style="margin-top:14px">
+        <label>Channels (prescribed for a feature release to our reps; 2–3 primary per Phase 8)</label>
+        <div class="checks">
+          <span class="check on">✓ Email · DSO</span>
+          <span class="check on">✓ Email · Rep</span>
+          <span class="check on">✓ Back-office ad</span>
+          <span class="check on new">✓ Field leaders</span>
+          <span class="check on new">✓ Help centre</span>
+          <span class="check new">Wayroo in-app</span>
+          <span class="check">Event</span><span class="check">Paid social</span>
+        </div>
+        <div class="src">Paid is held back until messaging and a landing page convert (running-marketing Task 10).</div>
+      </div>
+      <div style="margin-top:14px">
+        <label>Sources it draws on</label>
+        <div class="checks">
+          <span class="pill b">executing-launch (Ph 9)</span><span class="pill b">building-communication-engine (Ph 8)</span><span class="pill b">crafting-positioning (Ph 6)</span><span class="pill b">building-gtm-system (Ph 10)</span><span class="pill b">positioning-agent</span>
+          <span class="pill p">08-revolution-ad-campaign §6 release engine</span><span class="pill p">10-transacting-adoption-playbook</span><span class="pill p">06-messaging-house §9 words</span><span class="pill p">06-brand-architecture-2027</span>
+          <span class="pill y">/feature: not connected</span>
+        </div>
+      </div>
+      <div class="btns" style="margin-top:16px"><button class="btn pri" data-go="3">✨ Generate</button></div>
+    </div>
+  </section>
+
+  <!-- Stage 3: generated -->
+  <section class="stage" id="s3">
+    <div class="layout">
+      <div>
+        <div class="card">
+          <h2>Sequence · feature release to our DSO reps</h2>
+          <div class="legend"><span><span class="dot" style="background:var(--green)"></span>Campaign (runs on a channel, tracked)</span><span><span class="dot" style="background:var(--purple)"></span>Launch kit (kept on the card)</span></div>
+          <div class="timeline" id="timeline"></div>
+          <div class="btns" style="margin-top:6px"><button class="btn">↻ Regenerate all</button><button class="btn pri" data-go="4">Save: 5 draft campaigns + launch kit</button></div>
+        </div>
+      </div>
+      <div>
+        <div class="card editor" id="editor">
+          <h3 id="edT">Select a deliverable</h3>
+          <div id="edMeta" class="small">Click any card in the sequence to see and edit its copy.</div>
+          <div id="edBody"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stage 4: saved -->
+  <section class="stage" id="s4">
+    <div class="card">
+      <h2>Saved as draft campaigns</h2>
+      <p class="small">One campaign per audience-gated send, so each gets its own results: the DSO email and the “locked” rep email measure different things. Each is linked by <code>launch: 'reps|POS'</code>.</p>
+      <div class="tablewrap"><table id="campTable"><thead><tr><th>Campaign (t)</th><th>ch</th><th>aud</th><th>when</th><th>status</th><th>Tracked by</th></tr></thead><tbody></tbody></table></div>
+    </div>
+    <div class="card">
+      <h2>Launch kit (on the launch card)</h2>
+      <ul class="kit" id="kitList"></ul>
+    </div>
+    <div class="card">
+      <span class="badge">📣 5</span> <span class="small">On the quarterly view the POS badge turns from a yellow “!” to a blue megaphone with “5”.</span>
+      <div class="note">Tracker changes this implies: add channels <b>Field leaders</b>, <b>Help centre</b> and <b>Wayroo in-app</b>. Email stays one channel; <code>aud</code> separates DSO from rep.</div>
+    </div>
+  </section>
+</div>
+
+<script>
+const T0 = new Date(2027,2,15);
+const fmt = d => d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
+const at = n => { const d=new Date(T0); d.setDate(d.getDate()+n); return fmt(d); };
+const P = s => s.replace(/\[([^\]]+)\]/g,'<span class="ph">[$1]</span>');
+
+const D = {
+ checklist:{t:'Pre-launch checklist + war room',type:'kit',aud:'Internal',src:'08-revolution-ad-campaign §6 release checklist · executing-launch Task 4',
+   parts:[['Checklist',`☐ Feature needs payment setup? Yes, so the locked email exists
+☐ Help-centre article live BEFORE any email sends
+☐ DSO email approved by CSM
+☐ Demand-counter reading pulled per account the morning of T0
+☐ Sales and CSMs told what goes out, and when, BEFORE it goes out
+☐ UTM link per campaign (utm_campaign=pos-2027q1)
+☐ Baseline filed: [reps transacting] · [POS volume]
+☐ War room: Sam (lead) · Cassie (client replies) · Product (bugs)`,null]]},
+ help:{t:'Help article + in-app guide',type:'kit',aud:'Reps',src:'/feature (in-app guide) · release checklist',
+   parts:[['Article',`[In-app guide from /feature: how to take a card payment on your phone, step by step]`,null]],note:'/feature output not connected. This stays a placeholder until it is.'},
+ leaders:{t:'Field-leader ask package',type:'kit',aud:'10–30 field leaders',src:'executing-launch Task 1 (support network) · adoption playbook 0.4',
+   parts:[['Ask',`Hi [First], card payments on your phone land in Wayroo on Mar 15.
+Can you make your own first card sale that week, and share the how-to with your team?
+I'll send you the how-to and a short video on [date].`,null]],note:'The playbook calls a leader who has made a sale on Wayroo the most persuasive asset at launch.'},
+ briefing:{t:'CSM + sales briefing (talk track)',type:'kit',aud:'Internal · CSMs, sales',src:'Release checklist (“before it goes out”) · 06-messaging-house · 02-competitor-analysis',
+   parts:[['What goes out',`Mar 15 DSO email · Mar 16 rep emails · Mar 19 back-office ad.`,null],
+          ['If a client asks “how is this different from Square?”',`About the same rate, and it does what Square can't: the inventory updates itself as reps sell.
+Never compete on price with Square.
+[Square comparison from /feature]`,null],
+          ['If a client hasn’t finished payment setup',`Use the demand count: “[N] of your reps have asked for card payments.” Days, not weeks.`,null]]},
+ dso:{t:'DSO release email',type:'camp',ch:'Email',aud:'clients',src:'08-revolution-ad-campaign §6 Template 1',
+   parts:[['Subject','New in Wayroo: card payments on your phone',50],
+          ['Body',`Hi [First],
+
+Card payments on your phone are now live in Wayroo, and your reps have them as of today.
+
+What it does: [one sentence from /feature, in their language].
+
+What it means for you: [corporate benefit: visibility, rep sales, retention].
+
+Nothing needed on your side.
+
+[Name]`,null],
+          ['Un-onboarded accounts only: add',`One note: card payments need the payment setup to be finished before your reps can use them. [N] of your reps have asked for card payments so far. It's underwriting paperwork with our processor, days not weeks. Happy to walk whoever owns it on your side through it.`,null]],
+   note:'The added paragraph is the point of the cadence: it reopens the payment-setup conversation with a real number.'},
+ repOn:{t:'Rep email · available',type:'camp',ch:'Email',aud:'reps',src:'Template 2 · ProPay-approved accounts',
+   parts:[['Subject','You can now take cards on your phone',50],
+          ['Body',`Hi [First],
+
+Card payments on your phone are in your Wayroo now.
+
+[One sentence on what it does, from /feature.] [One sentence on when they'd use it.]
+
+[ Open Wayroo ]`,null]],note:'Rule: two sentences and a button. Follow-ups to non-openers at T+1 and T+3 (executing-launch Task 3) run inside this campaign.'},
+ repOff:{t:'Rep email · payment setup pending',type:'camp',ch:'Email',aud:'reps',src:'Template 3 · un-approved accounts',
+   parts:[['Subject','Card payments are coming to your app',50],
+          ['Body',`Hi [First],
+
+Card payments on your phone just launched in Wayroo. [one sentence]
+
+It needs [DSO] to finish their payment setup first. It's a banking step on their side, not something you buy.
+
+[ Tell [DSO] you want it ]
+We pass the count to your home office so they know the field is asking.`,null]],note:'Words: “payment setup pending”, never “locked”. Each tap feeds the demand counter the DSO email quotes.'},
+ ad:{t:'Back-office ad · variant C',type:'camp',ch:'Back-office ad',aud:'reps',src:'08-revolution-ad-campaign §3 variant C · ad refresh rules',
+   parts:[['Headline','Take a card on your phone.',40],
+          ['Body','No reader, no hardware. Your customer taps their card, you\'re paid, and your inventory drops on its own.',140],
+          ['CTA','See how it works',null],['Footer','Included with your Revolution Pro',null]],
+   note:'This is the repo\'s approved Tap to Pay ad. Confirm it still fits the Q1 POS release against /feature. Show only where payment setup is approved.'},
+ engage:{t:'Launch-day response templates',type:'kit',aud:'Internal',src:'executing-launch Task 6',
+   parts:[['Targets','Client replies < 1 hour · bug reports acknowledged < 30 min',null],
+          ['Templates',`Feature question → answer, link the help article, invite them to try it.
+“Different from Square?” → see the talk track.
+Bug → thank them, confirm we're on it, follow up with the fix.`,null]]},
+ howto:{t:'First-sale how-to via field leaders',type:'camp',ch:'Field leaders',aud:'reps',src:'Adoption playbook 2.3: “the field trusts the field”',
+   parts:[['Post for leaders to share',`Your first card sale on your phone takes [N] steps:
+1. [step from /feature]
+2. [step]
+3. [step]
+Your inventory drops on its own. Try it at your next event.`,null]],note:'The playbook\'s quality check: leaders have the asset within 48 hours.'},
+ proof:{t:'Testimonials + screenshots',type:'kit',aud:'Internal',src:'Adoption playbook 2.5 · 09-social-proof-capture · executing-launch Task 7',
+   parts:[['Capture',`3–5 rep quotes while sentiment peaks, with permission asked in the same conversation.
+Screenshot the first-sale count daily.`,null]]},
+ retro:{t:'Launch retrospective',type:'kit',aud:'Internal',src:'building-gtm-system Task 1',
+   parts:[['Questions',`What worked? What didn't? What surprised us? What would we change?
+Per campaign: reached → responded → first sale.`,null]]},
+ recover:{t:'Nudge for approved reps with no sale',type:'camp',ch:'Back-office ad',aud:'reps',src:'Adoption playbook 3.1–3.3 · ad variant E',
+   parts:[['Copy',`[Use-case nudge tied to a real selling occasion: vendor event, party, holiday]`,null]],note:'Only if first sales lag. The playbook splits non-sellers into three groups with three plays; this is the one that uses a channel.'}
+};
+
+const steps = [
+ {o:'T−14 → T−1',d:`${at(-14)} – ${at(-1)}`,p:'Get ready. Nothing goes out until the gates are met.',ids:['checklist','help','leaders','briefing']},
+ {o:'T0 · Day 0',d:at(0),p:'Home offices hear first (must precede every rep send).',ids:['dso']},
+ {o:'Day 1',d:at(1),p:'Reps hear, split by whether their home office has finished payment setup.',ids:['repOn','repOff']},
+ {o:'Day 4',d:at(4),p:'The ad catches reps who didn’t open the email. The 3-day gap keeps the email’s own number clean.',ids:['ad']},
+ {o:'T0 → T+2',d:`${at(0)} – ${at(2)}`,p:'Answer fast.',ids:['engage']},
+ {o:'T+1 → T+14',d:`${at(1)} – ${at(14)}`,p:'First-sale push: the most valuable and most perishable window.',ids:['howto','proof']},
+ {o:'T+7',d:at(7),p:'Look back while it’s fresh.',ids:['retro']},
+ {o:'T+15 → T+60',d:`${at(15)} – ${at(60)}`,p:'Recover reps who haven’t sold yet.',ids:['recover']}
+];
+
+function renderTimeline(){
+  const tl=document.getElementById('timeline'); tl.innerHTML='';
+  steps.forEach(s=>{
+    const el=document.createElement('div'); el.className='step';
+    el.innerHTML=`<div class="step-h"><span class="off">${s.o}</span><span class="date">${s.d}</span></div><div class="purpose">${s.p}</div><div class="dels"></div>`;
+    const box=el.querySelector('.dels');
+    s.ids.forEach(id=>{
+      const x=D[id]; const c=document.createElement('div');
+      c.className='del'+(x.type==='camp'?' camp':''); c.dataset.id=id; c.tabIndex=0;
+      c.innerHTML=`<div class="t">${x.t}</div><div class="m">${x.type==='camp'?`Campaign · ${x.ch} · ${x.aud}`:`Launch kit · ${x.aud}`}</div>`;
+      c.onclick=()=>select(id); c.onkeydown=e=>{if(e.key==='Enter')select(id)};
+      box.appendChild(c);
+    });
+    tl.appendChild(el);
+  });
+}
+function select(id){
+  document.querySelectorAll('.del').forEach(d=>d.classList.toggle('sel',d.dataset.id===id));
+  const x=D[id];
+  document.getElementById('edT').textContent=x.t;
+  document.getElementById('edMeta').innerHTML=`${x.type==='camp'?'<span class="pill g">Campaign</span>':'<span class="pill p">Launch kit</span>'} <span class="pill">${x.aud}</span><br><span class="small">Source: ${x.src}</span>`;
+  const b=document.getElementById('edBody'); b.innerHTML='';
+  x.parts.forEach(([lab,txt,lim])=>{
+    const w=document.createElement('div');
+    w.innerHTML=`<label style="margin-top:10px">${lab}</label><div class="copy" contenteditable="true">${P(txt)}</div><div class="count"></div>`;
+    const ed=w.querySelector('.copy'), ct=w.querySelector('.count');
+    const upd=()=>{const n=ed.innerText.trim().length; ct.textContent=lim?`${n} / ${lim} characters`:`${n} characters`; ct.classList.toggle('bad',!!lim&&n>lim)};
+    ed.oninput=upd; upd(); b.appendChild(w);
+  });
+  if(x.note){const n=document.createElement('div');n.className='note';n.textContent=x.note;b.appendChild(n)}
+  const v=document.createElement('div'); v.className='note'; v.style.borderLeftColor='var(--green)';
+  v.textContent='Voice check: no “POS”, “free”, “locked”, “unlock”, “upgrade” or hype words in rep copy. Passed.';
+  b.appendChild(v);
+  const bt=document.createElement('div'); bt.className='btns'; bt.style.marginTop='10px';
+  bt.innerHTML='<button class="btn">↻ Regenerate this</button>'; b.appendChild(bt);
+}
+function renderSaved(){
+  const rows=[['dso',0],['repOn',1],['repOff',1],['ad',4],['howto',1],['recover',15]];
+  const tb=document.querySelector('#campTable tbody'); tb.innerHTML='';
+  rows.forEach(([id,o])=>{
+    const x=D[id]; const tr=document.createElement('tr');
+    const opt=id==='recover';
+    tr.innerHTML=`<td>${x.t}<br><span class="pill y">Generated draft</span>${opt?'<span class="pill">optional, if first sales lag</span>':''}
+      <details><summary>Copy</summary><div class="copy">${P(x.parts.map(p=>p[0]+': '+p[1]).join('\n\n'))}</div></details></td>
+      <td>${x.ch}</td><td>${x.aud}</td><td>${at(o)}</td><td>${opt?'not saved':'planned'}</td>
+      <td class="small">${id==='dso'?'reached · responded':id==='ad'?'reached · activated · firstSale':id==='howto'?'activated · firstSale':'reached · responded · firstSale'}</td>`;
+    tb.appendChild(tr);
+  });
+  const kit=document.getElementById('kitList'); kit.innerHTML='';
+  ['checklist','help','leaders','briefing','engage','proof','retro'].forEach(id=>{
+    const x=D[id]; const li=document.createElement('li');
+    li.innerHTML=`<b>${x.t}</b> <span class="small">· ${x.aud} · ${x.src}</span>${id==='help'?' <span class="pill y">waiting on /feature</span>':''}`;
+    kit.appendChild(li);
+  });
+  document.getElementById('cardExtra').innerHTML = '';
+}
+function show(n){
+  document.querySelectorAll('.stages button').forEach(b=>b.classList.toggle('on',b.dataset.s==n));
+  document.querySelectorAll('.stage').forEach(s=>s.classList.toggle('on',s.id==='s'+n));
+  document.getElementById('prep').textContent = n==4 ? '0/11 · kit 0/7' : '0/11';
+  document.getElementById('cardExtra').innerHTML = n==4
+    ? '<div class="measure"><div class="k">Campaigns</div><span class="pill g">5 planned · generated</span> <span class="pill p">Launch kit · 7 items</span></div>' : '';
+  if(n==3 && !document.querySelector('.del.sel')) select('dso');
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+document.querySelectorAll('[data-s]').forEach(b=>b.onclick=()=>show(b.dataset.s));
+document.querySelectorAll('[data-go]').forEach(b=>b.onclick=()=>show(b.dataset.go));
+renderTimeline(); renderSaved();
+</script>
+</body>
+</html>
