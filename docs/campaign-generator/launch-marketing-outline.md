@@ -128,11 +128,10 @@ Then answer the five launch questions: **what are we launching, the date, the pr
 - **Prospects** are invited by sales and partners. Their CTA is *book a demo*.
 - **One webinar, two invite lists, two follow-ups** is the simplest version. Track registrations and attendance by list so each audience shows up as its own result.
 
-**Already in the repo.** `08-bydesign-2027-gtm-plan.md` schedules a **client webinar on 2027-02-24** (Sarah Percell), three weeks before a Mar 15 POS date. Two options:
-- preview POS in that webinar;
-- hold a separate launch-week webinar.
-
-**Decide which.** `12-abm-program.md` also proposes joint webinars with consultant partners for Tier 1 prospects.
+**Already in the repo.** `08-bydesign-2027-gtm-plan.md` §4 lists a **client webinar on 2027-02-24** (owner Sarah Percell) in a single line.
+- **No topic or agenda is recorded.** It sits under the client channels for segments 1–2, which that plan defines as Cassie's work: client retention, add-ons and Wayroo activation.
+- `06-brand-architecture-2027.md` says a client webinar about the field leads with Wayroo.
+- **Before folding POS into it, ask Sarah what it's for.** `12-abm-program.md` separately proposes joint webinars with consultant partners for Tier 1 prospects.
 
 **Watch:** prospects and clients in the same room. Don't show client data or names unless the client has agreed.
 
